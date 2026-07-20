@@ -50,6 +50,13 @@ All measurements below were taken on one machine: AMD Ryzen 5 8600G
 | Broad FHCP scan | `current_machine_rebench/results/ham-suite.json` |
 | NPFS 6x4/8x4/10x5 champions and controls | `current_machine_rebench/results/paper_instances.json`; fresh 8x4 uniform control in `current_machine_rebench/results/followup-four-core/npfs8-control.json` |
 | Official Taillard 20x5 NPFS comparison | `comparisons/npfs/taillard20x5-official-npfs.json` |
+| Official VRF 10x5 NPFS comparison | `measurements/vrf-npfs/vrf10x5-official-npfs.json` |
+
+Note on the external NPFS medians: the paper quotes Taillard/VRF medians
+over solver seeds 1-7 (ta005 4.512 s, VFR10_5_2 3.808 s) to match the
+champion's evaluation-seed protocol. The JSONs contain all ten per-seed
+values; the 10-seed medians (3.397 s / 3.813 s) differ for ta005 because
+its per-seed times vary.
 | CPU frequency/temperature conditions | `current_machine_rebench/results/cpu-frequency.csv` and the per-campaign `cpu-frequency.csv` under `followup-four-core/` and `ham-random-four-core/` |
 | "Typical random" medians (SAT kcnf, NPFS 8x4 and 10x5) | `measurements/typical-random/` (receipts, script, frequency log) |
 | Four-solver paradigm-diverse SAT champions (1.36 s portfolio min, 130x typical) | instances/configs/objective in `dpll4_portfolio/`; reference-machine per-branch remeasurement and typical control in `measurements/dpll4-remeasure/` |
