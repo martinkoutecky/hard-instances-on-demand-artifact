@@ -1,0 +1,16 @@
+{
+ "statistic": "median CPU time of N fresh uniform draws, one evaluation per draw",
+ "n_draws": 1000,
+ "seed": 20260719,
+ "cap_s": 60.0,
+ "median_s": 0.12902300000000366,
+ "q1_s": 0.054151999999987765,
+ "q3_s": 0.23310799999998721,
+ "max_s": 1.687862999999993,
+ "cpu_affinity": [
+  1
+ ],
+ "size": "10x5",
+ "engine": "CP Optimizer",
+ "solver_seed": 1
+}

@@ -1,0 +1,86 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+            "l": 3,
+            "require_full_portfolio": true,
+            "N": 1000,
+            "Var": 200,
+            "encoding": "kcnf",
+            "code": "gt1s2_sat_kcnf_neg",
+            "budget": 100000,
+            "iters": 5,
+            "seed": 20260601,
+            "opt": {
+                "MultiCMA": {
+                    "Solver": "MultiCMA"
+                },
+                "TripleCMA": {
+                    "Solver": "TripleCMA"
+                },
+                "MultiScaleCMA": {
+                    "Solver": "MultiScaleCMA"
+                },
+                "ASCMADEthird": {
+                    "Solver": "ASCMADEthird"
+                },
+                "BFGSCMA": {
+                    "Solver": "BFGSCMA"
+                },
+                "SQORealSpacePSO": {
+                    "Solver": "SQORealSpacePSO"
+                },
+                "MetaModelPSO": {
+                    "Solver": "MetaModelPSO"
+                },
+                "PSO": {
+                    "Solver": "PSO"
+                },
+                "ChainPSOwithMetaRecentering": {
+                    "Solver": "ChainPSOwithMetaRecentering"
+                },
+                "RecMixES": {
+                    "Solver": "RecMixES"
+                },
+                "MixES": {
+                    "Solver": "MixES"
+                },
+                "NonNSGAIIES": {
+                    "Solver": "NonNSGAIIES"
+                },
+                "QOTPDE": {
+                    "Solver": "QOTPDE"
+                },
+                "LQOTPDE": {
+                    "Solver": "LQOTPDE"
+                },
+                "LHSSearch": {
+                    "Solver": "LHSSearch"
+                },
+                "NgIohTuned": {
+                    "Solver": "NgIohTuned"
+                },
+                "HullCenterHullAvgScrHammersleySearchPlusMiddlePoint": {
+                    "Solver": "HullCenterHullAvgScrHammersleySearchPlusMiddlePoint"
+                },
+                "NelderMead": {
+                    "Solver": "NelderMead"
+                },
+                "AnisotropicAdaptiveDiscreteOnePlusOne": {
+                    "Solver": "AnisotropicAdaptiveDiscreteOnePlusOne"
+                },
+                "NaiveTBPSA": {
+                    "Solver": "NaiveTBPSA"
+                }
+            },
+            "F_unflat": "negative",
+            "batch": 1,
+            "worker": 1,
+            "debug": 0,
+            "salt": 0,
+            "chunk": 5000,
+            "k": 3,
+            "F": "median"
+        }
+    }
+}

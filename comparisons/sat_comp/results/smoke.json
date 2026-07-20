@@ -1,0 +1,85 @@
+{
+  "protocol": {
+    "portfolio": [
+      "minisat22",
+      "BreakID + cadical195 (flat 0.008 s preprocessing charge)",
+      "CryptoMiniSat via pycryptosat, one thread"
+    ],
+    "metric": "first finishing branch CPU time, as in SAT/solution_portfolio.py",
+    "repeats": 1,
+    "aggregation": "median",
+    "cap_seconds": 60.0,
+    "breakid_runtime_included": false
+  },
+  "machine": {
+    "platform": "Linux-6.1.0-45-amd64-x86_64-with-glibc2.36",
+    "processor": "",
+    "python": "3.12.12"
+  },
+  "project_revision": "c0d119c717078e58de0c9e635660e453775dc05f",
+  "instances": {
+    "cbeca117cfb441b828e931758b854d3c": {
+      "hash": "cbeca117cfb441b828e931758b854d3c",
+      "variables": "12",
+      "clauses": "20",
+      "gbd_variables": "12",
+      "gbd_clauses": "20",
+      "family": "battleship",
+      "author": "skvortsov",
+      "result": "sat",
+      "filename": "cbeca117cfb441b828e931758b854d3c",
+      "tracks": "crafted_2012,portfolio_2012",
+      "local_path": "instances/cbeca117cfb441b828e931758b854d3c.cnf",
+      "times": [
+        0.00010442700000000004
+      ],
+      "median": 0.00010442700000000004,
+      "min": 0.00010442700000000004,
+      "max": 0.00010442700000000004
+    },
+    "2b738a1991a7318cad993a809b10cc2c": {
+      "hash": "2b738a1991a7318cad993a809b10cc2c",
+      "variables": "12",
+      "clauses": "32",
+      "gbd_variables": "12",
+      "gbd_clauses": "32",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "2b738a1991a7318cad993a809b10cc2c",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/2b738a1991a7318cad993a809b10cc2c.cnf",
+      "times": [
+        0.00017923799999999997
+      ],
+      "median": 0.00017923799999999997,
+      "min": 0.00017923799999999997,
+      "max": 0.00017923799999999997
+    },
+    "a53f5bdf5c68f006c146f172fdd5a49d": {
+      "hash": "a53f5bdf5c68f006c146f172fdd5a49d",
+      "variables": "12",
+      "clauses": "32",
+      "gbd_variables": "12",
+      "gbd_clauses": "32",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "a53f5bdf5c68f006c146f172fdd5a49d",
+      "tracks": "handmade_2003",
+      "local_path": "instances/a53f5bdf5c68f006c146f172fdd5a49d.cnf",
+      "times": [
+        0.00013830099999999996
+      ],
+      "median": 0.00013830099999999996,
+      "min": 0.00013830099999999996,
+      "max": 0.00013830099999999996
+    }
+  },
+  "ranking": [
+    "2b738a1991a7318cad993a809b10cc2c",
+    "a53f5bdf5c68f006c146f172fdd5a49d",
+    "cbeca117cfb441b828e931758b854d3c"
+  ],
+  "completed_at_utc": "2026-07-16T12:29:28Z"
+}

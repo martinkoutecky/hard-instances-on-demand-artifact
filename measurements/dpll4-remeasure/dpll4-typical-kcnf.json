@@ -1,0 +1,73 @@
+{
+ "statistic": "median dpll4-portfolio-min CPU time of N fresh uniform kcnf draws, one evaluation per branch per draw",
+ "n_draws": 1000,
+ "seed": 20260719,
+ "cap_s": 60.0,
+ "median_s": 0.010229500000002223,
+ "q1_s": 0.008645549999997115,
+ "q3_s": 0.011834999999999596,
+ "max_s": 0.022320999999999813,
+ "cpu_affinity": [
+  1
+ ],
+ "portfolio": "dpll4",
+ "solver_inventory": {
+  "pinned_strong_cdcl": "cadical195",
+  "python_sat": "1.9.dev2",
+  "pycryptosat": "5.14.4",
+  "original_active_guards_after_pin": {
+   "symmetry (BreakID)": {
+    "active": true,
+    "detail": null
+   },
+   "strong CDCL": {
+    "active": true,
+    "detail": "cadical195"
+   },
+   "XOR (CryptoMiniSat)": {
+    "active": true,
+    "detail": "pycryptosat"
+   },
+   "baseline (minisat22)": {
+    "active": true,
+    "detail": "minisat22"
+   }
+  },
+  "dpll4_active_guards_after_pin": {
+   "baseline CDCL (kissat)": {
+    "active": true,
+    "detail": "exit 10"
+   },
+   "symmetry (BreakID->CDCL)": {
+    "active": true,
+    "detail": "cadical195"
+   },
+   "XOR (CryptoMiniSat)": {
+    "active": true,
+    "detail": "pycryptosat"
+   },
+   "look-ahead/DPLL (march_cu)": {
+    "active": true,
+    "detail": "exit 10"
+   }
+  },
+  "binaries": {
+   "breakid_original": {
+    "path": "<packet-root>/SAT/breakid",
+    "sha256": "b4956be27b47b3b4f4692856ba1d6a4732cc5b2cd216f74e3c85f2a460742697"
+   },
+   "breakid_dpll4": {
+    "path": "<packet-root>/dpll4_portfolio/bin/breakid",
+    "sha256": "b4956be27b47b3b4f4692856ba1d6a4732cc5b2cd216f74e3c85f2a460742697"
+   },
+   "kissat": {
+    "path": "<packet-root>/dpll4_portfolio/bin/kissat",
+    "sha256": "abee2ac50a61b8192eac182e8e1b29baa39977f7ba1bdfeddb04067c0148f213"
+   },
+   "march_cu": {
+    "path": "<packet-root>/dpll4_portfolio/bin/march_cu",
+    "sha256": "c106f9234d281030b9028a13efa0c5693f5cf878f46194ee6c22fb06a9850351"
+   }
+  }
+ }
+}

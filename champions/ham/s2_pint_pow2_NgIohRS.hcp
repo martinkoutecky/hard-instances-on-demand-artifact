@@ -1,0 +1,36 @@
+NAME : s2_pint_pow2_NgIohRS
+COMMENT : bred adversarial HCP instance
+TYPE : HCP
+DIMENSION : 20
+EDGE_DATA_FORMAT : EDGE_LIST
+EDGE_DATA_SECTION
+1 3
+1 6
+1 15
+1 18
+1 19
+2 15
+3 13
+3 14
+4 13
+4 16
+4 17
+5 10
+5 18
+6 8
+6 16
+6 20
+7 16
+8 9
+8 16
+9 12
+9 20
+11 14
+11 17
+13 20
+14 19
+15 20
+16 18
+18 20
+-1
+EOF

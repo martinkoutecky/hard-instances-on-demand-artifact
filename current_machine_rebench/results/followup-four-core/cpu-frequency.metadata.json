@@ -1,0 +1,91 @@
+{
+  "boost_control_path": "/sys/devices/system/cpu/cpufreq/boost",
+  "boost_enabled_at_start": "1",
+  "cpu_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "interpretation": "A CPU is counted above_scaling_max when scaling_cur_freq exceeds its scaling_max_freq. Under acpi-cpufreq this is driver-reported sampled frequency, not cycle-accurate APERF/MPERF effective frequency.",
+  "pid": 1890387,
+  "sample_interval_s": 1.0,
+  "scaling_driver": {
+    "0": "acpi-cpufreq",
+    "1": "acpi-cpufreq",
+    "10": "acpi-cpufreq",
+    "11": "acpi-cpufreq",
+    "2": "acpi-cpufreq",
+    "3": "acpi-cpufreq",
+    "4": "acpi-cpufreq",
+    "5": "acpi-cpufreq",
+    "6": "acpi-cpufreq",
+    "7": "acpi-cpufreq",
+    "8": "acpi-cpufreq",
+    "9": "acpi-cpufreq"
+  },
+  "scaling_governor": {
+    "0": "ondemand",
+    "1": "ondemand",
+    "10": "ondemand",
+    "11": "ondemand",
+    "2": "ondemand",
+    "3": "ondemand",
+    "4": "ondemand",
+    "5": "ondemand",
+    "6": "ondemand",
+    "7": "ondemand",
+    "8": "ondemand",
+    "9": "ondemand"
+  },
+  "scaling_max_khz": {
+    "0": 4350000,
+    "1": 4350000,
+    "10": 4350000,
+    "11": 4350000,
+    "2": 4350000,
+    "3": 4350000,
+    "4": 4350000,
+    "5": 4350000,
+    "6": 4350000,
+    "7": 4350000,
+    "8": 4350000,
+    "9": 4350000
+  },
+  "started_at": "2026-07-19T10:28:51.292222+00:00",
+  "temperature_sources": [
+    {
+      "driver": "nvme",
+      "label": "Composite",
+      "path": "/sys/class/hwmon/hwmon0/temp1_input"
+    },
+    {
+      "driver": "nvme",
+      "label": "Sensor 1",
+      "path": "/sys/class/hwmon/hwmon0/temp2_input"
+    },
+    {
+      "driver": "nvme",
+      "label": "Sensor 2",
+      "path": "/sys/class/hwmon/hwmon0/temp3_input"
+    },
+    {
+      "driver": "k10temp",
+      "label": "Tctl",
+      "path": "/sys/class/hwmon/hwmon1/temp1_input"
+    },
+    {
+      "driver": "amdgpu",
+      "label": "edge",
+      "path": "/sys/class/hwmon/hwmon3/temp1_input"
+    }
+  ]
+}

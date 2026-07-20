@@ -1,0 +1,366 @@
+{
+ "protocol": "per-branch median of 5 sequential evaluations, cap 60 s, portfolio min over branch medians",
+ "portfolio": "dpll4",
+ "branches": [
+  "kissat_binary",
+  "breakid_cadical195",
+  "cryptominisat",
+  "march_cu"
+ ],
+ "cpu_affinity": [
+  1
+ ],
+ "results": {
+  "champ4_kcnf_log.cnf": {
+   "branches": {
+    "kissat_binary": {
+     "median_s": 1.8745869999999998,
+     "all_s": [
+      2.116179,
+      1.8745869999999998,
+      1.783567,
+      1.837132,
+      2.166588
+     ],
+     "statuses": [
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED"
+     ]
+    },
+    "breakid_cadical195": {
+     "median_s": 2.151713588,
+     "all_s": [
+      2.146016119,
+      2.151713588,
+      2.114298237,
+      2.219356748,
+      2.233310387
+     ],
+     "statuses": [
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT"
+     ]
+    },
+    "cryptominisat": {
+     "median_s": 6.850959304000001,
+     "all_s": [
+      8.855133090999999,
+      6.881197332,
+      6.833873835,
+      6.845634262,
+      6.850959304000001
+     ],
+     "statuses": [
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT"
+     ]
+    },
+    "march_cu": {
+     "median_s": 1.316952,
+     "all_s": [
+      1.311618,
+      1.316952,
+      1.321575,
+      1.3177889999999999,
+      1.312228
+     ],
+     "statuses": [
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED"
+     ]
+    }
+   },
+   "portfolio_min_s": 1.316952
+  },
+  "champ4_kcnf_neg.cnf": {
+   "branches": {
+    "kissat_binary": {
+     "median_s": 1.734885,
+     "all_s": [
+      1.734885,
+      1.7274589999999999,
+      1.7271649999999998,
+      1.747481,
+      1.736012
+     ],
+     "statuses": [
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED"
+     ]
+    },
+    "breakid_cadical195": {
+     "median_s": 3.090150767,
+     "all_s": [
+      3.1477245959999998,
+      3.093939406,
+      3.087969947,
+      3.088124935,
+      3.090150767
+     ],
+     "statuses": [
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT"
+     ]
+    },
+    "cryptominisat": {
+     "median_s": 7.954140419,
+     "all_s": [
+      7.90459498,
+      7.954140419,
+      7.941602524,
+      7.9792327720000005,
+      8.815982476
+     ],
+     "statuses": [
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT"
+     ]
+    },
+    "march_cu": {
+     "median_s": 1.162894,
+     "all_s": [
+      1.170043,
+      1.165958,
+      1.162894,
+      1.144654,
+      1.144191
+     ],
+     "statuses": [
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED"
+     ]
+    }
+   },
+   "portfolio_min_s": 1.162894
+  },
+  "champ4_mpfx_log.cnf": {
+   "branches": {
+    "kissat_binary": {
+     "median_s": 2.066756,
+     "all_s": [
+      2.06615,
+      2.06701,
+      2.066756,
+      2.07135,
+      2.0641689999999997
+     ],
+     "statuses": [
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED"
+     ]
+    },
+    "breakid_cadical195": {
+     "median_s": 3.363296923,
+     "all_s": [
+      3.172026331,
+      3.388918388,
+      3.229771188,
+      3.363296923,
+      3.6361354919999997
+     ],
+     "statuses": [
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT"
+     ]
+    },
+    "cryptominisat": {
+     "median_s": 13.117286635000001,
+     "all_s": [
+      19.12338702,
+      13.082745749,
+      13.41492679,
+      13.117286635000001,
+      13.115933067
+     ],
+     "statuses": [
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT"
+     ]
+    },
+    "march_cu": {
+     "median_s": 1.3609200000000001,
+     "all_s": [
+      1.359327,
+      1.362803,
+      1.3609200000000001,
+      1.358558,
+      1.364156
+     ],
+     "statuses": [
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED"
+     ]
+    }
+   },
+   "portfolio_min_s": 1.3609200000000001
+  },
+  "champ4_mpfx_neg.cnf": {
+   "branches": {
+    "kissat_binary": {
+     "median_s": 6.479852999999999,
+     "all_s": [
+      6.884008000000001,
+      6.4805410000000006,
+      6.479852999999999,
+      6.392784,
+      6.437349
+     ],
+     "statuses": [
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED"
+     ]
+    },
+    "breakid_cadical195": {
+     "median_s": 9.839876640999998,
+     "all_s": [
+      10.568914273999999,
+      9.863140718999999,
+      9.829578685,
+      9.839876640999998,
+      9.801035805
+     ],
+     "statuses": [
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT"
+     ]
+    },
+    "cryptominisat": {
+     "median_s": 51.285036925,
+     "all_s": [
+      52.785438664,
+      50.911661936,
+      50.741703199,
+      51.285036925,
+      51.358940472
+     ],
+     "statuses": [
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT",
+      "UNSAT"
+     ]
+    },
+    "march_cu": {
+     "median_s": 1.1495790000000001,
+     "all_s": [
+      1.148634,
+      1.148072,
+      1.1495790000000001,
+      1.1508969999999998,
+      1.149615
+     ],
+     "statuses": [
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED",
+      "SOLVED"
+     ]
+    }
+   },
+   "portfolio_min_s": 1.1495790000000001
+  }
+ },
+ "solver_inventory": {
+  "pinned_strong_cdcl": "cadical195",
+  "python_sat": "1.9.dev2",
+  "pycryptosat": "5.14.4",
+  "original_active_guards_after_pin": {
+   "symmetry (BreakID)": {
+    "active": true,
+    "detail": null
+   },
+   "strong CDCL": {
+    "active": true,
+    "detail": "cadical195"
+   },
+   "XOR (CryptoMiniSat)": {
+    "active": true,
+    "detail": "pycryptosat"
+   },
+   "baseline (minisat22)": {
+    "active": true,
+    "detail": "minisat22"
+   }
+  },
+  "dpll4_active_guards_after_pin": {
+   "baseline CDCL (kissat)": {
+    "active": true,
+    "detail": "exit 10"
+   },
+   "symmetry (BreakID->CDCL)": {
+    "active": true,
+    "detail": "cadical195"
+   },
+   "XOR (CryptoMiniSat)": {
+    "active": true,
+    "detail": "pycryptosat"
+   },
+   "look-ahead/DPLL (march_cu)": {
+    "active": true,
+    "detail": "exit 10"
+   }
+  },
+  "binaries": {
+   "breakid_original": {
+    "path": "<packet-root>/SAT/breakid",
+    "sha256": "b4956be27b47b3b4f4692856ba1d6a4732cc5b2cd216f74e3c85f2a460742697"
+   },
+   "breakid_dpll4": {
+    "path": "<packet-root>/dpll4_portfolio/bin/breakid",
+    "sha256": "b4956be27b47b3b4f4692856ba1d6a4732cc5b2cd216f74e3c85f2a460742697"
+   },
+   "kissat": {
+    "path": "<packet-root>/dpll4_portfolio/bin/kissat",
+    "sha256": "abee2ac50a61b8192eac182e8e1b29baa39977f7ba1bdfeddb04067c0148f213"
+   },
+   "march_cu": {
+    "path": "<packet-root>/dpll4_portfolio/bin/march_cu",
+    "sha256": "c106f9234d281030b9028a13efa0c5693f5cf878f46194ee6c22fb06a9850351"
+   }
+  }
+ }
+}

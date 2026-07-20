@@ -1,0 +1,64 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+	    "solver": "cpopt",
+            "N": 10,
+            "M": 5,
+            "U": 100,
+            "budget": 50000,
+            "iters": 2,
+            "F_unflat": "negative",
+            "opt": {
+                "RandomSearch": {
+                    "Solver": "RandomSearch"
+                },
+                "TwoPointsDE": {
+                    "Solver": "TwoPointsDE"
+                },
+                "DE": {
+                    "Solver": "DE"
+                },
+                "DiagonalCMA": {
+                    "Solver": "DiagonalCMA"
+                },
+                "NgIohTuned": {
+                    "Solver": "NgIohTuned"
+                }
+            },
+            "k": 2,
+            "F": "min",
+            "batch": 0,
+            "tasks_parallel": 4,
+            "evals_parallel": 2,
+            "debug": 2,
+            "seeding": 0,
+            "salt": 1000,
+            "top_k_genomes": 100,
+            "autosave_interval": 600
+        },
+        "transform": {
+            "comment": false,
+            "Functions": {
+                "1": {
+                    "FunctionName": "max",
+                    "length": 10000000
+                }
+            }
+        },
+        "plot": {
+            "comment": false,
+            "best_plot": 1,
+            "plot_save": 1,
+            "plot_name": ["lineplot", "scatterplot"],
+            "opts_to_plot": [],
+            "all_runs_plot": 1,
+            "conf_int": 95,
+            "alpha": 0.6,
+            "datas": ["id", "1"],
+            "window": [1, 10, 20, 200],
+            "errorbar_type": "sd",
+            "data_key": "loss"
+        }
+    }
+}

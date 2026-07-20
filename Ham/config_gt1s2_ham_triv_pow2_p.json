@@ -1,0 +1,87 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+            "solver": "concorde",
+            "max_time": 200,
+            "N": 20,
+            "encoding": "trivial",
+            "code": "gt1s2_ham_triv_pow2_p",
+            "budget": 100000,
+            "iters": 5,
+            "seed": 20260601,
+            "opt": {
+                "NGOptRW": {
+                    "Solver": "NGOptRW"
+                },
+                "NgIohRS": {
+                    "Solver": "NgIohRS"
+                },
+                "Portfolio": {
+                    "Solver": "Portfolio"
+                },
+                "Wiz": {
+                    "Solver": "Wiz"
+                },
+                "NgIohMLn": {
+                    "Solver": "NgIohMLn"
+                },
+                "BPRotationInvariantDE": {
+                    "Solver": "BPRotationInvariantDE"
+                },
+                "GeneticDE": {
+                    "Solver": "GeneticDE"
+                },
+                "TwoPointsDE": {
+                    "Solver": "TwoPointsDE"
+                },
+                "LPSDE": {
+                    "Solver": "LPSDE"
+                },
+                "RecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "RecombiningDiscreteLenglerOnePlusOne"
+                },
+                "SmoothAdaptiveDiscreteOnePlusOne": {
+                    "Solver": "SmoothAdaptiveDiscreteOnePlusOne"
+                },
+                "DiscreteBSOOnePlusOne": {
+                    "Solver": "DiscreteBSOOnePlusOne"
+                },
+                "BFGSCMA": {
+                    "Solver": "BFGSCMA"
+                },
+                "LogBFGSCMA": {
+                    "Solver": "LogBFGSCMA"
+                },
+                "RandomSearchPlusMiddlePoint": {
+                    "Solver": "RandomSearchPlusMiddlePoint"
+                },
+                "MultiCobyla": {
+                    "Solver": "MultiCobyla"
+                },
+                "RealSpacePSO": {
+                    "Solver": "RealSpacePSO"
+                },
+                "AnisoEMNATBPSA": {
+                    "Solver": "AnisoEMNATBPSA"
+                },
+                "LHSSearch": {
+                    "Solver": "LHSSearch"
+                },
+                "NaiveTBPSA": {
+                    "Solver": "NaiveTBPSA"
+                }
+            },
+            "F_unflat": "neg_pow2",
+            "batch": 1,
+            "worker": 32,
+            "debug": 0,
+            "salt": 0,
+            "chunk": 5000,
+            "k": 21,
+            "F": "geomean3_median",
+            "seed_per_call": true,
+            "seed_n_reps": 3
+        }
+    }
+}

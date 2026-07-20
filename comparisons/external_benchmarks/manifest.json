@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "tsplib95": {
+      "url": "https://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/ALL_tsp.tar.gz",
+      "sha256": "0b0b9a2958ea0ac7c854bf2589b37b76b38b27bca04815d86489e4d76fa3ac61",
+      "selection": "all TYPE:TSP instances with DIMENSION <= 300",
+      "expected_count": 58,
+      "selected_manifest_digest": "9cfef637d19d894f36ffe73c8dc93785ba4de197eb4a16c71c0184a0e6b0479e"
+    },
+    "hard_tsplib": {
+      "url": "https://github.com/eleonoravercesi/HardTSPLIB/archive/74b142ad54afc58ed36e5f798405243ae216da5f.tar.gz",
+      "commit": "74b142ad54afc58ed36e5f798405243ae216da5f",
+      "sha256": "7717f6d4a99c56e9dd74ebbee04bece0e0373ee7828480b65325d0f4b0f0bf6f",
+      "selection": "all instances/*.tsp files shipped at the pinned commit",
+      "expected_count": 40
+    },
+    "fhcp": {
+      "url": "https://sites.flinders.edu.au/flinders-hamiltonian-cycle-project/wp-content/uploads/sites/18/2020/01/FHCPCS.7z",
+      "sha256": "2f86aaf525977d1e45f1270c06d8153f3d84d32bd391b4058764c3c85db04f79",
+      "selection": "graph5.hcp through graph15.hcp (DIMENSION 90 through 150)",
+      "expected_count": 11,
+      "selected_manifest_digest": "bb69bc3748f99cf3f2c56ba3988523ebeb31e447325fa78f9ca717741ce25368"
+    },
+    "tseitin_gbd": {
+      "url": "https://benchmark-database.de/file/144799298ab4d0bb0506753fc4783b76?context=cnf",
+      "gbd_hash": "144799298ab4d0bb0506753fc4783b76",
+      "sha256_uncompressed": "628673262d0bbed6a548d28e9446c28a2bcae896e98fcc0be77ebe7b53fa0069",
+      "selection": "pinned 150-variable/400-clause GBD representative used as a fresh replacement; exact historical graph was not archived"
+    }
+  },
+  "deterministic_generators": {
+    "clustered_euclidean": {
+      "sizes": [50, 100, 150, 200],
+      "seeds": [0, 1, 2],
+      "clusters": 5,
+      "center_interval": [0, 10000],
+      "within_cluster_sigma": 10,
+      "note": "Recovered local generator; not a downloaded van Hemert corpus."
+    },
+    "sat": {
+      "pigeonhole": "PHP(12 pigeons, 11 holes), exact output order of gen_hard_tests.py::gen_php(11), sha256 948c811b15dd757ac0c50db9ce1b5a781a498c326dc7e13d19aa887456b5a036",
+      "tseitin": "GBD crafted_2005/anni_2022 formula 144799298ab4d0bb0506753fc4783b76; fresh replacement comparator, not the missing historical file",
+      "van_der_waerden": "two-colour W(2;3,13) contradiction on [160], sha256 7a3425ca3d8a0331b72087820f0a0112db9db441b9b911d90dd7a8bcdd02ee14"
+    }
+  }
+}

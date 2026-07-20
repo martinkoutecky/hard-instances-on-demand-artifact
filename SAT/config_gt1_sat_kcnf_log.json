@@ -1,0 +1,794 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+            "l": 3,
+            "require_full_portfolio": true,
+            "N": 1000,
+            "Var": 200,
+            "encoding": "kcnf",
+            "code": "gt1_sat_kcnf_log",
+            "budget": 15000,
+            "iters": 2,
+            "seed": 20260601,
+            "opt": {
+                "AdaptiveDiscreteOnePlusOne": {
+                    "Solver": "AdaptiveDiscreteOnePlusOne"
+                },
+                "AnisotropicAdaptiveDiscreteOnePlusOne": {
+                    "Solver": "AnisotropicAdaptiveDiscreteOnePlusOne"
+                },
+                "BigLognormalDiscreteOnePlusOne": {
+                    "Solver": "BigLognormalDiscreteOnePlusOne"
+                },
+                "CLengler": {
+                    "Solver": "CLengler"
+                },
+                "DiscreteBSOOnePlusOne": {
+                    "Solver": "DiscreteBSOOnePlusOne"
+                },
+                "DiscreteDE": {
+                    "Solver": "DiscreteDE"
+                },
+                "DiscreteLengler2OnePlusOne": {
+                    "Solver": "DiscreteLengler2OnePlusOne"
+                },
+                "DiscreteLengler3OnePlusOne": {
+                    "Solver": "DiscreteLengler3OnePlusOne"
+                },
+                "DiscreteLenglerFourthOnePlusOne": {
+                    "Solver": "DiscreteLenglerFourthOnePlusOne"
+                },
+                "DiscreteLenglerHalfOnePlusOne": {
+                    "Solver": "DiscreteLenglerHalfOnePlusOne"
+                },
+                "DiscreteLenglerOnePlusOne": {
+                    "Solver": "DiscreteLenglerOnePlusOne"
+                },
+                "DiscreteLenglerOnePlusOneT": {
+                    "Solver": "DiscreteLenglerOnePlusOneT"
+                },
+                "DiscreteNoisy13Splits": {
+                    "Solver": "DiscreteNoisy13Splits"
+                },
+                "DiscreteNoisyInfSplits": {
+                    "Solver": "DiscreteNoisyInfSplits"
+                },
+                "DiscreteOnePlusOne": {
+                    "Solver": "DiscreteOnePlusOne"
+                },
+                "DiscreteOnePlusOneT": {
+                    "Solver": "DiscreteOnePlusOneT"
+                },
+                "DoubleFastGADiscreteOnePlusOne": {
+                    "Solver": "DoubleFastGADiscreteOnePlusOne"
+                },
+                "DoubleFastGAOptimisticNoisyDiscreteOnePlusOne": {
+                    "Solver": "DoubleFastGAOptimisticNoisyDiscreteOnePlusOne"
+                },
+                "FastGADiscreteOnePlusOne": {
+                    "Solver": "FastGADiscreteOnePlusOne"
+                },
+                "FastGANoisyDiscreteOnePlusOne": {
+                    "Solver": "FastGANoisyDiscreteOnePlusOne"
+                },
+                "FastGAOptimisticNoisyDiscreteOnePlusOne": {
+                    "Solver": "FastGAOptimisticNoisyDiscreteOnePlusOne"
+                },
+                "HugeLognormalDiscreteOnePlusOne": {
+                    "Solver": "HugeLognormalDiscreteOnePlusOne"
+                },
+                "LognormalDiscreteOnePlusOne": {
+                    "Solver": "LognormalDiscreteOnePlusOne"
+                },
+                "MaxRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "MaxRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "MinRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "MinRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "MultiDiscrete": {
+                    "Solver": "MultiDiscrete"
+                },
+                "NoisyDiscreteOnePlusOne": {
+                    "Solver": "NoisyDiscreteOnePlusOne"
+                },
+                "OLNDiscreteOnePlusOne": {
+                    "Solver": "OLNDiscreteOnePlusOne"
+                },
+                "OnePtRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "OnePtRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "OptimisticDiscreteOnePlusOne": {
+                    "Solver": "OptimisticDiscreteOnePlusOne"
+                },
+                "PortfolioDiscreteOnePlusOne": {
+                    "Solver": "PortfolioDiscreteOnePlusOne"
+                },
+                "PortfolioDiscreteOnePlusOneT": {
+                    "Solver": "PortfolioDiscreteOnePlusOneT"
+                },
+                "PortfolioNoisyDiscreteOnePlusOne": {
+                    "Solver": "PortfolioNoisyDiscreteOnePlusOne"
+                },
+                "PortfolioOptimisticNoisyDiscreteOnePlusOne": {
+                    "Solver": "PortfolioOptimisticNoisyDiscreteOnePlusOne"
+                },
+                "RandRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "RandRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "RandRecombiningDiscreteLognormalOnePlusOne": {
+                    "Solver": "RandRecombiningDiscreteLognormalOnePlusOne"
+                },
+                "RecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "RecombiningDiscreteLenglerOnePlusOne"
+                },
+                "RecombiningDiscreteLognormalOnePlusOne": {
+                    "Solver": "RecombiningDiscreteLognormalOnePlusOne"
+                },
+                "RecombiningOptimisticNoisyDiscreteOnePlusOne": {
+                    "Solver": "RecombiningOptimisticNoisyDiscreteOnePlusOne"
+                },
+                "RecombiningPortfolioDiscreteOnePlusOne": {
+                    "Solver": "RecombiningPortfolioDiscreteOnePlusOne"
+                },
+                "RecombiningPortfolioOptimisticNoisyDiscreteOnePlusOne": {
+                    "Solver": "RecombiningPortfolioOptimisticNoisyDiscreteOnePlusOne"
+                },
+                "SADiscreteLenglerOnePlusOneExp09": {
+                    "Solver": "SADiscreteLenglerOnePlusOneExp09"
+                },
+                "SADiscreteLenglerOnePlusOneExp099": {
+                    "Solver": "SADiscreteLenglerOnePlusOneExp099"
+                },
+                "SADiscreteLenglerOnePlusOneExp09Auto": {
+                    "Solver": "SADiscreteLenglerOnePlusOneExp09Auto"
+                },
+                "SADiscreteLenglerOnePlusOneLin1": {
+                    "Solver": "SADiscreteLenglerOnePlusOneLin1"
+                },
+                "SADiscreteLenglerOnePlusOneLin100": {
+                    "Solver": "SADiscreteLenglerOnePlusOneLin100"
+                },
+                "SADiscreteLenglerOnePlusOneLinAuto": {
+                    "Solver": "SADiscreteLenglerOnePlusOneLinAuto"
+                },
+                "SADiscreteOnePlusOneExp09": {
+                    "Solver": "SADiscreteOnePlusOneExp09"
+                },
+                "SADiscreteOnePlusOneExp099": {
+                    "Solver": "SADiscreteOnePlusOneExp099"
+                },
+                "SADiscreteOnePlusOneLin100": {
+                    "Solver": "SADiscreteOnePlusOneLin100"
+                },
+                "SmallLognormalDiscreteOnePlusOne": {
+                    "Solver": "SmallLognormalDiscreteOnePlusOne"
+                },
+                "SmoothAdaptiveDiscreteOnePlusOne": {
+                    "Solver": "SmoothAdaptiveDiscreteOnePlusOne"
+                },
+                "SmoothDiscreteLenglerOnePlusOne": {
+                    "Solver": "SmoothDiscreteLenglerOnePlusOne"
+                },
+                "SmoothDiscreteLognormalOnePlusOne": {
+                    "Solver": "SmoothDiscreteLognormalOnePlusOne"
+                },
+                "SmoothDiscreteOnePlusOne": {
+                    "Solver": "SmoothDiscreteOnePlusOne"
+                },
+                "SmoothElitistRandRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "SmoothElitistRandRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "SmoothElitistRandRecombiningDiscreteLognormalOnePlusOne": {
+                    "Solver": "SmoothElitistRandRecombiningDiscreteLognormalOnePlusOne"
+                },
+                "SmoothElitistRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "SmoothElitistRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "SmoothLognormalDiscreteOnePlusOne": {
+                    "Solver": "SmoothLognormalDiscreteOnePlusOne"
+                },
+                "SmoothPortfolioDiscreteOnePlusOne": {
+                    "Solver": "SmoothPortfolioDiscreteOnePlusOne"
+                },
+                "SmoothRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "SmoothRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "SmoothRecombiningPortfolioDiscreteOnePlusOne": {
+                    "Solver": "SmoothRecombiningPortfolioDiscreteOnePlusOne"
+                },
+                "SmootherDiscreteLenglerOnePlusOne": {
+                    "Solver": "SmootherDiscreteLenglerOnePlusOne"
+                },
+                "SparseDiscreteOnePlusOne": {
+                    "Solver": "SparseDiscreteOnePlusOne"
+                },
+                "SparseDoubleFastGADiscreteOnePlusOne": {
+                    "Solver": "SparseDoubleFastGADiscreteOnePlusOne"
+                },
+                "SuperSmoothDiscreteLenglerOnePlusOne": {
+                    "Solver": "SuperSmoothDiscreteLenglerOnePlusOne"
+                },
+                "SuperSmoothElitistRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "SuperSmoothElitistRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "SuperSmoothRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "SuperSmoothRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "SuperSmoothRecombiningDiscreteLognormalOnePlusOne": {
+                    "Solver": "SuperSmoothRecombiningDiscreteLognormalOnePlusOne"
+                },
+                "SuperSmoothTinyLognormalDiscreteOnePlusOne": {
+                    "Solver": "SuperSmoothTinyLognormalDiscreteOnePlusOne"
+                },
+                "TinyLognormalDiscreteOnePlusOne": {
+                    "Solver": "TinyLognormalDiscreteOnePlusOne"
+                },
+                "TwoPtRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "TwoPtRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "UltraSmoothDiscreteLenglerOnePlusOne": {
+                    "Solver": "UltraSmoothDiscreteLenglerOnePlusOne"
+                },
+                "UltraSmoothElitistRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "UltraSmoothElitistRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "UltraSmoothElitistRecombiningDiscreteLognormalOnePlusOne": {
+                    "Solver": "UltraSmoothElitistRecombiningDiscreteLognormalOnePlusOne"
+                },
+                "UltraSmoothRecombiningDiscreteLenglerOnePlusOne": {
+                    "Solver": "UltraSmoothRecombiningDiscreteLenglerOnePlusOne"
+                },
+                "VastLengler": {
+                    "Solver": "VastLengler"
+                },
+                "XLognormalDiscreteOnePlusOne": {
+                    "Solver": "XLognormalDiscreteOnePlusOne"
+                },
+                "XSmallLognormalDiscreteOnePlusOne": {
+                    "Solver": "XSmallLognormalDiscreteOnePlusOne"
+                },
+                "YoSmoothDiscreteLenglerOnePlusOne": {
+                    "Solver": "YoSmoothDiscreteLenglerOnePlusOne"
+                },
+                "cGA": {
+                    "Solver": "cGA"
+                },
+                "ASCMADEthird": {
+                    "Solver": "ASCMADEthird"
+                },
+                "BFGSCMA": {
+                    "Solver": "BFGSCMA"
+                },
+                "CMA": {
+                    "Solver": "CMA"
+                },
+                "CMAbounded": {
+                    "Solver": "CMAbounded"
+                },
+                "CMApara": {
+                    "Solver": "CMApara"
+                },
+                "DiagonalCMA": {
+                    "Solver": "DiagonalCMA"
+                },
+                "ECMA": {
+                    "Solver": "ECMA"
+                },
+                "EDCMA": {
+                    "Solver": "EDCMA"
+                },
+                "HSCMA": {
+                    "Solver": "HSCMA"
+                },
+                "LPCMA": {
+                    "Solver": "LPCMA"
+                },
+                "LSCMA": {
+                    "Solver": "LSCMA"
+                },
+                "LargeCMA": {
+                    "Solver": "LargeCMA"
+                },
+                "LargeDiagCMA": {
+                    "Solver": "LargeDiagCMA"
+                },
+                "LogBFGSCMA": {
+                    "Solver": "LogBFGSCMA"
+                },
+                "MetaCMA": {
+                    "Solver": "MetaCMA"
+                },
+                "MultiCMA": {
+                    "Solver": "MultiCMA"
+                },
+                "MultiScaleCMA": {
+                    "Solver": "MultiScaleCMA"
+                },
+                "OldCMA": {
+                    "Solver": "OldCMA"
+                },
+                "PolyCMA": {
+                    "Solver": "PolyCMA"
+                },
+                "RescaledCMA": {
+                    "Solver": "RescaledCMA"
+                },
+                "SDiagonalCMA": {
+                    "Solver": "SDiagonalCMA"
+                },
+                "SplitCMA": {
+                    "Solver": "SplitCMA"
+                },
+                "TripleCMA": {
+                    "Solver": "TripleCMA"
+                },
+                "TripleDiagonalCMA": {
+                    "Solver": "TripleDiagonalCMA"
+                },
+                "PSO": {
+                    "Solver": "PSO"
+                },
+                "QOPSO": {
+                    "Solver": "QOPSO"
+                },
+                "QORealSpacePSO": {
+                    "Solver": "QORealSpacePSO"
+                },
+                "RealSpacePSO": {
+                    "Solver": "RealSpacePSO"
+                },
+                "SOPSO": {
+                    "Solver": "SOPSO"
+                },
+                "SQOPSO": {
+                    "Solver": "SQOPSO"
+                },
+                "SQORealSpacePSO": {
+                    "Solver": "SQORealSpacePSO"
+                },
+                "SplitPSO": {
+                    "Solver": "SplitPSO"
+                },
+                "SplitSQOPSO": {
+                    "Solver": "SplitSQOPSO"
+                },
+                "AlmostRotationInvariantDE": {
+                    "Solver": "AlmostRotationInvariantDE"
+                },
+                "BPRotationInvariantDE": {
+                    "Solver": "BPRotationInvariantDE"
+                },
+                "DE": {
+                    "Solver": "DE"
+                },
+                "GeneticDE": {
+                    "Solver": "GeneticDE"
+                },
+                "HSDE": {
+                    "Solver": "HSDE"
+                },
+                "LPSDE": {
+                    "Solver": "LPSDE"
+                },
+                "LQODE": {
+                    "Solver": "LQODE"
+                },
+                "LQOTPDE": {
+                    "Solver": "LQOTPDE"
+                },
+                "LSDE": {
+                    "Solver": "LSDE"
+                },
+                "LhsDE": {
+                    "Solver": "LhsDE"
+                },
+                "LhsHSDE": {
+                    "Solver": "LhsHSDE"
+                },
+                "MutDE": {
+                    "Solver": "MutDE"
+                },
+                "NoisyDE": {
+                    "Solver": "NoisyDE"
+                },
+                "OnePointDE": {
+                    "Solver": "OnePointDE"
+                },
+                "OpoDE": {
+                    "Solver": "OpoDE"
+                },
+                "ParametrizationDE": {
+                    "Solver": "ParametrizationDE"
+                },
+                "QODE": {
+                    "Solver": "QODE"
+                },
+                "QOTPDE": {
+                    "Solver": "QOTPDE"
+                },
+                "QrDE": {
+                    "Solver": "QrDE"
+                },
+                "RecMutDE": {
+                    "Solver": "RecMutDE"
+                },
+                "RotatedTwoPointsDE": {
+                    "Solver": "RotatedTwoPointsDE"
+                },
+                "RotationInvariantDE": {
+                    "Solver": "RotationInvariantDE"
+                },
+                "SODE": {
+                    "Solver": "SODE"
+                },
+                "SPQODE": {
+                    "Solver": "SPQODE"
+                },
+                "SplitDE": {
+                    "Solver": "SplitDE"
+                },
+                "SplitQODE": {
+                    "Solver": "SplitQODE"
+                },
+                "SplitTwoPointsDE": {
+                    "Solver": "SplitTwoPointsDE"
+                },
+                "TwoPointsDE": {
+                    "Solver": "TwoPointsDE"
+                },
+                "VastDE": {
+                    "Solver": "VastDE"
+                },
+                "VoronoiDE": {
+                    "Solver": "VoronoiDE"
+                },
+                "AnisoEMNA": {
+                    "Solver": "AnisoEMNA"
+                },
+                "AnisoEMNATBPSA": {
+                    "Solver": "AnisoEMNATBPSA"
+                },
+                "EDA": {
+                    "Solver": "EDA"
+                },
+                "ES": {
+                    "Solver": "ES"
+                },
+                "IsoEMNA": {
+                    "Solver": "IsoEMNA"
+                },
+                "IsoEMNATBPSA": {
+                    "Solver": "IsoEMNATBPSA"
+                },
+                "MixES": {
+                    "Solver": "MixES"
+                },
+                "NaiveAnisoEMNA": {
+                    "Solver": "NaiveAnisoEMNA"
+                },
+                "NaiveAnisoEMNATBPSA": {
+                    "Solver": "NaiveAnisoEMNATBPSA"
+                },
+                "NaiveIsoEMNA": {
+                    "Solver": "NaiveIsoEMNA"
+                },
+                "NaiveIsoEMNATBPSA": {
+                    "Solver": "NaiveIsoEMNATBPSA"
+                },
+                "NaiveTBPSA": {
+                    "Solver": "NaiveTBPSA"
+                },
+                "NonNSGAIIES": {
+                    "Solver": "NonNSGAIIES"
+                },
+                "RecES": {
+                    "Solver": "RecES"
+                },
+                "RecMixES": {
+                    "Solver": "RecMixES"
+                },
+                "TBPSA": {
+                    "Solver": "TBPSA"
+                },
+                "CauchyOnePlusOne": {
+                    "Solver": "CauchyOnePlusOne"
+                },
+                "NoisyOnePlusOne": {
+                    "Solver": "NoisyOnePlusOne"
+                },
+                "OnePlusLambda": {
+                    "Solver": "OnePlusLambda"
+                },
+                "OnePlusOne": {
+                    "Solver": "OnePlusOne"
+                },
+                "OptimisticNoisyOnePlusOne": {
+                    "Solver": "OptimisticNoisyOnePlusOne"
+                },
+                "RLSOnePlusOne": {
+                    "Solver": "RLSOnePlusOne"
+                },
+                "TripleOnePlusOne": {
+                    "Solver": "TripleOnePlusOne"
+                },
+                "AvgHammersleySearch": {
+                    "Solver": "AvgHammersleySearch"
+                },
+                "AvgHammersleySearchPlusMiddlePoint": {
+                    "Solver": "AvgHammersleySearchPlusMiddlePoint"
+                },
+                "AvgRandomSearch": {
+                    "Solver": "AvgRandomSearch"
+                },
+                "CauchyRandomSearch": {
+                    "Solver": "CauchyRandomSearch"
+                },
+                "CauchyScrHammersleySearch": {
+                    "Solver": "CauchyScrHammersleySearch"
+                },
+                "HaltonSearch": {
+                    "Solver": "HaltonSearch"
+                },
+                "HaltonSearchPlusMiddlePoint": {
+                    "Solver": "HaltonSearchPlusMiddlePoint"
+                },
+                "HammersleySearch": {
+                    "Solver": "HammersleySearch"
+                },
+                "HammersleySearchPlusMiddlePoint": {
+                    "Solver": "HammersleySearchPlusMiddlePoint"
+                },
+                "LHSSearch": {
+                    "Solver": "LHSSearch"
+                },
+                "LargeHaltonSearch": {
+                    "Solver": "LargeHaltonSearch"
+                },
+                "OScrHammersleySearch": {
+                    "Solver": "OScrHammersleySearch"
+                },
+                "QORandomSearch": {
+                    "Solver": "QORandomSearch"
+                },
+                "QOScrHammersleySearch": {
+                    "Solver": "QOScrHammersleySearch"
+                },
+                "RandomScaleRandomSearch": {
+                    "Solver": "RandomScaleRandomSearch"
+                },
+                "RandomScaleRandomSearchPlusMiddlePoint": {
+                    "Solver": "RandomScaleRandomSearchPlusMiddlePoint"
+                },
+                "RandomSearch": {
+                    "Solver": "RandomSearch"
+                },
+                "RandomSearchPlusMiddlePoint": {
+                    "Solver": "RandomSearchPlusMiddlePoint"
+                },
+                "RescaleScrHammersleySearch": {
+                    "Solver": "RescaleScrHammersleySearch"
+                },
+                "ScrHaltonSearch": {
+                    "Solver": "ScrHaltonSearch"
+                },
+                "ScrHaltonSearchPlusMiddlePoint": {
+                    "Solver": "ScrHaltonSearchPlusMiddlePoint"
+                },
+                "ScrHammersleySearch": {
+                    "Solver": "ScrHammersleySearch"
+                },
+                "ScrHammersleySearchPlusMiddlePoint": {
+                    "Solver": "ScrHammersleySearchPlusMiddlePoint"
+                },
+                "ForceMultiCobyla": {
+                    "Solver": "ForceMultiCobyla"
+                },
+                "MultiCobyla": {
+                    "Solver": "MultiCobyla"
+                },
+                "MultiCobylaPlus": {
+                    "Solver": "MultiCobylaPlus"
+                },
+                "MultiSQP": {
+                    "Solver": "MultiSQP"
+                },
+                "MultiSQPPlus": {
+                    "Solver": "MultiSQPPlus"
+                },
+                "AvgMetaRecenteringNoHull": {
+                    "Solver": "AvgMetaRecenteringNoHull"
+                },
+                "ChainCMAwithLHS": {
+                    "Solver": "ChainCMAwithLHS"
+                },
+                "ChainCMAwithMetaRecentering": {
+                    "Solver": "ChainCMAwithMetaRecentering"
+                },
+                "ChainCMAwithR": {
+                    "Solver": "ChainCMAwithR"
+                },
+                "ChainDEwithMetaRecentering": {
+                    "Solver": "ChainDEwithMetaRecentering"
+                },
+                "ChainDEwithMetaTuneRecentering": {
+                    "Solver": "ChainDEwithMetaTuneRecentering"
+                },
+                "ChainPSOwithMetaRecentering": {
+                    "Solver": "ChainPSOwithMetaRecentering"
+                },
+                "HullAvgMetaRecentering": {
+                    "Solver": "HullAvgMetaRecentering"
+                },
+                "HullAvgMetaTuneRecentering": {
+                    "Solver": "HullAvgMetaTuneRecentering"
+                },
+                "HullCenterHullAvgScrHammersleySearchPlusMiddlePoint": {
+                    "Solver": "HullCenterHullAvgScrHammersleySearchPlusMiddlePoint"
+                },
+                "MetaCauchyRecentering": {
+                    "Solver": "MetaCauchyRecentering"
+                },
+                "MetaModel": {
+                    "Solver": "MetaModel"
+                },
+                "MetaModelDE": {
+                    "Solver": "MetaModelDE"
+                },
+                "MetaModelDiagonalCMA": {
+                    "Solver": "MetaModelDiagonalCMA"
+                },
+                "MetaModelLogNormal": {
+                    "Solver": "MetaModelLogNormal"
+                },
+                "MetaModelOnePlusOne": {
+                    "Solver": "MetaModelOnePlusOne"
+                },
+                "MetaModelPSO": {
+                    "Solver": "MetaModelPSO"
+                },
+                "MetaModelQODE": {
+                    "Solver": "MetaModelQODE"
+                },
+                "MetaModelTwoPointsDE": {
+                    "Solver": "MetaModelTwoPointsDE"
+                },
+                "MetaRecentering": {
+                    "Solver": "MetaRecentering"
+                },
+                "MetaTuneRecentering": {
+                    "Solver": "MetaTuneRecentering"
+                },
+                "NGOpt": {
+                    "Solver": "NGOpt"
+                },
+                "NGOptRW": {
+                    "Solver": "NGOptRW"
+                },
+                "NgIoh21": {
+                    "Solver": "NgIoh21"
+                },
+                "NgIohLn": {
+                    "Solver": "NgIohLn"
+                },
+                "NgIohMLn": {
+                    "Solver": "NgIohMLn"
+                },
+                "NgIohRS": {
+                    "Solver": "NgIohRS"
+                },
+                "NgIohRW2": {
+                    "Solver": "NgIohRW2"
+                },
+                "NgIohTuned": {
+                    "Solver": "NgIohTuned"
+                },
+                "ParaPortfolio": {
+                    "Solver": "ParaPortfolio"
+                },
+                "Portfolio": {
+                    "Solver": "Portfolio"
+                },
+                "Shiwa": {
+                    "Solver": "Shiwa"
+                },
+                "VoxelizeMetaModelOnePlusOne": {
+                    "Solver": "VoxelizeMetaModelOnePlusOne"
+                },
+                "Wiz": {
+                    "Solver": "Wiz"
+                },
+                "DiscreteDoerrOnePlusOne": {
+                    "Solver": "DiscreteDoerrOnePlusOne"
+                },
+                "ChainDE": {
+                    "Solver": "ChainDE"
+                },
+                "MemeticDE": {
+                    "Solver": "MemeticDE"
+                },
+                "QNDE": {
+                    "Solver": "QNDE"
+                },
+                "ChainNaiveTBPSAPowell": {
+                    "Solver": "ChainNaiveTBPSAPowell"
+                },
+                "ChainDSPowell": {
+                    "Solver": "ChainDSPowell"
+                },
+                "Cobyla": {
+                    "Solver": "Cobyla"
+                },
+                "RCobyla": {
+                    "Solver": "RCobyla"
+                },
+                "NelderMead": {
+                    "Solver": "NelderMead"
+                },
+                "Powell": {
+                    "Solver": "Powell"
+                },
+                "RPowell": {
+                    "Solver": "RPowell"
+                },
+                "MicroSQP": {
+                    "Solver": "MicroSQP"
+                },
+                "SQP": {
+                    "Solver": "SQP"
+                },
+                "RSQP": {
+                    "Solver": "RSQP"
+                },
+                "TinySQP": {
+                    "Solver": "TinySQP"
+                },
+                "Carola15": {
+                    "Solver": "Carola15"
+                },
+                "FCarola6": {
+                    "Solver": "FCarola6"
+                },
+                "PCarola6": {
+                    "Solver": "PCarola6"
+                },
+                "pCarola6": {
+                    "Solver": "pCarola6"
+                },
+                "ChainCMAPowell": {
+                    "Solver": "ChainCMAPowell"
+                },
+                "ChainCMASQP": {
+                    "Solver": "ChainCMASQP"
+                },
+                "ChainMetaModelDSSQP": {
+                    "Solver": "ChainMetaModelDSSQP"
+                },
+                "ChainMetaModelPowell": {
+                    "Solver": "ChainMetaModelPowell"
+                },
+                "ChainMetaModelSQP": {
+                    "Solver": "ChainMetaModelSQP"
+                },
+                "MetaModelDSproba": {
+                    "Solver": "MetaModelDSproba"
+                },
+                "MetaModelFmin2": {
+                    "Solver": "MetaModelFmin2"
+                },
+                "BAR4": {
+                    "Solver": "BAR4"
+                }
+            },
+            "F_unflat": "neg_log",
+            "batch": 1,
+            "worker": 1,
+            "debug": 0,
+            "salt": 0,
+            "chunk": 5000,
+            "k": 3,
+            "F": "median"
+        }
+    }
+}

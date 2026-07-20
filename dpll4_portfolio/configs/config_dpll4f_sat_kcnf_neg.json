@@ -1,0 +1,56 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+            "l": 3,
+            "require_full_portfolio": true,
+            "N": 1000,
+            "Var": 200,
+            "encoding": "kcnf",
+            "code": "dpll4f_sat_kcnf_neg",
+            "budget": 100000,
+            "iters": 5,
+            "seed": 20260601,
+            "opt": {
+                "SQORealSpacePSO": {
+                    "Solver": "SQORealSpacePSO"
+                },
+                "ChainPSOwithMetaRecentering": {
+                    "Solver": "ChainPSOwithMetaRecentering"
+                },
+                "PSO": {
+                    "Solver": "PSO"
+                },
+                "MetaModelPSO": {
+                    "Solver": "MetaModelPSO"
+                },
+                "TripleCMA": {
+                    "Solver": "TripleCMA"
+                },
+                "MultiScaleCMA": {
+                    "Solver": "MultiScaleCMA"
+                },
+                "MultiCMA": {
+                    "Solver": "MultiCMA"
+                },
+                "NgIohTuned": {
+                    "Solver": "NgIohTuned"
+                },
+                "NGOpt": {
+                    "Solver": "NGOpt"
+                },
+                "Shiwa": {
+                    "Solver": "Shiwa"
+                }
+            },
+            "F_unflat": "negative",
+            "batch": 1,
+            "worker": 1,
+            "debug": 0,
+            "salt": 0,
+            "chunk": 5000,
+            "k": 3,
+            "F": "median"
+        }
+    }
+}

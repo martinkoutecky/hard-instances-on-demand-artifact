@@ -1,0 +1,138 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+
+            "N": 20,
+            "L": 1,
+            "U": 10000,
+            "budget": 50000,
+            "iters": 2,
+            "F_unflat": "negative",
+            "opt": {
+                "NgIohTuned": {
+                    "Solver": "NgIohTuned"
+                },
+                "NGOpt": {
+                    "Solver": "NGOpt"
+                },
+                "DE": {
+                    "Solver": "DE"
+                },
+                "CMA": {
+                    "Solver": "CMA"
+                },
+                "Shiwa": {
+                    "Solver": "Shiwa"
+                },
+                "DiagonalCMA": {
+                    "Solver": "DiagonalCMA"
+                },
+                "TwoPointsDE": {
+                    "Solver": "TwoPointsDE"
+                },
+                "PSO": {
+                    "Solver": "PSO"
+                },
+                "TBPSA": {
+                    "Solver": "TBPSA"
+                },
+                "OnePlusOne": {
+                    "Solver": "OnePlusOne"
+                }
+            },
+            "k": 7,
+            "F": "min",
+            "batch": 0,
+            "tasks_parallel": 20,
+            "evals_parallel": 1,
+            "debug": 1,
+            "seeding": 0,
+            "salt": 0
+        },
+        "transform": {
+            "comment": false
+        },
+        "plot": {
+            "comment": false,
+            "best_plot": 1,
+            "plot_save": 1,
+            "plot_name": ["lineplot", "scatterplot"],
+            "opts_to_plot": [],
+            "all_runs_plot": 1,
+            "conf_int": 95,
+            "alpha": 0.6,
+            "datas": ["id"],
+            "window": [1, 10, 20, 200],
+            "errorbar_type": "sd"
+        }
+    },
+    "task[2]": {
+        "gen": {
+            "comment": false,
+
+            "N": 100,
+            "L": 1,
+            "U": 10000,
+            "budget": 50000,
+            "iters": 2,
+            "F_unflat": "Lorentzian",
+            "opt": {
+                "NgIohTuned": {
+                    "Solver": "NgIohTuned"
+                },
+                "NGOpt": {
+                    "Solver": "NGOpt"
+                },
+                "DE": {
+                    "Solver": "DE"
+                },
+                "CMA": {
+                    "Solver": "CMA"
+                },
+                "Shiwa": {
+                    "Solver": "Shiwa"
+                },
+                "DiagonalCMA": {
+                    "Solver": "DiagonalCMA"
+                },
+                "TwoPointsDE": {
+                    "Solver": "TwoPointsDE"
+                },
+                "PSO": {
+                    "Solver": "PSO"
+                },
+                "TBPSA": {
+                    "Solver": "TBPSA"
+                },
+                "OnePlusOne": {
+                    "Solver": "OnePlusOne"
+                }
+            },
+            "k": 7,
+            "F": "min",
+            "batch": 0,
+            "tasks_parallel": 20,
+            "evals_parallel": 1,
+            "debug": 2,
+            "seeding": 0,
+            "salt": 0
+        },
+        "transform": {
+            "comment": false
+        },
+        "plot": {
+            "comment": false,
+            "best_plot": 1,
+            "plot_save": 1,
+            "plot_name": ["lineplot", "scatterplot"],
+            "opts_to_plot": [],
+            "all_runs_plot": 1,
+            "conf_int": 95,
+            "alpha": 0.6,
+            "datas": ["id"],
+            "window": [1, 10, 20, 200],
+            "errorbar_type": "sd"
+        }
+    }
+}

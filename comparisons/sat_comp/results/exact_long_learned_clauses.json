@@ -1,0 +1,50 @@
+{
+  "cap_seconds": 30.0,
+  "breakid_runtime_included": false,
+  "instances": [
+    {
+      "hash": "a64f3c1afd7e0f6165efbe9fc2fc8003",
+      "variables": "190",
+      "clauses": "632",
+      "gbd_variables": "190",
+      "gbd_clauses": "632",
+      "family": "long-learned-clauses",
+      "author": "markstrom",
+      "result": "unsat",
+      "filename": "a64f3c1afd7e0f6165efbe9fc2fc8003",
+      "tracks": "anni_2022,crafted_2007,crafted_2009,crafted_2012,crafted_2013,main_2023",
+      "local_path": "instances/a64f3c1afd7e0f6165efbe9fc2fc8003.cnf",
+      "times": [
+        20.0
+      ],
+      "median": 20.0,
+      "min": 20.0,
+      "max": 20.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.010458661243319511,
+      "symmetry_broken_clauses": 1414,
+      "solvers": {
+        "minisat22": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 30.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 30.0
+    }
+  ]
+}

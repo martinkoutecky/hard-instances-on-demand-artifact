@@ -1,0 +1,2104 @@
+{
+  "logs": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs",
+  "configs": {
+    "log_gt1s2L_sat_kcnf_neg": {
+      "_status": {},
+      "_opts": {
+        "AnisotropicAdaptiveDiscreteOnePlusOne": {
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_kcnf_neg/data/AnisotropicAdaptiveDiscreteOnePlusOne/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.00033434700000000003,
+              "p50": -0.00032046099999999997,
+              "p95": -0.0003125594999999999,
+              "max": -0.00031255499999999995
+            },
+            "value": {
+              "min": 0.00031255499999999995,
+              "p50": 0.00032046099999999997,
+              "p95": 0.0003325073999999999,
+              "max": 0.00033434700000000003
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_kcnf_neg/data/AnisotropicAdaptiveDiscreteOnePlusOne/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.00814115,
+              "p50": -0.004146589,
+              "p95": -0.00018936520000000052,
+              "max": -0.0001864330000000006
+            },
+            "value": {
+              "min": 0.0001864330000000006,
+              "p50": 0.004146589000000001,
+              "p95": 0.008135410249999999,
+              "max": 0.00814115
+            }
+          }
+        },
+        "MultiCMA": {
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_kcnf_neg/data/MultiCMA/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -4.6906960280000005,
+              "p50": -3.6075410755,
+              "p95": -3.55545679715,
+              "max": -3.547577204
+            },
+            "value": {
+              "min": 3.547577204,
+              "p50": 3.6075410755,
+              "p95": 4.4974591142,
+              "max": 4.6906960280000005
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_kcnf_neg/data/MultiCMA/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -5.150738102,
+              "p50": -4.426791914500001,
+              "p95": -4.107581512049999,
+              "max": -4.105418313
+            },
+            "value": {
+              "min": 4.105418313,
+              "p50": 4.426791914500001,
+              "p95": 5.0152494911,
+              "max": 5.150738102
+            }
+          }
+        },
+        "MultiScaleCMA": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_kcnf_neg/data/MultiScaleCMA/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -16.441145599000002,
+              "p50": -16.190976907999996,
+              "p95": -16.133989391,
+              "max": -16.133988968
+            },
+            "value": {
+              "min": 16.133988968,
+              "p50": 16.190976907999996,
+              "p95": 16.434479079400003,
+              "max": 16.441145599000002
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_kcnf_neg/data/MultiScaleCMA/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -16.081535108,
+              "p50": -15.6718524185,
+              "p95": -15.605492407249999,
+              "max": -15.596068081999999
+            },
+            "value": {
+              "min": 15.596068081999999,
+              "p50": 15.6718524185,
+              "p95": 16.0433481341,
+              "max": 16.081535108
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_kcnf_neg/data/MultiScaleCMA/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -8.845569593,
+              "p50": -8.7197881775,
+              "p95": -8.65515294095,
+              "max": -8.653986526999999
+            },
+            "value": {
+              "min": 8.653986526999999,
+              "p50": 8.7197881775,
+              "p95": 8.831664172250001,
+              "max": 8.845569593
+            }
+          }
+        },
+        "NaiveTBPSA": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_kcnf_neg/data/NaiveTBPSA/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.0002559400000000001,
+              "p50": -0.0002217809999999999,
+              "p95": -9.348800000000008e-05,
+              "max": -9.341599999999894e-05
+            },
+            "value": {
+              "min": 9.341599999999894e-05,
+              "p50": 0.0002217809999999999,
+              "p95": 0.00024895194999999997,
+              "max": 0.0002559400000000001
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_kcnf_neg/data/NaiveTBPSA/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.00027287199999999996,
+              "p50": -0.0002561655000000002,
+              "p95": -0.00021586870000000019,
+              "max": -0.00019976500000000019
+            },
+            "value": {
+              "min": 0.00019976500000000019,
+              "p50": 0.0002561655000000002,
+              "p95": 0.00027127090000000003,
+              "max": 0.00027287199999999996
+            }
+          }
+        }
+      }
+    },
+    "log_gt1s2L_sat_mpfx_log": {
+      "_status": {},
+      "_opts": {
+        "ASCMADEthird": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/ASCMADEthird/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.053789338875065436,
+              "p50": 0.8669602389327131,
+              "p95": 0.9537469985029062,
+              "max": 0.9577037291271256
+            },
+            "value": {
+              "min": 0.383773122,
+              "p50": 0.4202813785,
+              "p95": 0.9076842490499997,
+              "max": 1.055262276
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/ASCMADEthird/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": 0.43069946880504517,
+              "p50": 0.49338329085601385,
+              "p95": 0.533371905218824,
+              "max": 0.5335848376600546
+            },
+            "value": {
+              "min": 0.586498694,
+              "p50": 0.6105648205,
+              "p95": 0.6481473977000001,
+              "max": 0.650054243
+            }
+          }
+        },
+        "AnisotropicAdaptiveDiscreteOnePlusOne": {
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/AnisotropicAdaptiveDiscreteOnePlusOne/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": 8.005130333340363,
+              "p50": 8.032611959100405,
+              "p95": 8.038632540117174,
+              "max": 8.03877196475927
+            },
+            "value": {
+              "min": 0.0003227050000000004,
+              "p50": 0.0003246989999999997,
+              "p95": 0.0003312165499999998,
+              "max": 0.0003337459999999998
+            }
+          }
+        },
+        "BFGSCMA": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/BFGSCMA/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.14663411222252612,
+              "p50": -0.005895096775355631,
+              "p95": 0.24867488816529593,
+              "max": 0.24949811064206012
+            },
+            "value": {
+              "min": 0.779191753,
+              "p50": 1.0059653215,
+              "p95": 1.15521864035,
+              "max": 1.157930213
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/BFGSCMA/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": 0.023718915612169652,
+              "p50": 0.09977054878764055,
+              "p95": 0.10191659256025508,
+              "max": 0.10238820623815147
+            },
+            "value": {
+              "min": 0.9026790579999999,
+              "p50": 0.9050452710000001,
+              "p95": 0.9764720615,
+              "max": 0.976560167
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/BFGSCMA/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": 0.029386626204688945,
+              "p50": 0.20512886679942205,
+              "p95": 0.21896976319011854,
+              "max": 0.21901473910217514
+            },
+            "value": {
+              "min": 0.803309878,
+              "p50": 0.8145425135,
+              "p95": 0.9678631758499999,
+              "max": 0.971040962
+            }
+          }
+        },
+        "ChainPSOwithMetaRecentering": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/ChainPSOwithMetaRecentering/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.000990231901127,
+              "p50": -0.9982020025794871,
+              "p95": -0.9978722402210368,
+              "max": -0.9977349975831287
+            },
+            "value": {
+              "min": 2.7121318810000004,
+              "p50": 2.7133987575000003,
+              "p95": 2.7202401193,
+              "max": 2.720974891
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/ChainPSOwithMetaRecentering/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.1233132687031488,
+              "p50": -1.110683627664958,
+              "p95": -1.1055012289005393,
+              "max": -1.1043222497682836
+            },
+            "value": {
+              "min": 3.0171788819999996,
+              "p50": 3.036433772,
+              "p95": 3.0725588534000003,
+              "max": 3.07502573
+            }
+          }
+        },
+        "HullCenterHullAvgScrHammersleySearchPlusMiddlePoint": {
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/HullCenterHullAvgScrHammersleySearchPlusMiddlePoint/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": 0.5833201026593041,
+              "p50": 0.8605974495995238,
+              "p95": 1.113586681860533,
+              "max": 1.1195942117402848
+            },
+            "value": {
+              "min": 0.32641222200000003,
+              "p50": 0.42351482549999997,
+              "p95": 0.5322390740499999,
+              "max": 0.5580425290000001
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/HullCenterHullAvgScrHammersleySearchPlusMiddlePoint/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": 0.7176374971635299,
+              "p50": 1.1699704596946776,
+              "p95": 1.2853652147858903,
+              "max": 1.2870878147475593
+            },
+            "value": {
+              "min": 0.27607359099999995,
+              "p50": 0.31051635499999997,
+              "p95": 0.48434357759999996,
+              "max": 0.487903569
+            }
+          }
+        },
+        "LHSSearch": {
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/LHSSearch/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": 0.09987194434874254,
+              "p50": 0.6290521675702511,
+              "p95": 0.6739972729478666,
+              "max": 0.6750251902334348
+            },
+            "value": {
+              "min": 0.509143595,
+              "p50": 0.5330968835000001,
+              "p95": 0.7637067963999996,
+              "max": 0.904953295
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/LHSSearch/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": 0.22696453699116811,
+              "p50": 0.6063760051795057,
+              "p95": 0.6873209321609011,
+              "max": 0.7042998045179011
+            },
+            "value": {
+              "min": 0.49445466800000004,
+              "p50": 0.545364771,
+              "p95": 0.6986050778499998,
+              "max": 0.796949044
+            }
+          }
+        },
+        "LQOTPDE": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/LQOTPDE/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.27957363020486325,
+              "p50": -0.2660939595509384,
+              "p95": -0.23811682680585122,
+              "max": -0.23805541713365883
+            },
+            "value": {
+              "min": 1.268779503,
+              "p50": 1.304857895,
+              "p95": 1.32218588155,
+              "max": 1.32256579
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/LQOTPDE/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.31088200838371205,
+              "p50": -0.3082494639174618,
+              "p95": -0.3071262825336973,
+              "max": -0.3071025723348148
+            },
+            "value": {
+              "min": 1.3594804059999999,
+              "p50": 1.361040483,
+              "p95": 1.3633288715,
+              "max": 1.364628197
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/LQOTPDE/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.5346778392240344,
+              "p50": -0.5340244010905046,
+              "p95": -0.5335169710254648,
+              "max": -0.5333613586011245
+            },
+            "value": {
+              "min": 1.704652638,
+              "p50": 1.7057832720000001,
+              "p95": 1.7068489726499998,
+              "max": 1.7068982579999998
+            }
+          }
+        },
+        "MetaModelPSO": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/MetaModelPSO/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.2891579876384835,
+              "p50": -1.284201273289176,
+              "p95": -1.2836049985564828,
+              "max": -1.283581566043159
+            },
+            "value": {
+              "min": 3.609544424,
+              "p50": 3.6117820185,
+              "p95": 3.623911374,
+              "max": 3.629728992
+            }
+          },
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/MetaModelPSO/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.152404344083734,
+              "p50": -1.1489598978994784,
+              "p95": -1.1484478297354097,
+              "max": -1.1484409372354358
+            },
+            "value": {
+              "min": 3.153272925,
+              "p50": 3.1549097745,
+              "p95": 3.1656446465,
+              "max": 3.165795428
+            }
+          }
+        },
+        "MixES": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/MixES/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.07078597105595762,
+              "p50": 0.12225406511689307,
+              "p95": 0.18719012161008305,
+              "max": 0.19177466859700484
+            },
+            "value": {
+              "min": 0.825492857,
+              "p50": 0.8850004625000001,
+              "p95": 1.0578359175999998,
+              "max": 1.073351473
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/MixES/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.415072036110933,
+              "p50": -0.22936526974250465,
+              "p95": -0.1751360754306904,
+              "max": -0.17140281789337447
+            },
+            "value": {
+              "min": 1.186968785,
+              "p50": 1.2579427295,
+              "p95": 1.4899587085,
+              "max": 1.514479834
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/MixES/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.08439181167240632,
+              "p50": 0.20483204744738248,
+              "p95": 0.30040700838608975,
+              "max": 0.30241855905726134
+            },
+            "value": {
+              "min": 0.739028673,
+              "p50": 0.8148148584999999,
+              "p95": 1.0088009394,
+              "max": 1.0880551230000002
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/MixES/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.38750586465551673,
+              "p50": -0.22982800797920017,
+              "p95": -0.1771508207982039,
+              "max": -0.17343087908503296
+            },
+            "value": {
+              "min": 1.1893784729999999,
+              "p50": 1.2584093735000002,
+              "p95": 1.4715340106500001,
+              "max": 1.473301594
+            }
+          }
+        },
+        "MultiCMA": {
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/MultiCMA/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.6257224138667317,
+              "p50": -1.5200605318626839,
+              "p95": -1.4826816091587878,
+              "max": -1.4667341116537855
+            },
+            "value": {
+              "min": 4.3350541940000005,
+              "p50": 4.572568922,
+              "p95": 5.06712607045,
+              "max": 5.082089083
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/MultiCMA/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.9824037662912484,
+              "p50": -1.8814306857292338,
+              "p95": -1.8580984803699478,
+              "max": -1.8572682095507402
+            },
+            "value": {
+              "min": 6.406212416,
+              "p50": 6.562888056,
+              "p95": 7.01950896175,
+              "max": 7.260173788
+            }
+          }
+        },
+        "NaiveTBPSA": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/NaiveTBPSA/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": 8.322054130911669,
+              "p50": 9.424319157853546,
+              "p95": 9.493866268689272,
+              "max": 9.495598717362192
+            },
+            "value": {
+              "min": 7.518200000000003e-05,
+              "p50": 8.074649999999998e-05,
+              "p95": 0.00024113939999999997,
+              "max": 0.00024309599999999994
+            }
+          }
+        },
+        "NgIohTuned": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/NgIohTuned/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.1045498837845723,
+              "p50": -0.1034562869291067,
+              "p95": -0.10127776444544806,
+              "max": -0.10126633211470136
+            },
+            "value": {
+              "min": 1.1065713179999999,
+              "p50": 1.108997316,
+              "p95": 1.1102007408,
+              "max": 1.110210774
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/NgIohTuned/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.05389286133362331,
+              "p50": -0.05207277322171044,
+              "p95": 0.11054946337586458,
+              "max": 0.14173361449378352
+            },
+            "value": {
+              "min": 0.867852409,
+              "p50": 1.0534524035,
+              "p95": 1.05507855385,
+              "max": 1.055371525
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/NgIohTuned/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.1331431971614129,
+              "p50": -0.13026015119091383,
+              "p95": -0.12767448194213024,
+              "max": -0.12739082071872776
+            },
+            "value": {
+              "min": 1.1358608490000002,
+              "p50": 1.1391246895,
+              "p95": 1.14236275625,
+              "max": 1.1424135770000001
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/NgIohTuned/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.36581365948167693,
+              "p50": -0.3637967430530903,
+              "p95": -0.36213967618672205,
+              "max": -0.3621097204501633
+            },
+            "value": {
+              "min": 1.436356531,
+              "p50": 1.4387817705,
+              "p95": 1.44143726175,
+              "max": 1.441686573
+            }
+          }
+        },
+        "NonNSGAIIES": {
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/NonNSGAIIES/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.06609249652963502,
+              "p50": 0.20847698516697144,
+              "p95": 0.3043340287922436,
+              "max": 0.3123726269442702
+            },
+            "value": {
+              "min": 0.7317088230000001,
+              "p50": 0.811937342,
+              "p95": 0.9999304281499999,
+              "max": 1.068325529
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/NonNSGAIIES/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.13339345786196066,
+              "p50": 0.1409928979610918,
+              "p95": 0.24824477485002613,
+              "max": 0.25974939292591676
+            },
+            "value": {
+              "min": 0.771244841,
+              "p50": 0.8695294680000001,
+              "p95": 1.1136590123999999,
+              "max": 1.142699514
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/NonNSGAIIES/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.07171010685692596,
+              "p50": 0.11789030538822827,
+              "p95": 0.20143135734961518,
+              "max": 0.2214655162528761
+            },
+            "value": {
+              "min": 0.801343555,
+              "p50": 0.8888014885,
+              "p95": 1.0714320470999998,
+              "max": 1.0743438539999999
+            }
+          }
+        },
+        "PSO": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/PSO/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.8757025450187574,
+              "p50": -0.8745636266147285,
+              "p95": -0.8743950282182839,
+              "max": -0.8743635806431279
+            },
+            "value": {
+              "min": 2.397349089,
+              "p50": 2.3978287170000003,
+              "p95": 2.4004334795999998,
+              "max": 2.4005612039999997
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/PSO/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.4546195936855684,
+              "p50": -1.4500066354178576,
+              "p95": -1.4290149221243857,
+              "max": -1.4289400393975862
+            },
+            "value": {
+              "min": 4.174272282,
+              "p50": 4.2631431255,
+              "p95": 4.2779220084,
+              "max": 4.282853931
+            }
+          }
+        },
+        "QOTPDE": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/QOTPDE/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.35481201857031097,
+              "p50": -0.34023101760142094,
+              "p95": -0.33719247281018555,
+              "max": -0.3369626306441204
+            },
+            "value": {
+              "min": 1.40068672,
+              "p50": 1.4052725369999999,
+              "p95": 1.42257790265,
+              "max": 1.4259125840000002
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/QOTPDE/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.24126630174034003,
+              "p50": -0.22537667705022707,
+              "p95": -0.22207615482213583,
+              "max": -0.22099284580425035
+            },
+            "value": {
+              "min": 1.247314507,
+              "p50": 1.2527945325,
+              "p95": 1.26622834685,
+              "max": 1.272859955
+            }
+          }
+        },
+        "RecMixES": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/RecMixES/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.27792074558873336,
+              "p50": -0.15580611516954887,
+              "p95": -0.09474681332284637,
+              "max": -0.08664608928019746
+            },
+            "value": {
+              "min": 1.090510668,
+              "p50": 1.1686745905000002,
+              "p95": 1.28482278415,
+              "max": 1.320381547
+            }
+          },
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/RecMixES/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.37214067745231283,
+              "p50": -0.1954651477888132,
+              "p95": -0.14581756546995692,
+              "max": -0.139503073219256
+            },
+            "value": {
+              "min": 1.149702339,
+              "p50": 1.2158830919999999,
+              "p95": 1.38879389615,
+              "max": 1.4508370670000001
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/RecMixES/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.097326014438656,
+              "p50": -0.484832806319337,
+              "p95": -0.43290610310285343,
+              "max": -0.4264871328135087
+            },
+            "value": {
+              "min": 1.531866816,
+              "p50": 1.62408062,
+              "p95": 2.7453403821499993,
+              "max": 2.996143658
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/RecMixES/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.32050657749591727,
+              "p50": -0.15606531800161932,
+              "p95": -0.12399137890865482,
+              "max": -0.11716223144176148
+            },
+            "value": {
+              "min": 1.1243018120000001,
+              "p50": 1.1689270514999999,
+              "p95": 1.33924601945,
+              "max": 1.377825563
+            }
+          }
+        },
+        "SQORealSpacePSO": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/SQORealSpacePSO/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.690279342520871,
+              "p50": -1.664298515242169,
+              "p95": -1.656563689686009,
+              "max": -1.6558965099465752
+            },
+            "value": {
+              "min": 5.237773534,
+              "p50": 5.281968041,
+              "p95": 5.39024538325,
+              "max": 5.4209948080000006
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/SQORealSpacePSO/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.5889859046560482,
+              "p50": -1.5781207221823017,
+              "p95": -1.5720791719542198,
+              "max": -1.5719613129179977
+            },
+            "value": {
+              "min": 4.816084786,
+              "p50": 4.8458416445,
+              "p95": 4.89696807565,
+              "max": 4.89877858
+            }
+          }
+        },
+        "TripleCMA": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/TripleCMA/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -2.511337436731366,
+              "p50": -2.238285549446226,
+              "p95": -2.199519915143827,
+              "max": -2.198757881890422
+            },
+            "value": {
+              "min": 9.013810326,
+              "p50": 9.3787951035,
+              "p95": 12.233723789999999,
+              "max": 12.321398136
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/TripleCMA/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -2.7264144929210516,
+              "p50": -2.675113755434447,
+              "p95": -2.655564783073466,
+              "max": -2.6526015428203893
+            },
+            "value": {
+              "min": 14.190908922,
+              "p50": 14.5140019185,
+              "p95": 15.07410823215,
+              "max": 15.278009286
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_log/data/TripleCMA/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -2.5986288276815213,
+              "p50": -2.455235784201081,
+              "p95": -2.367804592221517,
+              "max": -2.3614261214825536
+            },
+            "value": {
+              "min": 10.606066211,
+              "p50": 11.649720935000001,
+              "p95": 13.4176452719,
+              "max": 13.445289580999999
+            }
+          }
+        }
+      }
+    },
+    "log_gt1s2L_sat_mpfx_pow2": {
+      "_status": {},
+      "_opts": {
+        "ASCMADEthird": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/ASCMADEthird/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.7844330515077914,
+              "p50": -0.18720153452933583,
+              "p95": -0.14756287861141476,
+              "max": -0.143319788533152
+            },
+            "value": {
+              "min": 0.378576001,
+              "p50": 0.4326657105,
+              "p95": 0.7809893271999998,
+              "max": 0.885682252
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/ASCMADEthird/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.8966833526532609,
+              "p50": -0.39739920643329896,
+              "p95": -0.30033994318953194,
+              "max": -0.2970822081343603
+            },
+            "value": {
+              "min": 0.545052482,
+              "p50": 0.6299489155,
+              "p95": 0.8538318223999998,
+              "max": 0.946933658
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/ASCMADEthird/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.4119262618880028,
+              "p50": -0.3378057417476122,
+              "p95": -0.28147168724301624,
+              "max": -0.2805825889776219
+            },
+            "value": {
+              "min": 0.5297004710000001,
+              "p50": 0.5811696,
+              "p95": 0.63522526515,
+              "max": 0.641814819
+            }
+          }
+        },
+        "AnisotropicAdaptiveDiscreteOnePlusOne": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/AnisotropicAdaptiveDiscreteOnePlusOne/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.20458279041e-07,
+              "p50": -8.2070420186e-08,
+              "p95": -4.7074340295000186e-08,
+              "max": -4.6953255969000056e-08
+            },
+            "value": {
+              "min": 0.00021668700000000013,
+              "p50": 0.00028196899999999997,
+              "p95": 0.00034492990000000015,
+              "max": 0.000347071
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/AnisotropicAdaptiveDiscreteOnePlusOne/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.1052566211600017e-07,
+              "p50": -9.972568009850001e-08,
+              "p95": -9.385402300604989e-08,
+              "max": -9.372414873599997e-08
+            },
+            "value": {
+              "min": 0.00030614399999999995,
+              "p50": 0.0003157925,
+              "p95": 0.0003313893000000002,
+              "max": 0.00033245400000000026
+            }
+          }
+        },
+        "BFGSCMA": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/BFGSCMA/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.046966697431777,
+              "p50": -0.4594971942801809,
+              "p95": -0.4296898557503433,
+              "max": -0.42112088216422244
+            },
+            "value": {
+              "min": 0.648938273,
+              "p50": 0.677803963,
+              "p95": 0.9200798468999998,
+              "max": 1.023213906
+            }
+          },
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/BFGSCMA/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.1961460677108675,
+              "p50": -1.068800624161716,
+              "p95": -0.6382486730963076,
+              "max": -0.6373025842131522
+            },
+            "value": {
+              "min": 0.798312335,
+              "p50": 1.0338281165,
+              "p95": 1.09223565645,
+              "max": 1.093684629
+            }
+          }
+        },
+        "ChainPSOwithMetaRecentering": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/ChainPSOwithMetaRecentering/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -19.12134995629648,
+              "p50": -17.50661077883357,
+              "p95": -17.239339254948387,
+              "max": -17.184616001118926
+            },
+            "value": {
+              "min": 4.145433150000001,
+              "p50": 4.184090167000001,
+              "p95": 4.3358746599,
+              "max": 4.372796583
+            }
+          },
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/ChainPSOwithMetaRecentering/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -7.175935606795879,
+              "p50": -7.1539802776408425,
+              "p95": -7.151627641138517,
+              "max": -7.1513554115301385
+            },
+            "value": {
+              "min": 2.674201827,
+              "p50": 2.6746925575000002,
+              "p95": 2.67776587825,
+              "max": 2.678793685
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/ChainPSOwithMetaRecentering/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -9.799394944104568,
+              "p50": -9.71036190010178,
+              "p95": -9.392542558057452,
+              "max": -9.354949707994097
+            },
+            "value": {
+              "min": 3.058586227,
+              "p50": 3.1161449425,
+              "p95": 3.12739344645,
+              "max": 3.130398528
+            }
+          }
+        },
+        "HullCenterHullAvgScrHammersleySearchPlusMiddlePoint": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/HullCenterHullAvgScrHammersleySearchPlusMiddlePoint/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.2171273279664852,
+              "p50": -0.10223859322297721,
+              "p95": -0.06596888662186406,
+              "max": -0.06108769782647353
+            },
+            "value": {
+              "min": 0.247159256,
+              "p50": 0.3195809405,
+              "p95": 0.45092463385,
+              "max": 0.465969235
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/HullCenterHullAvgScrHammersleySearchPlusMiddlePoint/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -3.9388668450756743,
+              "p50": -0.14399060817546655,
+              "p95": -0.09820590152776226,
+              "max": -0.09801480539082459
+            },
+            "value": {
+              "min": 0.31307316300000004,
+              "p50": 0.3788625725,
+              "p95": 1.3202998399499983,
+              "max": 1.984657866
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/HullCenterHullAvgScrHammersleySearchPlusMiddlePoint/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.23623496422680723,
+              "p50": -0.07851894976432922,
+              "p95": -0.061252659809579335,
+              "max": -0.057799070744983125
+            },
+            "value": {
+              "min": 0.240414373,
+              "p50": 0.2801674605,
+              "p95": 0.4823244386,
+              "max": 0.486040085
+            }
+          }
+        },
+        "LHSSearch": {
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/LHSSearch/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.8104128952046336,
+              "p50": -0.28277796554126317,
+              "p95": -0.25769775645928394,
+              "max": -0.2571443877156598
+            },
+            "value": {
+              "min": 0.507094062,
+              "p50": 0.5317687035,
+              "p95": 0.7607330847999997,
+              "max": 0.9002293570000001
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/LHSSearch/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.9779937297302791,
+              "p50": -0.4559424138433996,
+              "p95": -0.38612142031952384,
+              "max": -0.37001556713332445
+            },
+            "value": {
+              "min": 0.608289049,
+              "p50": 0.675182814,
+              "p95": 0.8651241291999997,
+              "max": 0.988935655
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/LHSSearch/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -0.5144134621311081,
+              "p50": -0.28088939916655975,
+              "p95": -0.2351993132993414,
+              "max": -0.23472928395507447
+            },
+            "value": {
+              "min": 0.484488683,
+              "p50": 0.5299797785,
+              "p95": 0.6487215939999998,
+              "max": 0.717226228
+            }
+          }
+        },
+        "LQOTPDE": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/LQOTPDE/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -2.172965187786237,
+              "p50": -1.4371803238628704,
+              "p95": -1.4345277426128704,
+              "max": -1.4343967478007373
+            },
+            "value": {
+              "min": 1.197663036,
+              "p50": 1.198824545,
+              "p95": 1.3521637592999998,
+              "max": 1.474098093
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/LQOTPDE/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -2.63191655295261,
+              "p50": -2.622647343721145,
+              "p95": -2.607379573976485,
+              "max": -2.6047994798384964
+            },
+            "value": {
+              "min": 1.613939119,
+              "p50": 1.619458966,
+              "p95": 1.6217680761,
+              "max": 1.6223182649999999
+            }
+          }
+        },
+        "MetaModelPSO": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/MetaModelPSO/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -29.099309216676534,
+              "p50": -28.464286717960753,
+              "p95": -28.071102183282473,
+              "max": -28.059819946762236
+            },
+            "value": {
+              "min": 5.297152059999999,
+              "p50": 5.335140995,
+              "p95": 5.3858249131500004,
+              "max": 5.394377556
+            }
+          },
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/MetaModelPSO/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -23.564151102812936,
+              "p50": -21.327799545770098,
+              "p95": -20.77322553427624,
+              "max": -20.76628467221132
+            },
+            "value": {
+              "min": 4.557003914,
+              "p50": 4.6180898415,
+              "p95": 4.779072751049999,
+              "max": 4.854292029
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/MetaModelPSO/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -11.740399841385797,
+              "p50": -11.719785744022895,
+              "p95": -11.713000080410003,
+              "max": -11.71158754502374
+            },
+            "value": {
+              "min": 3.4222196809999996,
+              "p50": 3.4234172569999997,
+              "p95": 3.4261406409,
+              "max": 3.426426687
+            }
+          }
+        },
+        "MixES": {
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/MixES/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.8111747976715151,
+              "p50": -1.2735059381249916,
+              "p95": -1.2038458011005682,
+              "max": -1.2031800538261745
+            },
+            "value": {
+              "min": 1.096895644,
+              "p50": 1.128474206,
+              "p95": 1.3026323637,
+              "max": 1.345798944
+            }
+          }
+        },
+        "MultiCMA": {
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/MultiCMA/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -24.634454891526374,
+              "p50": -20.056773248097855,
+              "p95": -17.06142376562554,
+              "max": -17.05086392786372
+            },
+            "value": {
+              "min": 4.129269176,
+              "p50": 4.4766805535000005,
+              "p95": 4.940268359099999,
+              "max": 4.96331088
+            }
+          }
+        },
+        "MultiScaleCMA": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/MultiScaleCMA/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -220.16076516193766,
+              "p50": -188.43371418244047,
+              "p95": -182.95735047404332,
+              "max": -182.93195245546622
+            },
+            "value": {
+              "min": 13.525233915,
+              "p50": 13.7271113175,
+              "p95": 14.508725809949999,
+              "max": 14.837815377
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/MultiScaleCMA/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -58.10638400240801,
+              "p50": -55.639346345573976,
+              "p95": -53.580157755127246,
+              "max": -53.470379117868426
+            },
+            "value": {
+              "min": 7.312344297,
+              "p50": 7.459120996,
+              "p95": 7.6045178758,
+              "max": 7.622754358000001
+            }
+          }
+        },
+        "NaiveTBPSA": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/NaiveTBPSA/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -7.944393216399967e-08,
+              "p50": -1.4070252519999946e-08,
+              "p95": -1.20078628056e-08,
+              "max": -1.1831783075999967e-08
+            },
+            "value": {
+              "min": 0.00010877399999999985,
+              "p50": 0.00011860199999999977,
+              "p95": 0.00026851324999999977,
+              "max": 0.0002818579999999994
+            }
+          },
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/NaiveTBPSA/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -6.39351453159997e-08,
+              "p50": -1.4744052408500042e-08,
+              "p95": -1.3625545706999963e-08,
+              "max": -1.361398904099994e-08
+            },
+            "value": {
+              "min": 0.00011667899999999974,
+              "p50": 0.00012141250000000017,
+              "p95": 0.00025027054999999973,
+              "max": 0.0002528539999999994
+            }
+          }
+        },
+        "NgIohTuned": {
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/NgIohTuned/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.1121855197206725,
+              "p50": -1.110094556294728,
+              "p95": -1.0658169157474635,
+              "max": -1.0648248807798115
+            },
+            "value": {
+              "min": 1.031903523,
+              "p50": 1.053610236,
+              "p95": 1.0543412614,
+              "max": 1.054602067
+            }
+          }
+        },
+        "NonNSGAIIES": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/NonNSGAIIES/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.3724728336195844,
+              "p50": -0.6565955629142338,
+              "p95": -0.5696462473117934,
+              "max": -0.5661402625800932
+            },
+            "value": {
+              "min": 0.752422928,
+              "p50": 0.8101915705,
+              "p95": 1.0389015406499997,
+              "max": 1.171525857
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/NonNSGAIIES/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.1224431807085558,
+              "p50": -0.5819836615024638,
+              "p95": -0.4985870850668233,
+              "max": -0.4957662844148659
+            },
+            "value": {
+              "min": 0.704106728,
+              "p50": 0.762860673,
+              "p95": 1.0325459521999998,
+              "max": 1.0594541899999999
+            }
+          }
+        },
+        "PSO": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/PSO/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -9.361193121969611,
+              "p50": -8.742136155893194,
+              "p95": -8.731106645981178,
+              "max": -8.730759590737803
+            },
+            "value": {
+              "min": 2.954785879,
+              "p50": 2.95671036,
+              "p95": 3.02490354675,
+              "max": 3.059606694
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/PSO/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -8.18077183544721,
+              "p50": -8.166157142724177,
+              "p95": -8.159114310399051,
+              "max": -8.157997806747042
+            },
+            "value": {
+              "min": 2.856220896,
+              "p50": 2.8576488835,
+              "p95": 2.85952152905,
+              "max": 2.860204859
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/PSO/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -13.456147039719088,
+              "p50": -13.288581583353832,
+              "p95": -13.251816680746506,
+              "max": -13.247942643351807
+            },
+            "value": {
+              "min": 3.639772334,
+              "p50": 3.6453503635,
+              "p95": 3.6681297992,
+              "max": 3.668262128
+            }
+          }
+        },
+        "QOTPDE": {
+          "1": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/QOTPDE/1",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.3134642897097015,
+              "p50": -1.1924450472288524,
+              "p95": -1.1408148491737096,
+              "max": -1.1039335224806783
+            },
+            "value": {
+              "min": 1.050682408,
+              "p50": 1.0919902515,
+              "p95": 1.14503824655,
+              "max": 1.146064697
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/QOTPDE/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.4741743746663656,
+              "p50": -1.0216288845288966,
+              "p95": -1.0167124156721017,
+              "max": -1.0153352217350795
+            },
+            "value": {
+              "min": 1.0076384379999999,
+              "p50": 1.010756587,
+              "p95": 1.21212636715,
+              "max": 1.214155828
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/QOTPDE/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -2.6553735059008123,
+              "p50": -2.603414039979479,
+              "p95": -2.3304416141062942,
+              "max": -2.310918929775417
+            },
+            "value": {
+              "min": 1.520170691,
+              "p50": 1.6135072030000002,
+              "p95": 1.62865732085,
+              "max": 1.629531683
+            }
+          }
+        },
+        "RecMixES": {
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/RecMixES/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -1.433145015203842,
+              "p50": -0.8247925133653183,
+              "p95": -0.7224336829569817,
+              "max": -0.7202940001632524
+            },
+            "value": {
+              "min": 0.848701361,
+              "p50": 0.90813815,
+              "p95": 1.15186482165,
+              "max": 1.197140349
+            }
+          }
+        },
+        "SQORealSpacePSO": {
+          "2": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/SQORealSpacePSO/2",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -14.585241586918926,
+              "p50": -14.133951106230455,
+              "p95": -14.060006140221384,
+              "max": -14.056250666950556
+            },
+            "value": {
+              "min": 3.749166663,
+              "p50": 3.7595134505,
+              "p95": 3.80958607525,
+              "max": 3.81906292
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/SQORealSpacePSO/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -13.870778520318652,
+              "p50": -13.442409576175113,
+              "p95": -13.368635289607061,
+              "max": -13.365734711754431
+            },
+            "value": {
+              "min": 3.655917766,
+              "p50": 3.666388577,
+              "p95": 3.7109196441,
+              "max": 3.724349409
+            }
+          },
+          "4": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/SQORealSpacePSO/4",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -18.956265942945222,
+              "p50": -18.35126950952279,
+              "p95": -18.135593530716545,
+              "max": -18.09072583334997
+            },
+            "value": {
+              "min": 4.25331939,
+              "p50": 4.283836978,
+              "p95": 4.347933493249999,
+              "max": 4.353879413
+            }
+          }
+        },
+        "TripleCMA": {
+          "0": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/TripleCMA/0",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -114.68522590087817,
+              "p50": -66.33624846168739,
+              "p95": -63.71044506214025,
+              "max": -63.40008610622209
+            },
+            "value": {
+              "min": 7.962417102000001,
+              "p50": 8.1444668855,
+              "p95": 9.859950945549997,
+              "max": 10.709118819999999
+            }
+          },
+          "3": {
+            "path": "<home>/individual_software_project/SAT/logs_arch_gt1s2L_sat/logs/log_gt1s2L_sat_mpfx_pow2/data/TripleCMA/3",
+            "n_evals": 10,
+            "ids_present": true,
+            "values_present": true,
+            "tests_present": true,
+            "loss_present": true,
+            "conf_present": true,
+            "loss": {
+              "min": -306.2468265582211,
+              "p50": -281.4092501535564,
+              "p95": -275.6900719645655,
+              "max": -275.16818303480545
+            },
+            "value": {
+              "min": 16.588194086,
+              "p50": 16.7752359875,
+              "p95": 17.42158830735,
+              "max": 17.49990933
+            }
+          }
+        }
+      }
+    }
+  },
+  "slurm": {
+    "jobs": [],
+    "tasks": 0,
+    "tracebacks": 0,
+    "killed": 0,
+    "tle": 0
+  }
+}

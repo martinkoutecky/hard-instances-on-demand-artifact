@@ -1,0 +1,1037 @@
+2026-07-18T20:31:43+00:00 tsp supervisor launch attempt 1
+tsp control_matrix_best_find train seed=1 rep=0: SOLVED 0.298351s
+tsp control_matrix_best_find train seed=1 rep=1: SOLVED 0.293509s
+tsp control_matrix_best_find train seed=1 rep=2: SOLVED 0.298393s
+tsp control_matrix_best_find train seed=2 rep=0: SOLVED 1.661932s
+tsp control_matrix_best_find train seed=2 rep=1: SOLVED 1.663241s
+tsp control_matrix_best_find train seed=2 rep=2: SOLVED 1.666679s
+tsp control_matrix_best_find train seed=3 rep=0: SOLVED 1.308460s
+tsp control_matrix_best_find train seed=3 rep=1: SOLVED 1.313347s
+tsp control_matrix_best_find train seed=3 rep=2: SOLVED 1.317074s
+tsp control_matrix_best_find train seed=4 rep=0: SOLVED 0.109117s
+tsp control_matrix_best_find train seed=4 rep=1: SOLVED 0.108403s
+tsp control_matrix_best_find train seed=4 rep=2: SOLVED 0.108703s
+tsp control_matrix_best_find train seed=5 rep=0: SOLVED 0.888471s
+tsp control_matrix_best_find train seed=5 rep=1: SOLVED 0.887602s
+tsp control_matrix_best_find train seed=5 rep=2: SOLVED 0.888247s
+tsp control_matrix_best_find train seed=6 rep=0: SOLVED 1.575276s
+tsp control_matrix_best_find train seed=6 rep=1: SOLVED 1.606849s
+tsp control_matrix_best_find train seed=6 rep=2: SOLVED 1.583833s
+tsp control_matrix_best_find train seed=7 rep=0: SOLVED 1.389754s
+tsp control_matrix_best_find train seed=7 rep=1: SOLVED 1.384836s
+tsp control_matrix_best_find train seed=7 rep=2: SOLVED 1.384490s
+tsp control_matrix_best_find heldout seed=8 rep=0: SOLVED 1.568642s
+tsp control_matrix_best_find heldout seed=9 rep=0: SOLVED 0.252269s
+tsp control_matrix_best_find heldout seed=10 rep=0: SOLVED 0.248814s
+tsp control_matrix_best_find heldout seed=11 rep=0: SOLVED 0.149435s
+tsp control_matrix_best_find heldout seed=12 rep=0: SOLVED 0.109272s
+tsp control_matrix_best_find heldout seed=13 rep=0: SOLVED 0.778090s
+tsp control_matrix_best_find heldout seed=14 rep=0: SOLVED 1.322119s
+tsp control_matrix_best_find heldout seed=15 rep=0: SOLVED 1.572273s
+tsp control_matrix_best_find heldout seed=16 rep=0: SOLVED 0.736015s
+tsp control_matrix_best_find heldout seed=17 rep=0: SOLVED 0.111728s
+tsp control_matrix_best_find heldout seed=18 rep=0: SOLVED 1.589877s
+tsp control_matrix_best_find heldout seed=19 rep=0: SOLVED 1.429116s
+tsp control_matrix_best_find heldout seed=20 rep=0: SOLVED 0.890410s
+tsp control_matrix_best_find heldout seed=21 rep=0: SOLVED 0.933707s
+tsp control_matrix_best_find heldout seed=22 rep=0: SOLVED 0.248359s
+tsp control_matrix_best_find heldout seed=23 rep=0: SOLVED 0.261622s
+tsp control_matrix_best_find heldout seed=24 rep=0: SOLVED 0.251314s
+tsp control_matrix_best_find heldout seed=25 rep=0: SOLVED 0.898843s
+tsp control_matrix_best_find heldout seed=26 rep=0: SOLVED 1.637663s
+tsp control_matrix_best_find heldout seed=27 rep=0: SOLVED 0.723412s
+tsp control_matrix_best_find heldout seed=28 rep=0: SOLVED 0.288038s
+tsp control_matrix_best_find heldout seed=29 rep=0: SOLVED 0.062082s
+tsp control_matrix_best_find heldout seed=30 rep=0: SOLVED 1.659308s
+tsp control_matrix_best_heldout train seed=1 rep=0: SOLVED 1.124992s
+tsp control_matrix_best_heldout train seed=1 rep=1: SOLVED 1.122506s
+tsp control_matrix_best_heldout train seed=1 rep=2: SOLVED 1.120381s
+tsp control_matrix_best_heldout train seed=2 rep=0: SOLVED 0.881333s
+tsp control_matrix_best_heldout train seed=2 rep=1: SOLVED 0.886952s
+tsp control_matrix_best_heldout train seed=2 rep=2: SOLVED 0.886944s
+tsp control_matrix_best_heldout train seed=3 rep=0: SOLVED 1.115253s
+tsp control_matrix_best_heldout train seed=3 rep=1: SOLVED 1.102850s
+tsp control_matrix_best_heldout train seed=3 rep=2: SOLVED 1.104731s
+tsp control_matrix_best_heldout train seed=4 rep=0: SOLVED 0.934113s
+tsp control_matrix_best_heldout train seed=4 rep=1: SOLVED 0.933413s
+tsp control_matrix_best_heldout train seed=4 rep=2: SOLVED 0.933869s
+tsp control_matrix_best_heldout train seed=5 rep=0: SOLVED 0.966684s
+tsp control_matrix_best_heldout train seed=5 rep=1: SOLVED 0.956837s
+tsp control_matrix_best_heldout train seed=5 rep=2: SOLVED 0.949653s
+tsp control_matrix_best_heldout train seed=6 rep=0: SOLVED 0.869335s
+tsp control_matrix_best_heldout train seed=6 rep=1: SOLVED 0.874809s
+tsp control_matrix_best_heldout train seed=6 rep=2: SOLVED 0.874086s
+tsp control_matrix_best_heldout train seed=7 rep=0: SOLVED 1.119458s
+tsp control_matrix_best_heldout train seed=7 rep=1: SOLVED 1.121349s
+tsp control_matrix_best_heldout train seed=7 rep=2: SOLVED 1.124681s
+tsp control_matrix_best_heldout heldout seed=8 rep=0: SOLVED 0.998512s
+tsp control_matrix_best_heldout heldout seed=9 rep=0: SOLVED 1.091499s
+tsp control_matrix_best_heldout heldout seed=10 rep=0: SOLVED 0.709443s
+tsp control_matrix_best_heldout heldout seed=11 rep=0: SOLVED 0.991470s
+tsp control_matrix_best_heldout heldout seed=12 rep=0: SOLVED 0.968029s
+tsp control_matrix_best_heldout heldout seed=13 rep=0: SOLVED 1.250444s
+tsp control_matrix_best_heldout heldout seed=14 rep=0: SOLVED 1.131581s
+tsp control_matrix_best_heldout heldout seed=15 rep=0: SOLVED 1.468875s
+tsp control_matrix_best_heldout heldout seed=16 rep=0: SOLVED 1.081829s
+tsp control_matrix_best_heldout heldout seed=17 rep=0: SOLVED 0.990948s
+tsp control_matrix_best_heldout heldout seed=18 rep=0: SOLVED 0.627271s
+tsp control_matrix_best_heldout heldout seed=19 rep=0: SOLVED 1.498905s
+tsp control_matrix_best_heldout heldout seed=20 rep=0: SOLVED 0.757404s
+tsp control_matrix_best_heldout heldout seed=21 rep=0: SOLVED 0.531045s
+tsp control_matrix_best_heldout heldout seed=22 rep=0: SOLVED 0.632256s
+tsp control_matrix_best_heldout heldout seed=23 rep=0: SOLVED 0.807818s
+tsp control_matrix_best_heldout heldout seed=24 rep=0: SOLVED 0.682607s
+tsp control_matrix_best_heldout heldout seed=25 rep=0: SOLVED 0.526706s
+tsp control_matrix_best_heldout heldout seed=26 rep=0: SOLVED 0.616075s
+tsp control_matrix_best_heldout heldout seed=27 rep=0: SOLVED 1.010033s
+tsp control_matrix_best_heldout heldout seed=28 rep=0: SOLVED 0.516794s
+tsp control_matrix_best_heldout heldout seed=29 rep=0: SOLVED 0.839822s
+tsp control_matrix_best_heldout heldout seed=30 rep=0: SOLVED 1.090714s
+tsp control_random_euclidean train seed=1 rep=0: SOLVED 0.076939s
+tsp control_random_euclidean train seed=1 rep=1: SOLVED 0.076406s
+tsp control_random_euclidean train seed=1 rep=2: SOLVED 0.076176s
+tsp control_random_euclidean train seed=2 rep=0: SOLVED 0.076321s
+tsp control_random_euclidean train seed=2 rep=1: SOLVED 0.076214s
+tsp control_random_euclidean train seed=2 rep=2: SOLVED 0.076323s
+tsp control_random_euclidean train seed=3 rep=0: SOLVED 0.047497s
+tsp control_random_euclidean train seed=3 rep=1: SOLVED 0.047594s
+tsp control_random_euclidean train seed=3 rep=2: SOLVED 0.047761s
+tsp control_random_euclidean train seed=4 rep=0: SOLVED 0.090819s
+tsp control_random_euclidean train seed=4 rep=1: SOLVED 0.090486s
+tsp control_random_euclidean train seed=4 rep=2: SOLVED 0.091226s
+tsp control_random_euclidean train seed=5 rep=0: SOLVED 0.114691s
+tsp control_random_euclidean train seed=5 rep=1: SOLVED 0.113847s
+tsp control_random_euclidean train seed=5 rep=2: SOLVED 0.114721s
+tsp control_random_euclidean train seed=6 rep=0: SOLVED 0.071130s
+tsp control_random_euclidean train seed=6 rep=1: SOLVED 0.071417s
+tsp control_random_euclidean train seed=6 rep=2: SOLVED 0.071053s
+tsp control_random_euclidean train seed=7 rep=0: SOLVED 0.111236s
+tsp control_random_euclidean train seed=7 rep=1: SOLVED 0.113356s
+tsp control_random_euclidean train seed=7 rep=2: SOLVED 0.113823s
+tsp control_random_euclidean heldout seed=8 rep=0: SOLVED 0.063190s
+tsp control_random_euclidean heldout seed=9 rep=0: SOLVED 0.049906s
+tsp control_random_euclidean heldout seed=10 rep=0: SOLVED 0.049997s
+tsp control_random_euclidean heldout seed=11 rep=0: SOLVED 0.056188s
+tsp control_random_euclidean heldout seed=12 rep=0: SOLVED 0.139793s
+tsp control_random_euclidean heldout seed=13 rep=0: SOLVED 0.117697s
+tsp control_random_euclidean heldout seed=14 rep=0: SOLVED 0.053315s
+tsp control_random_euclidean heldout seed=15 rep=0: SOLVED 0.115306s
+tsp control_random_euclidean heldout seed=16 rep=0: SOLVED 0.115486s
+tsp control_random_euclidean heldout seed=17 rep=0: SOLVED 0.064813s
+tsp control_random_euclidean heldout seed=18 rep=0: SOLVED 0.062379s
+tsp control_random_euclidean heldout seed=19 rep=0: SOLVED 0.102804s
+tsp control_random_euclidean heldout seed=20 rep=0: SOLVED 0.115785s
+tsp control_random_euclidean heldout seed=21 rep=0: SOLVED 0.071481s
+tsp control_random_euclidean heldout seed=22 rep=0: SOLVED 0.069800s
+tsp control_random_euclidean heldout seed=23 rep=0: SOLVED 0.111139s
+tsp control_random_euclidean heldout seed=24 rep=0: SOLVED 0.020798s
+tsp control_random_euclidean heldout seed=25 rep=0: SOLVED 0.075662s
+tsp control_random_euclidean heldout seed=26 rep=0: SOLVED 0.067157s
+tsp control_random_euclidean heldout seed=27 rep=0: SOLVED 0.118527s
+tsp control_random_euclidean heldout seed=28 rep=0: SOLVED 0.022273s
+tsp control_random_euclidean heldout seed=29 rep=0: SOLVED 0.038635s
+tsp control_random_euclidean heldout seed=30 rep=0: SOLVED 0.099736s
+tsp champion_cma train seed=1 rep=0: SOLVED 9.875985s
+tsp champion_cma train seed=1 rep=1: SOLVED 9.839817s
+tsp champion_cma train seed=1 rep=2: SOLVED 9.849503s
+tsp champion_cma train seed=2 rep=0: SOLVED 0.181664s
+tsp champion_cma train seed=2 rep=1: SOLVED 0.184688s
+tsp champion_cma train seed=2 rep=2: SOLVED 0.183917s
+tsp champion_cma train seed=3 rep=0: SOLVED 0.158811s
+tsp champion_cma train seed=3 rep=1: SOLVED 0.158988s
+tsp champion_cma train seed=3 rep=2: SOLVED 0.159757s
+tsp champion_cma train seed=4 rep=0: SOLVED 0.112048s
+tsp champion_cma train seed=4 rep=1: SOLVED 0.114021s
+tsp champion_cma train seed=4 rep=2: SOLVED 0.112892s
+tsp champion_cma train seed=5 rep=0: SOLVED 9.864895s
+tsp champion_cma train seed=5 rep=1: SOLVED 9.862104s
+tsp champion_cma train seed=5 rep=2: SOLVED 9.861675s
+tsp champion_cma train seed=6 rep=0: SOLVED 9.991168s
+tsp champion_cma train seed=6 rep=1: SOLVED 10.045706s
+tsp champion_cma train seed=6 rep=2: SOLVED 10.020008s
+tsp champion_cma train seed=7 rep=0: SOLVED 10.050348s
+tsp champion_cma train seed=7 rep=1: SOLVED 10.078860s
+tsp champion_cma train seed=7 rep=2: SOLVED 10.155969s
+tsp champion_cma heldout seed=8 rep=0: SOLVED 0.188265s
+tsp champion_cma heldout seed=9 rep=0: SOLVED 0.117975s
+tsp champion_cma heldout seed=10 rep=0: SOLVED 2.021386s
+tsp champion_cma heldout seed=11 rep=0: SOLVED 4.179481s
+tsp champion_cma heldout seed=12 rep=0: SOLVED 4.314707s
+tsp champion_cma heldout seed=13 rep=0: SOLVED 4.716731s
+tsp champion_cma heldout seed=14 rep=0: SOLVED 0.220058s
+tsp champion_cma heldout seed=15 rep=0: SOLVED 0.162681s
+tsp champion_cma heldout seed=16 rep=0: SOLVED 0.166471s
+tsp champion_cma heldout seed=17 rep=0: SOLVED 1.318744s
+tsp champion_cma heldout seed=18 rep=0: SOLVED 1.320288s
+tsp champion_cma heldout seed=19 rep=0: SOLVED 1.319225s
+tsp champion_cma heldout seed=20 rep=0: SOLVED 1.263162s
+tsp champion_cma heldout seed=21 rep=0: SOLVED 3.176677s
+tsp champion_cma heldout seed=22 rep=0: SOLVED 10.125409s
+tsp champion_cma heldout seed=23 rep=0: SOLVED 0.273428s
+tsp champion_cma heldout seed=24 rep=0: SOLVED 10.115796s
+tsp champion_cma heldout seed=25 rep=0: SOLVED 6.499675s
+tsp champion_cma heldout seed=26 rep=0: SOLVED 5.094974s
+tsp champion_cma heldout seed=27 rep=0: SOLVED 0.189458s
+tsp champion_cma heldout seed=28 rep=0: SOLVED 1.352796s
+tsp champion_cma heldout seed=29 rep=0: SOLVED 1.682304s
+tsp champion_cma heldout seed=30 rep=0: SOLVED 1.052685s
+tsp champion_shiwa train seed=1 rep=0: SOLVED 13.864334s
+tsp champion_shiwa train seed=1 rep=1: SOLVED 13.862085s
+tsp champion_shiwa train seed=1 rep=2: SOLVED 13.906107s
+tsp champion_shiwa train seed=2 rep=0: SOLVED 9.860903s
+tsp champion_shiwa train seed=2 rep=1: SOLVED 9.914497s
+tsp champion_shiwa train seed=2 rep=2: SOLVED 9.894923s
+tsp champion_shiwa train seed=3 rep=0: SOLVED 14.256278s
+tsp champion_shiwa train seed=3 rep=1: SOLVED 14.211232s
+tsp champion_shiwa train seed=3 rep=2: SOLVED 14.253658s
+tsp champion_shiwa train seed=4 rep=0: SOLVED 11.459882s
+tsp champion_shiwa train seed=4 rep=1: SOLVED 11.415336s
+tsp champion_shiwa train seed=4 rep=2: SOLVED 11.481644s
+tsp champion_shiwa train seed=5 rep=0: SOLVED 14.329728s
+tsp champion_shiwa train seed=5 rep=1: SOLVED 14.190412s
+tsp champion_shiwa train seed=5 rep=2: SOLVED 14.444493s
+tsp champion_shiwa train seed=6 rep=0: SOLVED 14.289396s
+tsp champion_shiwa train seed=6 rep=1: SOLVED 13.973487s
+tsp champion_shiwa train seed=6 rep=2: SOLVED 14.047469s
+tsp champion_shiwa train seed=7 rep=0: SOLVED 6.865684s
+tsp champion_shiwa train seed=7 rep=1: SOLVED 6.833077s
+tsp champion_shiwa train seed=7 rep=2: SOLVED 6.853691s
+tsp champion_shiwa heldout seed=8 rep=0: SOLVED 9.532623s
+tsp champion_shiwa heldout seed=9 rep=0: SOLVED 13.608948s
+tsp champion_shiwa heldout seed=10 rep=0: SOLVED 7.705963s
+tsp champion_shiwa heldout seed=11 rep=0: SOLVED 8.594324s
+tsp champion_shiwa heldout seed=12 rep=0: SOLVED 8.345325s
+tsp champion_shiwa heldout seed=13 rep=0: SOLVED 10.276017s
+tsp champion_shiwa heldout seed=14 rep=0: SOLVED 6.887607s
+tsp champion_shiwa heldout seed=15 rep=0: SOLVED 5.168323s
+tsp champion_shiwa heldout seed=16 rep=0: SOLVED 8.541942s
+tsp champion_shiwa heldout seed=17 rep=0: SOLVED 8.244646s
+tsp champion_shiwa heldout seed=18 rep=0: SOLVED 4.206155s
+tsp champion_shiwa heldout seed=19 rep=0: SOLVED 9.692273s
+tsp champion_shiwa heldout seed=20 rep=0: SOLVED 8.027571s
+tsp champion_shiwa heldout seed=21 rep=0: SOLVED 13.677573s
+tsp champion_shiwa heldout seed=22 rep=0: SOLVED 8.000533s
+tsp champion_shiwa heldout seed=23 rep=0: SOLVED 2.541152s
+tsp champion_shiwa heldout seed=24 rep=0: SOLVED 8.435105s
+tsp champion_shiwa heldout seed=25 rep=0: SOLVED 5.189302s
+tsp champion_shiwa heldout seed=26 rep=0: SOLVED 6.931430s
+tsp champion_shiwa heldout seed=27 rep=0: SOLVED 5.546878s
+tsp champion_shiwa heldout seed=28 rep=0: SOLVED 6.792686s
+tsp champion_shiwa heldout seed=29 rep=0: SOLVED 8.089851s
+tsp champion_shiwa heldout seed=30 rep=0: SOLVED 13.707282s
+tsp champion_diagonalcma_u10000 train seed=1 rep=0: SOLVED 16.296281s
+tsp champion_diagonalcma_u10000 train seed=1 rep=1: SOLVED 16.483108s
+tsp champion_diagonalcma_u10000 train seed=1 rep=2: SOLVED 16.498013s
+tsp champion_diagonalcma_u10000 train seed=2 rep=0: SOLVED 21.120265s
+tsp champion_diagonalcma_u10000 train seed=2 rep=1: SOLVED 20.885139s
+tsp champion_diagonalcma_u10000 train seed=2 rep=2: SOLVED 20.718396s
+tsp champion_diagonalcma_u10000 train seed=3 rep=0: SOLVED 17.399702s
+tsp champion_diagonalcma_u10000 train seed=3 rep=1: SOLVED 17.354462s
+tsp champion_diagonalcma_u10000 train seed=3 rep=2: SOLVED 17.368383s
+tsp champion_diagonalcma_u10000 train seed=4 rep=0: SOLVED 4.795634s
+tsp champion_diagonalcma_u10000 train seed=4 rep=1: SOLVED 4.733173s
+tsp champion_diagonalcma_u10000 train seed=4 rep=2: SOLVED 4.698861s
+tsp champion_diagonalcma_u10000 train seed=5 rep=0: SOLVED 6.612169s
+tsp champion_diagonalcma_u10000 train seed=5 rep=1: SOLVED 6.609210s
+tsp champion_diagonalcma_u10000 train seed=5 rep=2: SOLVED 6.610440s
+tsp champion_diagonalcma_u10000 train seed=6 rep=0: SOLVED 20.669962s
+tsp champion_diagonalcma_u10000 train seed=6 rep=1: SOLVED 20.566170s
+tsp champion_diagonalcma_u10000 train seed=6 rep=2: SOLVED 20.585297s
+tsp champion_diagonalcma_u10000 train seed=7 rep=0: SOLVED 22.419775s
+tsp champion_diagonalcma_u10000 train seed=7 rep=1: SOLVED 22.358649s
+tsp champion_diagonalcma_u10000 train seed=7 rep=2: SOLVED 22.446974s
+tsp champion_diagonalcma_u10000 heldout seed=8 rep=0: SOLVED 13.587597s
+tsp champion_diagonalcma_u10000 heldout seed=9 rep=0: SOLVED 7.378292s
+tsp champion_diagonalcma_u10000 heldout seed=10 rep=0: SOLVED 20.614929s
+tsp champion_diagonalcma_u10000 heldout seed=11 rep=0: SOLVED 6.656539s
+tsp champion_diagonalcma_u10000 heldout seed=12 rep=0: SOLVED 12.978529s
+tsp champion_diagonalcma_u10000 heldout seed=13 rep=0: SOLVED 11.369759s
+tsp champion_diagonalcma_u10000 heldout seed=14 rep=0: SOLVED 1.379358s
+tsp champion_diagonalcma_u10000 heldout seed=15 rep=0: SOLVED 14.246870s
+tsp champion_diagonalcma_u10000 heldout seed=16 rep=0: SOLVED 14.226060s
+tsp champion_diagonalcma_u10000 heldout seed=17 rep=0: SOLVED 12.404414s
+tsp champion_diagonalcma_u10000 heldout seed=18 rep=0: SOLVED 17.092260s
+tsp champion_diagonalcma_u10000 heldout seed=19 rep=0: SOLVED 9.713731s
+tsp champion_diagonalcma_u10000 heldout seed=20 rep=0: SOLVED 9.384793s
+tsp champion_diagonalcma_u10000 heldout seed=21 rep=0: SOLVED 19.969897s
+tsp champion_diagonalcma_u10000 heldout seed=22 rep=0: SOLVED 14.004593s
+tsp champion_diagonalcma_u10000 heldout seed=23 rep=0: SOLVED 12.205234s
+tsp champion_diagonalcma_u10000 heldout seed=24 rep=0: SOLVED 7.231600s
+tsp champion_diagonalcma_u10000 heldout seed=25 rep=0: SOLVED 24.588997s
+tsp champion_diagonalcma_u10000 heldout seed=26 rep=0: SOLVED 18.182004s
+tsp champion_diagonalcma_u10000 heldout seed=27 rep=0: SOLVED 16.270664s
+tsp champion_diagonalcma_u10000 heldout seed=28 rep=0: SOLVED 7.366563s
+tsp champion_diagonalcma_u10000 heldout seed=29 rep=0: SOLVED 20.600394s
+tsp champion_diagonalcma_u10000 heldout seed=30 rep=0: SOLVED 7.225383s
+tsp_external tsplib/a280 train seed=1: SOLVED 0.483421s
+tsp_external tsplib/a280 train seed=2: SOLVED 0.323446s
+tsp_external tsplib/a280 train seed=3: SOLVED 0.289126s
+tsp_external tsplib/a280 train seed=4: SOLVED 0.571274s
+tsp_external tsplib/a280 train seed=5: SOLVED 0.219528s
+tsp_external tsplib/a280 train seed=6: SOLVED 0.447631s
+tsp_external tsplib/a280 train seed=7: SOLVED 0.375096s
+tsp_external tsplib/att48 train seed=1: SOLVED 0.041771s
+tsp_external tsplib/att48 train seed=2: SOLVED 0.054748s
+tsp_external tsplib/att48 train seed=3: SOLVED 0.036363s
+tsp_external tsplib/att48 train seed=4: SOLVED 0.035504s
+tsp_external tsplib/att48 train seed=5: SOLVED 0.035194s
+tsp_external tsplib/att48 train seed=6: SOLVED 0.047006s
+tsp_external tsplib/att48 train seed=7: SOLVED 0.036530s
+tsp_external tsplib/bayg29 train seed=1: SOLVED 0.007446s
+tsp_external tsplib/bayg29 train seed=2: SOLVED 0.007064s
+tsp_external tsplib/bayg29 train seed=3: SOLVED 0.007706s
+tsp_external tsplib/bayg29 train seed=4: SOLVED 0.007295s
+tsp_external tsplib/bayg29 train seed=5: SOLVED 0.007023s
+tsp_external tsplib/bayg29 train seed=6: SOLVED 0.007397s
+tsp_external tsplib/bayg29 train seed=7: SOLVED 0.007203s
+tsp_external tsplib/bays29 train seed=1: SOLVED 0.008783s
+tsp_external tsplib/bays29 train seed=2: SOLVED 0.010615s
+tsp_external tsplib/bays29 train seed=3: SOLVED 0.009492s
+tsp_external tsplib/bays29 train seed=4: SOLVED 0.009826s
+tsp_external tsplib/bays29 train seed=5: SOLVED 0.009527s
+tsp_external tsplib/bays29 train seed=6: SOLVED 0.008394s
+tsp_external tsplib/bays29 train seed=7: SOLVED 0.010145s
+tsp_external tsplib/berlin52 train seed=1: SOLVED 0.023249s
+tsp_external tsplib/berlin52 train seed=2: SOLVED 0.023242s
+tsp_external tsplib/berlin52 train seed=3: SOLVED 0.023041s
+tsp_external tsplib/berlin52 train seed=4: SOLVED 0.022340s
+tsp_external tsplib/berlin52 train seed=5: SOLVED 0.022246s
+tsp_external tsplib/berlin52 train seed=6: SOLVED 0.022460s
+tsp_external tsplib/berlin52 train seed=7: SOLVED 0.021487s
+tsp_external tsplib/bier127 train seed=1: SOLVED 0.119600s
+tsp_external tsplib/bier127 train seed=2: SOLVED 0.111086s
+tsp_external tsplib/bier127 train seed=3: SOLVED 0.111241s
+tsp_external tsplib/bier127 train seed=4: SOLVED 0.112809s
+tsp_external tsplib/bier127 train seed=5: SOLVED 0.118460s
+tsp_external tsplib/bier127 train seed=6: SOLVED 0.121339s
+tsp_external tsplib/bier127 train seed=7: SOLVED 0.122168s
+tsp_external tsplib/brazil58 train seed=1: SOLVED 0.045350s
+tsp_external tsplib/brazil58 train seed=2: SOLVED 0.044662s
+tsp_external tsplib/brazil58 train seed=3: SOLVED 0.042952s
+tsp_external tsplib/brazil58 train seed=4: SOLVED 0.041891s
+tsp_external tsplib/brazil58 train seed=5: SOLVED 0.042671s
+tsp_external tsplib/brazil58 train seed=6: SOLVED 0.042671s
+tsp_external tsplib/brazil58 train seed=7: SOLVED 0.043801s
+tsp_external tsplib/brg180 train seed=1: SOLVED 1.080596s
+tsp_external tsplib/brg180 train seed=2: SOLVED 0.234762s
+tsp_external tsplib/brg180 train seed=3: SOLVED 0.207066s
+tsp_external tsplib/brg180 train seed=4: SOLVED 0.174101s
+tsp_external tsplib/brg180 train seed=5: SOLVED 0.771602s
+tsp_external tsplib/brg180 train seed=6: SOLVED 0.946392s
+tsp_external tsplib/brg180 train seed=7: SOLVED 0.748200s
+tsp_external tsplib/burma14 train seed=1: SOLVED 0.004638s
+tsp_external tsplib/burma14 train seed=2: SOLVED 0.004631s
+tsp_external tsplib/burma14 train seed=3: SOLVED 0.004782s
+tsp_external tsplib/burma14 train seed=4: SOLVED 0.004547s
+tsp_external tsplib/burma14 train seed=5: SOLVED 0.004712s
+tsp_external tsplib/burma14 train seed=6: SOLVED 0.004794s
+tsp_external tsplib/burma14 train seed=7: SOLVED 0.004703s
+tsp_external tsplib/ch130 train seed=1: SOLVED 0.114125s
+tsp_external tsplib/ch130 train seed=2: SOLVED 0.105608s
+tsp_external tsplib/ch130 train seed=3: SOLVED 0.124692s
+tsp_external tsplib/ch130 train seed=4: SOLVED 0.118307s
+tsp_external tsplib/ch130 train seed=5: SOLVED 0.113615s
+tsp_external tsplib/ch130 train seed=6: SOLVED 0.094930s
+tsp_external tsplib/ch130 train seed=7: SOLVED 0.128759s
+tsp_external tsplib/ch150 train seed=1: SOLVED 0.310045s
+tsp_external tsplib/ch150 train seed=2: SOLVED 0.160308s
+tsp_external tsplib/ch150 train seed=3: SOLVED 0.726491s
+tsp_external tsplib/ch150 train seed=4: SOLVED 0.161979s
+tsp_external tsplib/ch150 train seed=5: SOLVED 0.129785s
+tsp_external tsplib/ch150 train seed=6: SOLVED 0.149987s
+tsp_external tsplib/ch150 train seed=7: SOLVED 0.152522s
+tsp_external tsplib/d198 train seed=1: SOLVED 1.170471s
+tsp_external tsplib/d198 train seed=2: SOLVED 0.571229s
+tsp_external tsplib/d198 train seed=3: SOLVED 0.943060s
+tsp_external tsplib/d198 train seed=4: SOLVED 0.582685s
+tsp_external tsplib/d198 train seed=5: SOLVED 2.455854s
+tsp_external tsplib/d198 train seed=6: SOLVED 1.417682s
+tsp_external tsplib/d198 train seed=7: SOLVED 0.694465s
+tsp_external tsplib/dantzig42 train seed=1: SOLVED 0.016708s
+tsp_external tsplib/dantzig42 train seed=2: SOLVED 0.013126s
+tsp_external tsplib/dantzig42 train seed=3: SOLVED 0.013522s
+tsp_external tsplib/dantzig42 train seed=4: SOLVED 0.012210s
+tsp_external tsplib/dantzig42 train seed=5: SOLVED 0.013110s
+tsp_external tsplib/dantzig42 train seed=6: SOLVED 0.013613s
+tsp_external tsplib/dantzig42 train seed=7: SOLVED 0.012319s
+tsp_external tsplib/eil101 train seed=1: SOLVED 0.050291s
+tsp_external tsplib/eil101 train seed=2: SOLVED 0.050271s
+tsp_external tsplib/eil101 train seed=3: SOLVED 0.048557s
+tsp_external tsplib/eil101 train seed=4: SOLVED 0.051880s
+tsp_external tsplib/eil101 train seed=5: SOLVED 0.053774s
+tsp_external tsplib/eil101 train seed=6: SOLVED 0.036735s
+tsp_external tsplib/eil101 train seed=7: SOLVED 0.072060s
+tsp_external tsplib/eil51 train seed=1: SOLVED 0.018381s
+tsp_external tsplib/eil51 train seed=2: SOLVED 0.021141s
+tsp_external tsplib/eil51 train seed=3: SOLVED 0.021553s
+tsp_external tsplib/eil51 train seed=4: SOLVED 0.023729s
+tsp_external tsplib/eil51 train seed=5: SOLVED 0.018509s
+tsp_external tsplib/eil51 train seed=6: SOLVED 0.021499s
+tsp_external tsplib/eil51 train seed=7: SOLVED 0.021572s
+tsp_external tsplib/eil76 train seed=1: SOLVED 0.020419s
+tsp_external tsplib/eil76 train seed=2: SOLVED 0.018942s
+tsp_external tsplib/eil76 train seed=3: SOLVED 0.020949s
+tsp_external tsplib/eil76 train seed=4: SOLVED 0.020360s
+tsp_external tsplib/eil76 train seed=5: SOLVED 0.021783s
+tsp_external tsplib/eil76 train seed=6: SOLVED 0.019997s
+tsp_external tsplib/eil76 train seed=7: SOLVED 0.022574s
+tsp_external tsplib/fri26 train seed=1: SOLVED 0.006789s
+tsp_external tsplib/fri26 train seed=2: SOLVED 0.006157s
+tsp_external tsplib/fri26 train seed=3: SOLVED 0.006056s
+tsp_external tsplib/fri26 train seed=4: SOLVED 0.006239s
+tsp_external tsplib/fri26 train seed=5: SOLVED 0.006157s
+tsp_external tsplib/fri26 train seed=6: SOLVED 0.006757s
+tsp_external tsplib/fri26 train seed=7: SOLVED 0.007180s
+tsp_external tsplib/gil262 train seed=1: SOLVED 0.743997s
+tsp_external tsplib/gil262 train seed=2: SOLVED 2.146757s
+tsp_external tsplib/gil262 train seed=3: SOLVED 1.606282s
+tsp_external tsplib/gil262 train seed=4: SOLVED 0.842291s
+tsp_external tsplib/gil262 train seed=5: SOLVED 1.538334s
+tsp_external tsplib/gil262 train seed=6: SOLVED 0.705110s
+tsp_external tsplib/gil262 train seed=7: SOLVED 1.186610s
+tsp_external tsplib/gr120 train seed=1: SOLVED 0.096863s
+tsp_external tsplib/gr120 train seed=2: SOLVED 0.091047s
+tsp_external tsplib/gr120 train seed=3: SOLVED 0.089896s
+tsp_external tsplib/gr120 train seed=4: SOLVED 0.104576s
+tsp_external tsplib/gr120 train seed=5: SOLVED 0.081693s
+tsp_external tsplib/gr120 train seed=6: SOLVED 0.081688s
+tsp_external tsplib/gr120 train seed=7: SOLVED 0.106157s
+tsp_external tsplib/gr137 train seed=1: SOLVED 0.244659s
+tsp_external tsplib/gr137 train seed=2: SOLVED 0.258262s
+tsp_external tsplib/gr137 train seed=3: SOLVED 0.194104s
+tsp_external tsplib/gr137 train seed=4: SOLVED 0.344415s
+tsp_external tsplib/gr137 train seed=5: SOLVED 0.259868s
+tsp_external tsplib/gr137 train seed=6: SOLVED 0.328448s
+tsp_external tsplib/gr137 train seed=7: SOLVED 0.216771s
+tsp_external tsplib/gr17 train seed=1: SOLVED 0.007069s
+tsp_external tsplib/gr17 train seed=2: SOLVED 0.007176s
+tsp_external tsplib/gr17 train seed=3: SOLVED 0.006553s
+tsp_external tsplib/gr17 train seed=4: SOLVED 0.007627s
+tsp_external tsplib/gr17 train seed=5: SOLVED 0.007467s
+tsp_external tsplib/gr17 train seed=6: SOLVED 0.006813s
+tsp_external tsplib/gr17 train seed=7: SOLVED 0.006786s
+tsp_external tsplib/gr202 train seed=1: SOLVED 0.492422s
+tsp_external tsplib/gr202 train seed=2: SOLVED 0.308271s
+tsp_external tsplib/gr202 train seed=3: SOLVED 0.342908s
+tsp_external tsplib/gr202 train seed=4: SOLVED 0.456285s
+tsp_external tsplib/gr202 train seed=5: SOLVED 0.882681s
+tsp_external tsplib/gr202 train seed=6: SOLVED 0.907227s
+tsp_external tsplib/gr202 train seed=7: SOLVED 0.327862s
+tsp_external tsplib/gr21 train seed=1: SOLVED 0.002689s
+tsp_external tsplib/gr21 train seed=2: SOLVED 0.002611s
+tsp_external tsplib/gr21 train seed=3: SOLVED 0.002857s
+tsp_external tsplib/gr21 train seed=4: SOLVED 0.002627s
+tsp_external tsplib/gr21 train seed=5: SOLVED 0.002642s
+tsp_external tsplib/gr21 train seed=6: SOLVED 0.002722s
+tsp_external tsplib/gr21 train seed=7: SOLVED 0.002648s
+tsp_external tsplib/gr229 train seed=1: SOLVED 4.803824s
+tsp_external tsplib/gr229 train seed=2: SOLVED 2.304460s
+tsp_external tsplib/gr229 train seed=3: SOLVED 2.649039s
+tsp_external tsplib/gr229 train seed=4: SOLVED 1.815558s
+tsp_external tsplib/gr229 train seed=5: SOLVED 5.587588s
+tsp_external tsplib/gr229 train seed=6: SOLVED 2.321220s
+tsp_external tsplib/gr229 train seed=7: SOLVED 2.182696s
+tsp_external tsplib/gr229 heldout seed=8: SOLVED 2.765755s
+tsp_external tsplib/gr229 heldout seed=9: SOLVED 2.282574s
+tsp_external tsplib/gr229 heldout seed=10: SOLVED 2.556940s
+tsp_external tsplib/gr229 heldout seed=11: SOLVED 2.097883s
+tsp_external tsplib/gr229 heldout seed=12: SOLVED 2.242688s
+tsp_external tsplib/gr229 heldout seed=13: SOLVED 2.116747s
+tsp_external tsplib/gr229 heldout seed=14: SOLVED 2.501048s
+tsp_external tsplib/gr229 heldout seed=15: SOLVED 1.940792s
+tsp_external tsplib/gr229 heldout seed=16: SOLVED 2.879588s
+tsp_external tsplib/gr229 heldout seed=17: SOLVED 2.178627s
+tsp_external tsplib/gr229 heldout seed=18: SOLVED 1.761534s
+tsp_external tsplib/gr229 heldout seed=19: SOLVED 1.768189s
+tsp_external tsplib/gr229 heldout seed=20: SOLVED 2.066995s
+tsp_external tsplib/gr229 heldout seed=21: SOLVED 1.909274s
+tsp_external tsplib/gr229 heldout seed=22: SOLVED 2.648635s
+tsp_external tsplib/gr229 heldout seed=23: SOLVED 3.122218s
+tsp_external tsplib/gr229 heldout seed=24: SOLVED 2.232274s
+tsp_external tsplib/gr229 heldout seed=25: SOLVED 1.764362s
+tsp_external tsplib/gr229 heldout seed=26: SOLVED 2.173038s
+tsp_external tsplib/gr229 heldout seed=27: SOLVED 3.853754s
+tsp_external tsplib/gr229 heldout seed=28: SOLVED 2.948158s
+tsp_external tsplib/gr229 heldout seed=29: SOLVED 1.361258s
+tsp_external tsplib/gr229 heldout seed=30: SOLVED 3.131410s
+tsp_external tsplib/gr24 train seed=1: SOLVED 0.005684s
+tsp_external tsplib/gr24 train seed=2: SOLVED 0.005721s
+tsp_external tsplib/gr24 train seed=3: SOLVED 0.006504s
+tsp_external tsplib/gr24 train seed=4: SOLVED 0.005468s
+tsp_external tsplib/gr24 train seed=5: SOLVED 0.005624s
+tsp_external tsplib/gr24 train seed=6: SOLVED 0.006157s
+tsp_external tsplib/gr24 train seed=7: SOLVED 0.005671s
+tsp_external tsplib/gr48 train seed=1: SOLVED 0.025614s
+tsp_external tsplib/gr48 train seed=2: SOLVED 0.033006s
+tsp_external tsplib/gr48 train seed=3: SOLVED 0.028461s
+tsp_external tsplib/gr48 train seed=4: SOLVED 0.030590s
+tsp_external tsplib/gr48 train seed=5: SOLVED 0.021628s
+tsp_external tsplib/gr48 train seed=6: SOLVED 0.023924s
+tsp_external tsplib/gr48 train seed=7: SOLVED 0.030494s
+tsp_external tsplib/gr96 train seed=1: SOLVED 0.706009s
+tsp_external tsplib/gr96 train seed=2: SOLVED 0.252799s
+tsp_external tsplib/gr96 train seed=3: SOLVED 1.104029s
+tsp_external tsplib/gr96 train seed=4: SOLVED 0.448797s
+tsp_external tsplib/gr96 train seed=5: SOLVED 0.362094s
+tsp_external tsplib/gr96 train seed=6: SOLVED 0.164868s
+tsp_external tsplib/gr96 train seed=7: SOLVED 0.326756s
+tsp_external tsplib/hk48 train seed=1: SOLVED 0.015631s
+tsp_external tsplib/hk48 train seed=2: SOLVED 0.014280s
+tsp_external tsplib/hk48 train seed=3: SOLVED 0.013891s
+tsp_external tsplib/hk48 train seed=4: SOLVED 0.013837s
+tsp_external tsplib/hk48 train seed=5: SOLVED 0.016993s
+tsp_external tsplib/hk48 train seed=6: SOLVED 0.016517s
+tsp_external tsplib/hk48 train seed=7: SOLVED 0.016151s
+tsp_external tsplib/kroA100 train seed=1: SOLVED 0.051483s
+tsp_external tsplib/kroA100 train seed=2: SOLVED 0.052561s
+tsp_external tsplib/kroA100 train seed=3: SOLVED 0.060685s
+tsp_external tsplib/kroA100 train seed=4: SOLVED 0.052717s
+tsp_external tsplib/kroA100 train seed=5: SOLVED 0.051657s
+tsp_external tsplib/kroA100 train seed=6: SOLVED 0.070334s
+tsp_external tsplib/kroA100 train seed=7: SOLVED 0.060242s
+tsp_external tsplib/kroA150 train seed=1: SOLVED 0.345319s
+tsp_external tsplib/kroA150 train seed=2: SOLVED 0.265808s
+tsp_external tsplib/kroA150 train seed=3: SOLVED 0.450595s
+tsp_external tsplib/kroA150 train seed=4: SOLVED 0.255485s
+tsp_external tsplib/kroA150 train seed=5: SOLVED 0.225599s
+tsp_external tsplib/kroA150 train seed=6: SOLVED 0.460458s
+tsp_external tsplib/kroA150 train seed=7: SOLVED 0.270414s
+tsp_external tsplib/kroA200 train seed=1: SOLVED 0.322100s
+tsp_external tsplib/kroA200 train seed=2: SOLVED 0.512044s
+tsp_external tsplib/kroA200 train seed=3: SOLVED 0.309986s
+tsp_external tsplib/kroA200 train seed=4: SOLVED 0.269266s
+tsp_external tsplib/kroA200 train seed=5: SOLVED 0.310469s
+tsp_external tsplib/kroA200 train seed=6: SOLVED 0.308497s
+tsp_external tsplib/kroA200 train seed=7: SOLVED 0.263058s
+tsp_external tsplib/kroB100 train seed=1: SOLVED 0.102292s
+tsp_external tsplib/kroB100 train seed=2: SOLVED 0.137485s
+tsp_external tsplib/kroB100 train seed=3: SOLVED 0.088380s
+tsp_external tsplib/kroB100 train seed=4: SOLVED 0.105168s
+tsp_external tsplib/kroB100 train seed=5: SOLVED 0.102680s
+tsp_external tsplib/kroB100 train seed=6: SOLVED 0.094493s
+tsp_external tsplib/kroB100 train seed=7: SOLVED 0.093455s
+tsp_external tsplib/kroB150 train seed=1: SOLVED 0.306367s
+tsp_external tsplib/kroB150 train seed=2: SOLVED 0.427206s
+tsp_external tsplib/kroB150 train seed=3: SOLVED 0.274956s
+tsp_external tsplib/kroB150 train seed=4: SOLVED 0.190556s
+tsp_external tsplib/kroB150 train seed=5: SOLVED 0.212905s
+tsp_external tsplib/kroB150 train seed=6: SOLVED 0.431693s
+tsp_external tsplib/kroB150 train seed=7: SOLVED 0.317282s
+tsp_external tsplib/kroB200 train seed=1: SOLVED 0.188679s
+tsp_external tsplib/kroB200 train seed=2: SOLVED 0.190226s
+tsp_external tsplib/kroB200 train seed=3: SOLVED 0.236005s
+tsp_external tsplib/kroB200 train seed=4: SOLVED 0.213831s
+tsp_external tsplib/kroB200 train seed=5: SOLVED 0.220239s
+tsp_external tsplib/kroB200 train seed=6: SOLVED 0.229670s
+tsp_external tsplib/kroB200 train seed=7: SOLVED 0.160178s
+tsp_external tsplib/kroC100 train seed=1: SOLVED 0.043877s
+tsp_external tsplib/kroC100 train seed=2: SOLVED 0.044819s
+tsp_external tsplib/kroC100 train seed=3: SOLVED 0.051652s
+tsp_external tsplib/kroC100 train seed=4: SOLVED 0.051470s
+tsp_external tsplib/kroC100 train seed=5: SOLVED 0.054222s
+tsp_external tsplib/kroC100 train seed=6: SOLVED 0.055825s
+tsp_external tsplib/kroC100 train seed=7: SOLVED 0.046171s
+tsp_external tsplib/kroD100 train seed=1: SOLVED 0.060342s
+tsp_external tsplib/kroD100 train seed=2: SOLVED 0.066575s
+tsp_external tsplib/kroD100 train seed=3: SOLVED 0.066704s
+tsp_external tsplib/kroD100 train seed=4: SOLVED 0.073840s
+tsp_external tsplib/kroD100 train seed=5: SOLVED 0.061941s
+tsp_external tsplib/kroD100 train seed=6: SOLVED 0.062944s
+tsp_external tsplib/kroD100 train seed=7: SOLVED 0.064250s
+tsp_external tsplib/kroE100 train seed=1: SOLVED 0.110611s
+tsp_external tsplib/kroE100 train seed=2: SOLVED 0.181435s
+tsp_external tsplib/kroE100 train seed=3: SOLVED 0.122053s
+tsp_external tsplib/kroE100 train seed=4: SOLVED 0.120873s
+tsp_external tsplib/kroE100 train seed=5: SOLVED 0.099629s
+tsp_external tsplib/kroE100 train seed=6: SOLVED 0.107041s
+tsp_external tsplib/kroE100 train seed=7: SOLVED 0.113025s
+tsp_external tsplib/lin105 train seed=1: SOLVED 0.037848s
+tsp_external tsplib/lin105 train seed=2: SOLVED 0.036340s
+tsp_external tsplib/lin105 train seed=3: SOLVED 0.036732s
+tsp_external tsplib/lin105 train seed=4: SOLVED 0.043546s
+tsp_external tsplib/lin105 train seed=5: SOLVED 0.035832s
+tsp_external tsplib/lin105 train seed=6: SOLVED 0.036500s
+tsp_external tsplib/lin105 train seed=7: SOLVED 0.038177s
+tsp_external tsplib/pr107 train seed=1: SOLVED 0.079267s
+tsp_external tsplib/pr107 train seed=2: SOLVED 0.072152s
+tsp_external tsplib/pr107 train seed=3: SOLVED 0.070631s
+tsp_external tsplib/pr107 train seed=4: SOLVED 0.077389s
+tsp_external tsplib/pr107 train seed=5: SOLVED 0.074923s
+tsp_external tsplib/pr107 train seed=6: SOLVED 0.070548s
+tsp_external tsplib/pr107 train seed=7: SOLVED 0.081075s
+tsp_external tsplib/pr124 train seed=1: SOLVED 0.324017s
+tsp_external tsplib/pr124 train seed=2: SOLVED 0.156610s
+tsp_external tsplib/pr124 train seed=3: SOLVED 0.160763s
+tsp_external tsplib/pr124 train seed=4: SOLVED 0.263472s
+tsp_external tsplib/pr124 train seed=5: SOLVED 0.333879s
+tsp_external tsplib/pr124 train seed=6: SOLVED 0.351580s
+tsp_external tsplib/pr124 train seed=7: SOLVED 1.024542s
+tsp_external tsplib/pr136 train seed=1: SOLVED 0.280010s
+tsp_external tsplib/pr136 train seed=2: SOLVED 0.296800s
+tsp_external tsplib/pr136 train seed=3: SOLVED 0.179725s
+tsp_external tsplib/pr136 train seed=4: SOLVED 0.243012s
+tsp_external tsplib/pr136 train seed=5: SOLVED 0.406989s
+tsp_external tsplib/pr136 train seed=6: SOLVED 0.263966s
+tsp_external tsplib/pr136 train seed=7: SOLVED 0.175733s
+tsp_external tsplib/pr144 train seed=1: SOLVED 0.158885s
+tsp_external tsplib/pr144 train seed=2: SOLVED 0.132023s
+tsp_external tsplib/pr144 train seed=3: SOLVED 0.177105s
+tsp_external tsplib/pr144 train seed=4: SOLVED 0.131803s
+tsp_external tsplib/pr144 train seed=5: SOLVED 0.171299s
+tsp_external tsplib/pr144 train seed=6: SOLVED 0.141013s
+tsp_external tsplib/pr144 train seed=7: SOLVED 0.172308s
+tsp_external tsplib/pr152 train seed=1: SOLVED 0.479625s
+tsp_external tsplib/pr152 train seed=2: SOLVED 0.425082s
+tsp_external tsplib/pr152 train seed=3: SOLVED 0.413444s
+tsp_external tsplib/pr152 train seed=4: SOLVED 0.616567s
+tsp_external tsplib/pr152 train seed=5: SOLVED 0.481795s
+tsp_external tsplib/pr152 train seed=6: SOLVED 2.678513s
+tsp_external tsplib/pr152 train seed=7: SOLVED 3.284988s
+tsp_external tsplib/pr226 train seed=1: SOLVED 0.193477s
+tsp_external tsplib/pr226 train seed=2: SOLVED 0.285544s
+tsp_external tsplib/pr226 train seed=3: SOLVED 0.166470s
+tsp_external tsplib/pr226 train seed=4: SOLVED 0.178987s
+tsp_external tsplib/pr226 train seed=5: SOLVED 0.194760s
+tsp_external tsplib/pr226 train seed=6: SOLVED 0.240943s
+tsp_external tsplib/pr226 train seed=7: SOLVED 0.198183s
+tsp_external tsplib/pr264 train seed=1: SOLVED 0.235582s
+tsp_external tsplib/pr264 train seed=2: SOLVED 0.167251s
+tsp_external tsplib/pr264 train seed=3: SOLVED 0.172741s
+tsp_external tsplib/pr264 train seed=4: SOLVED 0.178216s
+tsp_external tsplib/pr264 train seed=5: SOLVED 0.159262s
+tsp_external tsplib/pr264 train seed=6: SOLVED 0.170161s
+tsp_external tsplib/pr264 train seed=7: SOLVED 0.176191s
+tsp_external tsplib/pr299 train seed=1: SOLVED 1.033484s
+tsp_external tsplib/pr299 train seed=2: SOLVED 1.363479s
+tsp_external tsplib/pr299 train seed=3: SOLVED 1.854053s
+tsp_external tsplib/pr299 train seed=4: SOLVED 0.812113s
+tsp_external tsplib/pr299 train seed=5: SOLVED 0.937470s
+tsp_external tsplib/pr299 train seed=6: SOLVED 1.315831s
+tsp_external tsplib/pr299 train seed=7: SOLVED 1.404748s
+tsp_external tsplib/pr76 train seed=1: SOLVED 0.143631s
+tsp_external tsplib/pr76 train seed=2: SOLVED 0.242976s
+tsp_external tsplib/pr76 train seed=3: SOLVED 0.154637s
+tsp_external tsplib/pr76 train seed=4: SOLVED 0.132766s
+tsp_external tsplib/pr76 train seed=5: SOLVED 0.136016s
+tsp_external tsplib/pr76 train seed=6: SOLVED 0.353498s
+tsp_external tsplib/pr76 train seed=7: SOLVED 0.135151s
+tsp_external tsplib/rat195 train seed=1: SOLVED 1.276208s
+tsp_external tsplib/rat195 train seed=2: SOLVED 2.502247s
+tsp_external tsplib/rat195 train seed=3: SOLVED 1.200186s
+tsp_external tsplib/rat195 train seed=4: SOLVED 3.171857s
+tsp_external tsplib/rat195 train seed=5: SOLVED 0.972082s
+tsp_external tsplib/rat195 train seed=6: SOLVED 2.418862s
+tsp_external tsplib/rat195 train seed=7: SOLVED 1.080729s
+tsp_external tsplib/rat99 train seed=1: SOLVED 0.070162s
+tsp_external tsplib/rat99 train seed=2: SOLVED 0.087462s
+tsp_external tsplib/rat99 train seed=3: SOLVED 0.048632s
+tsp_external tsplib/rat99 train seed=4: SOLVED 0.051079s
+tsp_external tsplib/rat99 train seed=5: SOLVED 0.066076s
+tsp_external tsplib/rat99 train seed=6: SOLVED 0.054027s
+tsp_external tsplib/rat99 train seed=7: SOLVED 0.069379s
+tsp_external tsplib/rd100 train seed=1: SOLVED 0.060679s
+tsp_external tsplib/rd100 train seed=2: SOLVED 0.044173s
+tsp_external tsplib/rd100 train seed=3: SOLVED 0.039548s
+tsp_external tsplib/rd100 train seed=4: SOLVED 0.035784s
+tsp_external tsplib/rd100 train seed=5: SOLVED 0.046783s
+tsp_external tsplib/rd100 train seed=6: SOLVED 0.042445s
+tsp_external tsplib/rd100 train seed=7: SOLVED 0.045764s
+tsp_external tsplib/si175 train seed=1: SOLVED 0.830025s
+tsp_external tsplib/si175 train seed=2: SOLVED 1.161754s
+tsp_external tsplib/si175 train seed=3: SOLVED 0.689233s
+tsp_external tsplib/si175 train seed=4: SOLVED 1.260485s
+tsp_external tsplib/si175 train seed=5: SOLVED 1.218833s
+tsp_external tsplib/si175 train seed=6: SOLVED 0.748473s
+tsp_external tsplib/si175 train seed=7: SOLVED 1.349735s
+tsp_external tsplib/st70 train seed=1: SOLVED 0.038608s
+tsp_external tsplib/st70 train seed=2: SOLVED 0.034807s
+tsp_external tsplib/st70 train seed=3: SOLVED 0.036184s
+tsp_external tsplib/st70 train seed=4: SOLVED 0.033978s
+tsp_external tsplib/st70 train seed=5: SOLVED 0.035419s
+tsp_external tsplib/st70 train seed=6: SOLVED 0.031578s
+tsp_external tsplib/st70 train seed=7: SOLVED 0.037338s
+tsp_external tsplib/swiss42 train seed=1: SOLVED 0.011191s
+tsp_external tsplib/swiss42 train seed=2: SOLVED 0.011045s
+tsp_external tsplib/swiss42 train seed=3: SOLVED 0.011385s
+tsp_external tsplib/swiss42 train seed=4: SOLVED 0.011334s
+tsp_external tsplib/swiss42 train seed=5: SOLVED 0.010511s
+tsp_external tsplib/swiss42 train seed=6: SOLVED 0.009579s
+tsp_external tsplib/swiss42 train seed=7: SOLVED 0.008917s
+tsp_external tsplib/ts225 train seed=1: SOLVED 1.518798s
+tsp_external tsplib/ts225 train seed=2: SOLVED 1.812209s
+tsp_external tsplib/ts225 train seed=3: SOLVED 2.111045s
+tsp_external tsplib/ts225 train seed=4: SOLVED 1.013394s
+tsp_external tsplib/ts225 train seed=5: SOLVED 2.855865s
+tsp_external tsplib/ts225 train seed=6: SOLVED 1.843333s
+tsp_external tsplib/ts225 train seed=7: SOLVED 1.833704s
+tsp_external tsplib/tsp225 train seed=1: SOLVED 0.754265s
+tsp_external tsplib/tsp225 train seed=2: SOLVED 1.072112s
+tsp_external tsplib/tsp225 train seed=3: SOLVED 1.860295s
+tsp_external tsplib/tsp225 train seed=4: SOLVED 0.947434s
+tsp_external tsplib/tsp225 train seed=5: SOLVED 0.860864s
+tsp_external tsplib/tsp225 train seed=6: SOLVED 0.787985s
+tsp_external tsplib/tsp225 train seed=7: SOLVED 0.649152s
+tsp_external tsplib/u159 train seed=1: SOLVED 0.067664s
+tsp_external tsplib/u159 train seed=2: SOLVED 0.070499s
+tsp_external tsplib/u159 train seed=3: SOLVED 0.072444s
+tsp_external tsplib/u159 train seed=4: SOLVED 0.058239s
+tsp_external tsplib/u159 train seed=5: SOLVED 0.061786s
+tsp_external tsplib/u159 train seed=6: SOLVED 0.060973s
+tsp_external tsplib/u159 train seed=7: SOLVED 0.062812s
+tsp_external tsplib/ulysses16 train seed=1: SOLVED 0.015144s
+tsp_external tsplib/ulysses16 train seed=2: SOLVED 0.015041s
+tsp_external tsplib/ulysses16 train seed=3: SOLVED 0.016678s
+tsp_external tsplib/ulysses16 train seed=4: SOLVED 0.016092s
+tsp_external tsplib/ulysses16 train seed=5: SOLVED 0.015476s
+tsp_external tsplib/ulysses16 train seed=6: SOLVED 0.015241s
+tsp_external tsplib/ulysses16 train seed=7: SOLVED 0.016455s
+tsp_external tsplib/ulysses22 train seed=1: SOLVED 0.035657s
+tsp_external tsplib/ulysses22 train seed=2: SOLVED 0.035567s
+tsp_external tsplib/ulysses22 train seed=3: SOLVED 0.036386s
+tsp_external tsplib/ulysses22 train seed=4: SOLVED 0.036516s
+tsp_external tsplib/ulysses22 train seed=5: SOLVED 0.036227s
+tsp_external tsplib/ulysses22 train seed=6: SOLVED 0.035658s
+tsp_external tsplib/ulysses22 train seed=7: SOLVED 0.034987s
+tsp_external hard_tsplib/10001_hard train seed=1: SOLVED 0.104357s
+tsp_external hard_tsplib/10001_hard train seed=2: SOLVED 0.064654s
+tsp_external hard_tsplib/10001_hard train seed=3: SOLVED 0.099668s
+tsp_external hard_tsplib/10001_hard train seed=4: SOLVED 0.085898s
+tsp_external hard_tsplib/10001_hard train seed=5: SOLVED 0.099563s
+tsp_external hard_tsplib/10001_hard train seed=6: SOLVED 0.057003s
+tsp_external hard_tsplib/10001_hard train seed=7: SOLVED 0.034712s
+tsp_external hard_tsplib/10007_hard train seed=1: SOLVED 0.072007s
+tsp_external hard_tsplib/10007_hard train seed=2: SOLVED 0.118960s
+tsp_external hard_tsplib/10007_hard train seed=3: SOLVED 0.081074s
+tsp_external hard_tsplib/10007_hard train seed=4: SOLVED 0.041828s
+tsp_external hard_tsplib/10007_hard train seed=5: SOLVED 0.055570s
+tsp_external hard_tsplib/10007_hard train seed=6: SOLVED 0.040810s
+tsp_external hard_tsplib/10007_hard train seed=7: SOLVED 0.022689s
+tsp_external hard_tsplib/10008_hard train seed=1: SOLVED 0.098764s
+tsp_external hard_tsplib/10008_hard train seed=2: SOLVED 0.035803s
+tsp_external hard_tsplib/10008_hard train seed=3: SOLVED 0.152380s
+tsp_external hard_tsplib/10008_hard train seed=4: SOLVED 0.082061s
+tsp_external hard_tsplib/10008_hard train seed=5: SOLVED 0.130232s
+tsp_external hard_tsplib/10008_hard train seed=6: SOLVED 0.057775s
+tsp_external hard_tsplib/10008_hard train seed=7: SOLVED 0.129721s
+tsp_external hard_tsplib/10010_hard train seed=1: SOLVED 0.081552s
+tsp_external hard_tsplib/10010_hard train seed=2: SOLVED 0.083301s
+tsp_external hard_tsplib/10010_hard train seed=3: SOLVED 0.052960s
+tsp_external hard_tsplib/10010_hard train seed=4: SOLVED 0.086588s
+tsp_external hard_tsplib/10010_hard train seed=5: SOLVED 0.055007s
+tsp_external hard_tsplib/10010_hard train seed=6: SOLVED 0.084818s
+tsp_external hard_tsplib/10010_hard train seed=7: SOLVED 0.040745s
+tsp_external hard_tsplib/11675_hard train seed=1: SOLVED 0.116600s
+tsp_external hard_tsplib/11675_hard train seed=2: SOLVED 0.073956s
+tsp_external hard_tsplib/11675_hard train seed=3: SOLVED 0.082424s
+tsp_external hard_tsplib/11675_hard train seed=4: SOLVED 0.085505s
+tsp_external hard_tsplib/11675_hard train seed=5: SOLVED 0.148294s
+tsp_external hard_tsplib/11675_hard train seed=6: SOLVED 0.045350s
+tsp_external hard_tsplib/11675_hard train seed=7: SOLVED 0.138572s
+tsp_external hard_tsplib/12290_hard train seed=1: SOLVED 0.280814s
+tsp_external hard_tsplib/12290_hard train seed=2: SOLVED 0.354410s
+tsp_external hard_tsplib/12290_hard train seed=3: SOLVED 0.343568s
+tsp_external hard_tsplib/12290_hard train seed=4: SOLVED 0.309849s
+tsp_external hard_tsplib/12290_hard train seed=5: SOLVED 0.321929s
+tsp_external hard_tsplib/12290_hard train seed=6: SOLVED 0.294696s
+tsp_external hard_tsplib/12290_hard train seed=7: SOLVED 0.317469s
+tsp_external hard_tsplib/14850_hard train seed=1: SOLVED 1.218806s
+tsp_external hard_tsplib/14850_hard train seed=2: SOLVED 1.375240s
+tsp_external hard_tsplib/14850_hard train seed=3: SOLVED 1.194478s
+tsp_external hard_tsplib/14850_hard train seed=4: SOLVED 1.220965s
+tsp_external hard_tsplib/14850_hard train seed=5: SOLVED 1.817798s
+tsp_external hard_tsplib/14850_hard train seed=6: SOLVED 0.567151s
+tsp_external hard_tsplib/14850_hard train seed=7: SOLVED 1.999734s
+tsp_external hard_tsplib/15002_hard train seed=1: SOLVED 0.986753s
+tsp_external hard_tsplib/15002_hard train seed=2: SOLVED 0.723271s
+tsp_external hard_tsplib/15002_hard train seed=3: SOLVED 1.593580s
+tsp_external hard_tsplib/15002_hard train seed=4: SOLVED 1.752121s
+tsp_external hard_tsplib/15002_hard train seed=5: SOLVED 1.384488s
+tsp_external hard_tsplib/15002_hard train seed=6: SOLVED 0.906628s
+tsp_external hard_tsplib/15002_hard train seed=7: SOLVED 1.512436s
+tsp_external hard_tsplib/15005_hard train seed=1: SOLVED 0.671605s
+tsp_external hard_tsplib/15005_hard train seed=2: SOLVED 0.932486s
+tsp_external hard_tsplib/15005_hard train seed=3: SOLVED 0.517441s
+tsp_external hard_tsplib/15005_hard train seed=4: SOLVED 1.246503s
+tsp_external hard_tsplib/15005_hard train seed=5: SOLVED 0.443670s
+tsp_external hard_tsplib/15005_hard train seed=6: SOLVED 0.435824s
+tsp_external hard_tsplib/15005_hard train seed=7: SOLVED 0.425418s
+tsp_external hard_tsplib/15007_hard train seed=1: SOLVED 2.814629s
+tsp_external hard_tsplib/15007_hard train seed=2: SOLVED 2.574133s
+tsp_external hard_tsplib/15007_hard train seed=3: SOLVED 1.667767s
+tsp_external hard_tsplib/15007_hard train seed=4: SOLVED 2.148162s
+tsp_external hard_tsplib/15007_hard train seed=5: SOLVED 1.819616s
+tsp_external hard_tsplib/15007_hard train seed=6: SOLVED 2.924390s
+tsp_external hard_tsplib/15007_hard train seed=7: SOLVED 2.702921s
+tsp_external hard_tsplib/16038_hard train seed=1: SOLVED 4.959324s
+tsp_external hard_tsplib/16038_hard train seed=2: SOLVED 8.522006s
+tsp_external hard_tsplib/16038_hard train seed=3: SOLVED 4.600707s
+tsp_external hard_tsplib/16038_hard train seed=4: SOLVED 6.314689s
+tsp_external hard_tsplib/16038_hard train seed=5: SOLVED 6.006094s
+tsp_external hard_tsplib/16038_hard train seed=6: SOLVED 5.003075s
+tsp_external hard_tsplib/16038_hard train seed=7: SOLVED 6.630273s
+tsp_external hard_tsplib/20004_hard train seed=1: SOLVED 28.686555s
+tsp_external hard_tsplib/20004_hard train seed=2: SOLVED 20.512027s
+tsp_external hard_tsplib/20004_hard train seed=3: SOLVED 25.687737s
+tsp_external hard_tsplib/20004_hard train seed=4: SOLVED 26.710906s
+tsp_external hard_tsplib/20004_hard train seed=5: SOLVED 22.763993s
+tsp_external hard_tsplib/20004_hard train seed=6: SOLVED 25.648261s
+tsp_external hard_tsplib/20004_hard train seed=7: SOLVED 30.215683s
+tsp_external hard_tsplib/20007_hard train seed=1: SOLVED 18.311339s
+tsp_external hard_tsplib/20007_hard train seed=2: SOLVED 17.877575s
+tsp_external hard_tsplib/20007_hard train seed=3: SOLVED 24.583873s
+tsp_external hard_tsplib/20007_hard train seed=4: SOLVED 7.951511s
+tsp_external hard_tsplib/20007_hard train seed=5: SOLVED 9.036986s
+tsp_external hard_tsplib/20007_hard train seed=6: SOLVED 14.851044s
+tsp_external hard_tsplib/20007_hard train seed=7: SOLVED 11.512498s
+tsp_external hard_tsplib/20009_hard train seed=1: SOLVED 19.420173s
+tsp_external hard_tsplib/20009_hard train seed=2: SOLVED 32.156542s
+tsp_external hard_tsplib/20009_hard train seed=3: SOLVED 34.312221s
+tsp_external hard_tsplib/20009_hard train seed=4: SOLVED 36.948528s
+tsp_external hard_tsplib/20009_hard train seed=5: SOLVED 38.566384s
+tsp_external hard_tsplib/20009_hard train seed=6: SOLVED 32.941681s
+tsp_external hard_tsplib/20009_hard train seed=7: SOLVED 27.833296s
+tsp_external hard_tsplib/20009_hard heldout seed=8: SOLVED 23.898321s
+tsp_external hard_tsplib/20009_hard heldout seed=9: SOLVED 25.276120s
+tsp_external hard_tsplib/20009_hard heldout seed=10: SOLVED 24.807233s
+tsp_external hard_tsplib/20009_hard heldout seed=11: SOLVED 26.320211s
+tsp_external hard_tsplib/20009_hard heldout seed=12: SOLVED 25.408443s
+tsp_external hard_tsplib/20009_hard heldout seed=13: SOLVED 41.596003s
+tsp_external hard_tsplib/20009_hard heldout seed=14: SOLVED 20.536237s
+tsp_external hard_tsplib/20009_hard heldout seed=15: SOLVED 35.212078s
+tsp_external hard_tsplib/20009_hard heldout seed=16: SOLVED 40.733842s
+tsp_external hard_tsplib/20009_hard heldout seed=17: SOLVED 40.187643s
+tsp_external hard_tsplib/20009_hard heldout seed=18: SOLVED 28.585507s
+tsp_external hard_tsplib/20009_hard heldout seed=19: SOLVED 22.051146s
+tsp_external hard_tsplib/20009_hard heldout seed=20: SOLVED 39.262175s
+tsp_external hard_tsplib/20009_hard heldout seed=21: SOLVED 28.818650s
+tsp_external hard_tsplib/20009_hard heldout seed=22: SOLVED 26.307379s
+tsp_external hard_tsplib/20009_hard heldout seed=23: SOLVED 24.519921s
+tsp_external hard_tsplib/20009_hard heldout seed=24: SOLVED 29.374823s
+tsp_external hard_tsplib/20009_hard heldout seed=25: SOLVED 34.227659s
+tsp_external hard_tsplib/20009_hard heldout seed=26: SOLVED 35.998519s
+tsp_external hard_tsplib/20009_hard heldout seed=27: SOLVED 33.816403s
+tsp_external hard_tsplib/20009_hard heldout seed=28: SOLVED 26.962337s
+tsp_external hard_tsplib/20009_hard heldout seed=29: SOLVED 26.629935s
+tsp_external hard_tsplib/20009_hard heldout seed=30: SOLVED 34.922949s
+tsp_external hard_tsplib/20181_hard train seed=1: SOLVED 25.179714s
+tsp_external hard_tsplib/20181_hard train seed=2: SOLVED 25.831595s
+tsp_external hard_tsplib/20181_hard train seed=3: SOLVED 32.529350s
+tsp_external hard_tsplib/20181_hard train seed=4: SOLVED 23.739436s
+tsp_external hard_tsplib/20181_hard train seed=5: SOLVED 26.254696s
+tsp_external hard_tsplib/20181_hard train seed=6: SOLVED 36.737998s
+tsp_external hard_tsplib/20181_hard train seed=7: SOLVED 22.732437s
+tsp_external hard_tsplib/25001_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25001_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25001_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25001_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25001_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/25004_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25004_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25004_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25004_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25004_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/25006_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25006_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25006_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25006_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/25006_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/30001_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30001_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30001_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30001_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30001_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/30003_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30003_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30003_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30003_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30003_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/30005_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30005_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30005_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30005_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/30005_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/33001_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/33001_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/33001_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/33001_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/33001_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/35002_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35002_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35002_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35002_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35002_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/35003_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35003_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35003_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35003_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35003_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/35009_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35009_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35009_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35009_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/35009_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/40003_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40003_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40003_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40003_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40003_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/40004_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40004_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40004_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40004_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40004_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/40008_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40008_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40008_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40008_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/40008_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/att48_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/att48_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/att48_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/att48_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/att48_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/bayg29_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/bayg29_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/bayg29_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/bayg29_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/bayg29_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/bays29_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/bays29_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/bays29_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/bays29_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/bays29_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/brazil58_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/brazil58_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/brazil58_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/brazil58_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/brazil58_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/dantzig42_hard train seed=1: SOLVED 15.073544s
+tsp_external hard_tsplib/dantzig42_hard train seed=2: SOLVED 34.479180s
+tsp_external hard_tsplib/dantzig42_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/dantzig42_hard train seed=4: SOLVED 40.795186s
+tsp_external hard_tsplib/dantzig42_hard train seed=5: TIMEOUT 60.000000s
+tsp_external hard_tsplib/dantzig42_hard train seed=6: SOLVED 43.044783s
+tsp_external hard_tsplib/dantzig42_hard train seed=7: SOLVED 51.822746s
+tsp_external hard_tsplib/eil51_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/eil51_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/eil51_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/eil51_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/eil51_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/gr24_hard train seed=1: SOLVED 21.909307s
+tsp_external hard_tsplib/gr24_hard train seed=2: SOLVED 22.828684s
+tsp_external hard_tsplib/gr24_hard train seed=3: SOLVED 22.988837s
+tsp_external hard_tsplib/gr24_hard train seed=4: SOLVED 24.104461s
+tsp_external hard_tsplib/gr24_hard train seed=5: SOLVED 14.391917s
+tsp_external hard_tsplib/gr24_hard train seed=6: SOLVED 23.624901s
+tsp_external hard_tsplib/gr24_hard train seed=7: SOLVED 20.791612s
+tsp_external hard_tsplib/gr48_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/gr48_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/gr48_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/gr48_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/gr48_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/hk48_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/hk48_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/hk48_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/hk48_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/hk48_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/pr76_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/pr76_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/pr76_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/pr76_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/pr76_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/st70_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/st70_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/st70_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/st70_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/st70_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/swiss42_hard train seed=1: TIMEOUT 60.000000s
+tsp_external hard_tsplib/swiss42_hard train seed=2: TIMEOUT 60.000000s
+tsp_external hard_tsplib/swiss42_hard train seed=3: TIMEOUT 60.000000s
+tsp_external hard_tsplib/swiss42_hard train seed=4: TIMEOUT 60.000000s
+tsp_external hard_tsplib/swiss42_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external clustered_euclidean/clustered_100_s0 train seed=1: SOLVED 0.127125s
+tsp_external clustered_euclidean/clustered_100_s0 train seed=2: SOLVED 0.121495s
+tsp_external clustered_euclidean/clustered_100_s0 train seed=3: SOLVED 0.109652s
+tsp_external clustered_euclidean/clustered_100_s0 train seed=4: SOLVED 0.109597s
+tsp_external clustered_euclidean/clustered_100_s0 train seed=5: SOLVED 0.119338s
+tsp_external clustered_euclidean/clustered_100_s0 train seed=6: SOLVED 0.117175s
+tsp_external clustered_euclidean/clustered_100_s0 train seed=7: SOLVED 0.124112s
+tsp_external clustered_euclidean/clustered_100_s1 train seed=1: SOLVED 0.182524s
+tsp_external clustered_euclidean/clustered_100_s1 train seed=2: SOLVED 0.250565s
+tsp_external clustered_euclidean/clustered_100_s1 train seed=3: SOLVED 0.175776s
+tsp_external clustered_euclidean/clustered_100_s1 train seed=4: SOLVED 0.156586s
+tsp_external clustered_euclidean/clustered_100_s1 train seed=5: SOLVED 0.204833s
+tsp_external clustered_euclidean/clustered_100_s1 train seed=6: SOLVED 0.184220s
+tsp_external clustered_euclidean/clustered_100_s1 train seed=7: SOLVED 0.169567s
+tsp_external clustered_euclidean/clustered_100_s2 train seed=1: SOLVED 0.148748s
+tsp_external clustered_euclidean/clustered_100_s2 train seed=2: SOLVED 0.142771s
+tsp_external clustered_euclidean/clustered_100_s2 train seed=3: SOLVED 0.145412s
+tsp_external clustered_euclidean/clustered_100_s2 train seed=4: SOLVED 0.148391s
+tsp_external clustered_euclidean/clustered_100_s2 train seed=5: SOLVED 0.135541s
+tsp_external clustered_euclidean/clustered_100_s2 train seed=6: SOLVED 0.146836s
+tsp_external clustered_euclidean/clustered_100_s2 train seed=7: SOLVED 0.143312s
+tsp_external clustered_euclidean/clustered_150_s0 train seed=1: SOLVED 0.193021s
+tsp_external clustered_euclidean/clustered_150_s0 train seed=2: SOLVED 0.194497s
+tsp_external clustered_euclidean/clustered_150_s0 train seed=3: SOLVED 0.188184s
+tsp_external clustered_euclidean/clustered_150_s0 train seed=4: SOLVED 0.191566s
+tsp_external clustered_euclidean/clustered_150_s0 train seed=5: SOLVED 0.224754s
+tsp_external clustered_euclidean/clustered_150_s0 train seed=6: SOLVED 0.209852s
+tsp_external clustered_euclidean/clustered_150_s0 train seed=7: SOLVED 0.186477s
+tsp_external clustered_euclidean/clustered_150_s1 train seed=1: SOLVED 0.176792s
+tsp_external clustered_euclidean/clustered_150_s1 train seed=2: SOLVED 0.181198s
+tsp_external clustered_euclidean/clustered_150_s1 train seed=3: SOLVED 0.169385s
+tsp_external clustered_euclidean/clustered_150_s1 train seed=4: SOLVED 0.179912s
+tsp_external clustered_euclidean/clustered_150_s1 train seed=5: SOLVED 0.176722s
+tsp_external clustered_euclidean/clustered_150_s1 train seed=6: SOLVED 0.185293s
+tsp_external clustered_euclidean/clustered_150_s1 train seed=7: SOLVED 0.174866s
+tsp_external clustered_euclidean/clustered_150_s2 train seed=1: SOLVED 0.162050s
+tsp_external clustered_euclidean/clustered_150_s2 train seed=2: SOLVED 0.155794s
+tsp_external clustered_euclidean/clustered_150_s2 train seed=3: SOLVED 0.159675s
+tsp_external clustered_euclidean/clustered_150_s2 train seed=4: SOLVED 0.167402s
+tsp_external clustered_euclidean/clustered_150_s2 train seed=5: SOLVED 0.173102s
+tsp_external clustered_euclidean/clustered_150_s2 train seed=6: SOLVED 0.166070s
+tsp_external clustered_euclidean/clustered_150_s2 train seed=7: SOLVED 0.162542s
+tsp_external clustered_euclidean/clustered_200_s0 train seed=1: SOLVED 0.306111s
+tsp_external clustered_euclidean/clustered_200_s0 train seed=2: SOLVED 0.237923s
+tsp_external clustered_euclidean/clustered_200_s0 train seed=3: SOLVED 0.241388s
+tsp_external clustered_euclidean/clustered_200_s0 train seed=4: SOLVED 0.387109s
+tsp_external clustered_euclidean/clustered_200_s0 train seed=5: SOLVED 0.215339s
+tsp_external clustered_euclidean/clustered_200_s0 train seed=6: SOLVED 0.306841s
+tsp_external clustered_euclidean/clustered_200_s0 train seed=7: SOLVED 0.221689s
+tsp_external clustered_euclidean/clustered_200_s1 train seed=1: SOLVED 0.392248s
+tsp_external clustered_euclidean/clustered_200_s1 train seed=2: SOLVED 0.938489s
+tsp_external clustered_euclidean/clustered_200_s1 train seed=3: SOLVED 0.365923s
+tsp_external clustered_euclidean/clustered_200_s1 train seed=4: SOLVED 0.351440s
+tsp_external clustered_euclidean/clustered_200_s1 train seed=5: SOLVED 0.365314s
+tsp_external clustered_euclidean/clustered_200_s1 train seed=6: SOLVED 1.983383s
+tsp_external clustered_euclidean/clustered_200_s1 train seed=7: SOLVED 0.643011s
+tsp_external clustered_euclidean/clustered_200_s2 train seed=1: SOLVED 0.286364s
+tsp_external clustered_euclidean/clustered_200_s2 train seed=2: SOLVED 0.250478s
+tsp_external clustered_euclidean/clustered_200_s2 train seed=3: SOLVED 0.350731s
+tsp_external clustered_euclidean/clustered_200_s2 train seed=4: SOLVED 0.286702s
+tsp_external clustered_euclidean/clustered_200_s2 train seed=5: SOLVED 0.326166s
+tsp_external clustered_euclidean/clustered_200_s2 train seed=6: SOLVED 0.256587s
+tsp_external clustered_euclidean/clustered_200_s2 train seed=7: SOLVED 0.270687s
+tsp_external clustered_euclidean/clustered_50_s0 train seed=1: SOLVED 0.046200s
+tsp_external clustered_euclidean/clustered_50_s0 train seed=2: SOLVED 0.045617s
+tsp_external clustered_euclidean/clustered_50_s0 train seed=3: SOLVED 0.042831s
+tsp_external clustered_euclidean/clustered_50_s0 train seed=4: SOLVED 0.043561s
+tsp_external clustered_euclidean/clustered_50_s0 train seed=5: SOLVED 0.043867s
+tsp_external clustered_euclidean/clustered_50_s0 train seed=6: SOLVED 0.042784s
+tsp_external clustered_euclidean/clustered_50_s0 train seed=7: SOLVED 0.042117s
+tsp_external clustered_euclidean/clustered_50_s1 train seed=1: SOLVED 0.050735s
+tsp_external clustered_euclidean/clustered_50_s1 train seed=2: SOLVED 0.050917s
+tsp_external clustered_euclidean/clustered_50_s1 train seed=3: SOLVED 0.051930s
+tsp_external clustered_euclidean/clustered_50_s1 train seed=4: SOLVED 0.052552s
+tsp_external clustered_euclidean/clustered_50_s1 train seed=5: SOLVED 0.051730s
+tsp_external clustered_euclidean/clustered_50_s1 train seed=6: SOLVED 0.054649s
+tsp_external clustered_euclidean/clustered_50_s1 train seed=7: SOLVED 0.053612s
+tsp_external clustered_euclidean/clustered_50_s2 train seed=1: SOLVED 0.056821s
+tsp_external clustered_euclidean/clustered_50_s2 train seed=2: SOLVED 0.053411s
+tsp_external clustered_euclidean/clustered_50_s2 train seed=3: SOLVED 0.053820s
+tsp_external clustered_euclidean/clustered_50_s2 train seed=4: SOLVED 0.055403s
+tsp_external clustered_euclidean/clustered_50_s2 train seed=5: SOLVED 0.055246s
+tsp_external clustered_euclidean/clustered_50_s2 train seed=6: SOLVED 0.055253s
+tsp_external clustered_euclidean/clustered_50_s2 train seed=7: SOLVED 0.056456s
+wrote current_machine_rebench/results/tsp-suite.json
+2026-07-18T23:01:59+00:00 tsp supervisor: suite completed

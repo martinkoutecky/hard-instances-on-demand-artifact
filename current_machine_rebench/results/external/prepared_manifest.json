@@ -1,0 +1,821 @@
+{
+  "families": {
+    "clustered_euclidean": [
+      {
+        "dimension": 50,
+        "path": "instances/clustered_euclidean/clustered_50_s0.tsp",
+        "sha256": "8008b1b723a3d6be448650ccdeb9cb5ab3a242a20a46b2bb108e9f77b57729eb",
+        "type": "TSP"
+      },
+      {
+        "dimension": 50,
+        "path": "instances/clustered_euclidean/clustered_50_s1.tsp",
+        "sha256": "fe5d6ccd81ac78155c0ed28676003d80458de95cd17c18d87a3e927ec4f07f5d",
+        "type": "TSP"
+      },
+      {
+        "dimension": 50,
+        "path": "instances/clustered_euclidean/clustered_50_s2.tsp",
+        "sha256": "04e258f8088a9d47f939cc62ea61b57b953ac15468caa8d5c1939eee34202ee8",
+        "type": "TSP"
+      },
+      {
+        "dimension": 100,
+        "path": "instances/clustered_euclidean/clustered_100_s0.tsp",
+        "sha256": "a3f9e8260178d24cdba147f90dc1b4e2be8bf8dc433070f6944594b8cb2b5d54",
+        "type": "TSP"
+      },
+      {
+        "dimension": 100,
+        "path": "instances/clustered_euclidean/clustered_100_s1.tsp",
+        "sha256": "ba7798c7f03d898a21b6da17f9dc84608d53f5704a164b831f1b336693d455cf",
+        "type": "TSP"
+      },
+      {
+        "dimension": 100,
+        "path": "instances/clustered_euclidean/clustered_100_s2.tsp",
+        "sha256": "a14ff87b5df0b9b041704296eb289a9480b6fc6a1cad5acb1c5ca21e1b4ff667",
+        "type": "TSP"
+      },
+      {
+        "dimension": 150,
+        "path": "instances/clustered_euclidean/clustered_150_s0.tsp",
+        "sha256": "4f7f0e6ef4ab1a7d56a03996acee948d922d37b04e5bf7c7ed3b4053f07dc484",
+        "type": "TSP"
+      },
+      {
+        "dimension": 150,
+        "path": "instances/clustered_euclidean/clustered_150_s1.tsp",
+        "sha256": "1712be0a65c71e69fa42c56de4bfe64287ac92f43bc78e9360a74fca09245ce7",
+        "type": "TSP"
+      },
+      {
+        "dimension": 150,
+        "path": "instances/clustered_euclidean/clustered_150_s2.tsp",
+        "sha256": "817ca6f37cd45943dd96a83e1c779daf23cef58fd8c234866551aca5f572b4ad",
+        "type": "TSP"
+      },
+      {
+        "dimension": 200,
+        "path": "instances/clustered_euclidean/clustered_200_s0.tsp",
+        "sha256": "a5e7ebf3654742e01dc6a0c801c220cecbc86f44e9c230feeed9e1b4b6a3c7f6",
+        "type": "TSP"
+      },
+      {
+        "dimension": 200,
+        "path": "instances/clustered_euclidean/clustered_200_s1.tsp",
+        "sha256": "11a5fd4f145c3d79d530d46306d7f3acc480ab75a1331fe34099ec027af212ee",
+        "type": "TSP"
+      },
+      {
+        "dimension": 200,
+        "path": "instances/clustered_euclidean/clustered_200_s2.tsp",
+        "sha256": "251791807b209d12bcf80cbbab70b507006d58596df35cd3cd3289daac0d5603",
+        "type": "TSP"
+      }
+    ],
+    "fhcp": [
+      {
+        "dimension": 90,
+        "path": "instances/fhcp/graph5.hcp",
+        "sha256": "6467cf72907dce6a8fbc2f17e277ec3653af4a4fa75a39bfd8cf8100e96c263b",
+        "type": "HCP"
+      },
+      {
+        "dimension": 94,
+        "path": "instances/fhcp/graph6.hcp",
+        "sha256": "1694c28dd10e315cb65427d7d9a4cbc7f963195c1ec71e2c272ad06d5c08693f",
+        "type": "HCP"
+      },
+      {
+        "dimension": 102,
+        "path": "instances/fhcp/graph7.hcp",
+        "sha256": "5fe8ef1eee25df8533c109095ad058bb71b3f6a9f31bc3aafe4fb05db377483d",
+        "type": "HCP"
+      },
+      {
+        "dimension": 108,
+        "path": "instances/fhcp/graph8.hcp",
+        "sha256": "19759010839a76640d62f8933bc17dda295de09cca0ecaa638f17b292fa981f0",
+        "type": "HCP"
+      },
+      {
+        "dimension": 114,
+        "path": "instances/fhcp/graph9.hcp",
+        "sha256": "7c16a0f1df5653a71c970767530f707aec74bea1afd10e12249413eeafe4afe4",
+        "type": "HCP"
+      },
+      {
+        "dimension": 118,
+        "path": "instances/fhcp/graph10.hcp",
+        "sha256": "77ef5042b0792cab0defd4e8d407cd1e310b3b5986abbbc608f68c7a3f843e3b",
+        "type": "HCP"
+      },
+      {
+        "dimension": 126,
+        "path": "instances/fhcp/graph11.hcp",
+        "sha256": "161bec283b03b7030bf493a0f69cdbe2de7e4255ddc756de0971f77ebd2edc21",
+        "type": "HCP"
+      },
+      {
+        "dimension": 132,
+        "path": "instances/fhcp/graph12.hcp",
+        "sha256": "01823d5a6f15b34a8008992fe3a402b4dce3f05e769625745be4b932a95f7af7",
+        "type": "HCP"
+      },
+      {
+        "dimension": 138,
+        "path": "instances/fhcp/graph13.hcp",
+        "sha256": "19942652ef06df49a576af7c60a69013ad503076dd4b156abf21fffdee5c2454",
+        "type": "HCP"
+      },
+      {
+        "dimension": 142,
+        "path": "instances/fhcp/graph14.hcp",
+        "sha256": "5e0b80fc94ffa5d51f4d8bc48b8601bed0e12e20faae8c9011d3123050b7d538",
+        "type": "HCP"
+      },
+      {
+        "dimension": 150,
+        "path": "instances/fhcp/graph15.hcp",
+        "sha256": "6cfbd82faf1d535278c28ea65548087c4726f75b86f3a765bb6daa82514f1630",
+        "type": "HCP"
+      }
+    ],
+    "hard_tsplib": [
+      {
+        "dimension": 10,
+        "path": "instances/hard_tsplib/10001_hard.tsp",
+        "sha256": "1c356afa71b5e680b6f62cc079309e435934f99adb45a8a6a77c8bc61bf0641c",
+        "type": "TSP"
+      },
+      {
+        "dimension": 10,
+        "path": "instances/hard_tsplib/10007_hard.tsp",
+        "sha256": "052523d0478a30da2e302b096f7036cd4339bea1dbf168ab017889c6de62766d",
+        "type": "TSP"
+      },
+      {
+        "dimension": 10,
+        "path": "instances/hard_tsplib/10008_hard.tsp",
+        "sha256": "79e556936abce4a48a8b983ea09987367644a98913a212cdb5083afe15110ca5",
+        "type": "TSP"
+      },
+      {
+        "dimension": 10,
+        "path": "instances/hard_tsplib/10010_hard.tsp",
+        "sha256": "dd4aab0929fb479759bb8b486a2b8ec8a77c4ae059b992e63f1f65ed94ae89f0",
+        "type": "TSP"
+      },
+      {
+        "dimension": 11,
+        "path": "instances/hard_tsplib/11675_hard.tsp",
+        "sha256": "bd43d5e93adc89bbedd73ea30e5de71a35be86e141705babc37baedba696972b",
+        "type": "TSP"
+      },
+      {
+        "dimension": 12,
+        "path": "instances/hard_tsplib/12290_hard.tsp",
+        "sha256": "6c42f85d174f7e4e15330295369fa0dff863e6eb7297fdd03760c6fa8b24a3d6",
+        "type": "TSP"
+      },
+      {
+        "dimension": 14,
+        "path": "instances/hard_tsplib/14850_hard.tsp",
+        "sha256": "ccfc45b893644c54238b7bfd3587e2185f00a634e1325dd1ff45691b6f63663b",
+        "type": "TSP"
+      },
+      {
+        "dimension": 15,
+        "path": "instances/hard_tsplib/15002_hard.tsp",
+        "sha256": "aec53ade1d49578edacf04f327c400e4c3998fd2cdf354c9805839eb7634036b",
+        "type": "TSP"
+      },
+      {
+        "dimension": 15,
+        "path": "instances/hard_tsplib/15005_hard.tsp",
+        "sha256": "3d987644ca333a2672045179a046a2fb37e35d3b5f2042816baba7f07d9b9851",
+        "type": "TSP"
+      },
+      {
+        "dimension": 15,
+        "path": "instances/hard_tsplib/15007_hard.tsp",
+        "sha256": "021f331f2507a9646cbd3a18fd29485e8fabd7c3d999fb58b7d1352a2f42dc6e",
+        "type": "TSP"
+      },
+      {
+        "dimension": 16,
+        "path": "instances/hard_tsplib/16038_hard.tsp",
+        "sha256": "e457560711876282966d8a587ddd82ea0cefcb9dec7e7aa65ed96e53447ffa85",
+        "type": "TSP"
+      },
+      {
+        "dimension": 20,
+        "path": "instances/hard_tsplib/20004_hard.tsp",
+        "sha256": "3dc57cffa4c02bf2ac9388453a56c06b007f014314c04114cfbc094b0f398f15",
+        "type": "TSP"
+      },
+      {
+        "dimension": 20,
+        "path": "instances/hard_tsplib/20007_hard.tsp",
+        "sha256": "fb356266ae6262a50b848eafabf982adbdcb4b68edfbd51559d84a9fc5016c63",
+        "type": "TSP"
+      },
+      {
+        "dimension": 20,
+        "path": "instances/hard_tsplib/20009_hard.tsp",
+        "sha256": "b47c5eefa4b11c61b68f031616b80a19db0ea2756fec537b4966cf2b6e901a4e",
+        "type": "TSP"
+      },
+      {
+        "dimension": 20,
+        "path": "instances/hard_tsplib/20181_hard.tsp",
+        "sha256": "7639a7e293d19c49de785bf52f84ee09593ee2ce111f2d60d4d3e91a4e5e0594",
+        "type": "TSP"
+      },
+      {
+        "dimension": 25,
+        "path": "instances/hard_tsplib/25001_hard.tsp",
+        "sha256": "5ec9c4c80b68b9b0f16023242faf43217ade7e8a14ae94f44996cefc8e6c5cb1",
+        "type": "TSP"
+      },
+      {
+        "dimension": 25,
+        "path": "instances/hard_tsplib/25004_hard.tsp",
+        "sha256": "2b1f1fe441207934f62503c52f4e874fb7792de85e8ae05acb93f74f9f15aeda",
+        "type": "TSP"
+      },
+      {
+        "dimension": 25,
+        "path": "instances/hard_tsplib/25006_hard.tsp",
+        "sha256": "27cf905c7e31ad4495aff933255aec7094c1c505e50f1b336c0f876225ac4dd6",
+        "type": "TSP"
+      },
+      {
+        "dimension": 30,
+        "path": "instances/hard_tsplib/30001_hard.tsp",
+        "sha256": "63cb2f8d1c41b305b814a20c765134117875381e2e700a0b247bd13a8f874b6b",
+        "type": "TSP"
+      },
+      {
+        "dimension": 30,
+        "path": "instances/hard_tsplib/30003_hard.tsp",
+        "sha256": "0229f86ab8faf1c3b0f67e3074f4b02e60284944f027001c695af6678dd134af",
+        "type": "TSP"
+      },
+      {
+        "dimension": 30,
+        "path": "instances/hard_tsplib/30005_hard.tsp",
+        "sha256": "fe57163905bafd16be78a748d9afce74ab831949ccfcdb79b5c680151a2e90e5",
+        "type": "TSP"
+      },
+      {
+        "dimension": 33,
+        "path": "instances/hard_tsplib/33001_hard.tsp",
+        "sha256": "06c66e8485ba6d50ebdc2a1330a8facf1d5ead052da6e9c99f2a5a69b9f3c581",
+        "type": "TSP"
+      },
+      {
+        "dimension": 35,
+        "path": "instances/hard_tsplib/35002_hard.tsp",
+        "sha256": "982e2d29a0204716fe07f3451410c4f27c56737220b07ea3bbc4727f4949f2b3",
+        "type": "TSP"
+      },
+      {
+        "dimension": 35,
+        "path": "instances/hard_tsplib/35003_hard.tsp",
+        "sha256": "9e137ffd765c3a0a2da651aca479cbef2e7420b3c0d13275f0e20652306145c5",
+        "type": "TSP"
+      },
+      {
+        "dimension": 35,
+        "path": "instances/hard_tsplib/35009_hard.tsp",
+        "sha256": "fb8f59a8e01412eee96fc9ad3e6908fa98d23e963f4f44ba3b2dd37f7f1a0eb1",
+        "type": "TSP"
+      },
+      {
+        "dimension": 40,
+        "path": "instances/hard_tsplib/40003_hard.tsp",
+        "sha256": "7451256b17d5f7c2448b0c1adc68040d8fd6db5666639de1a2b6351c5c97aad9",
+        "type": "TSP"
+      },
+      {
+        "dimension": 40,
+        "path": "instances/hard_tsplib/40004_hard.tsp",
+        "sha256": "7cf7d31c9ad35edfdc4823ad5a38ec49df584b96d0d4ed280548221e59aabd6a",
+        "type": "TSP"
+      },
+      {
+        "dimension": 40,
+        "path": "instances/hard_tsplib/40008_hard.tsp",
+        "sha256": "cb9e9cb0a4d9f99e11aaf860b104d52efff44bfd13f036730f9ca662630ea078",
+        "type": "TSP"
+      },
+      {
+        "dimension": 48,
+        "path": "instances/hard_tsplib/att48_hard.tsp",
+        "sha256": "3317514f6bd5fac24a1ce6b30da14ddee5eef9b4bc162ced9a0f50c3ea6bff32",
+        "type": "TSP"
+      },
+      {
+        "dimension": 29,
+        "path": "instances/hard_tsplib/bayg29_hard.tsp",
+        "sha256": "83c9cd3afc5015654845ae0b154d2d57fd88371102711b61f14a8b57b2ff6bb9",
+        "type": "TSP"
+      },
+      {
+        "dimension": 29,
+        "path": "instances/hard_tsplib/bays29_hard.tsp",
+        "sha256": "9cb01a65b19882f843b3a1a4656ece487d7db403f29fe479557d989fb0c6a927",
+        "type": "TSP"
+      },
+      {
+        "dimension": 58,
+        "path": "instances/hard_tsplib/brazil58_hard.tsp",
+        "sha256": "b6e467e0349b799de1da094b78233528b40b5547f6d15524ad427d6c4c98083e",
+        "type": "TSP"
+      },
+      {
+        "dimension": 42,
+        "path": "instances/hard_tsplib/dantzig42_hard.tsp",
+        "sha256": "62caf17f9f158422b4bd964afc47580cae1797dfc75ccf32877230fec0e0ad33",
+        "type": "TSP"
+      },
+      {
+        "dimension": 51,
+        "path": "instances/hard_tsplib/eil51_hard.tsp",
+        "sha256": "28703ee3ee4c72a4325bdc99cfe371bd9cb0820a852cbe0bdb4ec45c7af42360",
+        "type": "TSP"
+      },
+      {
+        "dimension": 24,
+        "path": "instances/hard_tsplib/gr24_hard.tsp",
+        "sha256": "a28830367d37ddf7149e75f2b7cd3b9e6e296f5635674f91ba7d76c2c0b9c0a6",
+        "type": "TSP"
+      },
+      {
+        "dimension": 48,
+        "path": "instances/hard_tsplib/gr48_hard.tsp",
+        "sha256": "76eb7f0e97c6f8bde8144b7dc61d7d3b563123dc602a5a9d55c7582417e48f38",
+        "type": "TSP"
+      },
+      {
+        "dimension": 48,
+        "path": "instances/hard_tsplib/hk48_hard.tsp",
+        "sha256": "97bdebe27c21d1f4e95ad0f9b04543a5739ade5eef67f25a797a99f5f6185d9c",
+        "type": "TSP"
+      },
+      {
+        "dimension": 76,
+        "path": "instances/hard_tsplib/pr76_hard.tsp",
+        "sha256": "57df12f7df83628425008ff601129feeced0ade2ae113eda09104c2faecef30f",
+        "type": "TSP"
+      },
+      {
+        "dimension": 70,
+        "path": "instances/hard_tsplib/st70_hard.tsp",
+        "sha256": "10d469849a2b2f3c1ed2518579fd065db6645b270f2c3d3d51b26780db73b288",
+        "type": "TSP"
+      },
+      {
+        "dimension": 42,
+        "path": "instances/hard_tsplib/swiss42_hard.tsp",
+        "sha256": "49a3583c95ffeaf726fa4fa798db2eb137d18d216cb2006e3c0fb13ce740c0f4",
+        "type": "TSP"
+      }
+    ],
+    "sat": [
+      {
+        "clauses": 738,
+        "path": "instances/sat/php12_11.cnf",
+        "sha256": "948c811b15dd757ac0c50db9ce1b5a781a498c326dc7e13d19aa887456b5a036",
+        "type": "CNF",
+        "variables": 132
+      },
+      {
+        "clauses": 7308,
+        "path": "instances/sat/vdw_2_3_13_n160.cnf",
+        "sha256": "7a3425ca3d8a0331b72087820f0a0112db9db441b9b911d90dd7a8bcdd02ee14",
+        "type": "CNF",
+        "variables": 160
+      },
+      {
+        "clauses": 400,
+        "path": "instances/sat/tseitin_gbd_144799_150v_400c.cnf",
+        "sha256": "628673262d0bbed6a548d28e9446c28a2bcae896e98fcc0be77ebe7b53fa0069",
+        "type": "CNF",
+        "variables": 150
+      }
+    ],
+    "tsplib": [
+      {
+        "dimension": 280,
+        "path": "instances/tsplib/a280.tsp",
+        "sha256": "3fb489af4be6d04f2e84e73ec8302c32c65e6d344187b2347685fb311416e7bf",
+        "type": "TSP"
+      },
+      {
+        "dimension": 48,
+        "path": "instances/tsplib/att48.tsp",
+        "sha256": "7a7b04423c4463e873ec5d1f0592ad4a5cba168018e3f4edfd7f7e541fde03ac",
+        "type": "TSP"
+      },
+      {
+        "dimension": 29,
+        "path": "instances/tsplib/bayg29.tsp",
+        "sha256": "6b6a501a2a4933e9b6614f905b79e1d3f9e5093a56ef0d3deaf8fbf440a17a3b",
+        "type": "TSP"
+      },
+      {
+        "dimension": 29,
+        "path": "instances/tsplib/bays29.tsp",
+        "sha256": "385c381b3bf28ed9f1065cb1672d02d1909b0eb66eab111d7c9887f9a796dc8f",
+        "type": "TSP"
+      },
+      {
+        "dimension": 52,
+        "path": "instances/tsplib/berlin52.tsp",
+        "sha256": "8496a5838133e3c3eb25a9fa8893b1ac302593fc8dc325350643a0cabd8abadc",
+        "type": "TSP"
+      },
+      {
+        "dimension": 127,
+        "path": "instances/tsplib/bier127.tsp",
+        "sha256": "a4c944ca4b32fc9facd00ab664e47ebc37853f4349b971e5094cea4215ff71da",
+        "type": "TSP"
+      },
+      {
+        "dimension": 58,
+        "path": "instances/tsplib/brazil58.tsp",
+        "sha256": "7bd4c233951e3ddcf08118798d38dd42a8d3eb679988e389bf793b7dba231790",
+        "type": "TSP"
+      },
+      {
+        "dimension": 180,
+        "path": "instances/tsplib/brg180.tsp",
+        "sha256": "08aa555527b2434f02ca52d8f9e45251297ccb0742c70d87e367b05b4960ffe2",
+        "type": "TSP"
+      },
+      {
+        "dimension": 14,
+        "path": "instances/tsplib/burma14.tsp",
+        "sha256": "c2f10b100ad1a00bba19094e33ab3c05fb50203352151e23252eba6f85d5c3e7",
+        "type": "TSP"
+      },
+      {
+        "dimension": 130,
+        "path": "instances/tsplib/ch130.tsp",
+        "sha256": "b9304715dff0085925598a51f36c24b7cf390cb991bd8262f061dd7497bd8742",
+        "type": "TSP"
+      },
+      {
+        "dimension": 150,
+        "path": "instances/tsplib/ch150.tsp",
+        "sha256": "05abd424f773269b13477d367e534797aac080fb536a28074a72a9c0ba8064f5",
+        "type": "TSP"
+      },
+      {
+        "dimension": 198,
+        "path": "instances/tsplib/d198.tsp",
+        "sha256": "d4383f7a91eabb83f8b1be9b4b7bf98bf15f8c87851ad99e6aa6719046d414df",
+        "type": "TSP"
+      },
+      {
+        "dimension": 42,
+        "path": "instances/tsplib/dantzig42.tsp",
+        "sha256": "44e695b2084b13fe3efe790c783a4db1745df8947a482b1c8edcda63cb15b29d",
+        "type": "TSP"
+      },
+      {
+        "dimension": 101,
+        "path": "instances/tsplib/eil101.tsp",
+        "sha256": "537eb4836839ec6e4ff02fb9ca6833fa083a398b5fbb076b05954f0cbb7053c4",
+        "type": "TSP"
+      },
+      {
+        "dimension": 51,
+        "path": "instances/tsplib/eil51.tsp",
+        "sha256": "66c05ad077ffd64d5778e358bbd16be049f8c8ae880cbd24f034487331d1ccce",
+        "type": "TSP"
+      },
+      {
+        "dimension": 76,
+        "path": "instances/tsplib/eil76.tsp",
+        "sha256": "74a81d109969e0e46ecc62ff9bd051bfce36b508326bfcd22168e58d03af2447",
+        "type": "TSP"
+      },
+      {
+        "dimension": 26,
+        "path": "instances/tsplib/fri26.tsp",
+        "sha256": "80d6b51cf41459ba33ca883324f50b2f0694a4b787f2ae153c9cd97c8d8948c0",
+        "type": "TSP"
+      },
+      {
+        "dimension": 262,
+        "path": "instances/tsplib/gil262.tsp",
+        "sha256": "662dac76952a676c709d250b124e689ce6b85782c7c595e8b9666217aaae9b65",
+        "type": "TSP"
+      },
+      {
+        "dimension": 120,
+        "path": "instances/tsplib/gr120.tsp",
+        "sha256": "de903724360c2ec745b1ec9119a1bd5679c49abff8ad39ef2e4e75e59e9b5d54",
+        "type": "TSP"
+      },
+      {
+        "dimension": 137,
+        "path": "instances/tsplib/gr137.tsp",
+        "sha256": "71bbef1e0f21ef9f130ef4ec0cfec86b9cbbdf7f202cbaaf526ea1bf9370c090",
+        "type": "TSP"
+      },
+      {
+        "dimension": 17,
+        "path": "instances/tsplib/gr17.tsp",
+        "sha256": "b18d6060189534ec7c6ea3b50b6ba793d1a3bd22b38e99bf9f422338ffa203fa",
+        "type": "TSP"
+      },
+      {
+        "dimension": 202,
+        "path": "instances/tsplib/gr202.tsp",
+        "sha256": "3b40933cfe56c6337a30f67782024d1499ee861d99b2f338017147867f251bae",
+        "type": "TSP"
+      },
+      {
+        "dimension": 21,
+        "path": "instances/tsplib/gr21.tsp",
+        "sha256": "3ff0ab452689b2e9ffb7aa206a7dcee4e6053dbb915afa99e66005f84e8b54b4",
+        "type": "TSP"
+      },
+      {
+        "dimension": 229,
+        "path": "instances/tsplib/gr229.tsp",
+        "sha256": "f1c6e77a14a9464fa937831e98284df2304c95e2091bd90cb724304c6bdebddb",
+        "type": "TSP"
+      },
+      {
+        "dimension": 24,
+        "path": "instances/tsplib/gr24.tsp",
+        "sha256": "7fcf61204842785f06c58e7098a3e1eb2786831179e115645083ce500c065779",
+        "type": "TSP"
+      },
+      {
+        "dimension": 48,
+        "path": "instances/tsplib/gr48.tsp",
+        "sha256": "34270ecc31771f784582a9e0facc0b59fa7b231fb69c203ff9f0a76bf211dbfe",
+        "type": "TSP"
+      },
+      {
+        "dimension": 96,
+        "path": "instances/tsplib/gr96.tsp",
+        "sha256": "d03f1f2a5dbddfff39fdfa2fa8982fa01708065dc638446633dd6ca1c5c56979",
+        "type": "TSP"
+      },
+      {
+        "dimension": 48,
+        "path": "instances/tsplib/hk48.tsp",
+        "sha256": "f62c053a704daacc56ff4d6156e8e6c180263c2767c80637f901deeb08a6b596",
+        "type": "TSP"
+      },
+      {
+        "dimension": 100,
+        "path": "instances/tsplib/kroA100.tsp",
+        "sha256": "e103100c1cf31dfc06be95a9d04011b5a8753bb65a3339594ca34404e574bdf5",
+        "type": "TSP"
+      },
+      {
+        "dimension": 150,
+        "path": "instances/tsplib/kroA150.tsp",
+        "sha256": "acfeddc0cf4dd78ae69dd0c379b52b4031a4a8daa61a0cab3f46c1e3e2a616ba",
+        "type": "TSP"
+      },
+      {
+        "dimension": 200,
+        "path": "instances/tsplib/kroA200.tsp",
+        "sha256": "fd1f7640e823286826796bfccd103787c25f0b52e7275fae7eabf286303c0cbe",
+        "type": "TSP"
+      },
+      {
+        "dimension": 100,
+        "path": "instances/tsplib/kroB100.tsp",
+        "sha256": "283d8c912e3334deea76cc9fe95e915d09111979e7753d0affaf14d9aa21cdbe",
+        "type": "TSP"
+      },
+      {
+        "dimension": 150,
+        "path": "instances/tsplib/kroB150.tsp",
+        "sha256": "f6c573fc55f60d90573f09cee01c0c6e09eef87f1315ac8fb6cd2719a1cfd468",
+        "type": "TSP"
+      },
+      {
+        "dimension": 200,
+        "path": "instances/tsplib/kroB200.tsp",
+        "sha256": "baa5fbfda220b226623cad864e30feb180889d4fff430332667eae0e726799d2",
+        "type": "TSP"
+      },
+      {
+        "dimension": 100,
+        "path": "instances/tsplib/kroC100.tsp",
+        "sha256": "aef750b8051e011df3b0fae21f4d71273cf129bcf7f2a9b697c2406bcaec68d2",
+        "type": "TSP"
+      },
+      {
+        "dimension": 100,
+        "path": "instances/tsplib/kroD100.tsp",
+        "sha256": "e2297d9c40abc8341792e7b785e7a9c04ed21dfda0c667d9388888b4ba8cb52d",
+        "type": "TSP"
+      },
+      {
+        "dimension": 100,
+        "path": "instances/tsplib/kroE100.tsp",
+        "sha256": "de5a20663b3903407150d1798c9be517d2df2030d7a910ddc9fc3c024a5c3bb4",
+        "type": "TSP"
+      },
+      {
+        "dimension": 105,
+        "path": "instances/tsplib/lin105.tsp",
+        "sha256": "8d34cafef4279bf6ab077a5c5c75bc4757a509f9cbbfd42f7e3170a5e280e1cb",
+        "type": "TSP"
+      },
+      {
+        "dimension": 107,
+        "path": "instances/tsplib/pr107.tsp",
+        "sha256": "e0d774d2e853fbb1a507f06e8aa83e625690edc29866268e970471ea6febf65b",
+        "type": "TSP"
+      },
+      {
+        "dimension": 124,
+        "path": "instances/tsplib/pr124.tsp",
+        "sha256": "88d68985ef106d22d1f71ed596dbb19d044b4ef6c848015ed42be5f36bb95f45",
+        "type": "TSP"
+      },
+      {
+        "dimension": 136,
+        "path": "instances/tsplib/pr136.tsp",
+        "sha256": "15b7b21610bcc291167d380367f9e2f220a9ba1ad8216567c899e9382f9952c4",
+        "type": "TSP"
+      },
+      {
+        "dimension": 144,
+        "path": "instances/tsplib/pr144.tsp",
+        "sha256": "b392bffad739740403404e3c7d4d2d8918fb6bd39f585ed18c5c42b62d96c0ad",
+        "type": "TSP"
+      },
+      {
+        "dimension": 152,
+        "path": "instances/tsplib/pr152.tsp",
+        "sha256": "3448615f2e08f5f1d5a0f6114893c0c0a3e6faae426bb245b8c64a89ff4d032b",
+        "type": "TSP"
+      },
+      {
+        "dimension": 226,
+        "path": "instances/tsplib/pr226.tsp",
+        "sha256": "06e9aa41740da7db7f5058ba4cfd0302e9fe95ebc7d769c6610407f162ba16b9",
+        "type": "TSP"
+      },
+      {
+        "dimension": 264,
+        "path": "instances/tsplib/pr264.tsp",
+        "sha256": "af8238a6cc962d77d50d4d8b3f0c9099fe972f7858994ef8cf4ccb2d31b2e6c0",
+        "type": "TSP"
+      },
+      {
+        "dimension": 299,
+        "path": "instances/tsplib/pr299.tsp",
+        "sha256": "5d6f56b38a570e6cb30742b5ef112026f18600828a80993c3f047d20760d976f",
+        "type": "TSP"
+      },
+      {
+        "dimension": 76,
+        "path": "instances/tsplib/pr76.tsp",
+        "sha256": "5746518c9358041835e887663ad6c8b65432ff4b21eabf69e46417b4324ddcec",
+        "type": "TSP"
+      },
+      {
+        "dimension": 195,
+        "path": "instances/tsplib/rat195.tsp",
+        "sha256": "8218a9ebc7b7af2044cf8a27929513eb6975e75af2a87ddae8510c6f275796a5",
+        "type": "TSP"
+      },
+      {
+        "dimension": 99,
+        "path": "instances/tsplib/rat99.tsp",
+        "sha256": "f880e9afe0b655b5b0deae0b8835a5b48622172e28a1c1fc9bf70100cb97b46a",
+        "type": "TSP"
+      },
+      {
+        "dimension": 100,
+        "path": "instances/tsplib/rd100.tsp",
+        "sha256": "6f62863c4f5d9fe1d7226077923716b8d0ba76d58bae7eb65fdaff127c5cdf5c",
+        "type": "TSP"
+      },
+      {
+        "dimension": 175,
+        "path": "instances/tsplib/si175.tsp",
+        "sha256": "f1c43203b7afa7cac97c67dce9f73b543cc622dbb36b91d0edfa6e5393c4e565",
+        "type": "TSP"
+      },
+      {
+        "dimension": 70,
+        "path": "instances/tsplib/st70.tsp",
+        "sha256": "60c09e8886609bf22d6dc699fe7d7aa1924207d084578aad1a377ec65cf15b1b",
+        "type": "TSP"
+      },
+      {
+        "dimension": 42,
+        "path": "instances/tsplib/swiss42.tsp",
+        "sha256": "0dbcd4742ec894c70135c5873cbb06f49a643bdd6efbb755f8e02aa9faad8da4",
+        "type": "TSP"
+      },
+      {
+        "dimension": 225,
+        "path": "instances/tsplib/ts225.tsp",
+        "sha256": "efbb94f391a03df97fc46492e02d8756dc8a8c9fb6a98b4b74fbb6dedbc25913",
+        "type": "TSP"
+      },
+      {
+        "dimension": 225,
+        "path": "instances/tsplib/tsp225.tsp",
+        "sha256": "3d356ab7c1a724cd1e05e0809cf2db11932c3bc8f54f6124e02c2b6c7f5fd901",
+        "type": "TSP"
+      },
+      {
+        "dimension": 159,
+        "path": "instances/tsplib/u159.tsp",
+        "sha256": "1659117da1c9b76e2d63a2a622a3991660a1df655c03f31bb9b2e95f5c7e0365",
+        "type": "TSP"
+      },
+      {
+        "dimension": 16,
+        "path": "instances/tsplib/ulysses16.tsp",
+        "sha256": "46064545dbb24b7f53b9b26802b422a903d92bc51ab835a73ec15733ab3cac46",
+        "type": "TSP"
+      },
+      {
+        "dimension": 22,
+        "path": "instances/tsplib/ulysses22.tsp",
+        "sha256": "5d78d3131b51d4130c28495ecc558da9208fbb9a8f4f7d38535421371ba79898",
+        "type": "TSP"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "source_manifest": {
+    "deterministic_generators": {
+      "clustered_euclidean": {
+        "center_interval": [
+          0,
+          10000
+        ],
+        "clusters": 5,
+        "note": "Recovered local generator; not a downloaded van Hemert corpus.",
+        "seeds": [
+          0,
+          1,
+          2
+        ],
+        "sizes": [
+          50,
+          100,
+          150,
+          200
+        ],
+        "within_cluster_sigma": 10
+      },
+      "sat": {
+        "pigeonhole": "PHP(12 pigeons, 11 holes), exact output order of gen_hard_tests.py::gen_php(11), sha256 948c811b15dd757ac0c50db9ce1b5a781a498c326dc7e13d19aa887456b5a036",
+        "tseitin": "GBD crafted_2005/anni_2022 formula 144799298ab4d0bb0506753fc4783b76; fresh replacement comparator, not the missing historical file",
+        "van_der_waerden": "two-colour W(2;3,13) contradiction on [160], sha256 7a3425ca3d8a0331b72087820f0a0112db9db441b9b911d90dd7a8bcdd02ee14"
+      }
+    },
+    "schema_version": 1,
+    "sources": {
+      "fhcp": {
+        "expected_count": 11,
+        "selected_manifest_digest": "bb69bc3748f99cf3f2c56ba3988523ebeb31e447325fa78f9ca717741ce25368",
+        "selection": "graph5.hcp through graph15.hcp (DIMENSION 90 through 150)",
+        "sha256": "2f86aaf525977d1e45f1270c06d8153f3d84d32bd391b4058764c3c85db04f79",
+        "url": "https://sites.flinders.edu.au/flinders-hamiltonian-cycle-project/wp-content/uploads/sites/18/2020/01/FHCPCS.7z"
+      },
+      "hard_tsplib": {
+        "commit": "74b142ad54afc58ed36e5f798405243ae216da5f",
+        "expected_count": 40,
+        "selection": "all instances/*.tsp files shipped at the pinned commit",
+        "sha256": "7717f6d4a99c56e9dd74ebbee04bece0e0373ee7828480b65325d0f4b0f0bf6f",
+        "url": "https://github.com/eleonoravercesi/HardTSPLIB/archive/74b142ad54afc58ed36e5f798405243ae216da5f.tar.gz"
+      },
+      "tseitin_gbd": {
+        "gbd_hash": "144799298ab4d0bb0506753fc4783b76",
+        "selection": "pinned 150-variable/400-clause GBD representative used as a fresh replacement; exact historical graph was not archived",
+        "sha256_uncompressed": "628673262d0bbed6a548d28e9446c28a2bcae896e98fcc0be77ebe7b53fa0069",
+        "url": "https://benchmark-database.de/file/144799298ab4d0bb0506753fc4783b76?context=cnf"
+      },
+      "tsplib95": {
+        "expected_count": 58,
+        "selected_manifest_digest": "9cfef637d19d894f36ffe73c8dc93785ba4de197eb4a16c71c0184a0e6b0479e",
+        "selection": "all TYPE:TSP instances with DIMENSION <= 300",
+        "sha256": "0b0b9a2958ea0ac7c854bf2589b37b76b38b27bca04815d86489e4d76fa3ac61",
+        "url": "https://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/ALL_tsp.tar.gz"
+      }
+    }
+  }
+}

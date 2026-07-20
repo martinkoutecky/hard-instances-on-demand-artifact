@@ -1,0 +1,2979 @@
+{
+  "completed_at": "2026-07-17T14:28:00.106830+00:00",
+  "created_at": "2026-07-17T14:27:34.296287+00:00",
+  "last_checkpoint_at": "2026-07-17T14:28:00.105118+00:00",
+  "machine": {
+    "cpoptimizer_path": "<conda-env>/bin/cpoptimizer",
+    "cpoptimizer_sha256": "9c48263696fa8dad16885aa284c4c7fda7e2f303b2983b31f005288e156fc18f",
+    "cpu_affinity": [
+      1
+    ],
+    "cpu_model": "AMD Ryzen 5 8600G w/ Radeon 760M Graphics",
+    "hostname": "8f9fd2be337b",
+    "load_average_at_start": [
+      2.24462890625,
+      1.98779296875,
+      2.25390625
+    ],
+    "platform": "Linux-6.1.0-45-amd64-x86_64-with-glibc2.36",
+    "python": "3.12.12 | packaged by conda-forge | (main, Jan 26 2026, 23:51:32) [GCC 14.3.0]",
+    "python_executable": "<conda-env>/bin/python"
+  },
+  "protocol": {
+    "instance_ids": [
+      "taillard_gen_10x5_01",
+      "taillard_gen_10x5_02",
+      "taillard_gen_10x5_03",
+      "taillard_gen_10x5_04",
+      "taillard_gen_10x5_05",
+      "taillard_gen_10x5_06",
+      "taillard_gen_10x5_07",
+      "taillard_gen_10x5_08",
+      "taillard_gen_10x5_09",
+      "taillard_gen_10x5_10"
+    ],
+    "problem": "non-permutation flow shop F_m||C_max",
+    "solver_model_source": "<legacy-repo>/comparisons/vrf_cpopt_10x5/run_cpopt.py",
+    "solver_seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source": {
+      "generation_seeds": [
+        873654221,
+        379008056,
+        1866992158,
+        216771124,
+        495070989,
+        402959317,
+        1369363414,
+        2021925980,
+        573109518,
+        88325120
+      ],
+      "generator": "Taillard 1993 Park-Miller RNG and floating-point unif mapping",
+      "note": "20x5 is in the published Taillard benchmark suite; other sizes are reproducible Taillard-generator instances using its 20x5 seeds",
+      "published_benchmark_member": false,
+      "url": "https://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/flowshop2.txt"
+    },
+    "suite": "taillard",
+    "time_limit_s": 60.0,
+    "timing": "RUSAGE_CHILDREN user+system CPU delta",
+    "workers": 1
+  },
+  "runs": [
+    {
+      "cpu_time_s": 0.32853499999999997,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 33972,
+        "NumberOfChoicePoints": 15468,
+        "NumberOfFails": 23825,
+        "NumberOfSolutions": 21,
+        "PeakMemoryUsage": 1056889,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.32
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.32,
+      "status": "Optimal",
+      "wall_time_s": 0.33322307001799345
+    },
+    {
+      "cpu_time_s": 0.18678099999999997,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        760
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 23539,
+        "NumberOfChoicePoints": 11685,
+        "NumberOfFails": 14066,
+        "NumberOfSolutions": 27,
+        "PeakMemoryUsage": 1053313,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.18
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.18,
+      "status": "Optimal",
+      "wall_time_s": 0.1884000850841403
+    },
+    {
+      "cpu_time_s": 0.06390800000000008,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 13370,
+        "NumberOfChoicePoints": 6829,
+        "NumberOfFails": 6014,
+        "NumberOfSolutions": 10,
+        "PeakMemoryUsage": 1045001,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.06
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.06,
+      "status": "Optimal",
+      "wall_time_s": 0.06533961603417993
+    },
+    {
+      "cpu_time_s": 0.13749100000000003,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 17496,
+        "NumberOfChoicePoints": 8182,
+        "NumberOfFails": 11492,
+        "NumberOfSolutions": 16,
+        "PeakMemoryUsage": 1082017,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.14
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.14,
+      "status": "Optimal",
+      "wall_time_s": 0.1389600127004087
+    },
+    {
+      "cpu_time_s": 0.6897259999999998,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 66833,
+        "NumberOfChoicePoints": 31749,
+        "NumberOfFails": 45841,
+        "NumberOfSolutions": 26,
+        "PeakMemoryUsage": 1106121,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.69
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.69,
+      "status": "Optimal",
+      "wall_time_s": 0.691586728207767
+    },
+    {
+      "cpu_time_s": 0.05349100000000018,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 9937,
+        "NumberOfChoicePoints": 5335,
+        "NumberOfFails": 4180,
+        "NumberOfSolutions": 16,
+        "PeakMemoryUsage": 1047609,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.04
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.04,
+      "status": "Optimal",
+      "wall_time_s": 0.054936204105615616
+    },
+    {
+      "cpu_time_s": 0.03157399999999977,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 5163,
+        "NumberOfChoicePoints": 2625,
+        "NumberOfFails": 1840,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1046105,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.03
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.03,
+      "status": "Optimal",
+      "wall_time_s": 0.03296818723902106
+    },
+    {
+      "cpu_time_s": 0.28422700000000023,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 38728,
+        "NumberOfChoicePoints": 18205,
+        "NumberOfFails": 24431,
+        "NumberOfSolutions": 15,
+        "PeakMemoryUsage": 1081809,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.27
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.27,
+      "status": "Optimal",
+      "wall_time_s": 0.28645246336236596
+    },
+    {
+      "cpu_time_s": 0.18362599999999984,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 22113,
+        "NumberOfChoicePoints": 10214,
+        "NumberOfFails": 15454,
+        "NumberOfSolutions": 16,
+        "PeakMemoryUsage": 1082529,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.18
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.18,
+      "status": "Optimal",
+      "wall_time_s": 0.18529421975836158
+    },
+    {
+      "cpu_time_s": 0.5161830000000001,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 56854,
+        "NumberOfChoicePoints": 27950,
+        "NumberOfFails": 36643,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1103777,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.51
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.51,
+      "status": "Optimal",
+      "wall_time_s": 0.5181004661135375
+    },
+    {
+      "cpu_time_s": 0.4140100000000002,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 45697,
+        "NumberOfChoicePoints": 22479,
+        "NumberOfFails": 29332,
+        "NumberOfSolutions": 25,
+        "PeakMemoryUsage": 1091497,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.41
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.41,
+      "status": "Optimal",
+      "wall_time_s": 0.41566619370132685
+    },
+    {
+      "cpu_time_s": 0.2483189999999995,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        760
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 29933,
+        "NumberOfChoicePoints": 14218,
+        "NumberOfFails": 19132,
+        "NumberOfSolutions": 24,
+        "PeakMemoryUsage": 1085609,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.24
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.24,
+      "status": "Optimal",
+      "wall_time_s": 0.2500159591436386
+    },
+    {
+      "cpu_time_s": 0.011630999999999947,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 1289,
+        "NumberOfChoicePoints": 378,
+        "NumberOfFails": 211,
+        "NumberOfSolutions": 9,
+        "PeakMemoryUsage": 1005769,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0,
+      "status": "Optimal",
+      "wall_time_s": 0.013080209027975798
+    },
+    {
+      "cpu_time_s": 0.1848020000000008,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 22658,
+        "NumberOfChoicePoints": 10372,
+        "NumberOfFails": 15082,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1082089,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.18
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.18,
+      "status": "Optimal",
+      "wall_time_s": 0.18640686525031924
+    },
+    {
+      "cpu_time_s": 0.5835599999999994,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 66032,
+        "NumberOfChoicePoints": 32132,
+        "NumberOfFails": 40728,
+        "NumberOfSolutions": 21,
+        "PeakMemoryUsage": 1067129,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.58
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.58,
+      "status": "Optimal",
+      "wall_time_s": 0.5854492308571935
+    },
+    {
+      "cpu_time_s": 0.08299400000000023,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 16955,
+        "NumberOfChoicePoints": 8956,
+        "NumberOfFails": 7516,
+        "NumberOfSolutions": 21,
+        "PeakMemoryUsage": 1048577,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.07
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.07,
+      "status": "Optimal",
+      "wall_time_s": 0.08449198724702
+    },
+    {
+      "cpu_time_s": 0.0323089999999997,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 5054,
+        "NumberOfChoicePoints": 2544,
+        "NumberOfFails": 1759,
+        "NumberOfSolutions": 17,
+        "PeakMemoryUsage": 1046601,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.03
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.03,
+      "status": "Optimal",
+      "wall_time_s": 0.03401267481967807
+    },
+    {
+      "cpu_time_s": 0.3014720000000004,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 43541,
+        "NumberOfChoicePoints": 21345,
+        "NumberOfFails": 26093,
+        "NumberOfSolutions": 15,
+        "PeakMemoryUsage": 1085497,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.29
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.29,
+      "status": "Optimal",
+      "wall_time_s": 0.3030710010789335
+    },
+    {
+      "cpu_time_s": 0.3122669999999994,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 44404,
+        "NumberOfChoicePoints": 22515,
+        "NumberOfFails": 27352,
+        "NumberOfSolutions": 25,
+        "PeakMemoryUsage": 1096273,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.31
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.31,
+      "status": "Optimal",
+      "wall_time_s": 0.31389069464057684
+    },
+    {
+      "cpu_time_s": 0.48823300000000014,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 51109,
+        "NumberOfChoicePoints": 24124,
+        "NumberOfFails": 34847,
+        "NumberOfSolutions": 18,
+        "PeakMemoryUsage": 1097241,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.48
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.48,
+      "status": "Optimal",
+      "wall_time_s": 0.49010135419666767
+    },
+    {
+      "cpu_time_s": 0.44068600000000036,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 49909,
+        "NumberOfChoicePoints": 24410,
+        "NumberOfFails": 32006,
+        "NumberOfSolutions": 27,
+        "PeakMemoryUsage": 1096913,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.43
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.43,
+      "status": "Optimal",
+      "wall_time_s": 0.44236856000497937
+    },
+    {
+      "cpu_time_s": 0.16579699999999953,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        760
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 17181,
+        "NumberOfChoicePoints": 7322,
+        "NumberOfFails": 12831,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1048881,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.16
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.16,
+      "status": "Optimal",
+      "wall_time_s": 0.16745086759328842
+    },
+    {
+      "cpu_time_s": 0.01176900000000014,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 1247,
+        "NumberOfChoicePoints": 378,
+        "NumberOfFails": 212,
+        "NumberOfSolutions": 8,
+        "PeakMemoryUsage": 1005769,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.01
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.01,
+      "status": "Optimal",
+      "wall_time_s": 0.01317477598786354
+    },
+    {
+      "cpu_time_s": 0.15266100000000016,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 19763,
+        "NumberOfChoicePoints": 9047,
+        "NumberOfFails": 12856,
+        "NumberOfSolutions": 21,
+        "PeakMemoryUsage": 1081961,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.14
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.14,
+      "status": "Optimal",
+      "wall_time_s": 0.1542440438643098
+    },
+    {
+      "cpu_time_s": 0.8047259999999996,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 81217,
+        "NumberOfChoicePoints": 39647,
+        "NumberOfFails": 53262,
+        "NumberOfSolutions": 26,
+        "PeakMemoryUsage": 1111457,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.8
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.8,
+      "status": "Optimal",
+      "wall_time_s": 0.8067047339864075
+    },
+    {
+      "cpu_time_s": 0.1314030000000006,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 27779,
+        "NumberOfChoicePoints": 13833,
+        "NumberOfFails": 13354,
+        "NumberOfSolutions": 9,
+        "PeakMemoryUsage": 1037945,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.12
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.12,
+      "status": "Optimal",
+      "wall_time_s": 0.13292002119123936
+    },
+    {
+      "cpu_time_s": 0.02906999999999993,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 4253,
+        "NumberOfChoicePoints": 1971,
+        "NumberOfFails": 1507,
+        "NumberOfSolutions": 17,
+        "PeakMemoryUsage": 1045257,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.03
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.03,
+      "status": "Optimal",
+      "wall_time_s": 0.03051828918978572
+    },
+    {
+      "cpu_time_s": 0.19066699999999948,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 20846,
+        "NumberOfChoicePoints": 8871,
+        "NumberOfFails": 15395,
+        "NumberOfSolutions": 15,
+        "PeakMemoryUsage": 1080825,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.19
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.19,
+      "status": "Optimal",
+      "wall_time_s": 0.19264335138723254
+    },
+    {
+      "cpu_time_s": 0.2057600000000006,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 26135,
+        "NumberOfChoicePoints": 11844,
+        "NumberOfFails": 18267,
+        "NumberOfSolutions": 15,
+        "PeakMemoryUsage": 1081033,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.2
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.2,
+      "status": "Optimal",
+      "wall_time_s": 0.20739915082231164
+    },
+    {
+      "cpu_time_s": 0.5152119999999991,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 56133,
+        "NumberOfChoicePoints": 26800,
+        "NumberOfFails": 37397,
+        "NumberOfSolutions": 23,
+        "PeakMemoryUsage": 1094600,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.51
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.51,
+      "status": "Optimal",
+      "wall_time_s": 0.5171129540540278
+    },
+    {
+      "cpu_time_s": 0.43363700000000094,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 48822,
+        "NumberOfChoicePoints": 23053,
+        "NumberOfFails": 32416,
+        "NumberOfSolutions": 28,
+        "PeakMemoryUsage": 1092569,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.43
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.43,
+      "status": "Optimal",
+      "wall_time_s": 0.435392620973289
+    },
+    {
+      "cpu_time_s": 0.34774700000000003,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        759
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 43806,
+        "NumberOfChoicePoints": 22215,
+        "NumberOfFails": 26928,
+        "NumberOfSolutions": 28,
+        "PeakMemoryUsage": 1096761,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.34
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.34,
+      "status": "Optimal",
+      "wall_time_s": 0.3496123431250453
+    },
+    {
+      "cpu_time_s": 0.02272400000000019,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 3591,
+        "NumberOfChoicePoints": 1504,
+        "NumberOfFails": 1274,
+        "NumberOfSolutions": 12,
+        "PeakMemoryUsage": 1042929,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.02
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.02,
+      "status": "Optimal",
+      "wall_time_s": 0.02422738168388605
+    },
+    {
+      "cpu_time_s": 0.14983799999999903,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 18292,
+        "NumberOfChoicePoints": 8741,
+        "NumberOfFails": 11371,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1051065,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.14
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.14,
+      "status": "Optimal",
+      "wall_time_s": 0.1516822981648147
+    },
+    {
+      "cpu_time_s": 0.6675889999999995,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 68689,
+        "NumberOfChoicePoints": 31529,
+        "NumberOfFails": 47830,
+        "NumberOfSolutions": 24,
+        "PeakMemoryUsage": 1100249,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.67
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.67,
+      "status": "Optimal",
+      "wall_time_s": 0.6697005908936262
+    },
+    {
+      "cpu_time_s": 0.062171000000001087,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 10867,
+        "NumberOfChoicePoints": 5635,
+        "NumberOfFails": 4645,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1047553,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.06
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.06,
+      "status": "Optimal",
+      "wall_time_s": 0.0637213229201734
+    },
+    {
+      "cpu_time_s": 0.046626999999999086,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 7505,
+        "NumberOfChoicePoints": 3743,
+        "NumberOfFails": 3041,
+        "NumberOfSolutions": 26,
+        "PeakMemoryUsage": 1046465,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.04
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.04,
+      "status": "Optimal",
+      "wall_time_s": 0.048244113102555275
+    },
+    {
+      "cpu_time_s": 0.33740799999999993,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 43668,
+        "NumberOfChoicePoints": 19673,
+        "NumberOfFails": 28832,
+        "NumberOfSolutions": 16,
+        "PeakMemoryUsage": 1083233,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.33
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.33,
+      "status": "Optimal",
+      "wall_time_s": 0.33906413335353136
+    },
+    {
+      "cpu_time_s": 0.22000200000000092,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 22382,
+        "NumberOfChoicePoints": 9399,
+        "NumberOfFails": 17656,
+        "NumberOfSolutions": 14,
+        "PeakMemoryUsage": 1055497,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.21
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.21,
+      "status": "Optimal",
+      "wall_time_s": 0.22159311827272177
+    },
+    {
+      "cpu_time_s": 0.40256000000000114,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 41774,
+        "NumberOfChoicePoints": 19177,
+        "NumberOfFails": 29620,
+        "NumberOfSolutions": 18,
+        "PeakMemoryUsage": 1057432,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.4
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.4,
+      "status": "Optimal",
+      "wall_time_s": 0.4043052173219621
+    },
+    {
+      "cpu_time_s": 0.34420399999999773,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 33898,
+        "NumberOfChoicePoints": 15223,
+        "NumberOfFails": 24599,
+        "NumberOfSolutions": 24,
+        "PeakMemoryUsage": 1090425,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.34
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.34,
+      "status": "Optimal",
+      "wall_time_s": 0.34577834606170654
+    },
+    {
+      "cpu_time_s": 0.1711480000000023,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        760
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 24057,
+        "NumberOfChoicePoints": 11855,
+        "NumberOfFails": 13722,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1050761,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.16
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.16,
+      "status": "Optimal",
+      "wall_time_s": 0.1727775759063661
+    },
+    {
+      "cpu_time_s": 0.01787899999999709,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 2543,
+        "NumberOfChoicePoints": 1127,
+        "NumberOfFails": 926,
+        "NumberOfSolutions": 7,
+        "PeakMemoryUsage": 1037841,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.01
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.01,
+      "status": "Optimal",
+      "wall_time_s": 0.019282252993434668
+    },
+    {
+      "cpu_time_s": 0.14381200000000227,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 17701,
+        "NumberOfChoicePoints": 8108,
+        "NumberOfFails": 11614,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1081497,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.14
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.14,
+      "status": "Optimal",
+      "wall_time_s": 0.14531292486935854
+    },
+    {
+      "cpu_time_s": 0.5499009999999984,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 55818,
+        "NumberOfChoicePoints": 25910,
+        "NumberOfFails": 38791,
+        "NumberOfSolutions": 22,
+        "PeakMemoryUsage": 1098217,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.54
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.54,
+      "status": "Optimal",
+      "wall_time_s": 0.551708220038563
+    },
+    {
+      "cpu_time_s": 0.07302800000000076,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 12814,
+        "NumberOfChoicePoints": 6471,
+        "NumberOfFails": 5728,
+        "NumberOfSolutions": 16,
+        "PeakMemoryUsage": 1046313,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.07
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.07,
+      "status": "Optimal",
+      "wall_time_s": 0.07455070409923792
+    },
+    {
+      "cpu_time_s": 0.03559399999999968,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 5554,
+        "NumberOfChoicePoints": 2977,
+        "NumberOfFails": 2025,
+        "NumberOfSolutions": 18,
+        "PeakMemoryUsage": 1046281,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.03
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.03,
+      "status": "Optimal",
+      "wall_time_s": 0.0371723510324955
+    },
+    {
+      "cpu_time_s": 0.1721900000000005,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 20551,
+        "NumberOfChoicePoints": 9444,
+        "NumberOfFails": 13760,
+        "NumberOfSolutions": 21,
+        "PeakMemoryUsage": 1049777,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.17
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.17,
+      "status": "Optimal",
+      "wall_time_s": 0.17371874302625656
+    },
+    {
+      "cpu_time_s": 0.2093279999999993,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 25289,
+        "NumberOfChoicePoints": 10938,
+        "NumberOfFails": 18099,
+        "NumberOfSolutions": 14,
+        "PeakMemoryUsage": 1082897,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.2
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.2,
+      "status": "Optimal",
+      "wall_time_s": 0.2108994103036821
+    },
+    {
+      "cpu_time_s": 0.41480800000000073,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 41577,
+        "NumberOfChoicePoints": 19023,
+        "NumberOfFails": 29646,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1089536,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.41
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.41,
+      "status": "Optimal",
+      "wall_time_s": 0.4166716798208654
+    },
+    {
+      "cpu_time_s": 0.34097000000000044,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 34997,
+        "NumberOfChoicePoints": 16555,
+        "NumberOfFails": 23308,
+        "NumberOfSolutions": 23,
+        "PeakMemoryUsage": 1058745,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.34
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.34,
+      "status": "Optimal",
+      "wall_time_s": 0.3429674990475178
+    },
+    {
+      "cpu_time_s": 0.2644500000000001,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        760
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 35413,
+        "NumberOfChoicePoints": 17024,
+        "NumberOfFails": 21607,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1084209,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.26
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.26,
+      "status": "Optimal",
+      "wall_time_s": 0.2662671748548746
+    },
+    {
+      "cpu_time_s": 0.013800999999999064,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 1752,
+        "NumberOfChoicePoints": 596,
+        "NumberOfFails": 412,
+        "NumberOfSolutions": 9,
+        "PeakMemoryUsage": 1005777,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.02
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.02,
+      "status": "Optimal",
+      "wall_time_s": 0.015301753766834736
+    },
+    {
+      "cpu_time_s": 0.10719200000000129,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 16001,
+        "NumberOfChoicePoints": 7718,
+        "NumberOfFails": 9357,
+        "NumberOfSolutions": 15,
+        "PeakMemoryUsage": 1050009,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.1
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.1,
+      "status": "Optimal",
+      "wall_time_s": 0.10877987090498209
+    },
+    {
+      "cpu_time_s": 0.5331909999999986,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 50619,
+        "NumberOfChoicePoints": 23545,
+        "NumberOfFails": 35458,
+        "NumberOfSolutions": 22,
+        "PeakMemoryUsage": 1096072,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.53
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.53,
+      "status": "Optimal",
+      "wall_time_s": 0.5350060272030532
+    },
+    {
+      "cpu_time_s": 0.0504200000000008,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 7677,
+        "NumberOfChoicePoints": 4008,
+        "NumberOfFails": 3140,
+        "NumberOfSolutions": 23,
+        "PeakMemoryUsage": 1047545,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.05
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.05,
+      "status": "Optimal",
+      "wall_time_s": 0.05219110893085599
+    },
+    {
+      "cpu_time_s": 0.03213799999999978,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 5273,
+        "NumberOfChoicePoints": 2638,
+        "NumberOfFails": 1889,
+        "NumberOfSolutions": 18,
+        "PeakMemoryUsage": 1045761,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.03
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.03,
+      "status": "Optimal",
+      "wall_time_s": 0.033678294625133276
+    },
+    {
+      "cpu_time_s": 0.25918300000000016,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 30988,
+        "NumberOfChoicePoints": 14236,
+        "NumberOfFails": 20901,
+        "NumberOfSolutions": 22,
+        "PeakMemoryUsage": 1085945,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.25
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.25,
+      "status": "Optimal",
+      "wall_time_s": 0.26095127733424306
+    },
+    {
+      "cpu_time_s": 0.18878999999999913,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 21928,
+        "NumberOfChoicePoints": 9612,
+        "NumberOfFails": 16198,
+        "NumberOfSolutions": 17,
+        "PeakMemoryUsage": 1053097,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.18
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.18,
+      "status": "Optimal",
+      "wall_time_s": 0.1903641507960856
+    },
+    {
+      "cpu_time_s": 0.42945600000000006,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 45207,
+        "NumberOfChoicePoints": 22121,
+        "NumberOfFails": 29964,
+        "NumberOfSolutions": 25,
+        "PeakMemoryUsage": 1067121,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.42
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.42,
+      "status": "Optimal",
+      "wall_time_s": 0.4312035050243139
+    },
+    {
+      "cpu_time_s": 0.3340410000000009,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 36364,
+        "NumberOfChoicePoints": 16383,
+        "NumberOfFails": 25348,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1055321,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.33
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.33,
+      "status": "Optimal",
+      "wall_time_s": 0.3358511789701879
+    },
+    {
+      "cpu_time_s": 0.21184599999999953,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        760
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 22651,
+        "NumberOfChoicePoints": 10310,
+        "NumberOfFails": 15360,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1082985,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.21
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.21,
+      "status": "Optimal",
+      "wall_time_s": 0.21342932479456067
+    },
+    {
+      "cpu_time_s": 0.022391000000000716,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 3716,
+        "NumberOfChoicePoints": 1658,
+        "NumberOfFails": 1413,
+        "NumberOfSolutions": 9,
+        "PeakMemoryUsage": 1037849,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.02
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.02,
+      "status": "Optimal",
+      "wall_time_s": 0.02385957818478346
+    },
+    {
+      "cpu_time_s": 0.16737699999999833,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 21757,
+        "NumberOfChoicePoints": 9972,
+        "NumberOfFails": 14040,
+        "NumberOfSolutions": 17,
+        "PeakMemoryUsage": 1080681,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.16
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.16,
+      "status": "Optimal",
+      "wall_time_s": 0.16910361591726542
+    },
+    {
+      "cpu_time_s": 0.7337089999999993,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 75526,
+        "NumberOfChoicePoints": 35949,
+        "NumberOfFails": 51704,
+        "NumberOfSolutions": 27,
+        "PeakMemoryUsage": 1109825,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.73
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.73,
+      "status": "Optimal",
+      "wall_time_s": 0.7356816036626697
+    },
+    {
+      "cpu_time_s": 0.34565900000000127,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 51511,
+        "NumberOfChoicePoints": 24871,
+        "NumberOfFails": 31747,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1085929,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.34
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.34,
+      "status": "Optimal",
+      "wall_time_s": 0.34750228794291615
+    },
+    {
+      "cpu_time_s": 0.03286800000000056,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 5349,
+        "NumberOfChoicePoints": 2659,
+        "NumberOfFails": 1998,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1045441,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.03
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.03,
+      "status": "Optimal",
+      "wall_time_s": 0.03434136789292097
+    },
+    {
+      "cpu_time_s": 0.18652000000000157,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 22861,
+        "NumberOfChoicePoints": 10380,
+        "NumberOfFails": 15194,
+        "NumberOfSolutions": 14,
+        "PeakMemoryUsage": 1081129,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.18
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.18,
+      "status": "Optimal",
+      "wall_time_s": 0.18808671040460467
+    },
+    {
+      "cpu_time_s": 0.11016499999999851,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 21927,
+        "NumberOfChoicePoints": 11826,
+        "NumberOfFails": 10143,
+        "NumberOfSolutions": 17,
+        "PeakMemoryUsage": 1050081,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.11
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.11,
+      "status": "Optimal",
+      "wall_time_s": 0.11223166296258569
+    },
+    {
+      "cpu_time_s": 0.6042099999999984,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 61528,
+        "NumberOfChoicePoints": 28804,
+        "NumberOfFails": 42842,
+        "NumberOfSolutions": 26,
+        "PeakMemoryUsage": 1100425,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.6
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.6,
+      "status": "Optimal",
+      "wall_time_s": 0.605989099945873
+    },
+    {
+      "cpu_time_s": 0.4547760000000025,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 49282,
+        "NumberOfChoicePoints": 23926,
+        "NumberOfFails": 32111,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1095761,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.45
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.45,
+      "status": "Optimal",
+      "wall_time_s": 0.45665900222957134
+    },
+    {
+      "cpu_time_s": 0.29703500000000105,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        760
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 34575,
+        "NumberOfChoicePoints": 16443,
+        "NumberOfFails": 22388,
+        "NumberOfSolutions": 24,
+        "PeakMemoryUsage": 1089129,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.29
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.29,
+      "status": "Optimal",
+      "wall_time_s": 0.29868291690945625
+    },
+    {
+      "cpu_time_s": 0.01856599999999986,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 2938,
+        "NumberOfChoicePoints": 1233,
+        "NumberOfFails": 1021,
+        "NumberOfSolutions": 9,
+        "PeakMemoryUsage": 1037841,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.01
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.01,
+      "status": "Optimal",
+      "wall_time_s": 0.020209824200719595
+    },
+    {
+      "cpu_time_s": 0.1463039999999971,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 17901,
+        "NumberOfChoicePoints": 7995,
+        "NumberOfFails": 12521,
+        "NumberOfSolutions": 21,
+        "PeakMemoryUsage": 1081921,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.14
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.14,
+      "status": "Optimal",
+      "wall_time_s": 0.14789717784151435
+    },
+    {
+      "cpu_time_s": 0.7333859999999994,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 77093,
+        "NumberOfChoicePoints": 37070,
+        "NumberOfFails": 50108,
+        "NumberOfSolutions": 28,
+        "PeakMemoryUsage": 1104961,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.73
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.73,
+      "status": "Optimal",
+      "wall_time_s": 0.7353023290634155
+    },
+    {
+      "cpu_time_s": 0.14280199999999965,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 17502,
+        "NumberOfChoicePoints": 7811,
+        "NumberOfFails": 12930,
+        "NumberOfSolutions": 18,
+        "PeakMemoryUsage": 1049705,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.14
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.14,
+      "status": "Optimal",
+      "wall_time_s": 0.14427955215796828
+    },
+    {
+      "cpu_time_s": 0.030616000000001975,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 4830,
+        "NumberOfChoicePoints": 2444,
+        "NumberOfFails": 1748,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1045657,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.02
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.02,
+      "status": "Optimal",
+      "wall_time_s": 0.032099856063723564
+    },
+    {
+      "cpu_time_s": 0.20186500000000152,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 27144,
+        "NumberOfChoicePoints": 12814,
+        "NumberOfFails": 16950,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1050201,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.2
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.2,
+      "status": "Optimal",
+      "wall_time_s": 0.20350720407441258
+    },
+    {
+      "cpu_time_s": 0.1801169999999992,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 20531,
+        "NumberOfChoicePoints": 9050,
+        "NumberOfFails": 15146,
+        "NumberOfSolutions": 15,
+        "PeakMemoryUsage": 1082953,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.17
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.17,
+      "status": "Optimal",
+      "wall_time_s": 0.18166779400780797
+    },
+    {
+      "cpu_time_s": 0.6094139999999975,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 72603,
+        "NumberOfChoicePoints": 36876,
+        "NumberOfFails": 44364,
+        "NumberOfSolutions": 28,
+        "PeakMemoryUsage": 1107249,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.61
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.61,
+      "status": "Optimal",
+      "wall_time_s": 0.6111514125950634
+    },
+    {
+      "cpu_time_s": 0.4688340000000011,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 49775,
+        "NumberOfChoicePoints": 23799,
+        "NumberOfFails": 33286,
+        "NumberOfSolutions": 24,
+        "PeakMemoryUsage": 1098017,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.47
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.47,
+      "status": "Optimal",
+      "wall_time_s": 0.4710263218730688
+    },
+    {
+      "cpu_time_s": 0.23805100000000223,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        760
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 27505,
+        "NumberOfChoicePoints": 12531,
+        "NumberOfFails": 18856,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1085457,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.23
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.23,
+      "status": "Optimal",
+      "wall_time_s": 0.23956675129011273
+    },
+    {
+      "cpu_time_s": 0.012781000000000375,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 1538,
+        "NumberOfChoicePoints": 507,
+        "NumberOfFails": 360,
+        "NumberOfSolutions": 8,
+        "PeakMemoryUsage": 1005777,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.01
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.01,
+      "status": "Optimal",
+      "wall_time_s": 0.014159022830426693
+    },
+    {
+      "cpu_time_s": 0.16805399999999793,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 21967,
+        "NumberOfChoicePoints": 10316,
+        "NumberOfFails": 13399,
+        "NumberOfSolutions": 18,
+        "PeakMemoryUsage": 1081761,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.16
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.16,
+      "status": "Optimal",
+      "wall_time_s": 0.16971766203641891
+    },
+    {
+      "cpu_time_s": 0.6921360000000014,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 69713,
+        "NumberOfChoicePoints": 33691,
+        "NumberOfFails": 46350,
+        "NumberOfSolutions": 25,
+        "PeakMemoryUsage": 1106289,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.68
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.68,
+      "status": "Optimal",
+      "wall_time_s": 0.6939029418863356
+    },
+    {
+      "cpu_time_s": 0.1379369999999973,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 29565,
+        "NumberOfChoicePoints": 14790,
+        "NumberOfFails": 14221,
+        "NumberOfSolutions": 10,
+        "PeakMemoryUsage": 1045201,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.14
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.14,
+      "status": "Optimal",
+      "wall_time_s": 0.13954263925552368
+    },
+    {
+      "cpu_time_s": 0.040959000000000856,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 6798,
+        "NumberOfChoicePoints": 3482,
+        "NumberOfFails": 2685,
+        "NumberOfSolutions": 21,
+        "PeakMemoryUsage": 1046409,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.03
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.03,
+      "status": "Optimal",
+      "wall_time_s": 0.04247961426153779
+    },
+    {
+      "cpu_time_s": 0.30431099999999844,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 32906,
+        "NumberOfChoicePoints": 14998,
+        "NumberOfFails": 22569,
+        "NumberOfSolutions": 23,
+        "PeakMemoryUsage": 1087169,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.3
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.3,
+      "status": "Optimal",
+      "wall_time_s": 0.30597418965771794
+    },
+    {
+      "cpu_time_s": 0.23100000000000165,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 29132,
+        "NumberOfChoicePoints": 14046,
+        "NumberOfFails": 18989,
+        "NumberOfSolutions": 16,
+        "PeakMemoryUsage": 1087393,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.22
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.22,
+      "status": "Optimal",
+      "wall_time_s": 0.2331581450998783
+    },
+    {
+      "cpu_time_s": 0.4304409999999983,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 51992,
+        "NumberOfChoicePoints": 24765,
+        "NumberOfFails": 33960,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1093401,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.42
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.42,
+      "status": "Optimal",
+      "wall_time_s": 0.4322279719635844
+    },
+    {
+      "cpu_time_s": 0.3902680000000025,
+      "instance_id": "taillard_gen_10x5_01",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        752
+      ],
+      "objective_values": [
+        752
+      ],
+      "solver_info": {
+        "NumberOfBranches": 42787,
+        "NumberOfChoicePoints": 19732,
+        "NumberOfFails": 29264,
+        "NumberOfSolutions": 24,
+        "PeakMemoryUsage": 1089689,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.39
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.39,
+      "status": "Optimal",
+      "wall_time_s": 0.3920987509191036
+    },
+    {
+      "cpu_time_s": 0.173921,
+      "instance_id": "taillard_gen_10x5_02",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        760
+      ],
+      "objective_values": [
+        760
+      ],
+      "solver_info": {
+        "NumberOfBranches": 21954,
+        "NumberOfChoicePoints": 10213,
+        "NumberOfFails": 13801,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1048617,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.17
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.17,
+      "status": "Optimal",
+      "wall_time_s": 0.1754909292794764
+    },
+    {
+      "cpu_time_s": 0.015796000000001698,
+      "instance_id": "taillard_gen_10x5_03",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        689
+      ],
+      "objective_values": [
+        689
+      ],
+      "solver_info": {
+        "NumberOfBranches": 2168,
+        "NumberOfChoicePoints": 800,
+        "NumberOfFails": 611,
+        "NumberOfSolutions": 11,
+        "PeakMemoryUsage": 1005785,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.01
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.01,
+      "status": "Optimal",
+      "wall_time_s": 0.017442477867007256
+    },
+    {
+      "cpu_time_s": 0.14270499999999942,
+      "instance_id": "taillard_gen_10x5_04",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        815
+      ],
+      "objective_values": [
+        815
+      ],
+      "solver_info": {
+        "NumberOfBranches": 17768,
+        "NumberOfChoicePoints": 8392,
+        "NumberOfFails": 11238,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1081489,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.14
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.14,
+      "status": "Optimal",
+      "wall_time_s": 0.14430429879575968
+    },
+    {
+      "cpu_time_s": 0.645864999999997,
+      "instance_id": "taillard_gen_10x5_05",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        713
+      ],
+      "objective_values": [
+        713
+      ],
+      "solver_info": {
+        "NumberOfBranches": 62724,
+        "NumberOfChoicePoints": 29128,
+        "NumberOfFails": 43965,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1103105,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.64
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.64,
+      "status": "Optimal",
+      "wall_time_s": 0.6477906149812043
+    },
+    {
+      "cpu_time_s": 0.1413019999999996,
+      "instance_id": "taillard_gen_10x5_06",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        772
+      ],
+      "objective_values": [
+        772
+      ],
+      "solver_info": {
+        "NumberOfBranches": 17446,
+        "NumberOfChoicePoints": 7411,
+        "NumberOfFails": 13171,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1050393,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.14
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.14,
+      "status": "Optimal",
+      "wall_time_s": 0.14286372298374772
+    },
+    {
+      "cpu_time_s": 0.029686000000001656,
+      "instance_id": "taillard_gen_10x5_07",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        655
+      ],
+      "objective_values": [
+        655
+      ],
+      "solver_info": {
+        "NumberOfBranches": 4753,
+        "NumberOfChoicePoints": 2370,
+        "NumberOfFails": 1707,
+        "NumberOfSolutions": 17,
+        "PeakMemoryUsage": 1045617,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.02
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.02,
+      "status": "Optimal",
+      "wall_time_s": 0.03120612632483244
+    },
+    {
+      "cpu_time_s": 0.18271899999999874,
+      "instance_id": "taillard_gen_10x5_08",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        703
+      ],
+      "objective_values": [
+        703
+      ],
+      "solver_info": {
+        "NumberOfBranches": 24100,
+        "NumberOfChoicePoints": 11454,
+        "NumberOfFails": 14880,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1050273,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.18
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.18,
+      "status": "Optimal",
+      "wall_time_s": 0.184433878865093
+    },
+    {
+      "cpu_time_s": 0.11648500000000084,
+      "instance_id": "taillard_gen_10x5_09",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        706
+      ],
+      "objective_values": [
+        706
+      ],
+      "solver_info": {
+        "NumberOfBranches": 23517,
+        "NumberOfChoicePoints": 12126,
+        "NumberOfFails": 11431,
+        "NumberOfSolutions": 16,
+        "PeakMemoryUsage": 1049345,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.11
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.11,
+      "status": "Optimal",
+      "wall_time_s": 0.1180391339585185
+    },
+    {
+      "cpu_time_s": 0.47323100000000196,
+      "instance_id": "taillard_gen_10x5_10",
+      "n_jobs": 10,
+      "n_machines": 5,
+      "objective_bounds": [
+        704
+      ],
+      "objective_values": [
+        704
+      ],
+      "solver_info": {
+        "NumberOfBranches": 53063,
+        "NumberOfChoicePoints": 25397,
+        "NumberOfFails": 35360,
+        "NumberOfSolutions": 23,
+        "PeakMemoryUsage": 1092304,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.47
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.47,
+      "status": "Optimal",
+      "wall_time_s": 0.47493633022531867
+    }
+  ],
+  "schema_version": 1,
+  "summary": {
+    "instances": {
+      "taillard_gen_10x5_01": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.32853499999999997,
+          0.4140100000000002,
+          0.44068600000000036,
+          0.43363700000000094,
+          0.34420399999999773,
+          0.34097000000000044,
+          0.3340410000000009,
+          0.4547760000000025,
+          0.4688340000000011,
+          0.3902680000000025
+        ],
+        "max_optimal_cpu_s": 0.4688340000000011,
+        "median_optimal_cpu_s": 0.40213900000000136,
+        "min_optimal_cpu_s": 0.32853499999999997,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "taillard_gen_10x5_02": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.18678099999999997,
+          0.2483189999999995,
+          0.16579699999999953,
+          0.34774700000000003,
+          0.1711480000000023,
+          0.2644500000000001,
+          0.21184599999999953,
+          0.29703500000000105,
+          0.23805100000000223,
+          0.173921
+        ],
+        "max_optimal_cpu_s": 0.34774700000000003,
+        "median_optimal_cpu_s": 0.22494850000000088,
+        "min_optimal_cpu_s": 0.16579699999999953,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "taillard_gen_10x5_03": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.06390800000000008,
+          0.011630999999999947,
+          0.01176900000000014,
+          0.02272400000000019,
+          0.01787899999999709,
+          0.013800999999999064,
+          0.022391000000000716,
+          0.01856599999999986,
+          0.012781000000000375,
+          0.015796000000001698
+        ],
+        "max_optimal_cpu_s": 0.06390800000000008,
+        "median_optimal_cpu_s": 0.016837499999999395,
+        "min_optimal_cpu_s": 0.011630999999999947,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "taillard_gen_10x5_04": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.13749100000000003,
+          0.1848020000000008,
+          0.15266100000000016,
+          0.14983799999999903,
+          0.14381200000000227,
+          0.10719200000000129,
+          0.16737699999999833,
+          0.1463039999999971,
+          0.16805399999999793,
+          0.14270499999999942
+        ],
+        "max_optimal_cpu_s": 0.1848020000000008,
+        "median_optimal_cpu_s": 0.14807099999999807,
+        "min_optimal_cpu_s": 0.10719200000000129,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "taillard_gen_10x5_05": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.6897259999999998,
+          0.5835599999999994,
+          0.8047259999999996,
+          0.6675889999999995,
+          0.5499009999999984,
+          0.5331909999999986,
+          0.7337089999999993,
+          0.7333859999999994,
+          0.6921360000000014,
+          0.645864999999997
+        ],
+        "max_optimal_cpu_s": 0.8047259999999996,
+        "median_optimal_cpu_s": 0.6786574999999997,
+        "min_optimal_cpu_s": 0.5331909999999986,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "taillard_gen_10x5_06": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.05349100000000018,
+          0.08299400000000023,
+          0.1314030000000006,
+          0.062171000000001087,
+          0.07302800000000076,
+          0.0504200000000008,
+          0.34565900000000127,
+          0.14280199999999965,
+          0.1379369999999973,
+          0.1413019999999996
+        ],
+        "max_optimal_cpu_s": 0.34565900000000127,
+        "median_optimal_cpu_s": 0.10719850000000042,
+        "min_optimal_cpu_s": 0.0504200000000008,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "taillard_gen_10x5_07": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.03157399999999977,
+          0.0323089999999997,
+          0.02906999999999993,
+          0.046626999999999086,
+          0.03559399999999968,
+          0.03213799999999978,
+          0.03286800000000056,
+          0.030616000000001975,
+          0.040959000000000856,
+          0.029686000000001656
+        ],
+        "max_optimal_cpu_s": 0.046626999999999086,
+        "median_optimal_cpu_s": 0.03222349999999974,
+        "min_optimal_cpu_s": 0.02906999999999993,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "taillard_gen_10x5_08": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.28422700000000023,
+          0.3014720000000004,
+          0.19066699999999948,
+          0.33740799999999993,
+          0.1721900000000005,
+          0.25918300000000016,
+          0.18652000000000157,
+          0.20186500000000152,
+          0.30431099999999844,
+          0.18271899999999874
+        ],
+        "max_optimal_cpu_s": 0.33740799999999993,
+        "median_optimal_cpu_s": 0.23052400000000084,
+        "min_optimal_cpu_s": 0.1721900000000005,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "taillard_gen_10x5_09": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.18362599999999984,
+          0.3122669999999994,
+          0.2057600000000006,
+          0.22000200000000092,
+          0.2093279999999993,
+          0.18878999999999913,
+          0.11016499999999851,
+          0.1801169999999992,
+          0.23100000000000165,
+          0.11648500000000084
+        ],
+        "max_optimal_cpu_s": 0.3122669999999994,
+        "median_optimal_cpu_s": 0.19727499999999987,
+        "min_optimal_cpu_s": 0.11016499999999851,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "taillard_gen_10x5_10": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.5161830000000001,
+          0.48823300000000014,
+          0.5152119999999991,
+          0.40256000000000114,
+          0.41480800000000073,
+          0.42945600000000006,
+          0.6042099999999984,
+          0.6094139999999975,
+          0.4304409999999983,
+          0.47323100000000196
+        ],
+        "max_optimal_cpu_s": 0.6094139999999975,
+        "median_optimal_cpu_s": 0.48073200000000105,
+        "min_optimal_cpu_s": 0.40256000000000114,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      }
+    }
+  }
+}

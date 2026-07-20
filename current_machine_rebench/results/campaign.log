@@ -1,0 +1,2483 @@
+prepared external benchmarks under current_machine_rebench/results/external
+  tsplib: 58
+  hard_tsplib: 40
+  fhcp: 11
+  clustered_euclidean: 12
+  sat: 3
+original3_kcnf: 12700/100000 best=0.072833s at eval 2532 elapsed=22.0s
+original3_kcnf: 12800/100000 best=0.072833s at eval 2532 elapsed=43.6s
+original3_kcnf: 12900/100000 best=0.072833s at eval 2532 elapsed=65.5s
+original3_kcnf: 13000/100000 best=0.072833s at eval 2532 elapsed=87.4s
+original3_kcnf: 13100/100000 best=0.072833s at eval 2532 elapsed=107.7s
+original3_kcnf: 13200/100000 best=0.072833s at eval 2532 elapsed=130.1s
+original3_kcnf: 13300/100000 best=0.072833s at eval 2532 elapsed=150.5s
+original3_kcnf: 13400/100000 best=0.072833s at eval 2532 elapsed=172.9s
+original3_kcnf: 13500/100000 best=0.072833s at eval 2532 elapsed=194.5s
+original3_kcnf: 13600/100000 best=0.072833s at eval 2532 elapsed=215.3s
+original3_kcnf: 13700/100000 best=0.072833s at eval 2532 elapsed=237.1s
+original3_kcnf: 13800/100000 best=0.072833s at eval 2532 elapsed=258.6s
+original3_kcnf: 13900/100000 best=0.072833s at eval 2532 elapsed=279.6s
+2026-07-18T18:32:43+00:00 supervisor launch attempt 1
+prepared external benchmarks under current_machine_rebench/results/external
+  tsplib: 58
+  hard_tsplib: 40
+  fhcp: 11
+  clustered_euclidean: 12
+  sat: 3
+original3_kcnf: 14000/100000 best=0.072833s at eval 2532 elapsed=21.7s
+original3_kcnf: 14100/100000 best=0.072833s at eval 2532 elapsed=42.6s
+Terminated
+2026-07-18T18:33:44+00:00 supervisor: attempt 1 failed with status 143; restarting in 30s
+2026-07-18T18:34:14+00:00 supervisor launch attempt 2
+prepared external benchmarks under current_machine_rebench/results/external
+  tsplib: 58
+  hard_tsplib: 40
+  fhcp: 11
+  clustered_euclidean: 12
+  sat: 3
+original3_kcnf: 14200/100000 best=0.072833s at eval 2532 elapsed=20.6s
+original3_kcnf: 14300/100000 best=0.072833s at eval 2532 elapsed=42.2s
+original3_kcnf: 14400/100000 best=0.072833s at eval 2532 elapsed=63.8s
+original3_kcnf: 14500/100000 best=0.072833s at eval 2532 elapsed=85.2s
+original3_kcnf: 14600/100000 best=0.072833s at eval 2532 elapsed=106.2s
+original3_kcnf: 14700/100000 best=0.072833s at eval 2532 elapsed=126.3s
+original3_kcnf: 14800/100000 best=0.072833s at eval 2532 elapsed=148.1s
+original3_kcnf: 14900/100000 best=0.072833s at eval 2532 elapsed=169.2s
+original3_kcnf: 15000/100000 best=0.072833s at eval 2532 elapsed=190.0s
+original3_kcnf: 15100/100000 best=0.072833s at eval 2532 elapsed=211.4s
+original3_kcnf: 15200/100000 best=0.072833s at eval 2532 elapsed=233.4s
+original3_kcnf: 15300/100000 best=0.072833s at eval 2532 elapsed=255.8s
+original3_kcnf: 15400/100000 best=0.072833s at eval 2532 elapsed=277.0s
+original3_kcnf: 15500/100000 best=0.072833s at eval 2532 elapsed=297.1s
+original3_kcnf: 15600/100000 best=0.072833s at eval 2532 elapsed=319.0s
+original3_kcnf: 15700/100000 best=0.072833s at eval 2532 elapsed=340.4s
+original3_kcnf: 15800/100000 best=0.072833s at eval 2532 elapsed=363.3s
+original3_kcnf: 15900/100000 best=0.072833s at eval 2532 elapsed=385.6s
+original3_kcnf: 16000/100000 best=0.072833s at eval 2532 elapsed=408.5s
+original3_kcnf: 16100/100000 best=0.072833s at eval 2532 elapsed=431.4s
+original3_kcnf: 16200/100000 best=0.072833s at eval 2532 elapsed=453.1s
+original3_kcnf: 16300/100000 best=0.072833s at eval 2532 elapsed=475.4s
+original3_kcnf: 16400/100000 best=0.072833s at eval 2532 elapsed=497.4s
+original3_kcnf: 16500/100000 best=0.072833s at eval 2532 elapsed=519.1s
+original3_kcnf: 16600/100000 best=0.072833s at eval 2532 elapsed=540.0s
+original3_kcnf: 16700/100000 best=0.072833s at eval 2532 elapsed=563.3s
+original3_kcnf: 16800/100000 best=0.072833s at eval 2532 elapsed=584.5s
+original3_kcnf: 16900/100000 best=0.072833s at eval 2532 elapsed=605.7s
+original3_kcnf: 17000/100000 best=0.072833s at eval 2532 elapsed=627.0s
+original3_kcnf: 17100/100000 best=0.072833s at eval 2532 elapsed=648.8s
+original3_kcnf: 17200/100000 best=0.072833s at eval 2532 elapsed=671.8s
+original3_kcnf: 17300/100000 best=0.072833s at eval 2532 elapsed=694.3s
+original3_kcnf: 17400/100000 best=0.072833s at eval 2532 elapsed=716.8s
+original3_kcnf: 17500/100000 best=0.072833s at eval 2532 elapsed=739.8s
+original3_kcnf: 17600/100000 best=0.072833s at eval 2532 elapsed=762.1s
+original3_kcnf: 17700/100000 best=0.072833s at eval 2532 elapsed=784.0s
+original3_kcnf: 17800/100000 best=0.072833s at eval 2532 elapsed=805.3s
+original3_kcnf: 17900/100000 best=0.072833s at eval 2532 elapsed=826.9s
+original3_kcnf: 18000/100000 best=0.072833s at eval 2532 elapsed=849.9s
+original3_kcnf: 18100/100000 best=0.072833s at eval 2532 elapsed=872.4s
+original3_kcnf: 18200/100000 best=0.072833s at eval 2532 elapsed=895.5s
+original3_kcnf: 18300/100000 best=0.072833s at eval 2532 elapsed=917.5s
+original3_kcnf: 18400/100000 best=0.072833s at eval 2532 elapsed=938.9s
+original3_kcnf: 18500/100000 best=0.072833s at eval 2532 elapsed=961.0s
+original3_kcnf: 18600/100000 best=0.072833s at eval 2532 elapsed=982.5s
+original3_kcnf: 18700/100000 best=0.072833s at eval 2532 elapsed=1003.3s
+original3_kcnf: 18800/100000 best=0.072833s at eval 2532 elapsed=1025.3s
+original3_kcnf: 18900/100000 best=0.072833s at eval 2532 elapsed=1047.4s
+original3_kcnf: 19000/100000 best=0.072833s at eval 2532 elapsed=1068.9s
+original3_kcnf: 19100/100000 best=0.072833s at eval 2532 elapsed=1090.1s
+original3_kcnf: 19200/100000 best=0.072833s at eval 2532 elapsed=1112.8s
+original3_kcnf: 19300/100000 best=0.072833s at eval 2532 elapsed=1133.6s
+original3_kcnf: 19400/100000 best=0.072833s at eval 2532 elapsed=1154.9s
+original3_kcnf: 19500/100000 best=0.072833s at eval 2532 elapsed=1176.9s
+original3_kcnf: 19600/100000 best=0.072833s at eval 2532 elapsed=1198.7s
+original3_kcnf: 19700/100000 best=0.072833s at eval 2532 elapsed=1220.7s
+original3_kcnf: 19800/100000 best=0.072833s at eval 2532 elapsed=1242.6s
+original3_kcnf: 19900/100000 best=0.072833s at eval 2532 elapsed=1265.0s
+original3_kcnf: 20000/100000 best=0.072833s at eval 2532 elapsed=1288.5s
+original3_kcnf: 20100/100000 best=0.072833s at eval 2532 elapsed=1311.2s
+original3_kcnf: 20200/100000 best=0.072833s at eval 2532 elapsed=1332.8s
+original3_kcnf: 20300/100000 best=0.072833s at eval 2532 elapsed=1356.0s
+original3_kcnf: 20400/100000 best=0.072833s at eval 2532 elapsed=1377.4s
+original3_kcnf: 20500/100000 best=0.072833s at eval 2532 elapsed=1402.2s
+original3_kcnf: 20600/100000 best=0.072833s at eval 2532 elapsed=1426.5s
+original3_kcnf: 20700/100000 best=0.072833s at eval 2532 elapsed=1448.3s
+original3_kcnf: 20800/100000 best=0.072833s at eval 2532 elapsed=1468.9s
+original3_kcnf: 20900/100000 best=0.072833s at eval 2532 elapsed=1489.4s
+original3_kcnf: 21000/100000 best=0.072833s at eval 2532 elapsed=1511.2s
+original3_kcnf: 21100/100000 best=0.072833s at eval 2532 elapsed=1532.0s
+original3_kcnf: 21200/100000 best=0.072833s at eval 2532 elapsed=1555.6s
+original3_kcnf: 21300/100000 best=0.072833s at eval 2532 elapsed=1577.6s
+original3_kcnf: 21400/100000 best=0.072833s at eval 2532 elapsed=1599.4s
+original3_kcnf: 21500/100000 best=0.072833s at eval 2532 elapsed=1620.5s
+original3_kcnf: 21600/100000 best=0.072833s at eval 2532 elapsed=1641.1s
+original3_kcnf: 21700/100000 best=0.072833s at eval 2532 elapsed=1662.0s
+original3_kcnf: 21800/100000 best=0.072833s at eval 2532 elapsed=1685.3s
+original3_kcnf: 21900/100000 best=0.072833s at eval 2532 elapsed=1708.6s
+original3_kcnf: 22000/100000 best=0.072833s at eval 2532 elapsed=1730.6s
+original3_kcnf: 22100/100000 best=0.072833s at eval 2532 elapsed=1752.5s
+original3_kcnf: 22200/100000 best=0.072833s at eval 2532 elapsed=1775.6s
+original3_kcnf: 22300/100000 best=0.072833s at eval 2532 elapsed=1799.6s
+original3_kcnf: 22400/100000 best=0.072833s at eval 2532 elapsed=1821.1s
+original3_kcnf: 22500/100000 best=0.072833s at eval 2532 elapsed=1842.6s
+original3_kcnf: 22600/100000 best=0.072833s at eval 2532 elapsed=1863.8s
+original3_kcnf: 22700/100000 best=0.072833s at eval 2532 elapsed=1885.0s
+original3_kcnf: 22800/100000 best=0.072833s at eval 2532 elapsed=1908.2s
+original3_kcnf: 22900/100000 best=0.072833s at eval 2532 elapsed=1929.1s
+original3_kcnf: 23000/100000 best=0.072833s at eval 2532 elapsed=1952.4s
+original3_kcnf: 23100/100000 best=0.072833s at eval 2532 elapsed=1975.2s
+original3_kcnf: 23200/100000 best=0.072833s at eval 2532 elapsed=1997.5s
+original3_kcnf: 23300/100000 best=0.072833s at eval 2532 elapsed=2019.7s
+original3_kcnf: 23400/100000 best=0.072833s at eval 2532 elapsed=2040.8s
+original3_kcnf: 23500/100000 best=0.072833s at eval 2532 elapsed=2062.9s
+original3_kcnf: 23600/100000 best=0.072833s at eval 2532 elapsed=2083.6s
+original3_kcnf: 23700/100000 best=0.072833s at eval 2532 elapsed=2104.3s
+original3_kcnf: 23800/100000 best=0.072833s at eval 2532 elapsed=2127.1s
+original3_kcnf: 23900/100000 best=0.072833s at eval 2532 elapsed=2149.9s
+original3_kcnf: 24000/100000 best=0.072833s at eval 2532 elapsed=2173.5s
+original3_kcnf: 24100/100000 best=0.072833s at eval 2532 elapsed=2195.4s
+original3_kcnf: 24200/100000 best=0.072833s at eval 2532 elapsed=2218.8s
+original3_kcnf: 24300/100000 best=0.072833s at eval 2532 elapsed=2239.7s
+original3_kcnf: 24400/100000 best=0.072833s at eval 2532 elapsed=2260.7s
+original3_kcnf: 24500/100000 best=0.072833s at eval 2532 elapsed=2281.4s
+original3_kcnf: 24600/100000 best=0.072833s at eval 2532 elapsed=2302.1s
+original3_kcnf: 24700/100000 best=0.072833s at eval 2532 elapsed=2324.3s
+original3_kcnf: 24800/100000 best=0.072833s at eval 2532 elapsed=2346.8s
+original3_kcnf: 24900/100000 best=0.072833s at eval 2532 elapsed=2368.2s
+original3_kcnf: 25000/100000 best=0.072833s at eval 2532 elapsed=2389.2s
+original3_kcnf: 25100/100000 best=0.072833s at eval 2532 elapsed=2411.9s
+original3_kcnf: 25200/100000 best=0.072833s at eval 2532 elapsed=2433.6s
+original3_kcnf: 25300/100000 best=0.072833s at eval 2532 elapsed=2454.7s
+original3_kcnf: 25400/100000 best=0.072833s at eval 2532 elapsed=2476.2s
+original3_kcnf: 25500/100000 best=0.072833s at eval 2532 elapsed=2496.2s
+original3_kcnf: 25600/100000 best=0.072833s at eval 2532 elapsed=2516.6s
+original3_kcnf: 25700/100000 best=0.072833s at eval 2532 elapsed=2538.6s
+original3_kcnf: 25800/100000 best=0.072833s at eval 2532 elapsed=2561.7s
+original3_kcnf: 25900/100000 best=0.072833s at eval 2532 elapsed=2583.2s
+original3_kcnf: 26000/100000 best=0.072833s at eval 2532 elapsed=2604.4s
+original3_kcnf: 26100/100000 best=0.072833s at eval 2532 elapsed=2627.6s
+original3_kcnf: 26200/100000 best=0.072833s at eval 2532 elapsed=2650.4s
+original3_kcnf: 26300/100000 best=0.072833s at eval 2532 elapsed=2671.1s
+original3_kcnf: 26400/100000 best=0.072833s at eval 2532 elapsed=2694.7s
+original3_kcnf: 26500/100000 best=0.072833s at eval 2532 elapsed=2715.2s
+original3_kcnf: 26600/100000 best=0.072833s at eval 2532 elapsed=2738.4s
+original3_kcnf: 26700/100000 best=0.072833s at eval 2532 elapsed=2760.3s
+original3_kcnf: 26800/100000 best=0.072833s at eval 2532 elapsed=2782.1s
+original3_kcnf: 26900/100000 best=0.072833s at eval 2532 elapsed=2803.0s
+original3_kcnf: 27000/100000 best=0.072833s at eval 2532 elapsed=2824.9s
+original3_kcnf: 27100/100000 best=0.072833s at eval 2532 elapsed=2844.9s
+original3_kcnf: 27200/100000 best=0.072833s at eval 2532 elapsed=2866.5s
+original3_kcnf: 27300/100000 best=0.072833s at eval 2532 elapsed=2891.2s
+original3_kcnf: 27400/100000 best=0.072833s at eval 2532 elapsed=2914.2s
+original3_kcnf: 27500/100000 best=0.072833s at eval 2532 elapsed=2935.4s
+original3_kcnf: 27600/100000 best=0.072833s at eval 2532 elapsed=2956.0s
+original3_kcnf: 27700/100000 best=0.072833s at eval 2532 elapsed=2976.8s
+original3_kcnf: 27800/100000 best=0.072833s at eval 2532 elapsed=3000.0s
+original3_kcnf: 27900/100000 best=0.072833s at eval 2532 elapsed=3021.4s
+original3_kcnf: 28000/100000 best=0.072833s at eval 2532 elapsed=3042.8s
+original3_kcnf: 28100/100000 best=0.072833s at eval 2532 elapsed=3065.7s
+original3_kcnf: 28200/100000 best=0.072833s at eval 2532 elapsed=3088.2s
+original3_kcnf: 28300/100000 best=0.072833s at eval 2532 elapsed=3111.6s
+original3_kcnf: 28400/100000 best=0.072833s at eval 2532 elapsed=3134.9s
+original3_kcnf: 28500/100000 best=0.072833s at eval 2532 elapsed=3156.9s
+original3_kcnf: 28600/100000 best=0.072833s at eval 2532 elapsed=3179.8s
+original3_kcnf: 28700/100000 best=0.072833s at eval 2532 elapsed=3201.7s
+original3_kcnf: 28800/100000 best=0.072833s at eval 2532 elapsed=3224.7s
+original3_kcnf: 28900/100000 best=0.072833s at eval 2532 elapsed=3245.4s
+original3_kcnf: 29000/100000 best=0.072833s at eval 2532 elapsed=3267.6s
+original3_kcnf: 29100/100000 best=0.072833s at eval 2532 elapsed=3290.3s
+original3_kcnf: 29200/100000 best=0.072833s at eval 2532 elapsed=3313.8s
+original3_kcnf: 29300/100000 best=0.072833s at eval 2532 elapsed=3334.6s
+original3_kcnf: 29400/100000 best=0.072833s at eval 2532 elapsed=3357.1s
+original3_kcnf: 29500/100000 best=0.072833s at eval 2532 elapsed=3378.3s
+original3_kcnf: 29600/100000 best=0.072833s at eval 2532 elapsed=3400.7s
+original3_kcnf: 29700/100000 best=0.072833s at eval 2532 elapsed=3423.1s
+original3_kcnf: 29800/100000 best=0.072833s at eval 2532 elapsed=3446.3s
+original3_kcnf: 29900/100000 best=0.072833s at eval 2532 elapsed=3468.8s
+original3_kcnf: 30000/100000 best=0.072833s at eval 2532 elapsed=3491.5s
+original3_kcnf: 30100/100000 best=0.072833s at eval 2532 elapsed=3512.7s
+original3_kcnf: 30200/100000 best=0.072833s at eval 2532 elapsed=3534.8s
+original3_kcnf: 30300/100000 best=0.072833s at eval 2532 elapsed=3556.5s
+original3_kcnf: 30400/100000 best=0.072833s at eval 2532 elapsed=3577.3s
+original3_kcnf: 30500/100000 best=0.072833s at eval 2532 elapsed=3600.6s
+original3_kcnf: 30600/100000 best=0.072833s at eval 2532 elapsed=3623.9s
+original3_kcnf: 30700/100000 best=0.072833s at eval 2532 elapsed=3646.0s
+original3_kcnf: 30800/100000 best=0.072833s at eval 2532 elapsed=3666.8s
+original3_kcnf: 30900/100000 best=0.072833s at eval 2532 elapsed=3691.4s
+original3_kcnf: 31000/100000 best=0.072833s at eval 2532 elapsed=3713.6s
+original3_kcnf: 31100/100000 best=0.072833s at eval 2532 elapsed=3737.2s
+original3_kcnf: 31200/100000 best=0.072833s at eval 2532 elapsed=3761.4s
+original3_kcnf: 31300/100000 best=0.072833s at eval 2532 elapsed=3782.7s
+original3_kcnf: 31400/100000 best=0.072833s at eval 2532 elapsed=3804.8s
+original3_kcnf: 31500/100000 best=0.072833s at eval 2532 elapsed=3828.0s
+original3_kcnf: 31600/100000 best=0.072833s at eval 2532 elapsed=3851.4s
+original3_kcnf: 31700/100000 best=0.072833s at eval 2532 elapsed=3873.9s
+original3_kcnf: 31800/100000 best=0.072833s at eval 2532 elapsed=3896.4s
+original3_kcnf: 31900/100000 best=0.072833s at eval 2532 elapsed=3918.4s
+original3_kcnf: 32000/100000 best=0.072833s at eval 2532 elapsed=3940.7s
+original3_kcnf: 32100/100000 best=0.072833s at eval 2532 elapsed=3963.3s
+original3_kcnf: 32200/100000 best=0.072833s at eval 2532 elapsed=3985.6s
+original3_kcnf: 32300/100000 best=0.072833s at eval 2532 elapsed=4008.5s
+original3_kcnf: 32400/100000 best=0.072833s at eval 2532 elapsed=4030.1s
+original3_kcnf: 32500/100000 best=0.072833s at eval 2532 elapsed=4052.9s
+original3_kcnf: 32600/100000 best=0.072833s at eval 2532 elapsed=4074.3s
+original3_kcnf: 32700/100000 best=0.072833s at eval 2532 elapsed=4096.1s
+original3_kcnf: 32800/100000 best=0.072833s at eval 2532 elapsed=4117.5s
+original3_kcnf: 32900/100000 best=0.072833s at eval 2532 elapsed=4140.0s
+original3_kcnf: 33000/100000 best=0.072833s at eval 2532 elapsed=4161.6s
+original3_kcnf: 33100/100000 best=0.072833s at eval 2532 elapsed=4183.3s
+original3_kcnf: 33200/100000 best=0.072833s at eval 2532 elapsed=4205.5s
+original3_kcnf: 33300/100000 best=0.072833s at eval 2532 elapsed=4229.4s
+original3_kcnf: 33400/100000 best=0.072833s at eval 2532 elapsed=4251.3s
+original3_kcnf: 33500/100000 best=0.072833s at eval 2532 elapsed=4273.4s
+original3_kcnf: 33600/100000 best=0.072833s at eval 2532 elapsed=4295.0s
+original3_kcnf: 33700/100000 best=0.072833s at eval 2532 elapsed=4318.1s
+original3_kcnf: 33800/100000 best=0.072833s at eval 2532 elapsed=4340.3s
+original3_kcnf: 33900/100000 best=0.072833s at eval 2532 elapsed=4362.8s
+original3_kcnf: 34000/100000 best=0.072833s at eval 2532 elapsed=4385.5s
+original3_kcnf: 34100/100000 best=0.072833s at eval 2532 elapsed=4408.2s
+original3_kcnf: 34200/100000 best=0.072833s at eval 2532 elapsed=4429.3s
+original3_kcnf: 34300/100000 best=0.072833s at eval 2532 elapsed=4452.0s
+original3_kcnf: 34400/100000 best=0.072833s at eval 2532 elapsed=4473.9s
+original3_kcnf: 34500/100000 best=0.072833s at eval 2532 elapsed=4495.9s
+original3_kcnf: 34600/100000 best=0.072833s at eval 2532 elapsed=4518.7s
+original3_kcnf: 34700/100000 best=0.072833s at eval 2532 elapsed=4541.7s
+original3_kcnf: 34800/100000 best=0.072833s at eval 2532 elapsed=4563.1s
+original3_kcnf: 34900/100000 best=0.072833s at eval 2532 elapsed=4585.2s
+original3_kcnf: 35000/100000 best=0.072833s at eval 2532 elapsed=4609.8s
+original3_kcnf: 35100/100000 best=0.072833s at eval 2532 elapsed=4633.0s
+original3_kcnf: 35200/100000 best=0.072833s at eval 2532 elapsed=4656.1s
+original3_kcnf: 35300/100000 best=0.072833s at eval 2532 elapsed=4675.6s
+original3_kcnf: 35400/100000 best=0.072833s at eval 2532 elapsed=4699.2s
+original3_kcnf: 35500/100000 best=0.072833s at eval 2532 elapsed=4722.0s
+original3_kcnf: 35600/100000 best=0.072833s at eval 2532 elapsed=4744.5s
+original3_kcnf: 35700/100000 best=0.072833s at eval 2532 elapsed=4767.1s
+original3_kcnf: 35800/100000 best=0.072833s at eval 2532 elapsed=4789.6s
+original3_kcnf: 35900/100000 best=0.072833s at eval 2532 elapsed=4812.2s
+original3_kcnf: 36000/100000 best=0.072833s at eval 2532 elapsed=4832.2s
+original3_kcnf: 36100/100000 best=0.072833s at eval 2532 elapsed=4854.2s
+original3_kcnf: 36200/100000 best=0.072833s at eval 2532 elapsed=4875.3s
+original3_kcnf: 36300/100000 best=0.072833s at eval 2532 elapsed=4899.0s
+original3_kcnf: 36400/100000 best=0.072833s at eval 2532 elapsed=4923.8s
+original3_kcnf: 36500/100000 best=0.072833s at eval 2532 elapsed=4947.4s
+original3_kcnf: 36600/100000 best=0.072833s at eval 2532 elapsed=4974.2s
+original3_kcnf: 36700/100000 best=0.072833s at eval 2532 elapsed=4997.3s
+original3_kcnf: 36800/100000 best=0.072833s at eval 2532 elapsed=5025.9s
+original3_kcnf: 36900/100000 best=0.072833s at eval 2532 elapsed=5058.5s
+original3_kcnf: 37000/100000 best=0.072833s at eval 2532 elapsed=5082.2s
+original3_kcnf: 37100/100000 best=0.072833s at eval 2532 elapsed=5103.4s
+original3_kcnf: 37200/100000 best=0.072833s at eval 2532 elapsed=5126.7s
+original3_kcnf: 37300/100000 best=0.072833s at eval 2532 elapsed=5147.9s
+original3_kcnf: 37400/100000 best=0.072833s at eval 2532 elapsed=5170.7s
+original3_kcnf: 37500/100000 best=0.072833s at eval 2532 elapsed=5194.1s
+original3_kcnf: 37600/100000 best=0.072833s at eval 2532 elapsed=5216.3s
+original3_kcnf: 37700/100000 best=0.072833s at eval 2532 elapsed=5237.7s
+original3_kcnf: 37800/100000 best=0.072833s at eval 2532 elapsed=5259.1s
+original3_kcnf: 37900/100000 best=0.072833s at eval 2532 elapsed=5281.0s
+original3_kcnf: 38000/100000 best=0.072833s at eval 2532 elapsed=5302.7s
+original3_kcnf: 38100/100000 best=0.072833s at eval 2532 elapsed=5324.1s
+original3_kcnf: 38200/100000 best=0.072833s at eval 2532 elapsed=5346.7s
+original3_kcnf: 38300/100000 best=0.072833s at eval 2532 elapsed=5369.4s
+original3_kcnf: 38400/100000 best=0.072833s at eval 2532 elapsed=5389.5s
+original3_kcnf: 38500/100000 best=0.072833s at eval 2532 elapsed=5414.2s
+original3_kcnf: 38600/100000 best=0.072833s at eval 2532 elapsed=5434.6s
+original3_kcnf: 38700/100000 best=0.072833s at eval 2532 elapsed=5456.5s
+original3_kcnf: 38800/100000 best=0.072833s at eval 2532 elapsed=5477.3s
+original3_kcnf: 38900/100000 best=0.072833s at eval 2532 elapsed=5499.0s
+original3_kcnf: 39000/100000 best=0.072833s at eval 2532 elapsed=5518.1s
+original3_kcnf: 39100/100000 best=0.072833s at eval 2532 elapsed=5539.2s
+original3_kcnf: 39200/100000 best=0.072833s at eval 2532 elapsed=5561.1s
+original3_kcnf: 39300/100000 best=0.072833s at eval 2532 elapsed=5584.3s
+original3_kcnf: 39400/100000 best=0.072833s at eval 2532 elapsed=5606.2s
+original3_kcnf: 39500/100000 best=0.072833s at eval 2532 elapsed=5628.9s
+original3_kcnf: 39600/100000 best=0.072833s at eval 2532 elapsed=5650.0s
+original3_kcnf: 39700/100000 best=0.072833s at eval 2532 elapsed=5671.1s
+original3_kcnf: 39800/100000 best=0.072833s at eval 2532 elapsed=5692.6s
+original3_kcnf: 39900/100000 best=0.072833s at eval 2532 elapsed=5715.0s
+original3_kcnf: 40000/100000 best=0.072833s at eval 2532 elapsed=5737.0s
+original3_kcnf: 40100/100000 best=0.072833s at eval 2532 elapsed=5757.9s
+original3_kcnf: 40200/100000 best=0.072833s at eval 2532 elapsed=5780.5s
+original3_kcnf: 40300/100000 best=0.072833s at eval 2532 elapsed=5802.1s
+original3_kcnf: 40400/100000 best=0.072833s at eval 2532 elapsed=5822.7s
+original3_kcnf: 40500/100000 best=0.072833s at eval 2532 elapsed=5845.4s
+original3_kcnf: 40600/100000 best=0.072833s at eval 2532 elapsed=5869.0s
+original3_kcnf: 40700/100000 best=0.072833s at eval 2532 elapsed=5890.4s
+original3_kcnf: 40800/100000 best=0.072833s at eval 2532 elapsed=5911.8s
+original3_kcnf: 40900/100000 best=0.072833s at eval 2532 elapsed=5933.1s
+original3_kcnf: 41000/100000 best=0.072833s at eval 2532 elapsed=5954.3s
+original3_kcnf: 41100/100000 best=0.072833s at eval 2532 elapsed=5977.1s
+original3_kcnf: 41200/100000 best=0.072833s at eval 2532 elapsed=5998.7s
+original3_kcnf: 41300/100000 best=0.072833s at eval 2532 elapsed=6020.5s
+original3_kcnf: 41400/100000 best=0.072833s at eval 2532 elapsed=6042.3s
+original3_kcnf: 41500/100000 best=0.072833s at eval 2532 elapsed=6063.8s
+original3_kcnf: 41600/100000 best=0.072833s at eval 2532 elapsed=6087.3s
+original3_kcnf: 41700/100000 best=0.072833s at eval 2532 elapsed=6107.7s
+original3_kcnf: 41800/100000 best=0.072833s at eval 2532 elapsed=6128.5s
+original3_kcnf: 41900/100000 best=0.072833s at eval 2532 elapsed=6150.7s
+original3_kcnf: 42000/100000 best=0.072833s at eval 2532 elapsed=6172.4s
+original3_kcnf: 42100/100000 best=0.072833s at eval 2532 elapsed=6192.6s
+original3_kcnf: 42200/100000 best=0.072833s at eval 2532 elapsed=6213.5s
+original3_kcnf: 42300/100000 best=0.072833s at eval 2532 elapsed=6234.8s
+original3_kcnf: 42400/100000 best=0.072833s at eval 2532 elapsed=6255.8s
+original3_kcnf: 42500/100000 best=0.072833s at eval 2532 elapsed=6276.2s
+original3_kcnf: 42600/100000 best=0.072833s at eval 2532 elapsed=6296.4s
+original3_kcnf: 42700/100000 best=0.072833s at eval 2532 elapsed=6317.6s
+original3_kcnf: 42800/100000 best=0.072833s at eval 2532 elapsed=6338.2s
+original3_kcnf: 42900/100000 best=0.072833s at eval 2532 elapsed=6362.1s
+original3_kcnf: 43000/100000 best=0.072833s at eval 2532 elapsed=6383.8s
+original3_kcnf: 43100/100000 best=0.072833s at eval 2532 elapsed=6405.4s
+original3_kcnf: 43200/100000 best=0.072833s at eval 2532 elapsed=6427.1s
+original3_kcnf: 43300/100000 best=0.072833s at eval 2532 elapsed=6450.2s
+original3_kcnf: 43400/100000 best=0.072833s at eval 2532 elapsed=6473.1s
+original3_kcnf: 43500/100000 best=0.072833s at eval 2532 elapsed=6494.9s
+original3_kcnf: 43600/100000 best=0.072833s at eval 2532 elapsed=6517.1s
+original3_kcnf: 43700/100000 best=0.072833s at eval 2532 elapsed=6538.8s
+original3_kcnf: 43800/100000 best=0.072833s at eval 2532 elapsed=6559.5s
+original3_kcnf: 43900/100000 best=0.072833s at eval 2532 elapsed=6581.9s
+original3_kcnf: 44000/100000 best=0.072833s at eval 2532 elapsed=6603.5s
+original3_kcnf: 44100/100000 best=0.072833s at eval 2532 elapsed=6625.6s
+original3_kcnf: 44200/100000 best=0.072833s at eval 2532 elapsed=6647.0s
+original3_kcnf: 44300/100000 best=0.072833s at eval 2532 elapsed=6668.7s
+original3_kcnf: 44400/100000 best=0.072833s at eval 2532 elapsed=6689.0s
+original3_kcnf: 44500/100000 best=0.072833s at eval 2532 elapsed=6711.0s
+original3_kcnf: 44600/100000 best=0.072833s at eval 2532 elapsed=6732.2s
+original3_kcnf: 44700/100000 best=0.072833s at eval 2532 elapsed=6751.5s
+original3_kcnf: 44800/100000 best=0.072833s at eval 2532 elapsed=6773.0s
+original3_kcnf: 44900/100000 best=0.072833s at eval 2532 elapsed=6794.1s
+original3_kcnf: 45000/100000 best=0.072833s at eval 2532 elapsed=6815.6s
+original3_kcnf: 45100/100000 best=0.072833s at eval 2532 elapsed=6837.5s
+original3_kcnf: 45200/100000 best=0.072833s at eval 2532 elapsed=6859.6s
+original3_kcnf: 45300/100000 best=0.072833s at eval 2532 elapsed=6880.4s
+original3_kcnf: 45400/100000 best=0.072833s at eval 2532 elapsed=6901.3s
+original3_kcnf: 45500/100000 best=0.072833s at eval 2532 elapsed=6923.0s
+original3_kcnf: 45600/100000 best=0.072833s at eval 2532 elapsed=6943.9s
+original3_kcnf: 45700/100000 best=0.072833s at eval 2532 elapsed=6964.9s
+original3_kcnf: 45800/100000 best=0.072833s at eval 2532 elapsed=6987.4s
+original3_kcnf: 45900/100000 best=0.072833s at eval 2532 elapsed=7010.1s
+original3_kcnf: 46000/100000 best=0.072833s at eval 2532 elapsed=7031.7s
+original3_kcnf: 46100/100000 best=0.072833s at eval 2532 elapsed=7055.1s
+Terminated
+2026-07-18T20:32:06+00:00 supervisor: attempt 2 failed with status 143; restarting in 30s
+original3_kcnf: 46200/100000 best=0.072833s at eval 2532 elapsed=7078.9s
+2026-07-18T20:32:36+00:00 supervisor launch attempt 3
+prepared external benchmarks under current_machine_rebench/results/external
+  tsplib: 58
+  hard_tsplib: 40
+  fhcp: 11
+  clustered_euclidean: 12
+  sat: 3
+original3_kcnf: 46300/100000 best=0.072833s at eval 2532 elapsed=7104.3s
+original3_kcnf: 46400/100000 best=0.072833s at eval 2532 elapsed=7146.8s
+original3_kcnf: 46300/100000 best=0.072833s at eval 2532 elapsed=45.9s
+original3_kcnf: 46500/100000 best=0.072833s at eval 2532 elapsed=7187.5s
+original3_kcnf: 46600/100000 best=0.072833s at eval 2532 elapsed=7210.9s
+original3_kcnf: 46700/100000 best=0.072833s at eval 2532 elapsed=7234.5s
+original3_kcnf: 46800/100000 best=0.072833s at eval 2532 elapsed=7258.1s
+original3_kcnf: 46900/100000 best=0.072833s at eval 2532 elapsed=7282.8s
+original3_kcnf: 47000/100000 best=0.072833s at eval 2532 elapsed=7305.4s
+original3_kcnf: 47100/100000 best=0.072833s at eval 2532 elapsed=7329.6s
+original3_kcnf: 47200/100000 best=0.072833s at eval 2532 elapsed=7353.4s
+original3_kcnf: 47300/100000 best=0.072833s at eval 2532 elapsed=7376.9s
+original3_kcnf: 47400/100000 best=0.072833s at eval 2532 elapsed=7399.8s
+original3_kcnf: 47500/100000 best=0.072833s at eval 2532 elapsed=7422.5s
+original3_kcnf: 47600/100000 best=0.072833s at eval 2532 elapsed=7446.8s
+original3_kcnf: 47700/100000 best=0.072833s at eval 2532 elapsed=7470.7s
+original3_kcnf: 47800/100000 best=0.072833s at eval 2532 elapsed=7493.2s
+original3_kcnf: 47900/100000 best=0.072833s at eval 2532 elapsed=7518.8s
+original3_kcnf: 48000/100000 best=0.072833s at eval 2532 elapsed=7541.6s
+original3_kcnf: 48100/100000 best=0.072833s at eval 2532 elapsed=7564.4s
+original3_kcnf: 48200/100000 best=0.072833s at eval 2532 elapsed=7587.0s
+original3_kcnf: 48300/100000 best=0.072833s at eval 2532 elapsed=7608.7s
+original3_kcnf: 48400/100000 best=0.072833s at eval 2532 elapsed=7631.3s
+original3_kcnf: 48500/100000 best=0.072833s at eval 2532 elapsed=7652.6s
+original3_kcnf: 48600/100000 best=0.072833s at eval 2532 elapsed=7675.2s
+original3_kcnf: 48700/100000 best=0.072833s at eval 2532 elapsed=7699.0s
+original3_kcnf: 48800/100000 best=0.072833s at eval 2532 elapsed=7721.8s
+original3_kcnf: 48900/100000 best=0.072833s at eval 2532 elapsed=7744.8s
+original3_kcnf: 49000/100000 best=0.072833s at eval 2532 elapsed=7766.8s
+original3_kcnf: 49100/100000 best=0.072833s at eval 2532 elapsed=7789.3s
+original3_kcnf: 49200/100000 best=0.072833s at eval 2532 elapsed=7813.8s
+original3_kcnf: 49300/100000 best=0.072833s at eval 2532 elapsed=7837.4s
+original3_kcnf: 49400/100000 best=0.072833s at eval 2532 elapsed=7860.7s
+original3_kcnf: 49500/100000 best=0.072833s at eval 2532 elapsed=7883.8s
+original3_kcnf: 49600/100000 best=0.072833s at eval 2532 elapsed=7906.5s
+original3_kcnf: 49700/100000 best=0.072833s at eval 2532 elapsed=7930.5s
+original3_kcnf: 49800/100000 best=0.072833s at eval 2532 elapsed=7953.6s
+original3_kcnf: 49900/100000 best=0.072833s at eval 2532 elapsed=7974.9s
+original3_kcnf: 50000/100000 best=0.072833s at eval 2532 elapsed=7998.6s
+original3_kcnf: 50100/100000 best=0.072833s at eval 2532 elapsed=8021.5s
+original3_kcnf: 50200/100000 best=0.072833s at eval 2532 elapsed=8043.4s
+original3_kcnf: 50300/100000 best=0.072833s at eval 2532 elapsed=8065.9s
+original3_kcnf: 50400/100000 best=0.072833s at eval 2532 elapsed=8087.2s
+original3_kcnf: 50500/100000 best=0.072833s at eval 2532 elapsed=8111.1s
+original3_kcnf: 50600/100000 best=0.072833s at eval 2532 elapsed=8132.2s
+original3_kcnf: 50700/100000 best=0.072833s at eval 2532 elapsed=8154.3s
+original3_kcnf: 50800/100000 best=0.072833s at eval 2532 elapsed=8177.0s
+original3_kcnf: 50900/100000 best=0.072833s at eval 2532 elapsed=8199.5s
+original3_kcnf: 51000/100000 best=0.072833s at eval 2532 elapsed=8223.3s
+original3_kcnf: 51100/100000 best=0.072833s at eval 2532 elapsed=8244.6s
+original3_kcnf: 51200/100000 best=0.072833s at eval 2532 elapsed=8267.4s
+original3_kcnf: 51300/100000 best=0.072833s at eval 2532 elapsed=8289.9s
+original3_kcnf: 51400/100000 best=0.072833s at eval 2532 elapsed=8312.5s
+original3_kcnf: 51500/100000 best=0.072833s at eval 2532 elapsed=8335.4s
+original3_kcnf: 51600/100000 best=0.072833s at eval 2532 elapsed=8358.6s
+original3_kcnf: 51700/100000 best=0.072833s at eval 2532 elapsed=8382.0s
+original3_kcnf: 51800/100000 best=0.072833s at eval 2532 elapsed=8407.4s
+original3_kcnf: 51900/100000 best=0.072833s at eval 2532 elapsed=8429.8s
+original3_kcnf: 52000/100000 best=0.072833s at eval 2532 elapsed=8453.3s
+original3_kcnf: 52100/100000 best=0.072833s at eval 2532 elapsed=8475.1s
+original3_kcnf: 52200/100000 best=0.072833s at eval 2532 elapsed=8499.0s
+original3_kcnf: 52300/100000 best=0.072833s at eval 2532 elapsed=8522.9s
+original3_kcnf: 52400/100000 best=0.072833s at eval 2532 elapsed=8545.6s
+original3_kcnf: 52500/100000 best=0.072833s at eval 2532 elapsed=8567.8s
+original3_kcnf: 52600/100000 best=0.072833s at eval 2532 elapsed=8591.9s
+original3_kcnf: 52700/100000 best=0.072833s at eval 2532 elapsed=8614.9s
+original3_kcnf: 52800/100000 best=0.072833s at eval 2532 elapsed=8638.6s
+original3_kcnf: 52900/100000 best=0.072833s at eval 2532 elapsed=8659.6s
+original3_kcnf: 53000/100000 best=0.072833s at eval 2532 elapsed=8683.1s
+original3_kcnf: 53100/100000 best=0.072833s at eval 2532 elapsed=8705.7s
+original3_kcnf: 53200/100000 best=0.072833s at eval 2532 elapsed=8730.4s
+original3_kcnf: 53300/100000 best=0.072833s at eval 2532 elapsed=8751.4s
+original3_kcnf: 53400/100000 best=0.072833s at eval 2532 elapsed=8774.1s
+original3_kcnf: 53500/100000 best=0.072833s at eval 2532 elapsed=8796.2s
+original3_kcnf: 53600/100000 best=0.072833s at eval 2532 elapsed=8818.3s
+original3_kcnf: 53700/100000 best=0.072833s at eval 2532 elapsed=8843.1s
+original3_kcnf: 53800/100000 best=0.072833s at eval 2532 elapsed=8867.3s
+original3_kcnf: 53900/100000 best=0.072833s at eval 2532 elapsed=8891.7s
+original3_kcnf: 54000/100000 best=0.072833s at eval 2532 elapsed=8916.4s
+original3_kcnf: 54100/100000 best=0.072833s at eval 2532 elapsed=8940.4s
+original3_kcnf: 54200/100000 best=0.072833s at eval 2532 elapsed=8965.9s
+original3_kcnf: 54300/100000 best=0.072833s at eval 2532 elapsed=8987.9s
+original3_kcnf: 54400/100000 best=0.072833s at eval 2532 elapsed=9010.3s
+original3_kcnf: 54500/100000 best=0.072833s at eval 2532 elapsed=9033.7s
+original3_kcnf: 54600/100000 best=0.072833s at eval 2532 elapsed=9057.1s
+original3_kcnf: 54700/100000 best=0.072833s at eval 2532 elapsed=9078.7s
+original3_kcnf: 54800/100000 best=0.072833s at eval 2532 elapsed=9102.7s
+original3_kcnf: 54900/100000 best=0.072833s at eval 2532 elapsed=9124.8s
+original3_kcnf: 55000/100000 best=0.072833s at eval 2532 elapsed=9148.7s
+original3_kcnf: 55100/100000 best=0.072833s at eval 2532 elapsed=9170.2s
+original3_kcnf: 55200/100000 best=0.072833s at eval 2532 elapsed=9193.9s
+original3_kcnf: 55300/100000 best=0.072833s at eval 2532 elapsed=9215.9s
+original3_kcnf: 55400/100000 best=0.072833s at eval 2532 elapsed=9236.7s
+original3_kcnf: 55500/100000 best=0.072833s at eval 2532 elapsed=9259.1s
+original3_kcnf: 55600/100000 best=0.072833s at eval 2532 elapsed=9282.4s
+original3_kcnf: 55700/100000 best=0.072833s at eval 2532 elapsed=9304.4s
+original3_kcnf: 55800/100000 best=0.072833s at eval 2532 elapsed=9328.6s
+original3_kcnf: 55900/100000 best=0.072833s at eval 2532 elapsed=9352.8s
+original3_kcnf: 56000/100000 best=0.072833s at eval 2532 elapsed=9375.7s
+original3_kcnf: 56100/100000 best=0.072833s at eval 2532 elapsed=9398.1s
+original3_kcnf: 56200/100000 best=0.072833s at eval 2532 elapsed=9420.7s
+original3_kcnf: 56300/100000 best=0.072833s at eval 2532 elapsed=9443.6s
+original3_kcnf: 56400/100000 best=0.072833s at eval 2532 elapsed=9466.2s
+original3_kcnf: 56500/100000 best=0.072833s at eval 2532 elapsed=9488.6s
+original3_kcnf: 56600/100000 best=0.072833s at eval 2532 elapsed=9511.7s
+original3_kcnf: 56700/100000 best=0.072833s at eval 2532 elapsed=9532.6s
+original3_kcnf: 56800/100000 best=0.072833s at eval 2532 elapsed=9554.1s
+original3_kcnf: 56900/100000 best=0.072833s at eval 2532 elapsed=9576.8s
+original3_kcnf: 57000/100000 best=0.072833s at eval 2532 elapsed=9598.6s
+original3_kcnf: 57100/100000 best=0.072833s at eval 2532 elapsed=9622.1s
+original3_kcnf: 57200/100000 best=0.072833s at eval 2532 elapsed=9644.0s
+original3_kcnf: 57300/100000 best=0.072833s at eval 2532 elapsed=9666.9s
+original3_kcnf: 57400/100000 best=0.072833s at eval 2532 elapsed=9692.4s
+original3_kcnf: 57500/100000 best=0.072833s at eval 2532 elapsed=9715.4s
+original3_kcnf: 57600/100000 best=0.072833s at eval 2532 elapsed=9737.6s
+original3_kcnf: 57700/100000 best=0.072833s at eval 2532 elapsed=9760.0s
+original3_kcnf: 57800/100000 best=0.072833s at eval 2532 elapsed=9785.6s
+original3_kcnf: 57900/100000 best=0.072833s at eval 2532 elapsed=9809.2s
+original3_kcnf: 58000/100000 best=0.072833s at eval 2532 elapsed=9832.9s
+original3_kcnf: 58100/100000 best=0.072833s at eval 2532 elapsed=9854.3s
+original3_kcnf: 58200/100000 best=0.072833s at eval 2532 elapsed=9875.2s
+original3_kcnf: 58300/100000 best=0.072833s at eval 2532 elapsed=9896.6s
+original3_kcnf: 58400/100000 best=0.072833s at eval 2532 elapsed=9917.6s
+original3_kcnf: 58500/100000 best=0.072833s at eval 2532 elapsed=9939.5s
+original3_kcnf: 58600/100000 best=0.072833s at eval 2532 elapsed=9960.9s
+original3_kcnf: 58700/100000 best=0.072833s at eval 2532 elapsed=9982.6s
+original3_kcnf: 58800/100000 best=0.072833s at eval 2532 elapsed=10003.4s
+original3_kcnf: 58900/100000 best=0.072833s at eval 2532 elapsed=10025.0s
+original3_kcnf: 59000/100000 best=0.072833s at eval 2532 elapsed=10047.9s
+original3_kcnf: 59100/100000 best=0.072833s at eval 2532 elapsed=10068.5s
+original3_kcnf: 59200/100000 best=0.072833s at eval 2532 elapsed=10089.8s
+original3_kcnf: 59300/100000 best=0.072833s at eval 2532 elapsed=10111.0s
+original3_kcnf: 59400/100000 best=0.072833s at eval 2532 elapsed=10132.3s
+original3_kcnf: 59500/100000 best=0.072833s at eval 2532 elapsed=10152.5s
+original3_kcnf: 59600/100000 best=0.072833s at eval 2532 elapsed=10174.7s
+original3_kcnf: 59700/100000 best=0.072833s at eval 2532 elapsed=10195.4s
+original3_kcnf: 59800/100000 best=0.072833s at eval 2532 elapsed=10217.6s
+original3_kcnf: 59900/100000 best=0.072833s at eval 2532 elapsed=10239.8s
+original3_kcnf: 60000/100000 best=0.072833s at eval 2532 elapsed=10261.8s
+original3_kcnf: 60100/100000 best=0.072833s at eval 2532 elapsed=10282.8s
+original3_kcnf: 60200/100000 best=0.072833s at eval 2532 elapsed=10306.1s
+original3_kcnf: 60300/100000 best=0.072833s at eval 2532 elapsed=10326.6s
+original3_kcnf: 60400/100000 best=0.072833s at eval 2532 elapsed=10347.7s
+original3_kcnf: 60500/100000 best=0.072833s at eval 2532 elapsed=10369.5s
+original3_kcnf: 60600/100000 best=0.072833s at eval 2532 elapsed=10390.2s
+original3_kcnf: 60700/100000 best=0.072833s at eval 2532 elapsed=10412.1s
+original3_kcnf: 60800/100000 best=0.072833s at eval 2532 elapsed=10433.8s
+original3_kcnf: 60900/100000 best=0.072833s at eval 2532 elapsed=10454.5s
+original3_kcnf: 61000/100000 best=0.072833s at eval 2532 elapsed=10476.1s
+original3_kcnf: 61100/100000 best=0.072833s at eval 2532 elapsed=10495.9s
+original3_kcnf: 61200/100000 best=0.072833s at eval 2532 elapsed=10516.7s
+original3_kcnf: 61300/100000 best=0.072833s at eval 2532 elapsed=10538.5s
+original3_kcnf: 61400/100000 best=0.072833s at eval 2532 elapsed=10558.7s
+original3_kcnf: 61500/100000 best=0.072833s at eval 2532 elapsed=10581.0s
+original3_kcnf: 61600/100000 best=0.072833s at eval 2532 elapsed=10603.5s
+original3_kcnf: 61700/100000 best=0.072833s at eval 2532 elapsed=10624.5s
+original3_kcnf: 61800/100000 best=0.072833s at eval 2532 elapsed=10645.5s
+original3_kcnf: 61900/100000 best=0.072833s at eval 2532 elapsed=10667.5s
+original3_kcnf: 62000/100000 best=0.072833s at eval 2532 elapsed=10690.6s
+original3_kcnf: 62100/100000 best=0.072833s at eval 2532 elapsed=10711.8s
+original3_kcnf: 62200/100000 best=0.072833s at eval 2532 elapsed=10735.2s
+original3_kcnf: 62300/100000 best=0.072833s at eval 2532 elapsed=10758.6s
+original3_kcnf: 62400/100000 best=0.072833s at eval 2532 elapsed=10782.0s
+original3_kcnf: 62500/100000 best=0.072833s at eval 2532 elapsed=10804.0s
+original3_kcnf: 62600/100000 best=0.072833s at eval 2532 elapsed=10825.9s
+original3_kcnf: 62700/100000 best=0.072833s at eval 2532 elapsed=10847.0s
+original3_kcnf: 62800/100000 best=0.072833s at eval 2532 elapsed=10869.4s
+original3_kcnf: 62900/100000 best=0.072833s at eval 2532 elapsed=10892.1s
+original3_kcnf: 63000/100000 best=0.072833s at eval 2532 elapsed=10914.3s
+original3_kcnf: 63100/100000 best=0.072833s at eval 2532 elapsed=10937.0s
+original3_kcnf: 63200/100000 best=0.072833s at eval 2532 elapsed=10961.8s
+original3_kcnf: 63300/100000 best=0.072833s at eval 2532 elapsed=10982.0s
+original3_kcnf: 63400/100000 best=0.072833s at eval 2532 elapsed=11003.5s
+original3_kcnf: 63500/100000 best=0.072833s at eval 2532 elapsed=11027.0s
+original3_kcnf: 63600/100000 best=0.072833s at eval 2532 elapsed=11050.0s
+original3_kcnf: 63700/100000 best=0.072833s at eval 2532 elapsed=11072.6s
+original3_kcnf: 63800/100000 best=0.072833s at eval 2532 elapsed=11095.3s
+original3_kcnf: 63900/100000 best=0.072833s at eval 2532 elapsed=11118.6s
+original3_kcnf: 64000/100000 best=0.072833s at eval 2532 elapsed=11140.6s
+original3_kcnf: 64100/100000 best=0.072833s at eval 2532 elapsed=11163.9s
+original3_kcnf: 64200/100000 best=0.072833s at eval 2532 elapsed=11189.3s
+original3_kcnf: 64300/100000 best=0.072833s at eval 2532 elapsed=11211.5s
+original3_kcnf: 64400/100000 best=0.072833s at eval 2532 elapsed=11232.4s
+original3_kcnf: 64500/100000 best=0.072833s at eval 2532 elapsed=11255.7s
+original3_kcnf: 64600/100000 best=0.072833s at eval 2532 elapsed=11277.8s
+original3_kcnf: 64700/100000 best=0.072833s at eval 2532 elapsed=11298.3s
+original3_kcnf: 64800/100000 best=0.072833s at eval 2532 elapsed=11319.7s
+original3_kcnf: 64900/100000 best=0.072833s at eval 2532 elapsed=11343.2s
+original3_kcnf: 65000/100000 best=0.072833s at eval 2532 elapsed=11365.3s
+original3_kcnf: 65100/100000 best=0.072833s at eval 2532 elapsed=11385.8s
+original3_kcnf: 65200/100000 best=0.072833s at eval 2532 elapsed=11406.0s
+original3_kcnf: 65300/100000 best=0.072833s at eval 2532 elapsed=11428.2s
+original3_kcnf: 65400/100000 best=0.072833s at eval 2532 elapsed=11449.6s
+original3_kcnf: 65500/100000 best=0.072833s at eval 2532 elapsed=11472.3s
+original3_kcnf: 65600/100000 best=0.072833s at eval 2532 elapsed=11493.3s
+original3_kcnf: 65700/100000 best=0.072833s at eval 2532 elapsed=11515.9s
+original3_kcnf: 65800/100000 best=0.072833s at eval 2532 elapsed=11537.3s
+original3_kcnf: 65900/100000 best=0.072833s at eval 2532 elapsed=11559.9s
+original3_kcnf: 66000/100000 best=0.072833s at eval 2532 elapsed=11582.7s
+original3_kcnf: 66100/100000 best=0.072833s at eval 2532 elapsed=11605.2s
+original3_kcnf: 66200/100000 best=0.072833s at eval 2532 elapsed=11626.6s
+original3_kcnf: 66300/100000 best=0.072833s at eval 2532 elapsed=11647.8s
+original3_kcnf: 66400/100000 best=0.072833s at eval 2532 elapsed=11669.1s
+original3_kcnf: 66500/100000 best=0.072833s at eval 2532 elapsed=11689.4s
+original3_kcnf: 66600/100000 best=0.072833s at eval 2532 elapsed=11712.7s
+original3_kcnf: 66700/100000 best=0.072833s at eval 2532 elapsed=11733.5s
+original3_kcnf: 66800/100000 best=0.072833s at eval 2532 elapsed=11755.2s
+original3_kcnf: 66900/100000 best=0.072833s at eval 2532 elapsed=11778.1s
+original3_kcnf: 67000/100000 best=0.072833s at eval 2532 elapsed=11801.5s
+original3_kcnf: 67100/100000 best=0.072833s at eval 2532 elapsed=11823.7s
+original3_kcnf: 67200/100000 best=0.072833s at eval 2532 elapsed=11845.0s
+original3_kcnf: 67300/100000 best=0.072833s at eval 2532 elapsed=11866.8s
+original3_kcnf: 67400/100000 best=0.072833s at eval 2532 elapsed=11889.8s
+original3_kcnf: 67500/100000 best=0.072833s at eval 2532 elapsed=11914.0s
+original3_kcnf: 67600/100000 best=0.072833s at eval 2532 elapsed=11936.4s
+original3_kcnf: 67700/100000 best=0.072833s at eval 2532 elapsed=11959.5s
+original3_kcnf: 67800/100000 best=0.072833s at eval 2532 elapsed=11982.7s
+original3_kcnf: 67900/100000 best=0.072833s at eval 2532 elapsed=12004.5s
+original3_kcnf: 68000/100000 best=0.072833s at eval 2532 elapsed=12027.0s
+original3_kcnf: 68100/100000 best=0.072833s at eval 2532 elapsed=12051.8s
+original3_kcnf: 68200/100000 best=0.072833s at eval 2532 elapsed=12073.8s
+original3_kcnf: 68300/100000 best=0.072833s at eval 2532 elapsed=12095.4s
+original3_kcnf: 68400/100000 best=0.072833s at eval 2532 elapsed=12116.8s
+original3_kcnf: 68500/100000 best=0.072833s at eval 2532 elapsed=12139.1s
+original3_kcnf: 68600/100000 best=0.072833s at eval 2532 elapsed=12161.3s
+original3_kcnf: 68700/100000 best=0.072833s at eval 2532 elapsed=12182.2s
+original3_kcnf: 68800/100000 best=0.072833s at eval 2532 elapsed=12204.4s
+original3_kcnf: 68900/100000 best=0.072833s at eval 2532 elapsed=12225.8s
+original3_kcnf: 69000/100000 best=0.072833s at eval 2532 elapsed=12247.1s
+original3_kcnf: 69100/100000 best=0.072833s at eval 2532 elapsed=12268.9s
+original3_kcnf: 69200/100000 best=0.072833s at eval 2532 elapsed=12290.1s
+original3_kcnf: 69300/100000 best=0.072833s at eval 2532 elapsed=12312.4s
+original3_kcnf: 69400/100000 best=0.072833s at eval 2532 elapsed=12333.7s
+original3_kcnf: 69500/100000 best=0.072833s at eval 2532 elapsed=12355.7s
+original3_kcnf: 69600/100000 best=0.072833s at eval 2532 elapsed=12376.9s
+original3_kcnf: 69700/100000 best=0.072833s at eval 2532 elapsed=12401.2s
+original3_kcnf: 69800/100000 best=0.072833s at eval 2532 elapsed=12423.9s
+original3_kcnf: 69900/100000 best=0.072833s at eval 2532 elapsed=12446.0s
+original3_kcnf: 70000/100000 best=0.072833s at eval 2532 elapsed=12467.9s
+original3_kcnf: 70100/100000 best=0.072833s at eval 2532 elapsed=12489.5s
+original3_kcnf: 70200/100000 best=0.072833s at eval 2532 elapsed=12510.8s
+original3_kcnf: 70300/100000 best=0.072833s at eval 2532 elapsed=12532.4s
+original3_kcnf: 70400/100000 best=0.072833s at eval 2532 elapsed=12555.6s
+original3_kcnf: 70500/100000 best=0.072833s at eval 2532 elapsed=12578.3s
+original3_kcnf: 70600/100000 best=0.072833s at eval 2532 elapsed=12601.6s
+original3_kcnf: 70700/100000 best=0.072833s at eval 2532 elapsed=12622.9s
+original3_kcnf: 70800/100000 best=0.072833s at eval 2532 elapsed=12644.9s
+original3_kcnf: 70900/100000 best=0.072833s at eval 2532 elapsed=12665.3s
+original3_kcnf: 71000/100000 best=0.072833s at eval 2532 elapsed=12686.4s
+original3_kcnf: 71100/100000 best=0.072833s at eval 2532 elapsed=12706.0s
+original3_kcnf: 71200/100000 best=0.072833s at eval 2532 elapsed=12728.3s
+original3_kcnf: 71300/100000 best=0.072833s at eval 2532 elapsed=12753.0s
+original3_kcnf: 71400/100000 best=0.072833s at eval 2532 elapsed=12774.3s
+original3_kcnf: 71500/100000 best=0.072833s at eval 2532 elapsed=12797.0s
+original3_kcnf: 71600/100000 best=0.072833s at eval 2532 elapsed=12819.3s
+original3_kcnf: 71700/100000 best=0.072833s at eval 2532 elapsed=12842.7s
+original3_kcnf: 71800/100000 best=0.072833s at eval 2532 elapsed=12865.0s
+original3_kcnf: 71900/100000 best=0.072833s at eval 2532 elapsed=12887.6s
+original3_kcnf: 72000/100000 best=0.072833s at eval 2532 elapsed=12912.5s
+original3_kcnf: 72100/100000 best=0.072833s at eval 2532 elapsed=12934.5s
+original3_kcnf: 72200/100000 best=0.072833s at eval 2532 elapsed=12956.4s
+original3_kcnf: 72300/100000 best=0.072833s at eval 2532 elapsed=12976.8s
+original3_kcnf: 72400/100000 best=0.072833s at eval 2532 elapsed=13000.1s
+original3_kcnf: 72500/100000 best=0.072833s at eval 2532 elapsed=13022.2s
+original3_kcnf: 72600/100000 best=0.072833s at eval 2532 elapsed=13045.7s
+original3_kcnf: 72700/100000 best=0.072833s at eval 2532 elapsed=13068.2s
+original3_kcnf: 72800/100000 best=0.072833s at eval 2532 elapsed=13088.4s
+original3_kcnf: 72900/100000 best=0.072833s at eval 2532 elapsed=13108.5s
+original3_kcnf: 73000/100000 best=0.072833s at eval 2532 elapsed=13131.0s
+original3_kcnf: 73100/100000 best=0.072833s at eval 2532 elapsed=13152.4s
+original3_kcnf: 73200/100000 best=0.072833s at eval 2532 elapsed=13174.1s
+original3_kcnf: 73300/100000 best=0.072833s at eval 2532 elapsed=13196.3s
+original3_kcnf: 73400/100000 best=0.072833s at eval 2532 elapsed=13219.9s
+original3_kcnf: 73500/100000 best=0.072833s at eval 2532 elapsed=13242.4s
+original3_kcnf: 73600/100000 best=0.072833s at eval 2532 elapsed=13263.0s
+original3_kcnf: 73700/100000 best=0.072833s at eval 2532 elapsed=13285.3s
+original3_kcnf: 73800/100000 best=0.072833s at eval 2532 elapsed=13306.7s
+original3_kcnf: 73900/100000 best=0.072833s at eval 2532 elapsed=13328.8s
+original3_kcnf: 74000/100000 best=0.072833s at eval 2532 elapsed=13350.5s
+original3_kcnf: 74100/100000 best=0.072833s at eval 2532 elapsed=13372.3s
+original3_kcnf: 74200/100000 best=0.072833s at eval 2532 elapsed=13394.6s
+original3_kcnf: 74300/100000 best=0.072833s at eval 2532 elapsed=13415.9s
+original3_kcnf: 74400/100000 best=0.072833s at eval 2532 elapsed=13436.9s
+original3_kcnf: 74500/100000 best=0.072833s at eval 2532 elapsed=13459.2s
+original3_kcnf: 74600/100000 best=0.072833s at eval 2532 elapsed=13479.8s
+original3_kcnf: 74700/100000 best=0.072833s at eval 2532 elapsed=13501.9s
+original3_kcnf: 74800/100000 best=0.072833s at eval 2532 elapsed=13524.4s
+original3_kcnf: 74900/100000 best=0.072833s at eval 2532 elapsed=13546.7s
+original3_kcnf: 75000/100000 best=0.072833s at eval 2532 elapsed=13568.6s
+original3_kcnf: 75100/100000 best=0.072833s at eval 2532 elapsed=13590.0s
+original3_kcnf: 75200/100000 best=0.072833s at eval 2532 elapsed=13611.0s
+original3_kcnf: 75300/100000 best=0.072833s at eval 2532 elapsed=13633.2s
+original3_kcnf: 75400/100000 best=0.072833s at eval 2532 elapsed=13654.3s
+original3_kcnf: 75500/100000 best=0.072833s at eval 2532 elapsed=13675.2s
+original3_kcnf: 75600/100000 best=0.072833s at eval 2532 elapsed=13696.8s
+original3_kcnf: 75700/100000 best=0.072833s at eval 2532 elapsed=13717.6s
+original3_kcnf: 75800/100000 best=0.072833s at eval 2532 elapsed=13738.9s
+original3_kcnf: 75900/100000 best=0.072833s at eval 2532 elapsed=13761.8s
+original3_kcnf: 76000/100000 best=0.072833s at eval 2532 elapsed=13784.2s
+original3_kcnf: 76100/100000 best=0.072833s at eval 2532 elapsed=13806.8s
+original3_kcnf: 76200/100000 best=0.072833s at eval 2532 elapsed=13828.8s
+original3_kcnf: 76300/100000 best=0.072833s at eval 2532 elapsed=13850.9s
+original3_kcnf: 76400/100000 best=0.072833s at eval 2532 elapsed=13872.7s
+original3_kcnf: 76500/100000 best=0.072833s at eval 2532 elapsed=13893.7s
+original3_kcnf: 76600/100000 best=0.072833s at eval 2532 elapsed=13915.3s
+original3_kcnf: 76700/100000 best=0.072833s at eval 2532 elapsed=13937.9s
+original3_kcnf: 76800/100000 best=0.072833s at eval 2532 elapsed=13958.7s
+original3_kcnf: 76900/100000 best=0.072833s at eval 2532 elapsed=13981.1s
+original3_kcnf: 77000/100000 best=0.072833s at eval 2532 elapsed=14003.0s
+original3_kcnf: 77100/100000 best=0.072833s at eval 2532 elapsed=14023.8s
+original3_kcnf: 77200/100000 best=0.072833s at eval 2532 elapsed=14044.8s
+original3_kcnf: 77300/100000 best=0.072833s at eval 2532 elapsed=14066.3s
+original3_kcnf: 77400/100000 best=0.072833s at eval 2532 elapsed=14088.9s
+original3_kcnf: 77500/100000 best=0.072833s at eval 2532 elapsed=14109.8s
+original3_kcnf: 77600/100000 best=0.072833s at eval 2532 elapsed=14130.8s
+original3_kcnf: 77700/100000 best=0.072833s at eval 2532 elapsed=14153.0s
+original3_kcnf: 77800/100000 best=0.072833s at eval 2532 elapsed=14173.6s
+original3_kcnf: 77900/100000 best=0.072833s at eval 2532 elapsed=14196.8s
+original3_kcnf: 78000/100000 best=0.072833s at eval 2532 elapsed=14218.0s
+original3_kcnf: 78100/100000 best=0.072833s at eval 2532 elapsed=14238.8s
+original3_kcnf: 78200/100000 best=0.072833s at eval 2532 elapsed=14262.0s
+original3_kcnf: 78300/100000 best=0.072833s at eval 2532 elapsed=14285.7s
+original3_kcnf: 78400/100000 best=0.072833s at eval 2532 elapsed=14309.0s
+original3_kcnf: 78500/100000 best=0.072833s at eval 2532 elapsed=14333.4s
+original3_kcnf: 78600/100000 best=0.072833s at eval 2532 elapsed=14354.1s
+original3_kcnf: 78700/100000 best=0.072833s at eval 2532 elapsed=14377.3s
+original3_kcnf: 78800/100000 best=0.072833s at eval 2532 elapsed=14399.4s
+original3_kcnf: 78900/100000 best=0.072833s at eval 2532 elapsed=14420.2s
+original3_kcnf: 79000/100000 best=0.072833s at eval 2532 elapsed=14442.4s
+original3_kcnf: 79100/100000 best=0.072833s at eval 2532 elapsed=14465.5s
+original3_kcnf: 79200/100000 best=0.072833s at eval 2532 elapsed=14488.9s
+original3_kcnf: 79300/100000 best=0.072833s at eval 2532 elapsed=14512.2s
+original3_kcnf: 79400/100000 best=0.072833s at eval 2532 elapsed=14534.3s
+original3_kcnf: 79500/100000 best=0.072833s at eval 2532 elapsed=14556.5s
+original3_kcnf: 79600/100000 best=0.072833s at eval 2532 elapsed=14578.3s
+original3_kcnf: 79700/100000 best=0.072833s at eval 2532 elapsed=14602.3s
+original3_kcnf: 79800/100000 best=0.072833s at eval 2532 elapsed=14623.3s
+original3_kcnf: 79900/100000 best=0.072833s at eval 2532 elapsed=14646.3s
+original3_kcnf: 80000/100000 best=0.072833s at eval 2532 elapsed=14668.8s
+original3_kcnf: 80100/100000 best=0.072833s at eval 2532 elapsed=14689.5s
+original3_kcnf: 80200/100000 best=0.072833s at eval 2532 elapsed=14711.0s
+original3_kcnf: 80300/100000 best=0.072833s at eval 2532 elapsed=14732.3s
+original3_kcnf: 80400/100000 best=0.072833s at eval 2532 elapsed=14754.5s
+original3_kcnf: 80500/100000 best=0.072833s at eval 2532 elapsed=14775.2s
+original3_kcnf: 80600/100000 best=0.072833s at eval 2532 elapsed=14797.7s
+original3_kcnf: 80700/100000 best=0.072833s at eval 2532 elapsed=14818.5s
+original3_kcnf: 80800/100000 best=0.072833s at eval 2532 elapsed=14839.3s
+original3_kcnf: 80900/100000 best=0.072833s at eval 2532 elapsed=14861.8s
+original3_kcnf: 81000/100000 best=0.072833s at eval 2532 elapsed=14883.7s
+original3_kcnf: 81100/100000 best=0.072833s at eval 2532 elapsed=14906.5s
+original3_kcnf: 81200/100000 best=0.072833s at eval 2532 elapsed=14927.7s
+original3_kcnf: 81300/100000 best=0.072833s at eval 2532 elapsed=14949.6s
+original3_kcnf: 81400/100000 best=0.072833s at eval 2532 elapsed=14972.1s
+original3_kcnf: 81500/100000 best=0.072833s at eval 2532 elapsed=14995.9s
+original3_kcnf: 81600/100000 best=0.072833s at eval 2532 elapsed=15018.9s
+original3_kcnf: 81700/100000 best=0.072833s at eval 2532 elapsed=15040.6s
+original3_kcnf: 81800/100000 best=0.072833s at eval 2532 elapsed=15063.6s
+original3_kcnf: 81900/100000 best=0.072833s at eval 2532 elapsed=15086.7s
+original3_kcnf: 82000/100000 best=0.072833s at eval 2532 elapsed=15110.2s
+original3_kcnf: 82100/100000 best=0.072833s at eval 2532 elapsed=15132.3s
+original3_kcnf: 82200/100000 best=0.072833s at eval 2532 elapsed=15154.4s
+original3_kcnf: 82300/100000 best=0.072833s at eval 2532 elapsed=15177.1s
+original3_kcnf: 82400/100000 best=0.072833s at eval 2532 elapsed=15198.6s
+original3_kcnf: 82500/100000 best=0.072833s at eval 2532 elapsed=15222.9s
+original3_kcnf: 82600/100000 best=0.072833s at eval 2532 elapsed=15244.4s
+original3_kcnf: 82700/100000 best=0.072833s at eval 2532 elapsed=15267.0s
+original3_kcnf: 82800/100000 best=0.072833s at eval 2532 elapsed=15289.9s
+original3_kcnf: 82900/100000 best=0.072833s at eval 2532 elapsed=15311.1s
+original3_kcnf: 83000/100000 best=0.072833s at eval 2532 elapsed=15332.5s
+original3_kcnf: 83100/100000 best=0.072833s at eval 2532 elapsed=15354.5s
+original3_kcnf: 83200/100000 best=0.072833s at eval 2532 elapsed=15376.7s
+original3_kcnf: 83300/100000 best=0.072833s at eval 2532 elapsed=15398.7s
+original3_kcnf: 83400/100000 best=0.072833s at eval 2532 elapsed=15421.1s
+original3_kcnf: 83500/100000 best=0.072833s at eval 2532 elapsed=15443.3s
+original3_kcnf: 83600/100000 best=0.072833s at eval 2532 elapsed=15464.4s
+original3_kcnf: 83700/100000 best=0.072833s at eval 2532 elapsed=15486.3s
+original3_kcnf: 83800/100000 best=0.072833s at eval 2532 elapsed=15508.6s
+original3_kcnf: 83900/100000 best=0.072833s at eval 2532 elapsed=15531.1s
+original3_kcnf: 84000/100000 best=0.072833s at eval 2532 elapsed=15552.9s
+original3_kcnf: 84100/100000 best=0.072833s at eval 2532 elapsed=15574.9s
+original3_kcnf: 84200/100000 best=0.072833s at eval 2532 elapsed=15596.9s
+original3_kcnf: 84300/100000 best=0.072833s at eval 2532 elapsed=15620.2s
+original3_kcnf: 84400/100000 best=0.072833s at eval 2532 elapsed=15641.2s
+original3_kcnf: 84500/100000 best=0.072833s at eval 2532 elapsed=15663.8s
+original3_kcnf: 84600/100000 best=0.072833s at eval 2532 elapsed=15686.6s
+original3_kcnf: 84700/100000 best=0.072833s at eval 2532 elapsed=15709.3s
+original3_kcnf: 84800/100000 best=0.072833s at eval 2532 elapsed=15730.2s
+original3_kcnf: 84900/100000 best=0.072833s at eval 2532 elapsed=15752.4s
+original3_kcnf: 85000/100000 best=0.072833s at eval 2532 elapsed=15775.2s
+original3_kcnf: 85100/100000 best=0.072833s at eval 2532 elapsed=15796.7s
+original3_kcnf: 85200/100000 best=0.072833s at eval 2532 elapsed=15819.5s
+original3_kcnf: 85300/100000 best=0.072833s at eval 2532 elapsed=15841.5s
+original3_kcnf: 85400/100000 best=0.072833s at eval 2532 elapsed=15863.2s
+original3_kcnf: 85500/100000 best=0.072833s at eval 2532 elapsed=15884.4s
+original3_kcnf: 85600/100000 best=0.072833s at eval 2532 elapsed=15906.6s
+original3_kcnf: 85700/100000 best=0.072833s at eval 2532 elapsed=15928.7s
+original3_kcnf: 85800/100000 best=0.072833s at eval 2532 elapsed=15949.4s
+original3_kcnf: 85900/100000 best=0.072833s at eval 2532 elapsed=15971.2s
+original3_kcnf: 86000/100000 best=0.072833s at eval 2532 elapsed=15993.1s
+original3_kcnf: 86100/100000 best=0.072833s at eval 2532 elapsed=16014.8s
+original3_kcnf: 86200/100000 best=0.072833s at eval 2532 elapsed=16037.5s
+original3_kcnf: 86300/100000 best=0.072833s at eval 2532 elapsed=16059.9s
+original3_kcnf: 86400/100000 best=0.072833s at eval 2532 elapsed=16081.9s
+original3_kcnf: 86500/100000 best=0.072833s at eval 2532 elapsed=16101.6s
+original3_kcnf: 86600/100000 best=0.072833s at eval 2532 elapsed=16124.1s
+original3_kcnf: 86700/100000 best=0.072833s at eval 2532 elapsed=16145.0s
+original3_kcnf: 86800/100000 best=0.072833s at eval 2532 elapsed=16164.9s
+original3_kcnf: 86900/100000 best=0.072833s at eval 2532 elapsed=16185.1s
+original3_kcnf: 87000/100000 best=0.072833s at eval 2532 elapsed=16207.0s
+original3_kcnf: 87100/100000 best=0.072833s at eval 2532 elapsed=16227.8s
+original3_kcnf: 87200/100000 best=0.072833s at eval 2532 elapsed=16251.0s
+original3_kcnf: 87300/100000 best=0.072833s at eval 2532 elapsed=16272.3s
+original3_kcnf: 87400/100000 best=0.072833s at eval 2532 elapsed=16293.9s
+original3_kcnf: 87500/100000 best=0.072833s at eval 2532 elapsed=16313.0s
+original3_kcnf: 87600/100000 best=0.072833s at eval 2532 elapsed=16333.7s
+original3_kcnf: 87700/100000 best=0.072833s at eval 2532 elapsed=16356.7s
+original3_kcnf: 87800/100000 best=0.072833s at eval 2532 elapsed=16377.4s
+original3_kcnf: 87900/100000 best=0.072833s at eval 2532 elapsed=16400.9s
+original3_kcnf: 88000/100000 best=0.072833s at eval 2532 elapsed=16423.2s
+original3_kcnf: 88100/100000 best=0.072833s at eval 2532 elapsed=16445.2s
+original3_kcnf: 88200/100000 best=0.072833s at eval 2532 elapsed=16466.5s
+original3_kcnf: 88300/100000 best=0.072833s at eval 2532 elapsed=16488.3s
+original3_kcnf: 88400/100000 best=0.072833s at eval 2532 elapsed=16509.7s
+original3_kcnf: 88500/100000 best=0.072833s at eval 2532 elapsed=16530.8s
+original3_kcnf: 88600/100000 best=0.072833s at eval 2532 elapsed=16551.2s
+original3_kcnf: 88700/100000 best=0.072833s at eval 2532 elapsed=16572.0s
+original3_kcnf: 88800/100000 best=0.072833s at eval 2532 elapsed=16594.3s
+original3_kcnf: 88900/100000 best=0.072833s at eval 2532 elapsed=16615.5s
+original3_kcnf: 89000/100000 best=0.072833s at eval 2532 elapsed=16635.6s
+original3_kcnf: 89100/100000 best=0.072833s at eval 2532 elapsed=16656.3s
+original3_kcnf: 89200/100000 best=0.072833s at eval 2532 elapsed=16675.9s
+original3_kcnf: 89300/100000 best=0.072833s at eval 2532 elapsed=16697.4s
+original3_kcnf: 89400/100000 best=0.072833s at eval 2532 elapsed=16719.6s
+original3_kcnf: 89500/100000 best=0.072833s at eval 2532 elapsed=16740.9s
+original3_kcnf: 89600/100000 best=0.072833s at eval 2532 elapsed=16764.3s
+original3_kcnf: 89700/100000 best=0.072833s at eval 2532 elapsed=16786.0s
+original3_kcnf: 89800/100000 best=0.072833s at eval 2532 elapsed=16807.1s
+original3_kcnf: 89900/100000 best=0.072833s at eval 2532 elapsed=16829.9s
+original3_kcnf: 90000/100000 best=0.072833s at eval 2532 elapsed=16851.1s
+original3_kcnf: 90100/100000 best=0.072833s at eval 2532 elapsed=16871.8s
+original3_kcnf: 90200/100000 best=0.072833s at eval 2532 elapsed=16892.5s
+original3_kcnf: 90300/100000 best=0.072833s at eval 2532 elapsed=16913.0s
+original3_kcnf: 90400/100000 best=0.072833s at eval 2532 elapsed=16932.7s
+original3_kcnf: 90500/100000 best=0.072833s at eval 2532 elapsed=16954.2s
+original3_kcnf: 90600/100000 best=0.072833s at eval 2532 elapsed=16975.4s
+original3_kcnf: 90700/100000 best=0.072833s at eval 2532 elapsed=16997.7s
+original3_kcnf: 90800/100000 best=0.072833s at eval 2532 elapsed=17019.4s
+original3_kcnf: 90900/100000 best=0.072833s at eval 2532 elapsed=17041.9s
+original3_kcnf: 91000/100000 best=0.072833s at eval 2532 elapsed=17065.2s
+original3_kcnf: 91100/100000 best=0.072833s at eval 2532 elapsed=17087.3s
+original3_kcnf: 91200/100000 best=0.072833s at eval 2532 elapsed=17109.3s
+original3_kcnf: 91300/100000 best=0.072833s at eval 2532 elapsed=17130.7s
+original3_kcnf: 91400/100000 best=0.072833s at eval 2532 elapsed=17151.4s
+original3_kcnf: 91500/100000 best=0.072833s at eval 2532 elapsed=17172.3s
+original3_kcnf: 91600/100000 best=0.072833s at eval 2532 elapsed=17192.5s
+original3_kcnf: 91700/100000 best=0.072833s at eval 2532 elapsed=17213.7s
+original3_kcnf: 91800/100000 best=0.072833s at eval 2532 elapsed=17234.8s
+original3_kcnf: 91900/100000 best=0.072833s at eval 2532 elapsed=17254.7s
+original3_kcnf: 92000/100000 best=0.072833s at eval 2532 elapsed=17276.6s
+original3_kcnf: 92100/100000 best=0.072833s at eval 2532 elapsed=17297.5s
+original3_kcnf: 92200/100000 best=0.072833s at eval 2532 elapsed=17318.2s
+original3_kcnf: 92300/100000 best=0.072833s at eval 2532 elapsed=17340.1s
+original3_kcnf: 92400/100000 best=0.072833s at eval 2532 elapsed=17363.2s
+original3_kcnf: 92500/100000 best=0.072833s at eval 2532 elapsed=17383.4s
+original3_kcnf: 92600/100000 best=0.072833s at eval 2532 elapsed=17403.8s
+original3_kcnf: 92700/100000 best=0.072833s at eval 2532 elapsed=17424.0s
+original3_kcnf: 92800/100000 best=0.072833s at eval 2532 elapsed=17444.7s
+original3_kcnf: 92900/100000 best=0.072833s at eval 2532 elapsed=17464.9s
+original3_kcnf: 93000/100000 best=0.072833s at eval 2532 elapsed=17485.4s
+original3_kcnf: 93100/100000 best=0.072833s at eval 2532 elapsed=17507.1s
+original3_kcnf: 93200/100000 best=0.072833s at eval 2532 elapsed=17528.3s
+original3_kcnf: 93300/100000 best=0.072833s at eval 2532 elapsed=17550.9s
+original3_kcnf: 93400/100000 best=0.072833s at eval 2532 elapsed=17570.8s
+original3_kcnf: 93500/100000 best=0.072833s at eval 2532 elapsed=17590.2s
+original3_kcnf: 93600/100000 best=0.072833s at eval 2532 elapsed=17611.8s
+original3_kcnf: 93700/100000 best=0.072833s at eval 2532 elapsed=17633.1s
+original3_kcnf: 93800/100000 best=0.072833s at eval 2532 elapsed=17655.4s
+original3_kcnf: 93900/100000 best=0.072833s at eval 2532 elapsed=17677.0s
+original3_kcnf: 94000/100000 best=0.072833s at eval 2532 elapsed=17699.0s
+original3_kcnf: 94100/100000 best=0.072833s at eval 2532 elapsed=17720.9s
+original3_kcnf: 94200/100000 best=0.072833s at eval 2532 elapsed=17741.0s
+original3_kcnf: 94300/100000 best=0.072833s at eval 2532 elapsed=17762.7s
+original3_kcnf: 94400/100000 best=0.072833s at eval 2532 elapsed=17782.9s
+original3_kcnf: 94500/100000 best=0.072833s at eval 2532 elapsed=17804.7s
+original3_kcnf: 94600/100000 best=0.072833s at eval 2532 elapsed=17826.4s
+original3_kcnf: 94700/100000 best=0.072833s at eval 2532 elapsed=17849.4s
+original3_kcnf: 94800/100000 best=0.072833s at eval 2532 elapsed=17872.9s
+original3_kcnf: 94900/100000 best=0.072833s at eval 2532 elapsed=17894.4s
+original3_kcnf: 95000/100000 best=0.072833s at eval 2532 elapsed=17915.6s
+original3_kcnf: 95100/100000 best=0.072833s at eval 2532 elapsed=17937.4s
+original3_kcnf: 95200/100000 best=0.072833s at eval 2532 elapsed=17960.6s
+original3_kcnf: 95300/100000 best=0.072833s at eval 2532 elapsed=17982.0s
+original3_kcnf: 95400/100000 best=0.072833s at eval 2532 elapsed=18002.9s
+original3_kcnf: 95500/100000 best=0.072833s at eval 2532 elapsed=18025.8s
+original3_kcnf: 95600/100000 best=0.072833s at eval 2532 elapsed=18046.9s
+original3_kcnf: 95700/100000 best=0.072833s at eval 2532 elapsed=18069.9s
+original3_kcnf: 95800/100000 best=0.072833s at eval 2532 elapsed=18090.6s
+original3_kcnf: 95900/100000 best=0.072833s at eval 2532 elapsed=18112.4s
+original3_kcnf: 96000/100000 best=0.072833s at eval 2532 elapsed=18135.5s
+original3_kcnf: 96100/100000 best=0.072833s at eval 2532 elapsed=18156.7s
+original3_kcnf: 96200/100000 best=0.072833s at eval 2532 elapsed=18178.9s
+original3_kcnf: 96300/100000 best=0.072833s at eval 2532 elapsed=18202.1s
+original3_kcnf: 96400/100000 best=0.072833s at eval 2532 elapsed=18221.7s
+original3_kcnf: 96500/100000 best=0.072833s at eval 2532 elapsed=18243.8s
+original3_kcnf: 96600/100000 best=0.072833s at eval 2532 elapsed=18266.3s
+original3_kcnf: 96700/100000 best=0.072833s at eval 2532 elapsed=18289.9s
+original3_kcnf: 96800/100000 best=0.072833s at eval 2532 elapsed=18311.5s
+original3_kcnf: 96900/100000 best=0.072833s at eval 2532 elapsed=18333.1s
+original3_kcnf: 97000/100000 best=0.072833s at eval 2532 elapsed=18354.9s
+original3_kcnf: 97100/100000 best=0.072833s at eval 2532 elapsed=18377.1s
+original3_kcnf: 97200/100000 best=0.072833s at eval 2532 elapsed=18398.3s
+original3_kcnf: 97300/100000 best=0.072833s at eval 2532 elapsed=18421.6s
+original3_kcnf: 97400/100000 best=0.072833s at eval 2532 elapsed=18442.1s
+original3_kcnf: 97500/100000 best=0.072833s at eval 2532 elapsed=18463.6s
+original3_kcnf: 97600/100000 best=0.072833s at eval 2532 elapsed=18485.1s
+original3_kcnf: 97700/100000 best=0.072833s at eval 2532 elapsed=18506.9s
+original3_kcnf: 97800/100000 best=0.072833s at eval 2532 elapsed=18528.3s
+original3_kcnf: 97900/100000 best=0.072833s at eval 2532 elapsed=18549.2s
+original3_kcnf: 98000/100000 best=0.072833s at eval 2532 elapsed=18569.4s
+original3_kcnf: 98100/100000 best=0.072833s at eval 2532 elapsed=18590.5s
+original3_kcnf: 98200/100000 best=0.072833s at eval 2532 elapsed=18611.8s
+original3_kcnf: 98300/100000 best=0.072833s at eval 2532 elapsed=18633.0s
+original3_kcnf: 98400/100000 best=0.072833s at eval 2532 elapsed=18654.7s
+original3_kcnf: 98500/100000 best=0.072833s at eval 2532 elapsed=18675.4s
+original3_kcnf: 98600/100000 best=0.072833s at eval 2532 elapsed=18697.0s
+original3_kcnf: 98700/100000 best=0.072833s at eval 2532 elapsed=18717.6s
+original3_kcnf: 98800/100000 best=0.072833s at eval 2532 elapsed=18737.9s
+original3_kcnf: 98900/100000 best=0.072833s at eval 2532 elapsed=18760.6s
+original3_kcnf: 99000/100000 best=0.072833s at eval 2532 elapsed=18782.7s
+original3_kcnf: 99100/100000 best=0.072833s at eval 2532 elapsed=18803.4s
+original3_kcnf: 99200/100000 best=0.072833s at eval 2532 elapsed=18824.1s
+original3_kcnf: 99300/100000 best=0.072833s at eval 2532 elapsed=18846.7s
+original3_kcnf: 99400/100000 best=0.072833s at eval 2532 elapsed=18868.4s
+original3_kcnf: 99500/100000 best=0.072833s at eval 2532 elapsed=18890.7s
+original3_kcnf: 99600/100000 best=0.072833s at eval 2532 elapsed=18913.0s
+original3_kcnf: 99700/100000 best=0.072833s at eval 2532 elapsed=18934.2s
+original3_kcnf: 99800/100000 best=0.072833s at eval 2532 elapsed=18956.8s
+original3_kcnf: 99900/100000 best=0.072833s at eval 2532 elapsed=18976.8s
+original3_kcnf: 100000/100000 best=0.072833s at eval 2532 elapsed=18998.4s
+wrote current_machine_rebench/results/sat_randomsearch/original3_kcnf.json
+2026-07-18T23:50:58+00:00 supervisor launch attempt 1
+prepared external benchmarks under current_machine_rebench/results/external
+  tsplib: 58
+  hard_tsplib: 40
+  fhcp: 11
+  clustered_euclidean: 12
+  sat: 3
+wrote current_machine_rebench/results/sat_randomsearch/original3_kcnf.json
+waiting for active original3_mprefix screen at current_machine_rebench/results/sat_randomsearch/original3_mprefix.lock
+wrote current_machine_rebench/results/sat_randomsearch/original3_mprefix.json
+imported 1011 rows from current_machine_rebench/results/tsp-suite.json
+imported 415 rows from current_machine_rebench/results/ham-suite.json
+sat phase_transition minisat22 repeat=0: UNSAT
+sat phase_transition minisat22 repeat=1: UNSAT
+sat phase_transition minisat22 repeat=2: UNSAT
+sat phase_transition minisat22 repeat=3: UNSAT
+sat phase_transition minisat22 repeat=4: UNSAT
+sat phase_transition breakid_cadical195 repeat=0: UNSAT
+sat phase_transition breakid_cadical195 repeat=1: UNSAT
+sat phase_transition breakid_cadical195 repeat=2: UNSAT
+sat phase_transition breakid_cadical195 repeat=3: UNSAT
+sat phase_transition breakid_cadical195 repeat=4: UNSAT
+sat phase_transition cryptominisat repeat=0: UNSAT
+sat phase_transition cryptominisat repeat=1: UNSAT
+sat phase_transition cryptominisat repeat=2: UNSAT
+sat phase_transition cryptominisat repeat=3: UNSAT
+sat phase_transition cryptominisat repeat=4: UNSAT
+sat phase_transition kissat404 repeat=0: UNSAT
+sat phase_transition kissat404 repeat=1: UNSAT
+sat phase_transition kissat404 repeat=2: UNSAT
+sat phase_transition kissat404 repeat=3: UNSAT
+sat phase_transition kissat404 repeat=4: UNSAT
+sat phase_transition march_cu repeat=0: SOLVED
+sat phase_transition march_cu repeat=1: SOLVED
+sat phase_transition march_cu repeat=2: SOLVED
+sat phase_transition march_cu repeat=3: SOLVED
+sat phase_transition march_cu repeat=4: SOLVED
+sat recovered_stage1_randomsearch_mprefix minisat22 repeat=0: UNSAT
+sat recovered_stage1_randomsearch_mprefix minisat22 repeat=1: UNSAT
+sat recovered_stage1_randomsearch_mprefix minisat22 repeat=2: UNSAT
+sat recovered_stage1_randomsearch_mprefix minisat22 repeat=3: UNSAT
+sat recovered_stage1_randomsearch_mprefix minisat22 repeat=4: UNSAT
+sat recovered_stage1_randomsearch_mprefix breakid_cadical195 repeat=0: UNSAT
+sat recovered_stage1_randomsearch_mprefix breakid_cadical195 repeat=1: UNSAT
+sat recovered_stage1_randomsearch_mprefix breakid_cadical195 repeat=2: UNSAT
+sat recovered_stage1_randomsearch_mprefix breakid_cadical195 repeat=3: UNSAT
+sat recovered_stage1_randomsearch_mprefix breakid_cadical195 repeat=4: UNSAT
+sat recovered_stage1_randomsearch_mprefix cryptominisat repeat=0: UNSAT
+sat recovered_stage1_randomsearch_mprefix cryptominisat repeat=1: UNSAT
+sat recovered_stage1_randomsearch_mprefix cryptominisat repeat=2: UNSAT
+sat recovered_stage1_randomsearch_mprefix cryptominisat repeat=3: UNSAT
+sat recovered_stage1_randomsearch_mprefix cryptominisat repeat=4: UNSAT
+sat recovered_stage1_randomsearch_mprefix kissat404 repeat=0: UNSAT
+sat recovered_stage1_randomsearch_mprefix kissat404 repeat=1: UNSAT
+sat recovered_stage1_randomsearch_mprefix kissat404 repeat=2: UNSAT
+sat recovered_stage1_randomsearch_mprefix kissat404 repeat=3: UNSAT
+sat recovered_stage1_randomsearch_mprefix kissat404 repeat=4: UNSAT
+sat recovered_stage1_randomsearch_mprefix march_cu repeat=0: SOLVED
+sat recovered_stage1_randomsearch_mprefix march_cu repeat=1: SOLVED
+sat recovered_stage1_randomsearch_mprefix march_cu repeat=2: SOLVED
+sat recovered_stage1_randomsearch_mprefix march_cu repeat=3: SOLVED
+sat recovered_stage1_randomsearch_mprefix march_cu repeat=4: SOLVED
+sat champion_kcnf minisat22 repeat=0: UNSAT
+sat champion_kcnf minisat22 repeat=1: UNSAT
+sat champion_kcnf minisat22 repeat=2: UNSAT
+sat champion_kcnf minisat22 repeat=3: UNSAT
+sat champion_kcnf minisat22 repeat=4: UNSAT
+sat champion_kcnf breakid_cadical195 repeat=0: UNSAT
+sat champion_kcnf breakid_cadical195 repeat=1: UNSAT
+sat champion_kcnf breakid_cadical195 repeat=2: UNSAT
+sat champion_kcnf breakid_cadical195 repeat=3: UNSAT
+sat champion_kcnf breakid_cadical195 repeat=4: UNSAT
+sat champion_kcnf cryptominisat repeat=0: TIMEOUT
+sat champion_kcnf cryptominisat repeat=1: TIMEOUT
+sat champion_kcnf cryptominisat repeat=2: TIMEOUT
+sat champion_kcnf cryptominisat repeat=3: TIMEOUT
+sat champion_kcnf cryptominisat repeat=4: TIMEOUT
+sat champion_kcnf kissat404 repeat=0: UNSAT
+sat champion_kcnf kissat404 repeat=1: UNSAT
+sat champion_kcnf kissat404 repeat=2: UNSAT
+sat champion_kcnf kissat404 repeat=3: UNSAT
+sat champion_kcnf kissat404 repeat=4: UNSAT
+sat champion_kcnf march_cu repeat=0: SOLVED
+sat champion_kcnf march_cu repeat=1: SOLVED
+sat champion_kcnf march_cu repeat=2: SOLVED
+sat champion_kcnf march_cu repeat=3: SOLVED
+sat champion_kcnf march_cu repeat=4: SOLVED
+sat champion_mprefix minisat22 repeat=0: UNSAT
+sat champion_mprefix minisat22 repeat=1: UNSAT
+sat champion_mprefix minisat22 repeat=2: UNSAT
+sat champion_mprefix minisat22 repeat=3: UNSAT
+sat champion_mprefix minisat22 repeat=4: UNSAT
+sat champion_mprefix breakid_cadical195 repeat=0: UNSAT
+sat champion_mprefix breakid_cadical195 repeat=1: UNSAT
+sat champion_mprefix breakid_cadical195 repeat=2: UNSAT
+sat champion_mprefix breakid_cadical195 repeat=3: UNSAT
+sat champion_mprefix breakid_cadical195 repeat=4: UNSAT
+sat champion_mprefix cryptominisat repeat=0: UNSAT
+sat champion_mprefix cryptominisat repeat=1: UNSAT
+sat champion_mprefix cryptominisat repeat=2: UNSAT
+sat champion_mprefix cryptominisat repeat=3: UNSAT
+sat champion_mprefix cryptominisat repeat=4: UNSAT
+sat champion_mprefix kissat404 repeat=0: UNSAT
+sat champion_mprefix kissat404 repeat=1: UNSAT
+sat champion_mprefix kissat404 repeat=2: UNSAT
+sat champion_mprefix kissat404 repeat=3: UNSAT
+sat champion_mprefix kissat404 repeat=4: UNSAT
+sat champion_mprefix march_cu repeat=0: SOLVED
+sat champion_mprefix march_cu repeat=1: SOLVED
+sat champion_mprefix march_cu repeat=2: SOLVED
+sat champion_mprefix march_cu repeat=3: SOLVED
+sat champion_mprefix march_cu repeat=4: SOLVED
+sat dpll4_champ4_kcnf_log kissat_binary repeat=0: SOLVED
+sat dpll4_champ4_kcnf_log kissat_binary repeat=1: SOLVED
+sat dpll4_champ4_kcnf_log kissat_binary repeat=2: SOLVED
+sat dpll4_champ4_kcnf_log kissat_binary repeat=3: SOLVED
+sat dpll4_champ4_kcnf_log kissat_binary repeat=4: SOLVED
+sat dpll4_champ4_kcnf_log breakid_cadical195 repeat=0: UNSAT
+sat dpll4_champ4_kcnf_log breakid_cadical195 repeat=1: UNSAT
+sat dpll4_champ4_kcnf_log breakid_cadical195 repeat=2: UNSAT
+sat dpll4_champ4_kcnf_log breakid_cadical195 repeat=3: UNSAT
+sat dpll4_champ4_kcnf_log breakid_cadical195 repeat=4: UNSAT
+sat dpll4_champ4_kcnf_log cryptominisat repeat=0: UNSAT
+sat dpll4_champ4_kcnf_log cryptominisat repeat=1: UNSAT
+sat dpll4_champ4_kcnf_log cryptominisat repeat=2: UNSAT
+sat dpll4_champ4_kcnf_log cryptominisat repeat=3: UNSAT
+sat dpll4_champ4_kcnf_log cryptominisat repeat=4: UNSAT
+sat dpll4_champ4_kcnf_log march_cu repeat=0: SOLVED
+sat dpll4_champ4_kcnf_log march_cu repeat=1: SOLVED
+sat dpll4_champ4_kcnf_log march_cu repeat=2: SOLVED
+sat dpll4_champ4_kcnf_log march_cu repeat=3: SOLVED
+sat dpll4_champ4_kcnf_log march_cu repeat=4: SOLVED
+sat dpll4_champ4_kcnf_neg kissat_binary repeat=0: SOLVED
+sat dpll4_champ4_kcnf_neg kissat_binary repeat=1: SOLVED
+sat dpll4_champ4_kcnf_neg kissat_binary repeat=2: SOLVED
+sat dpll4_champ4_kcnf_neg kissat_binary repeat=3: SOLVED
+sat dpll4_champ4_kcnf_neg kissat_binary repeat=4: SOLVED
+sat dpll4_champ4_kcnf_neg breakid_cadical195 repeat=0: UNSAT
+sat dpll4_champ4_kcnf_neg breakid_cadical195 repeat=1: UNSAT
+sat dpll4_champ4_kcnf_neg breakid_cadical195 repeat=2: UNSAT
+sat dpll4_champ4_kcnf_neg breakid_cadical195 repeat=3: UNSAT
+sat dpll4_champ4_kcnf_neg breakid_cadical195 repeat=4: UNSAT
+sat dpll4_champ4_kcnf_neg cryptominisat repeat=0: UNSAT
+sat dpll4_champ4_kcnf_neg cryptominisat repeat=1: UNSAT
+sat dpll4_champ4_kcnf_neg cryptominisat repeat=2: UNSAT
+sat dpll4_champ4_kcnf_neg cryptominisat repeat=3: UNSAT
+sat dpll4_champ4_kcnf_neg cryptominisat repeat=4: UNSAT
+sat dpll4_champ4_kcnf_neg march_cu repeat=0: SOLVED
+sat dpll4_champ4_kcnf_neg march_cu repeat=1: SOLVED
+sat dpll4_champ4_kcnf_neg march_cu repeat=2: SOLVED
+sat dpll4_champ4_kcnf_neg march_cu repeat=3: SOLVED
+sat dpll4_champ4_kcnf_neg march_cu repeat=4: SOLVED
+sat dpll4_champ4_mpfx_log kissat_binary repeat=0: SOLVED
+sat dpll4_champ4_mpfx_log kissat_binary repeat=1: SOLVED
+sat dpll4_champ4_mpfx_log kissat_binary repeat=2: SOLVED
+sat dpll4_champ4_mpfx_log kissat_binary repeat=3: SOLVED
+sat dpll4_champ4_mpfx_log kissat_binary repeat=4: SOLVED
+sat dpll4_champ4_mpfx_log breakid_cadical195 repeat=0: UNSAT
+sat dpll4_champ4_mpfx_log breakid_cadical195 repeat=1: UNSAT
+sat dpll4_champ4_mpfx_log breakid_cadical195 repeat=2: UNSAT
+sat dpll4_champ4_mpfx_log breakid_cadical195 repeat=3: UNSAT
+sat dpll4_champ4_mpfx_log breakid_cadical195 repeat=4: UNSAT
+sat dpll4_champ4_mpfx_log cryptominisat repeat=0: UNSAT
+sat dpll4_champ4_mpfx_log cryptominisat repeat=1: UNSAT
+sat dpll4_champ4_mpfx_log cryptominisat repeat=2: UNSAT
+sat dpll4_champ4_mpfx_log cryptominisat repeat=3: UNSAT
+sat dpll4_champ4_mpfx_log cryptominisat repeat=4: UNSAT
+sat dpll4_champ4_mpfx_log march_cu repeat=0: SOLVED
+sat dpll4_champ4_mpfx_log march_cu repeat=1: SOLVED
+sat dpll4_champ4_mpfx_log march_cu repeat=2: SOLVED
+sat dpll4_champ4_mpfx_log march_cu repeat=3: SOLVED
+sat dpll4_champ4_mpfx_log march_cu repeat=4: SOLVED
+sat dpll4_champ4_mpfx_neg kissat_binary repeat=0: SOLVED
+sat dpll4_champ4_mpfx_neg kissat_binary repeat=1: SOLVED
+sat dpll4_champ4_mpfx_neg kissat_binary repeat=2: SOLVED
+sat dpll4_champ4_mpfx_neg kissat_binary repeat=3: SOLVED
+sat dpll4_champ4_mpfx_neg kissat_binary repeat=4: SOLVED
+sat dpll4_champ4_mpfx_neg breakid_cadical195 repeat=0: UNSAT
+sat dpll4_champ4_mpfx_neg breakid_cadical195 repeat=1: UNSAT
+sat dpll4_champ4_mpfx_neg breakid_cadical195 repeat=2: UNSAT
+sat dpll4_champ4_mpfx_neg breakid_cadical195 repeat=3: UNSAT
+sat dpll4_champ4_mpfx_neg breakid_cadical195 repeat=4: UNSAT
+sat dpll4_champ4_mpfx_neg cryptominisat repeat=0: UNSAT
+sat dpll4_champ4_mpfx_neg cryptominisat repeat=1: UNSAT
+sat dpll4_champ4_mpfx_neg cryptominisat repeat=2: UNSAT
+sat dpll4_champ4_mpfx_neg cryptominisat repeat=3: UNSAT
+sat dpll4_champ4_mpfx_neg cryptominisat repeat=4: UNSAT
+sat dpll4_champ4_mpfx_neg march_cu repeat=0: SOLVED
+sat dpll4_champ4_mpfx_neg march_cu repeat=1: SOLVED
+sat dpll4_champ4_mpfx_neg march_cu repeat=2: SOLVED
+sat dpll4_champ4_mpfx_neg march_cu repeat=3: SOLVED
+sat dpll4_champ4_mpfx_neg march_cu repeat=4: SOLVED
+sat transfer_champion_kcnf kissat_binary repeat=0: SOLVED
+sat transfer_champion_kcnf kissat_binary repeat=1: SOLVED
+sat transfer_champion_kcnf kissat_binary repeat=2: SOLVED
+sat transfer_champion_kcnf kissat_binary repeat=3: SOLVED
+sat transfer_champion_kcnf kissat_binary repeat=4: SOLVED
+sat transfer_champion_kcnf breakid_cadical195 repeat=0: UNSAT
+sat transfer_champion_kcnf breakid_cadical195 repeat=1: UNSAT
+sat transfer_champion_kcnf breakid_cadical195 repeat=2: UNSAT
+sat transfer_champion_kcnf breakid_cadical195 repeat=3: UNSAT
+sat transfer_champion_kcnf breakid_cadical195 repeat=4: UNSAT
+sat transfer_champion_kcnf cryptominisat repeat=0: TIMEOUT
+sat transfer_champion_kcnf cryptominisat repeat=1: TIMEOUT
+sat transfer_champion_kcnf cryptominisat repeat=2: TIMEOUT
+sat transfer_champion_kcnf cryptominisat repeat=3: TIMEOUT
+sat transfer_champion_kcnf cryptominisat repeat=4: TIMEOUT
+sat transfer_champion_kcnf march_cu repeat=0: SOLVED
+sat transfer_champion_kcnf march_cu repeat=1: SOLVED
+sat transfer_champion_kcnf march_cu repeat=2: SOLVED
+sat transfer_champion_kcnf march_cu repeat=3: SOLVED
+sat transfer_champion_kcnf march_cu repeat=4: SOLVED
+sat transfer_champion_mprefix kissat_binary repeat=0: SOLVED
+sat transfer_champion_mprefix kissat_binary repeat=1: SOLVED
+sat transfer_champion_mprefix kissat_binary repeat=2: SOLVED
+sat transfer_champion_mprefix kissat_binary repeat=3: SOLVED
+sat transfer_champion_mprefix kissat_binary repeat=4: SOLVED
+sat transfer_champion_mprefix breakid_cadical195 repeat=0: UNSAT
+sat transfer_champion_mprefix breakid_cadical195 repeat=1: UNSAT
+sat transfer_champion_mprefix breakid_cadical195 repeat=2: UNSAT
+sat transfer_champion_mprefix breakid_cadical195 repeat=3: UNSAT
+sat transfer_champion_mprefix breakid_cadical195 repeat=4: UNSAT
+sat transfer_champion_mprefix cryptominisat repeat=0: UNSAT
+sat transfer_champion_mprefix cryptominisat repeat=1: UNSAT
+sat transfer_champion_mprefix cryptominisat repeat=2: UNSAT
+sat transfer_champion_mprefix cryptominisat repeat=3: UNSAT
+sat transfer_champion_mprefix cryptominisat repeat=4: UNSAT
+sat transfer_champion_mprefix march_cu repeat=0: SOLVED
+sat transfer_champion_mprefix march_cu repeat=1: SOLVED
+sat transfer_champion_mprefix march_cu repeat=2: SOLVED
+sat transfer_champion_mprefix march_cu repeat=3: SOLVED
+sat transfer_champion_mprefix march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank01_eval002532 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank01_eval002532 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank01_eval002532 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank01_eval002532 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank01_eval002532 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank01_eval002532 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank02_eval024643 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank02_eval024643 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank02_eval024643 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank02_eval024643 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank02_eval024643 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank02_eval024643 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank03_eval064927 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank03_eval064927 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank03_eval064927 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank03_eval064927 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank03_eval064927 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank03_eval064927 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank04_eval048114 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank04_eval048114 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank04_eval048114 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank04_eval048114 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank04_eval048114 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank04_eval048114 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank05_eval045197 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank05_eval045197 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank05_eval045197 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank05_eval045197 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank05_eval045197 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank05_eval045197 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank06_eval091297 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank06_eval091297 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank06_eval091297 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank06_eval091297 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank06_eval091297 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank06_eval091297 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank07_eval049163 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank07_eval049163 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank07_eval049163 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank07_eval049163 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank07_eval049163 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank07_eval049163 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank08_eval000429 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank08_eval000429 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank08_eval000429 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank08_eval000429 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank08_eval000429 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank08_eval000429 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank09_eval029067 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank09_eval029067 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank09_eval029067 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank09_eval029067 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank09_eval029067 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank09_eval029067 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank10_eval097409 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank10_eval097409 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank10_eval097409 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank10_eval097409 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank10_eval097409 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank10_eval097409 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank11_eval026985 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank11_eval026985 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank11_eval026985 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank11_eval026985 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank11_eval026985 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank11_eval026985 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank12_eval031312 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank12_eval031312 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank12_eval031312 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank12_eval031312 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank12_eval031312 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank12_eval031312 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank13_eval091608 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank13_eval091608 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank13_eval091608 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank13_eval091608 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank13_eval091608 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank13_eval091608 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank14_eval092329 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank14_eval092329 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank14_eval092329 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank14_eval092329 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank14_eval092329 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank14_eval092329 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank15_eval000993 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank15_eval000993 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank15_eval000993 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank15_eval000993 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank15_eval000993 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank15_eval000993 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank16_eval034868 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank16_eval034868 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank16_eval034868 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank16_eval034868 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank16_eval034868 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank16_eval034868 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank17_eval073276 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank17_eval073276 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank17_eval073276 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank17_eval073276 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank17_eval073276 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank17_eval073276 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank18_eval053765 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank18_eval053765 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank18_eval053765 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank18_eval053765 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank18_eval053765 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank18_eval053765 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank19_eval020523 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank19_eval020523 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank19_eval020523 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank19_eval020523 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank19_eval020523 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank19_eval020523 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_kcnf_rank20_eval082623 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_kcnf_rank20_eval082623 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_kcnf_rank20_eval082623 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_kcnf_rank20_eval082623 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_kcnf_rank20_eval082623 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_kcnf_rank20_eval082623 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank01_eval054075 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank01_eval054075 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank01_eval054075 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank01_eval054075 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank01_eval054075 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank01_eval054075 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank02_eval092277 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank02_eval092277 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank02_eval092277 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank02_eval092277 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank02_eval092277 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank02_eval092277 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank03_eval011252 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank03_eval011252 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank03_eval011252 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank03_eval011252 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank03_eval011252 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank03_eval011252 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank04_eval080931 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank04_eval080931 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank04_eval080931 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank04_eval080931 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank04_eval080931 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank04_eval080931 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank05_eval008589 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank05_eval008589 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank05_eval008589 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank05_eval008589 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank05_eval008589 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank05_eval008589 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank06_eval088366 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank06_eval088366 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank06_eval088366 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank06_eval088366 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank06_eval088366 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank06_eval088366 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank07_eval067471 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank07_eval067471 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank07_eval067471 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank07_eval067471 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank07_eval067471 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank07_eval067471 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank08_eval057179 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank08_eval057179 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank08_eval057179 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank08_eval057179 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank08_eval057179 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank08_eval057179 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank09_eval030337 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank09_eval030337 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank09_eval030337 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank09_eval030337 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank09_eval030337 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank09_eval030337 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank10_eval082530 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank10_eval082530 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank10_eval082530 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank10_eval082530 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank10_eval082530 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank10_eval082530 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank11_eval079743 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank11_eval079743 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank11_eval079743 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank11_eval079743 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank11_eval079743 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank11_eval079743 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank12_eval062822 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank12_eval062822 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank12_eval062822 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank12_eval062822 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank12_eval062822 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank12_eval062822 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank13_eval018247 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank13_eval018247 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank13_eval018247 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank13_eval018247 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank13_eval018247 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank13_eval018247 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank14_eval070426 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank14_eval070426 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank14_eval070426 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank14_eval070426 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank14_eval070426 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank14_eval070426 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank15_eval011283 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank15_eval011283 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank15_eval011283 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank15_eval011283 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank15_eval011283 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank15_eval011283 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank16_eval046502 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank16_eval046502 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank16_eval046502 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank16_eval046502 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank16_eval046502 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank16_eval046502 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank17_eval056793 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank17_eval056793 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank17_eval056793 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank17_eval056793 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank17_eval056793 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank17_eval056793 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank18_eval038593 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank18_eval038593 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank18_eval038593 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank18_eval038593 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank18_eval038593 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank18_eval038593 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank19_eval032466 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank19_eval032466 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank19_eval032466 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank19_eval032466 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank19_eval032466 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank19_eval032466 march_cu repeat=4: SOLVED
+sat fresh_rs_original3_mprefix_rank20_eval021905 minisat22 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 minisat22 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 minisat22 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 minisat22 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 minisat22 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 breakid_cadical195 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 breakid_cadical195 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 breakid_cadical195 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 breakid_cadical195 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 breakid_cadical195 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 cryptominisat repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 cryptominisat repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 cryptominisat repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 cryptominisat repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 cryptominisat repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 kissat404 repeat=0: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 kissat404 repeat=1: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 kissat404 repeat=2: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 kissat404 repeat=3: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 kissat404 repeat=4: UNSAT
+sat fresh_rs_original3_mprefix_rank20_eval021905 march_cu repeat=0: SOLVED
+sat fresh_rs_original3_mprefix_rank20_eval021905 march_cu repeat=1: SOLVED
+sat fresh_rs_original3_mprefix_rank20_eval021905 march_cu repeat=2: SOLVED
+sat fresh_rs_original3_mprefix_rank20_eval021905 march_cu repeat=3: SOLVED
+sat fresh_rs_original3_mprefix_rank20_eval021905 march_cu repeat=4: SOLVED
+npfs control_6x4_cpsat cpsat train seed=1: OPTIMAL 0.210102s
+npfs control_6x4_cpsat cpsat train seed=2: OPTIMAL 0.367953s
+npfs control_6x4_cpsat cpsat train seed=3: OPTIMAL 0.359449s
+npfs control_6x4_cpsat cpsat train seed=4: OPTIMAL 0.213003s
+npfs control_6x4_cpsat cpsat train seed=5: OPTIMAL 0.153685s
+npfs control_6x4_cpsat cpsat train seed=6: OPTIMAL 0.185406s
+npfs control_6x4_cpsat cpsat train seed=7: OPTIMAL 0.324539s
+npfs control_6x4_cpsat cpopt train seed=1: Optimal 0.027583s
+npfs control_6x4_cpsat cpopt train seed=2: Optimal 0.020971s
+npfs control_6x4_cpsat cpopt train seed=3: Optimal 0.021253s
+npfs control_6x4_cpsat cpopt train seed=4: Optimal 0.026288s
+npfs control_6x4_cpsat cpopt train seed=5: Optimal 0.022285s
+npfs control_6x4_cpsat cpopt train seed=6: Optimal 0.021455s
+npfs control_6x4_cpsat cpopt train seed=7: Optimal 0.021170s
+npfs control_6x4_cpsat cpsat heldout seed=8: OPTIMAL 0.228475s
+npfs control_6x4_cpsat cpsat heldout seed=9: OPTIMAL 0.262162s
+npfs control_6x4_cpsat cpsat heldout seed=10: OPTIMAL 0.231979s
+npfs control_6x4_cpsat cpsat heldout seed=11: OPTIMAL 0.247002s
+npfs control_6x4_cpsat cpsat heldout seed=12: OPTIMAL 0.170050s
+npfs control_6x4_cpsat cpsat heldout seed=13: OPTIMAL 0.202991s
+npfs control_6x4_cpsat cpsat heldout seed=14: OPTIMAL 0.271140s
+npfs control_6x4_cpsat cpsat heldout seed=15: OPTIMAL 0.214677s
+npfs control_6x4_cpsat cpsat heldout seed=16: OPTIMAL 0.217495s
+npfs control_6x4_cpsat cpsat heldout seed=17: OPTIMAL 0.239722s
+npfs control_6x4_cpsat cpsat heldout seed=18: OPTIMAL 0.180882s
+npfs control_6x4_cpsat cpsat heldout seed=19: OPTIMAL 0.224283s
+npfs control_6x4_cpsat cpsat heldout seed=20: OPTIMAL 0.255908s
+npfs control_6x4_cpsat cpsat heldout seed=21: OPTIMAL 0.266057s
+npfs control_6x4_cpsat cpsat heldout seed=22: OPTIMAL 0.209658s
+npfs control_6x4_cpsat cpsat heldout seed=23: OPTIMAL 0.416638s
+npfs control_6x4_cpsat cpsat heldout seed=24: OPTIMAL 0.354366s
+npfs control_6x4_cpsat cpsat heldout seed=25: OPTIMAL 0.361760s
+npfs control_6x4_cpsat cpsat heldout seed=26: OPTIMAL 0.313442s
+npfs control_6x4_cpsat cpsat heldout seed=27: OPTIMAL 0.250282s
+npfs control_6x4_cpsat cpsat heldout seed=28: OPTIMAL 0.410743s
+npfs control_6x4_cpsat cpsat heldout seed=29: OPTIMAL 0.359919s
+npfs control_6x4_cpsat cpsat heldout seed=30: OPTIMAL 0.213989s
+npfs control_6x4_cpopt cpsat train seed=1: OPTIMAL 0.138226s
+npfs control_6x4_cpopt cpsat train seed=2: OPTIMAL 0.148995s
+npfs control_6x4_cpopt cpsat train seed=3: OPTIMAL 0.149806s
+npfs control_6x4_cpopt cpsat train seed=4: OPTIMAL 0.144731s
+npfs control_6x4_cpopt cpsat train seed=5: OPTIMAL 0.140202s
+npfs control_6x4_cpopt cpsat train seed=6: OPTIMAL 0.140052s
+npfs control_6x4_cpopt cpsat train seed=7: OPTIMAL 0.109883s
+npfs control_6x4_cpopt cpopt train seed=1: Optimal 0.198682s
+npfs control_6x4_cpopt cpopt train seed=2: Optimal 0.222154s
+npfs control_6x4_cpopt cpopt train seed=3: Optimal 0.132050s
+npfs control_6x4_cpopt cpopt train seed=4: Optimal 0.180046s
+npfs control_6x4_cpopt cpopt train seed=5: Optimal 0.168355s
+npfs control_6x4_cpopt cpopt train seed=6: Optimal 0.181157s
+npfs control_6x4_cpopt cpopt train seed=7: Optimal 0.176482s
+npfs control_6x4_cpopt cpopt heldout seed=8: Optimal 0.175338s
+npfs control_6x4_cpopt cpopt heldout seed=9: Optimal 0.162374s
+npfs control_6x4_cpopt cpopt heldout seed=10: Optimal 0.183517s
+npfs control_6x4_cpopt cpopt heldout seed=11: Optimal 0.181230s
+npfs control_6x4_cpopt cpopt heldout seed=12: Optimal 0.158115s
+npfs control_6x4_cpopt cpopt heldout seed=13: Optimal 0.208790s
+npfs control_6x4_cpopt cpopt heldout seed=14: Optimal 0.188039s
+npfs control_6x4_cpopt cpopt heldout seed=15: Optimal 0.156816s
+npfs control_6x4_cpopt cpopt heldout seed=16: Optimal 0.208320s
+npfs control_6x4_cpopt cpopt heldout seed=17: Optimal 0.179036s
+npfs control_6x4_cpopt cpopt heldout seed=18: Optimal 0.172305s
+npfs control_6x4_cpopt cpopt heldout seed=19: Optimal 0.139532s
+npfs control_6x4_cpopt cpopt heldout seed=20: Optimal 0.173558s
+npfs control_6x4_cpopt cpopt heldout seed=21: Optimal 0.211696s
+npfs control_6x4_cpopt cpopt heldout seed=22: Optimal 0.177828s
+npfs control_6x4_cpopt cpopt heldout seed=23: Optimal 0.182896s
+npfs control_6x4_cpopt cpopt heldout seed=24: Optimal 0.144239s
+npfs control_6x4_cpopt cpopt heldout seed=25: Optimal 0.195545s
+npfs control_6x4_cpopt cpopt heldout seed=26: Optimal 0.192081s
+npfs control_6x4_cpopt cpopt heldout seed=27: Optimal 0.144581s
+npfs control_6x4_cpopt cpopt heldout seed=28: Optimal 0.191695s
+npfs control_6x4_cpopt cpopt heldout seed=29: Optimal 0.184626s
+npfs control_6x4_cpopt cpopt heldout seed=30: Optimal 0.166410s
+npfs champion_6x4_cpsat cpsat train seed=1: OPTIMAL 12.533095s
+npfs champion_6x4_cpsat cpsat train seed=2: OPTIMAL 18.547332s
+npfs champion_6x4_cpsat cpsat train seed=3: OPTIMAL 19.153037s
+npfs champion_6x4_cpsat cpsat train seed=4: OPTIMAL 18.379790s
+npfs champion_6x4_cpsat cpsat train seed=5: OPTIMAL 14.983613s
+npfs champion_6x4_cpsat cpsat train seed=6: OPTIMAL 14.893348s
+npfs champion_6x4_cpsat cpsat train seed=7: OPTIMAL 18.169379s
+npfs champion_6x4_cpsat cpopt train seed=1: Optimal 0.330879s
+npfs champion_6x4_cpsat cpopt train seed=2: Optimal 0.300860s
+npfs champion_6x4_cpsat cpopt train seed=3: Optimal 0.334373s
+npfs champion_6x4_cpsat cpopt train seed=4: Optimal 0.348270s
+npfs champion_6x4_cpsat cpopt train seed=5: Optimal 0.295879s
+npfs champion_6x4_cpsat cpopt train seed=6: Optimal 0.342919s
+npfs champion_6x4_cpsat cpopt train seed=7: Optimal 0.344159s
+npfs champion_6x4_cpsat cpsat heldout seed=8: OPTIMAL 10.776428s
+npfs champion_6x4_cpsat cpsat heldout seed=9: OPTIMAL 13.789003s
+npfs champion_6x4_cpsat cpsat heldout seed=10: OPTIMAL 18.379679s
+npfs champion_6x4_cpsat cpsat heldout seed=11: OPTIMAL 17.421256s
+npfs champion_6x4_cpsat cpsat heldout seed=12: OPTIMAL 12.442908s
+npfs champion_6x4_cpsat cpsat heldout seed=13: OPTIMAL 16.259863s
+npfs champion_6x4_cpsat cpsat heldout seed=14: OPTIMAL 5.207663s
+npfs champion_6x4_cpsat cpsat heldout seed=15: OPTIMAL 19.832510s
+npfs champion_6x4_cpsat cpsat heldout seed=16: OPTIMAL 15.649480s
+npfs champion_6x4_cpsat cpsat heldout seed=17: OPTIMAL 14.340728s
+npfs champion_6x4_cpsat cpsat heldout seed=18: OPTIMAL 16.547460s
+npfs champion_6x4_cpsat cpsat heldout seed=19: OPTIMAL 20.438671s
+npfs champion_6x4_cpsat cpsat heldout seed=20: OPTIMAL 17.133668s
+npfs champion_6x4_cpsat cpsat heldout seed=21: OPTIMAL 8.181372s
+npfs champion_6x4_cpsat cpsat heldout seed=22: OPTIMAL 15.898735s
+npfs champion_6x4_cpsat cpsat heldout seed=23: OPTIMAL 14.463928s
+npfs champion_6x4_cpsat cpsat heldout seed=24: OPTIMAL 24.823631s
+npfs champion_6x4_cpsat cpsat heldout seed=25: OPTIMAL 17.604027s
+npfs champion_6x4_cpsat cpsat heldout seed=26: OPTIMAL 13.590464s
+npfs champion_6x4_cpsat cpsat heldout seed=27: OPTIMAL 19.672559s
+npfs champion_6x4_cpsat cpsat heldout seed=28: OPTIMAL 18.104667s
+npfs champion_6x4_cpsat cpsat heldout seed=29: OPTIMAL 16.614597s
+npfs champion_6x4_cpsat cpsat heldout seed=30: OPTIMAL 16.177930s
+npfs champion_6x4_cpopt cpsat train seed=1: OPTIMAL 0.780903s
+npfs champion_6x4_cpopt cpsat train seed=2: OPTIMAL 0.748503s
+npfs champion_6x4_cpopt cpsat train seed=3: OPTIMAL 0.815614s
+npfs champion_6x4_cpopt cpsat train seed=4: OPTIMAL 0.968703s
+npfs champion_6x4_cpopt cpsat train seed=5: OPTIMAL 0.660452s
+npfs champion_6x4_cpopt cpsat train seed=6: OPTIMAL 0.682275s
+npfs champion_6x4_cpopt cpsat train seed=7: OPTIMAL 0.850471s
+npfs champion_6x4_cpopt cpopt train seed=1: Optimal 0.500768s
+npfs champion_6x4_cpopt cpopt train seed=2: Optimal 0.709685s
+npfs champion_6x4_cpopt cpopt train seed=3: Optimal 0.654009s
+npfs champion_6x4_cpopt cpopt train seed=4: Optimal 0.431104s
+npfs champion_6x4_cpopt cpopt train seed=5: Optimal 0.429690s
+npfs champion_6x4_cpopt cpopt train seed=6: Optimal 0.543158s
+npfs champion_6x4_cpopt cpopt train seed=7: Optimal 0.552311s
+npfs champion_6x4_cpopt cpopt heldout seed=8: Optimal 0.486783s
+npfs champion_6x4_cpopt cpopt heldout seed=9: Optimal 0.552560s
+npfs champion_6x4_cpopt cpopt heldout seed=10: Optimal 0.543714s
+npfs champion_6x4_cpopt cpopt heldout seed=11: Optimal 0.520782s
+npfs champion_6x4_cpopt cpopt heldout seed=12: Optimal 0.724094s
+npfs champion_6x4_cpopt cpopt heldout seed=13: Optimal 0.618506s
+npfs champion_6x4_cpopt cpopt heldout seed=14: Optimal 0.512888s
+npfs champion_6x4_cpopt cpopt heldout seed=15: Optimal 0.525148s
+npfs champion_6x4_cpopt cpopt heldout seed=16: Optimal 0.521754s
+npfs champion_6x4_cpopt cpopt heldout seed=17: Optimal 0.495762s
+npfs champion_6x4_cpopt cpopt heldout seed=18: Optimal 0.692464s
+npfs champion_6x4_cpopt cpopt heldout seed=19: Optimal 0.505264s
+npfs champion_6x4_cpopt cpopt heldout seed=20: Optimal 0.485601s
+npfs champion_6x4_cpopt cpopt heldout seed=21: Optimal 0.536590s
+npfs champion_6x4_cpopt cpopt heldout seed=22: Optimal 0.519714s
+npfs champion_6x4_cpopt cpopt heldout seed=23: Optimal 0.534291s
+npfs champion_6x4_cpopt cpopt heldout seed=24: Optimal 0.398636s
+npfs champion_6x4_cpopt cpopt heldout seed=25: Optimal 0.586501s
+npfs champion_6x4_cpopt cpopt heldout seed=26: Optimal 0.504980s
+npfs champion_6x4_cpopt cpopt heldout seed=27: Optimal 0.506251s
+npfs champion_6x4_cpopt cpopt heldout seed=28: Optimal 0.480765s
+npfs champion_6x4_cpopt cpopt heldout seed=29: Optimal 0.538755s
+npfs champion_6x4_cpopt cpopt heldout seed=30: Optimal 0.561492s
+npfs control_8x4_cpopt cpopt train seed=1: Optimal 0.117442s
+npfs control_8x4_cpopt cpopt train seed=2: Optimal 0.124935s
+npfs control_8x4_cpopt cpopt train seed=3: Optimal 0.120660s
+npfs control_8x4_cpopt cpopt train seed=4: Optimal 0.105958s
+npfs control_8x4_cpopt cpopt train seed=5: Optimal 0.128722s
+npfs control_8x4_cpopt cpopt train seed=6: Optimal 0.095258s
+npfs control_8x4_cpopt cpopt train seed=7: Optimal 0.118704s
+npfs champion_8x4_cpopt cpsat train seed=1: FEASIBLE 59.983247s
+npfs champion_8x4_cpopt cpsat train seed=2: FEASIBLE 59.982856s
+npfs champion_8x4_cpopt cpsat train seed=3: FEASIBLE 59.979700s
+npfs champion_8x4_cpopt cpsat train seed=4: FEASIBLE 59.979783s
+npfs champion_8x4_cpopt cpsat train seed=5: FEASIBLE 59.982023s
+npfs champion_8x4_cpopt cpsat train seed=6: FEASIBLE 60.025921s
+npfs champion_8x4_cpopt cpsat train seed=7: FEASIBLE 59.982575s
+npfs champion_8x4_cpopt cpopt train seed=1: Optimal 11.520105s
+npfs champion_8x4_cpopt cpopt train seed=2: Optimal 6.489566s
+npfs champion_8x4_cpopt cpopt train seed=3: Optimal 7.234624s
+npfs champion_8x4_cpopt cpopt train seed=4: Optimal 7.279794s
+npfs champion_8x4_cpopt cpopt train seed=5: Optimal 5.941581s
+npfs champion_8x4_cpopt cpopt train seed=6: Optimal 7.541512s
+npfs champion_8x4_cpopt cpopt train seed=7: Optimal 5.315689s
+npfs champion_8x4_cpopt cpopt heldout seed=8: Optimal 8.024878s
+npfs champion_8x4_cpopt cpopt heldout seed=9: Optimal 5.738128s
+npfs champion_8x4_cpopt cpopt heldout seed=10: Optimal 7.017257s
+npfs champion_8x4_cpopt cpopt heldout seed=11: Optimal 4.678608s
+npfs champion_8x4_cpopt cpopt heldout seed=12: Optimal 5.736463s
+npfs champion_8x4_cpopt cpopt heldout seed=13: Optimal 7.812389s
+npfs champion_8x4_cpopt cpopt heldout seed=14: Optimal 7.210145s
+npfs champion_8x4_cpopt cpopt heldout seed=15: Optimal 7.013151s
+npfs champion_8x4_cpopt cpopt heldout seed=16: Optimal 6.749280s
+npfs champion_8x4_cpopt cpopt heldout seed=17: Optimal 5.156775s
+npfs champion_8x4_cpopt cpopt heldout seed=18: Optimal 5.108341s
+npfs champion_8x4_cpopt cpopt heldout seed=19: Optimal 6.856994s
+npfs champion_8x4_cpopt cpopt heldout seed=20: Optimal 7.034018s
+npfs champion_8x4_cpopt cpopt heldout seed=21: Optimal 8.059286s
+npfs champion_8x4_cpopt cpopt heldout seed=22: Optimal 9.288091s
+npfs champion_8x4_cpopt cpopt heldout seed=23: Optimal 7.867735s
+npfs champion_8x4_cpopt cpopt heldout seed=24: Optimal 6.389773s
+npfs champion_8x4_cpopt cpopt heldout seed=25: Optimal 7.995987s
+npfs champion_8x4_cpopt cpopt heldout seed=26: Optimal 7.077891s
+npfs champion_8x4_cpopt cpopt heldout seed=27: Optimal 5.152673s
+npfs champion_8x4_cpopt cpopt heldout seed=28: Optimal 8.115903s
+npfs champion_8x4_cpopt cpopt heldout seed=29: Optimal 7.057027s
+npfs champion_8x4_cpopt cpopt heldout seed=30: Optimal 8.072592s
+npfs control_10x5_cpopt cpopt train seed=1: Optimal 4.650672s
+npfs control_10x5_cpopt cpopt train seed=2: Optimal 3.903031s
+npfs control_10x5_cpopt cpopt train seed=3: Optimal 5.008319s
+npfs control_10x5_cpopt cpopt train seed=4: Optimal 3.563793s
+npfs control_10x5_cpopt cpopt train seed=5: Optimal 4.460297s
+npfs control_10x5_cpopt cpopt train seed=6: Optimal 4.862111s
+npfs control_10x5_cpopt cpopt train seed=7: Optimal 4.495268s
+npfs champion_10x5_cpopt cpsat train seed=1: FEASIBLE 599.426027s
+npfs champion_10x5_cpopt cpsat train seed=2: FEASIBLE 599.762722s
+npfs champion_10x5_cpopt cpsat train seed=3: FEASIBLE 598.978094s
+npfs champion_10x5_cpopt cpsat train seed=4: FEASIBLE 599.749911s
+npfs champion_10x5_cpopt cpsat train seed=5: FEASIBLE 599.747124s
+npfs champion_10x5_cpopt cpsat train seed=6: FEASIBLE 599.760659s
+npfs champion_10x5_cpopt cpsat train seed=7: FEASIBLE 599.765789s
+npfs champion_10x5_cpopt cpopt train seed=1: Optimal 212.604772s
+npfs champion_10x5_cpopt cpopt train seed=2: Optimal 381.918575s
+npfs champion_10x5_cpopt cpopt train seed=3: Optimal 284.417755s
+npfs champion_10x5_cpopt cpopt train seed=4: Optimal 131.092950s
+npfs champion_10x5_cpopt cpopt train seed=5: Optimal 208.672423s
+npfs champion_10x5_cpopt cpopt train seed=6: Optimal 343.165612s
+npfs champion_10x5_cpopt cpopt train seed=7: Optimal 238.636618s
+npfs champion_10x5_cpopt cpopt heldout seed=8: Optimal 272.785270s
+npfs champion_10x5_cpopt cpopt heldout seed=9: Optimal 311.848873s
+npfs champion_10x5_cpopt cpopt heldout seed=10: Optimal 216.617792s
+npfs champion_10x5_cpopt cpopt heldout seed=11: Optimal 226.429534s
+npfs champion_10x5_cpopt cpopt heldout seed=12: Optimal 158.178403s
+npfs champion_10x5_cpopt cpopt heldout seed=13: Optimal 253.931701s
+npfs champion_10x5_cpopt cpopt heldout seed=14: Optimal 216.136788s
+npfs champion_10x5_cpopt cpopt heldout seed=15: Optimal 138.852503s
+npfs champion_10x5_cpopt cpopt heldout seed=16: Optimal 221.180271s
+npfs champion_10x5_cpopt cpopt heldout seed=17: Optimal 374.302231s
+npfs champion_10x5_cpopt cpopt heldout seed=18: Optimal 213.422519s
+npfs champion_10x5_cpopt cpopt heldout seed=19: Optimal 329.337513s
+npfs champion_10x5_cpopt cpopt heldout seed=20: Optimal 175.934379s
+npfs champion_10x5_cpopt cpopt heldout seed=21: Optimal 175.590519s
+npfs champion_10x5_cpopt cpopt heldout seed=22: Optimal 302.571792s
+npfs champion_10x5_cpopt cpopt heldout seed=23: Optimal 235.306095s
+npfs champion_10x5_cpopt cpopt heldout seed=24: Optimal 243.912035s
+npfs champion_10x5_cpopt cpopt heldout seed=25: Optimal 321.253806s
+npfs champion_10x5_cpopt cpopt heldout seed=26: Optimal 149.880686s
+npfs champion_10x5_cpopt cpopt heldout seed=27: Optimal 289.641462s
+npfs champion_10x5_cpopt cpopt heldout seed=28: Optimal 268.262902s
+npfs champion_10x5_cpopt cpopt heldout seed=29: Optimal 271.136342s
+npfs champion_10x5_cpopt cpopt heldout seed=30: Optimal 203.682520s
+sat_external php12_11 minisat22 repeat=0: TIMEOUT
+sat_external php12_11 minisat22 repeat=1: TIMEOUT
+sat_external php12_11 minisat22 repeat=2: TIMEOUT
+sat_external php12_11 minisat22 repeat=3: TIMEOUT
+sat_external php12_11 minisat22 repeat=4: TIMEOUT
+sat_external php12_11 breakid_cadical195 repeat=0: UNSAT
+sat_external php12_11 breakid_cadical195 repeat=1: UNSAT
+sat_external php12_11 breakid_cadical195 repeat=2: UNSAT
+sat_external php12_11 breakid_cadical195 repeat=3: UNSAT
+sat_external php12_11 breakid_cadical195 repeat=4: UNSAT
+sat_external php12_11 cryptominisat repeat=0: TIMEOUT
+sat_external php12_11 cryptominisat repeat=1: TIMEOUT
+sat_external php12_11 cryptominisat repeat=2: TIMEOUT
+sat_external php12_11 cryptominisat repeat=3: TIMEOUT
+sat_external php12_11 cryptominisat repeat=4: TIMEOUT
+sat_external php12_11 kissat404 repeat=0: UNSAT
+sat_external php12_11 kissat404 repeat=1: UNSAT
+sat_external php12_11 kissat404 repeat=2: UNSAT
+sat_external php12_11 kissat404 repeat=3: UNSAT
+sat_external php12_11 kissat404 repeat=4: UNSAT
+sat_external php12_11 march_cu repeat=0: TIMEOUT
+sat_external php12_11 march_cu repeat=1: SOLVED
+sat_external php12_11 march_cu repeat=2: SOLVED
+sat_external php12_11 march_cu repeat=3: SOLVED
+sat_external php12_11 march_cu repeat=4: SOLVED
+sat_external tseitin_gbd_144799_150v_400c minisat22 repeat=0: TIMEOUT
+sat_external tseitin_gbd_144799_150v_400c minisat22 repeat=1: TIMEOUT
+sat_external tseitin_gbd_144799_150v_400c minisat22 repeat=2: TIMEOUT
+sat_external tseitin_gbd_144799_150v_400c minisat22 repeat=3: TIMEOUT
+sat_external tseitin_gbd_144799_150v_400c minisat22 repeat=4: TIMEOUT
+sat_external tseitin_gbd_144799_150v_400c breakid_cadical195 repeat=0: UNSAT
+sat_external tseitin_gbd_144799_150v_400c breakid_cadical195 repeat=1: UNSAT
+sat_external tseitin_gbd_144799_150v_400c breakid_cadical195 repeat=2: UNSAT
+sat_external tseitin_gbd_144799_150v_400c breakid_cadical195 repeat=3: UNSAT
+sat_external tseitin_gbd_144799_150v_400c breakid_cadical195 repeat=4: UNSAT
+sat_external tseitin_gbd_144799_150v_400c cryptominisat repeat=0: UNSAT
+sat_external tseitin_gbd_144799_150v_400c cryptominisat repeat=1: UNSAT
+sat_external tseitin_gbd_144799_150v_400c cryptominisat repeat=2: UNSAT
+sat_external tseitin_gbd_144799_150v_400c cryptominisat repeat=3: UNSAT
+sat_external tseitin_gbd_144799_150v_400c cryptominisat repeat=4: UNSAT
+sat_external tseitin_gbd_144799_150v_400c kissat404 repeat=0: UNSAT
+sat_external tseitin_gbd_144799_150v_400c kissat404 repeat=1: UNSAT
+sat_external tseitin_gbd_144799_150v_400c kissat404 repeat=2: UNSAT
+sat_external tseitin_gbd_144799_150v_400c kissat404 repeat=3: UNSAT
+sat_external tseitin_gbd_144799_150v_400c kissat404 repeat=4: UNSAT
+sat_external tseitin_gbd_144799_150v_400c march_cu repeat=0: TIMEOUT
+sat_external tseitin_gbd_144799_150v_400c march_cu repeat=1: TIMEOUT
+sat_external tseitin_gbd_144799_150v_400c march_cu repeat=2: TIMEOUT
+sat_external tseitin_gbd_144799_150v_400c march_cu repeat=3: TIMEOUT
+sat_external tseitin_gbd_144799_150v_400c march_cu repeat=4: TIMEOUT
+sat_external vdw_2_3_13_n160 minisat22 repeat=0: TIMEOUT
+sat_external vdw_2_3_13_n160 minisat22 repeat=1: TIMEOUT
+sat_external vdw_2_3_13_n160 minisat22 repeat=2: TIMEOUT
+sat_external vdw_2_3_13_n160 minisat22 repeat=3: TIMEOUT
+sat_external vdw_2_3_13_n160 minisat22 repeat=4: TIMEOUT
+sat_external vdw_2_3_13_n160 breakid_cadical195 repeat=0: TIMEOUT
+sat_external vdw_2_3_13_n160 breakid_cadical195 repeat=1: TIMEOUT
+sat_external vdw_2_3_13_n160 breakid_cadical195 repeat=2: TIMEOUT
+sat_external vdw_2_3_13_n160 breakid_cadical195 repeat=3: TIMEOUT
+sat_external vdw_2_3_13_n160 breakid_cadical195 repeat=4: TIMEOUT
+sat_external vdw_2_3_13_n160 cryptominisat repeat=0: TIMEOUT
+sat_external vdw_2_3_13_n160 cryptominisat repeat=1: TIMEOUT
+sat_external vdw_2_3_13_n160 cryptominisat repeat=2: TIMEOUT
+sat_external vdw_2_3_13_n160 cryptominisat repeat=3: TIMEOUT
+sat_external vdw_2_3_13_n160 cryptominisat repeat=4: TIMEOUT
+sat_external vdw_2_3_13_n160 kissat404 repeat=0: TIMEOUT
+sat_external vdw_2_3_13_n160 kissat404 repeat=1: TIMEOUT
+sat_external vdw_2_3_13_n160 kissat404 repeat=2: TIMEOUT
+sat_external vdw_2_3_13_n160 kissat404 repeat=3: TIMEOUT
+sat_external vdw_2_3_13_n160 kissat404 repeat=4: TIMEOUT
+sat_external vdw_2_3_13_n160 march_cu repeat=0: TIMEOUT
+sat_external vdw_2_3_13_n160 march_cu repeat=1: TIMEOUT
+sat_external vdw_2_3_13_n160 march_cu repeat=2: TIMEOUT
+sat_external vdw_2_3_13_n160 march_cu repeat=3: TIMEOUT
+sat_external vdw_2_3_13_n160 march_cu repeat=4: TIMEOUT
+tsp_external hard_tsplib/25001_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/25004_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/25006_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/30001_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/30003_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/30005_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/33001_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/35002_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/35003_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/35009_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/40003_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/40004_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/40008_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/att48_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/bayg29_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/bays29_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/brazil58_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/eil51_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/gr48_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/hk48_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/pr76_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/st70_hard train: median is right-censored at 60s after 4/7 timeout seeds
+tsp_external hard_tsplib/swiss42_hard train: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph7: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph9: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph11: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph12: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph13: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph15: median is right-censored at 60s after 4/7 timeout seeds
+wrote current_machine_rebench/results/paper_instances.json
+Completed campaign at repository .
+Results: current_machine_rebench/results/paper_instances.json
+2026-07-19T05:18:46+00:00 supervisor: campaign completed

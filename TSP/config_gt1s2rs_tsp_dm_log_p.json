@@ -1,0 +1,29 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+            "L": 1,
+            "U": 1000,
+            "N": 20,
+            "code": "gt1s2rs_tsp_dm_log_p",
+            "budget": 100000,
+            "iters": 5,
+            "seed": 20260601,
+            "opt": {
+                "RandomSearch": {
+                    "Solver": "RandomSearch"
+                }
+            },
+            "F_unflat": "neg_log",
+            "batch": 1,
+            "worker": 32,
+            "debug": 0,
+            "salt": 0,
+            "chunk": 5000,
+            "k": 21,
+            "F": "geomean3_median",
+            "seed_per_call": true,
+            "seed_n_reps": 3
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+ "note": "DPLL paradigm-robust SAT run (code dpll4f): instances bred hard for a FOUR-solver, paradigm-diverse portfolio whose hardness = min over kissat (CDCL), BreakID->cadical195 (symmetry), CryptoMiniSat (XOR/parity), and march_cu -p (look-ahead/DPLL). All four champions are UNSAT. Addresses the CDCL-specificity critique: unlike the gt1s2L champions (which march solves in ~0.68 s), these stay hard for the DPLL branch too.",
+ "run": {
+  "code": "dpll4f",
+  "portfolio": ["kissat", "breakid->cadical195", "cryptominisat", "march_cu -p"],
+  "objective": "min over the 4 branches (process_time, 120 s cap, flat 8 ms BreakID charge)",
+  "config": {"N": 1000, "Var": 200, "l": 3, "budget": 100000, "iters": 5,
+             "require_full_portfolio": true, "F": "median", "k": 3, "seed": 20260601},
+  "archive": "SAT/logs_arch_dpll4f",
+  "rebench": ".rebench_bg/SAT_dpll4f (k=5 reps=5)"
+ },
+ "runner": "solution_portfolio4.py (faithful copy; solver paths repointed to ./bin/)",
+ "binaries": {
+  "bin/kissat": "strongest CDCL baseline (replaces minisat22)",
+  "bin/march_cu": "complete look-ahead/DPLL solver, run with -p",
+  "bin/breakid + bin/libbreakid.so*": "symmetry preprocessing before cadical195"
+ },
+ "system_dependencies": "python-sat (cadical195 for the BreakID branch), pycryptosat",
+ "champions": [
+  {"file": "instances/champ4_kcnf_log.cnf", "cfg": "log_dpll4f_sat_kcnf_log",
+   "opt": "TripleCMA", "iter": 3, "idx": 0, "shape": "200v 1000c", "status": "UNSAT",
+   "recorded_pt_s": 1.386, "resolved_s": 1.385, "ratio": 1.00},
+  {"file": "instances/champ4_kcnf_neg.cnf", "cfg": "log_dpll4f_sat_kcnf_neg",
+   "opt": "TripleCMA", "iter": 0, "idx": 0, "shape": "200v 1000c", "status": "UNSAT",
+   "recorded_pt_s": 1.179, "resolved_s": 1.215, "ratio": 1.03},
+  {"file": "instances/champ4_mpfx_log.cnf", "cfg": "log_dpll4f_sat_mpfx_log",
+   "opt": "TripleCMA", "iter": 4, "idx": 2, "shape": "200v 962c", "status": "UNSAT",
+   "recorded_pt_s": 1.466, "resolved_s": 1.450, "ratio": 0.99, "headline": true},
+  {"file": "instances/champ4_mpfx_neg.cnf", "cfg": "log_dpll4f_sat_mpfx_neg",
+   "opt": "MultiScaleCMA", "iter": 4, "idx": 0, "shape": "200v 884c", "status": "UNSAT",
+   "recorded_pt_s": 1.199, "resolved_s": 1.228, "ratio": 1.02}
+ ]
+}

@@ -1,0 +1,3007 @@
+{
+ "completed_at": "2026-07-19T19:42:46.864489+00:00",
+ "created_at": "2026-07-19T19:40:40.965533+00:00",
+ "machine": {
+  "cpoptimizer_path": "<cpoptimizer>",
+  "cpoptimizer_sha256": "8d300e995b34ff69359442aa41dd80db2e43dd86a8a8631c9d6b94e1135afcc8",
+  "cpu_affinity": [
+   1
+  ],
+  "cpu_model": "AMD Ryzen 5 8600G w/ Radeon 760M Graphics",
+  "docplex_version": "2.32.264",
+  "hostname": "<anon>",
+  "load_average_at_start": [
+   3.302734375,
+   3.44775390625,
+   3.77587890625
+  ],
+  "platform": "Linux-6.1.0-45-amd64-x86_64-with-glibc2.36",
+  "python": "3.12.12 | packaged by conda-forge | (main, Jan 26 2026, 23:51:32) [GCC 14.3.0]",
+  "python_executable": "<python>"
+ },
+ "protocol": {
+  "evaluation_problem": "non-permutation flow shop F_m||C_max",
+  "instance_file_sha256": "d0387c8836bab6641fb2d04611c3d2d88f1a1c5cd6bcf9a4ce099b19f28d4a88",
+  "instance_ids": [
+   "VFR10_5_1",
+   "VFR10_5_2",
+   "VFR10_5_3",
+   "VFR10_5_4",
+   "VFR10_5_5",
+   "VFR10_5_6",
+   "VFR10_5_7",
+   "VFR10_5_8",
+   "VFR10_5_9",
+   "VFR10_5_10"
+  ],
+  "run_order": "seed-major, then instances.json order",
+  "seeds": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "source_suite_problem": "permutation flow shop makespan",
+  "time_limit_s": 60.0,
+  "timing": "RUSAGE_CHILDREN user+system CPU delta",
+  "workers": 1
+ },
+ "repository": {
+  "branch": "alenex",
+  "commit": "c403c2f42b6ab149a9d42384f4ed9a81f227f4bf",
+  "status_porcelain_at_start": ""
+ },
+ "runs": [
+  {
+   "cpu_time_s": 1.261567,
+   "finished_at": "2026-07-19T19:40:42.289691+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 125663,
+    "NumberOfChoicePoints": 62162,
+    "NumberOfFails": 76706,
+    "NumberOfSolutions": 18,
+    "PeakMemoryUsage": 1135089,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.26
+   },
+   "solver_solve_time_s": 1.26,
+   "status": "Optimal",
+   "wall_time_s": 1.2679027300328016
+  },
+  {
+   "cpu_time_s": 3.316906,
+   "finished_at": "2026-07-19T19:40:45.610839+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 335361,
+    "NumberOfChoicePoints": 173850,
+    "NumberOfFails": 183409,
+    "NumberOfSolutions": 25,
+    "PeakMemoryUsage": 1214177,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 3.31
+   },
+   "solver_solve_time_s": 3.31,
+   "status": "Optimal",
+   "wall_time_s": 3.320016310084611
+  },
+  {
+   "cpu_time_s": 0.36349500000000035,
+   "finished_at": "2026-07-19T19:40:45.978608+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 38045,
+    "NumberOfChoicePoints": 16297,
+    "NumberOfFails": 29304,
+    "NumberOfSolutions": 12,
+    "PeakMemoryUsage": 1091201,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.36
+   },
+   "solver_solve_time_s": 0.36,
+   "status": "Optimal",
+   "wall_time_s": 0.3651563082821667
+  },
+  {
+   "cpu_time_s": 0.7074749999999996,
+   "finished_at": "2026-07-19T19:40:46.689332+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 69259,
+    "NumberOfChoicePoints": 32173,
+    "NumberOfFails": 48215,
+    "NumberOfSolutions": 14,
+    "PeakMemoryUsage": 1107545,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.7
+   },
+   "solver_solve_time_s": 0.7,
+   "status": "Optimal",
+   "wall_time_s": 0.709440927952528
+  },
+  {
+   "cpu_time_s": 0.9263560000000002,
+   "finished_at": "2026-07-19T19:40:47.619057+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 91459,
+    "NumberOfChoicePoints": 44372,
+    "NumberOfFails": 58885,
+    "NumberOfSolutions": 31,
+    "PeakMemoryUsage": 1115593,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.92
+   },
+   "solver_solve_time_s": 0.92,
+   "status": "Optimal",
+   "wall_time_s": 0.9285362111404538
+  },
+  {
+   "cpu_time_s": 0.4797180000000001,
+   "finished_at": "2026-07-19T19:40:48.101866+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 45857,
+    "NumberOfChoicePoints": 20476,
+    "NumberOfFails": 33805,
+    "NumberOfSolutions": 10,
+    "PeakMemoryUsage": 1096897,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.47
+   },
+   "solver_solve_time_s": 0.47,
+   "status": "Optimal",
+   "wall_time_s": 0.4815473002381623
+  },
+  {
+   "cpu_time_s": 0.969746999999999,
+   "finished_at": "2026-07-19T19:40:49.074878+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 99565,
+    "NumberOfChoicePoints": 48165,
+    "NumberOfFails": 63215,
+    "NumberOfSolutions": 9,
+    "PeakMemoryUsage": 1084648,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.97
+   },
+   "solver_solve_time_s": 0.97,
+   "status": "Optimal",
+   "wall_time_s": 0.9716284219175577
+  },
+  {
+   "cpu_time_s": 1.5517630000000011,
+   "finished_at": "2026-07-19T19:40:50.630061+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 173377,
+    "NumberOfChoicePoints": 86148,
+    "NumberOfFails": 107455,
+    "NumberOfSolutions": 21,
+    "PeakMemoryUsage": 1154769,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.55
+   },
+   "solver_solve_time_s": 1.55,
+   "status": "Optimal",
+   "wall_time_s": 1.5541152781806886
+  },
+  {
+   "cpu_time_s": 0.17674399999999935,
+   "finished_at": "2026-07-19T19:40:50.811260+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 19531,
+    "NumberOfChoicePoints": 8559,
+    "NumberOfFails": 13732,
+    "NumberOfSolutions": 21,
+    "PeakMemoryUsage": 1051705,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.17
+   },
+   "solver_solve_time_s": 0.17,
+   "status": "Optimal",
+   "wall_time_s": 0.17845523497089744
+  },
+  {
+   "cpu_time_s": 2.3666970000000003,
+   "finished_at": "2026-07-19T19:40:53.182967+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 1,
+   "solver_info": {
+    "NumberOfBranches": 255616,
+    "NumberOfChoicePoints": 122479,
+    "NumberOfFails": 159755,
+    "NumberOfSolutions": 22,
+    "PeakMemoryUsage": 1176008,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 2.36
+   },
+   "solver_solve_time_s": 2.36,
+   "status": "Optimal",
+   "wall_time_s": 2.3703957283869386
+  },
+  {
+   "cpu_time_s": 1.3967539999999996,
+   "finished_at": "2026-07-19T19:40:54.583372+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 132949,
+    "NumberOfChoicePoints": 63977,
+    "NumberOfFails": 84785,
+    "NumberOfSolutions": 14,
+    "PeakMemoryUsage": 1108753,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.4
+   },
+   "solver_solve_time_s": 1.4,
+   "status": "Optimal",
+   "wall_time_s": 1.3989435900002718
+  },
+  {
+   "cpu_time_s": 3.818047,
+   "finished_at": "2026-07-19T19:40:58.406462+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 380018,
+    "NumberOfChoicePoints": 194345,
+    "NumberOfFails": 214935,
+    "NumberOfSolutions": 26,
+    "PeakMemoryUsage": 1241345,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 3.82
+   },
+   "solver_solve_time_s": 3.82,
+   "status": "Optimal",
+   "wall_time_s": 3.8216534261591733
+  },
+  {
+   "cpu_time_s": 0.5657980000000009,
+   "finished_at": "2026-07-19T19:40:58.975240+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 64914,
+    "NumberOfChoicePoints": 29159,
+    "NumberOfFails": 46082,
+    "NumberOfSolutions": 25,
+    "PeakMemoryUsage": 1101617,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.56
+   },
+   "solver_solve_time_s": 0.56,
+   "status": "Optimal",
+   "wall_time_s": 0.5674098460003734
+  },
+  {
+   "cpu_time_s": 0.910063000000001,
+   "finished_at": "2026-07-19T19:40:59.888313+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 95903,
+    "NumberOfChoicePoints": 46433,
+    "NumberOfFails": 62381,
+    "NumberOfSolutions": 20,
+    "PeakMemoryUsage": 1120785,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.91
+   },
+   "solver_solve_time_s": 0.91,
+   "status": "Optimal",
+   "wall_time_s": 0.9119445830583572
+  },
+  {
+   "cpu_time_s": 1.0148669999999989,
+   "finished_at": "2026-07-19T19:41:00.906810+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 98753,
+    "NumberOfChoicePoints": 47134,
+    "NumberOfFails": 64619,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1119337,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.01
+   },
+   "solver_solve_time_s": 1.01,
+   "status": "Optimal",
+   "wall_time_s": 1.0171034559607506
+  },
+  {
+   "cpu_time_s": 0.45155699999999754,
+   "finished_at": "2026-07-19T19:41:01.361493+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 42424,
+    "NumberOfChoicePoints": 18237,
+    "NumberOfFails": 32126,
+    "NumberOfSolutions": 13,
+    "PeakMemoryUsage": 1092841,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.44
+   },
+   "solver_solve_time_s": 0.44,
+   "status": "Optimal",
+   "wall_time_s": 0.45337973395362496
+  },
+  {
+   "cpu_time_s": 0.8804010000000027,
+   "finished_at": "2026-07-19T19:41:02.245507+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 91223,
+    "NumberOfChoicePoints": 44916,
+    "NumberOfFails": 56316,
+    "NumberOfSolutions": 14,
+    "PeakMemoryUsage": 1081944,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.88
+   },
+   "solver_solve_time_s": 0.88,
+   "status": "Optimal",
+   "wall_time_s": 0.8825731482356787
+  },
+  {
+   "cpu_time_s": 0.9704489999999986,
+   "finished_at": "2026-07-19T19:41:03.219188+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 106342,
+    "NumberOfChoicePoints": 50661,
+    "NumberOfFails": 69856,
+    "NumberOfSolutions": 16,
+    "PeakMemoryUsage": 1085792,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.97
+   },
+   "solver_solve_time_s": 0.97,
+   "status": "Optimal",
+   "wall_time_s": 0.9722371739335358
+  },
+  {
+   "cpu_time_s": 0.21179400000000115,
+   "finished_at": "2026-07-19T19:41:03.433803+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 22263,
+    "NumberOfChoicePoints": 9797,
+    "NumberOfFails": 16210,
+    "NumberOfSolutions": 22,
+    "PeakMemoryUsage": 1086609,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.2
+   },
+   "solver_solve_time_s": 0.2,
+   "status": "Optimal",
+   "wall_time_s": 0.2134225070476532
+  },
+  {
+   "cpu_time_s": 2.2484530000000014,
+   "finished_at": "2026-07-19T19:41:05.688231+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 2,
+   "solver_info": {
+    "NumberOfBranches": 222219,
+    "NumberOfChoicePoints": 110468,
+    "NumberOfFails": 132868,
+    "NumberOfSolutions": 19,
+    "PeakMemoryUsage": 1180680,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 2.24
+   },
+   "solver_solve_time_s": 2.24,
+   "status": "Optimal",
+   "wall_time_s": 2.2511785058304667
+  },
+  {
+   "cpu_time_s": 1.242281999999996,
+   "finished_at": "2026-07-19T19:41:06.934473+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 128341,
+    "NumberOfChoicePoints": 64723,
+    "NumberOfFails": 75553,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1104265,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.23
+   },
+   "solver_solve_time_s": 1.23,
+   "status": "Optimal",
+   "wall_time_s": 1.2446620259433985
+  },
+  {
+   "cpu_time_s": 4.832888000000004,
+   "finished_at": "2026-07-19T19:41:11.772425+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 487664,
+    "NumberOfChoicePoints": 253200,
+    "NumberOfFails": 265902,
+    "NumberOfSolutions": 20,
+    "PeakMemoryUsage": 1287224,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 4.82
+   },
+   "solver_solve_time_s": 4.82,
+   "status": "Optimal",
+   "wall_time_s": 4.836299098096788
+  },
+  {
+   "cpu_time_s": 0.509174999999999,
+   "finished_at": "2026-07-19T19:41:12.286903+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 58989,
+    "NumberOfChoicePoints": 27220,
+    "NumberOfFails": 41020,
+    "NumberOfSolutions": 22,
+    "PeakMemoryUsage": 1098801,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.51
+   },
+   "solver_solve_time_s": 0.51,
+   "status": "Optimal",
+   "wall_time_s": 0.511346286162734
+  },
+  {
+   "cpu_time_s": 0.7962739999999968,
+   "finished_at": "2026-07-19T19:41:13.086269+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 80565,
+    "NumberOfChoicePoints": 39111,
+    "NumberOfFails": 52322,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1113545,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.79
+   },
+   "solver_solve_time_s": 0.79,
+   "status": "Optimal",
+   "wall_time_s": 0.7979687042534351
+  },
+  {
+   "cpu_time_s": 0.8242150000000024,
+   "finished_at": "2026-07-19T19:41:13.913733+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 83676,
+    "NumberOfChoicePoints": 40592,
+    "NumberOfFails": 54010,
+    "NumberOfSolutions": 20,
+    "PeakMemoryUsage": 1111769,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.82
+   },
+   "solver_solve_time_s": 0.82,
+   "status": "Optimal",
+   "wall_time_s": 0.8262410797178745
+  },
+  {
+   "cpu_time_s": 0.5707310000000021,
+   "finished_at": "2026-07-19T19:41:14.488205+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 60412,
+    "NumberOfChoicePoints": 27751,
+    "NumberOfFails": 42153,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1102161,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.56
+   },
+   "solver_solve_time_s": 0.56,
+   "status": "Optimal",
+   "wall_time_s": 0.5728037590160966
+  },
+  {
+   "cpu_time_s": 1.0754400000000004,
+   "finished_at": "2026-07-19T19:41:15.567754+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 111195,
+    "NumberOfChoicePoints": 55704,
+    "NumberOfFails": 71345,
+    "NumberOfSolutions": 28,
+    "PeakMemoryUsage": 1131424,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.07
+   },
+   "solver_solve_time_s": 1.07,
+   "status": "Optimal",
+   "wall_time_s": 1.077700990717858
+  },
+  {
+   "cpu_time_s": 0.984025999999993,
+   "finished_at": "2026-07-19T19:41:16.555833+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 105860,
+    "NumberOfChoicePoints": 50272,
+    "NumberOfFails": 69954,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1121321,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.98
+   },
+   "solver_solve_time_s": 0.98,
+   "status": "Optimal",
+   "wall_time_s": 0.9863777849823236
+  },
+  {
+   "cpu_time_s": 0.19805500000000364,
+   "finished_at": "2026-07-19T19:41:16.757427+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 22634,
+    "NumberOfChoicePoints": 10700,
+    "NumberOfFails": 15080,
+    "NumberOfSolutions": 23,
+    "PeakMemoryUsage": 1053793,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.19
+   },
+   "solver_solve_time_s": 0.19,
+   "status": "Optimal",
+   "wall_time_s": 0.19990181690081954
+  },
+  {
+   "cpu_time_s": 2.7402430000000066,
+   "finished_at": "2026-07-19T19:41:19.504132+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 3,
+   "solver_info": {
+    "NumberOfBranches": 283433,
+    "NumberOfChoicePoints": 140840,
+    "NumberOfFails": 163776,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1174720,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 2.74
+   },
+   "solver_solve_time_s": 2.74,
+   "status": "Optimal",
+   "wall_time_s": 2.7431747103109956
+  },
+  {
+   "cpu_time_s": 1.2620819999999924,
+   "finished_at": "2026-07-19T19:41:20.776174+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 127513,
+    "NumberOfChoicePoints": 63391,
+    "NumberOfFails": 76337,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1100817,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.26
+   },
+   "solver_solve_time_s": 1.26,
+   "status": "Optimal",
+   "wall_time_s": 1.2643045401200652
+  },
+  {
+   "cpu_time_s": 3.807924,
+   "finished_at": "2026-07-19T19:41:24.589264+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 394302,
+    "NumberOfChoicePoints": 202283,
+    "NumberOfFails": 224322,
+    "NumberOfSolutions": 23,
+    "PeakMemoryUsage": 1262601,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 3.8
+   },
+   "solver_solve_time_s": 3.8,
+   "status": "Optimal",
+   "wall_time_s": 3.811066751834005
+  },
+  {
+   "cpu_time_s": 0.46526100000000525,
+   "finished_at": "2026-07-19T19:41:25.065145+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 48318,
+    "NumberOfChoicePoints": 21102,
+    "NumberOfFails": 36609,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1063097,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.46
+   },
+   "solver_solve_time_s": 0.46,
+   "status": "Optimal",
+   "wall_time_s": 0.46797612169757485
+  },
+  {
+   "cpu_time_s": 0.8474969999999971,
+   "finished_at": "2026-07-19T19:41:25.916025+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 86144,
+    "NumberOfChoicePoints": 41135,
+    "NumberOfFails": 57877,
+    "NumberOfSolutions": 21,
+    "PeakMemoryUsage": 1121105,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.85
+   },
+   "solver_solve_time_s": 0.85,
+   "status": "Optimal",
+   "wall_time_s": 0.8494019168429077
+  },
+  {
+   "cpu_time_s": 1.0432830000000024,
+   "finished_at": "2026-07-19T19:41:26.963419+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 100970,
+    "NumberOfChoicePoints": 49034,
+    "NumberOfFails": 65308,
+    "NumberOfSolutions": 23,
+    "PeakMemoryUsage": 1122297,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.04
+   },
+   "solver_solve_time_s": 1.04,
+   "status": "Optimal",
+   "wall_time_s": 1.0455193077214062
+  },
+  {
+   "cpu_time_s": 0.6037419999999969,
+   "finished_at": "2026-07-19T19:41:27.571426+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 51752,
+    "NumberOfChoicePoints": 23250,
+    "NumberOfFails": 39474,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1107273,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.6
+   },
+   "solver_solve_time_s": 0.6,
+   "status": "Optimal",
+   "wall_time_s": 0.6058299290016294
+  },
+  {
+   "cpu_time_s": 0.8686519999999973,
+   "finished_at": "2026-07-19T19:41:28.444127+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 87372,
+    "NumberOfChoicePoints": 42527,
+    "NumberOfFails": 54615,
+    "NumberOfSolutions": 11,
+    "PeakMemoryUsage": 1077080,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.87
+   },
+   "solver_solve_time_s": 0.87,
+   "status": "Optimal",
+   "wall_time_s": 0.8707182598300278
+  },
+  {
+   "cpu_time_s": 1.2430240000000055,
+   "finished_at": "2026-07-19T19:41:29.691685+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 135619,
+    "NumberOfChoicePoints": 66769,
+    "NumberOfFails": 84623,
+    "NumberOfSolutions": 13,
+    "PeakMemoryUsage": 1102993,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.24
+   },
+   "solver_solve_time_s": 1.24,
+   "status": "Optimal",
+   "wall_time_s": 1.2452150620520115
+  },
+  {
+   "cpu_time_s": 0.15503399999999345,
+   "finished_at": "2026-07-19T19:41:29.851654+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 16748,
+    "NumberOfChoicePoints": 7047,
+    "NumberOfFails": 12396,
+    "NumberOfSolutions": 18,
+    "PeakMemoryUsage": 1049905,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.15
+   },
+   "solver_solve_time_s": 0.15,
+   "status": "Optimal",
+   "wall_time_s": 0.15664161695167422
+  },
+  {
+   "cpu_time_s": 2.0253990000000073,
+   "finished_at": "2026-07-19T19:41:31.881707+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 4,
+   "solver_info": {
+    "NumberOfBranches": 208991,
+    "NumberOfChoicePoints": 99851,
+    "NumberOfFails": 128994,
+    "NumberOfSolutions": 18,
+    "PeakMemoryUsage": 1146672,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 2.02
+   },
+   "solver_solve_time_s": 2.02,
+   "status": "Optimal",
+   "wall_time_s": 2.027918105944991
+  },
+  {
+   "cpu_time_s": 1.6312959999999919,
+   "finished_at": "2026-07-19T19:41:33.517650+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 159321,
+    "NumberOfChoicePoints": 78701,
+    "NumberOfFails": 96004,
+    "NumberOfSolutions": 10,
+    "PeakMemoryUsage": 1114920,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.63
+   },
+   "solver_solve_time_s": 1.63,
+   "status": "Optimal",
+   "wall_time_s": 1.6338924411684275
+  },
+  {
+   "cpu_time_s": 4.085618000000011,
+   "finished_at": "2026-07-19T19:41:37.609243+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 432359,
+    "NumberOfChoicePoints": 224189,
+    "NumberOfFails": 233531,
+    "NumberOfSolutions": 23,
+    "PeakMemoryUsage": 1223617,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 4.08
+   },
+   "solver_solve_time_s": 4.08,
+   "status": "Optimal",
+   "wall_time_s": 4.089345581829548
+  },
+  {
+   "cpu_time_s": 0.6305269999999936,
+   "finished_at": "2026-07-19T19:41:38.244473+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 75628,
+    "NumberOfChoicePoints": 36873,
+    "NumberOfFails": 49175,
+    "NumberOfSolutions": 25,
+    "PeakMemoryUsage": 1107409,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.63
+   },
+   "solver_solve_time_s": 0.63,
+   "status": "Optimal",
+   "wall_time_s": 0.6329137589782476
+  },
+  {
+   "cpu_time_s": 0.7143389999999954,
+   "finished_at": "2026-07-19T19:41:38.962840+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 73734,
+    "NumberOfChoicePoints": 35485,
+    "NumberOfFails": 47913,
+    "NumberOfSolutions": 16,
+    "PeakMemoryUsage": 1073104,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.71
+   },
+   "solver_solve_time_s": 0.71,
+   "status": "Optimal",
+   "wall_time_s": 0.7163348849862814
+  },
+  {
+   "cpu_time_s": 1.0676110000000065,
+   "finished_at": "2026-07-19T19:41:40.033999+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 108218,
+    "NumberOfChoicePoints": 53139,
+    "NumberOfFails": 68462,
+    "NumberOfSolutions": 25,
+    "PeakMemoryUsage": 1123736,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.06
+   },
+   "solver_solve_time_s": 1.06,
+   "status": "Optimal",
+   "wall_time_s": 1.0695780022069812
+  },
+  {
+   "cpu_time_s": 0.46069199999999455,
+   "finished_at": "2026-07-19T19:41:40.498161+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 38025,
+    "NumberOfChoicePoints": 16376,
+    "NumberOfFails": 30118,
+    "NumberOfSolutions": 13,
+    "PeakMemoryUsage": 1100145,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.46
+   },
+   "solver_solve_time_s": 0.46,
+   "status": "Optimal",
+   "wall_time_s": 0.462686391081661
+  },
+  {
+   "cpu_time_s": 0.7577800000000039,
+   "finished_at": "2026-07-19T19:41:41.260130+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 74221,
+    "NumberOfChoicePoints": 35018,
+    "NumberOfFails": 49465,
+    "NumberOfSolutions": 12,
+    "PeakMemoryUsage": 1073848,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.75
+   },
+   "solver_solve_time_s": 0.75,
+   "status": "Optimal",
+   "wall_time_s": 0.7599715949036181
+  },
+  {
+   "cpu_time_s": 1.2825670000000002,
+   "finished_at": "2026-07-19T19:41:42.546363+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 133498,
+    "NumberOfChoicePoints": 64184,
+    "NumberOfFails": 88709,
+    "NumberOfSolutions": 18,
+    "PeakMemoryUsage": 1144697,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.28
+   },
+   "solver_solve_time_s": 1.28,
+   "status": "Optimal",
+   "wall_time_s": 1.284709201194346
+  },
+  {
+   "cpu_time_s": 0.14512500000000017,
+   "finished_at": "2026-07-19T19:41:42.695261+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 16083,
+    "NumberOfChoicePoints": 7041,
+    "NumberOfFails": 11340,
+    "NumberOfSolutions": 19,
+    "PeakMemoryUsage": 1049873,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.14
+   },
+   "solver_solve_time_s": 0.14,
+   "status": "Optimal",
+   "wall_time_s": 0.14686064841225743
+  },
+  {
+   "cpu_time_s": 1.933829000000003,
+   "finished_at": "2026-07-19T19:41:44.632923+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 5,
+   "solver_info": {
+    "NumberOfBranches": 186638,
+    "NumberOfChoicePoints": 92753,
+    "NumberOfFails": 111993,
+    "NumberOfSolutions": 19,
+    "PeakMemoryUsage": 1159225,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.93
+   },
+   "solver_solve_time_s": 1.93,
+   "status": "Optimal",
+   "wall_time_s": 1.9360875179991126
+  },
+  {
+   "cpu_time_s": 1.1654379999999946,
+   "finished_at": "2026-07-19T19:41:45.803621+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 116611,
+    "NumberOfChoicePoints": 56934,
+    "NumberOfFails": 72648,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1094136,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.16
+   },
+   "solver_solve_time_s": 1.16,
+   "status": "Optimal",
+   "wall_time_s": 1.1686298451386392
+  },
+  {
+   "cpu_time_s": 3.185727,
+   "finished_at": "2026-07-19T19:41:48.994494+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 337201,
+    "NumberOfChoicePoints": 175952,
+    "NumberOfFails": 181479,
+    "NumberOfSolutions": 24,
+    "PeakMemoryUsage": 1205265,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 3.18
+   },
+   "solver_solve_time_s": 3.18,
+   "status": "Optimal",
+   "wall_time_s": 3.1887161140330136
+  },
+  {
+   "cpu_time_s": 0.46529200000000515,
+   "finished_at": "2026-07-19T19:41:49.463984+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 58325,
+    "NumberOfChoicePoints": 27857,
+    "NumberOfFails": 37793,
+    "NumberOfSolutions": 21,
+    "PeakMemoryUsage": 1095633,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.46
+   },
+   "solver_solve_time_s": 0.46,
+   "status": "Optimal",
+   "wall_time_s": 0.46737653808668256
+  },
+  {
+   "cpu_time_s": 0.8184530000000052,
+   "finished_at": "2026-07-19T19:41:50.286839+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 81872,
+    "NumberOfChoicePoints": 39264,
+    "NumberOfFails": 54200,
+    "NumberOfSolutions": 14,
+    "PeakMemoryUsage": 1111096,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.82
+   },
+   "solver_solve_time_s": 0.82,
+   "status": "Optimal",
+   "wall_time_s": 0.8206491190940142
+  },
+  {
+   "cpu_time_s": 0.8798570000000012,
+   "finished_at": "2026-07-19T19:41:51.170615+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 82694,
+    "NumberOfChoicePoints": 38769,
+    "NumberOfFails": 55845,
+    "NumberOfSolutions": 22,
+    "PeakMemoryUsage": 1113785,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.87
+   },
+   "solver_solve_time_s": 0.87,
+   "status": "Optimal",
+   "wall_time_s": 0.8816522480919957
+  },
+  {
+   "cpu_time_s": 0.7494319999999846,
+   "finished_at": "2026-07-19T19:41:51.924583+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 62875,
+    "NumberOfChoicePoints": 33948,
+    "NumberOfFails": 42000,
+    "NumberOfSolutions": 18,
+    "PeakMemoryUsage": 1129209,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.75
+   },
+   "solver_solve_time_s": 0.75,
+   "status": "Optimal",
+   "wall_time_s": 0.7516550049185753
+  },
+  {
+   "cpu_time_s": 1.051544000000007,
+   "finished_at": "2026-07-19T19:41:52.980583+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 103470,
+    "NumberOfChoicePoints": 50707,
+    "NumberOfFails": 66246,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1124393,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.05
+   },
+   "solver_solve_time_s": 1.05,
+   "status": "Optimal",
+   "wall_time_s": 1.0538239860907197
+  },
+  {
+   "cpu_time_s": 1.1148960000000017,
+   "finished_at": "2026-07-19T19:41:54.099958+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 122939,
+    "NumberOfChoicePoints": 59997,
+    "NumberOfFails": 77524,
+    "NumberOfSolutions": 16,
+    "PeakMemoryUsage": 1125393,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.11
+   },
+   "solver_solve_time_s": 1.11,
+   "status": "Optimal",
+   "wall_time_s": 1.1172371581196785
+  },
+  {
+   "cpu_time_s": 0.1578930000000014,
+   "finished_at": "2026-07-19T19:41:54.263339+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 15545,
+    "NumberOfChoicePoints": 6641,
+    "NumberOfFails": 11521,
+    "NumberOfSolutions": 18,
+    "PeakMemoryUsage": 1050545,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.16
+   },
+   "solver_solve_time_s": 0.16,
+   "status": "Optimal",
+   "wall_time_s": 0.15973305515944958
+  },
+  {
+   "cpu_time_s": 2.6901790000000005,
+   "finished_at": "2026-07-19T19:41:56.957758+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 6,
+   "solver_info": {
+    "NumberOfBranches": 268688,
+    "NumberOfChoicePoints": 134865,
+    "NumberOfFails": 156740,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1184945,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 2.69
+   },
+   "solver_solve_time_s": 2.69,
+   "status": "Optimal",
+   "wall_time_s": 2.6927599967457354
+  },
+  {
+   "cpu_time_s": 1.273415,
+   "finished_at": "2026-07-19T19:41:58.235623+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 126552,
+    "NumberOfChoicePoints": 62602,
+    "NumberOfFails": 76289,
+    "NumberOfSolutions": 13,
+    "PeakMemoryUsage": 1102865,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.27
+   },
+   "solver_solve_time_s": 1.27,
+   "status": "Optimal",
+   "wall_time_s": 1.2756378268823028
+  },
+  {
+   "cpu_time_s": 3.336090999999996,
+   "finished_at": "2026-07-19T19:42:01.576570+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 345496,
+    "NumberOfChoicePoints": 178321,
+    "NumberOfFails": 189707,
+    "NumberOfSolutions": 20,
+    "PeakMemoryUsage": 1217057,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 3.33
+   },
+   "solver_solve_time_s": 3.33,
+   "status": "Optimal",
+   "wall_time_s": 3.3390738777816296
+  },
+  {
+   "cpu_time_s": 0.35535700000001214,
+   "finished_at": "2026-07-19T19:42:01.936453+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 43657,
+    "NumberOfChoicePoints": 20140,
+    "NumberOfFails": 30270,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1054472,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.35
+   },
+   "solver_solve_time_s": 0.35,
+   "status": "Optimal",
+   "wall_time_s": 0.35734550515189767
+  },
+  {
+   "cpu_time_s": 0.5920629999999818,
+   "finished_at": "2026-07-19T19:42:02.533179+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 61270,
+    "NumberOfChoicePoints": 29739,
+    "NumberOfFails": 39403,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1070769,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.58
+   },
+   "solver_solve_time_s": 0.58,
+   "status": "Optimal",
+   "wall_time_s": 0.5942812748253345
+  },
+  {
+   "cpu_time_s": 0.7483119999999985,
+   "finished_at": "2026-07-19T19:42:03.285656+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 78258,
+    "NumberOfChoicePoints": 38536,
+    "NumberOfFails": 48758,
+    "NumberOfSolutions": 24,
+    "PeakMemoryUsage": 1109817,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.75
+   },
+   "solver_solve_time_s": 0.75,
+   "status": "Optimal",
+   "wall_time_s": 0.7502816407941282
+  },
+  {
+   "cpu_time_s": 0.7643700000000138,
+   "finished_at": "2026-07-19T19:42:04.053977+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 76934,
+    "NumberOfChoicePoints": 38885,
+    "NumberOfFails": 47870,
+    "NumberOfSolutions": 11,
+    "PeakMemoryUsage": 1109425,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.76
+   },
+   "solver_solve_time_s": 0.76,
+   "status": "Optimal",
+   "wall_time_s": 0.7661765478551388
+  },
+  {
+   "cpu_time_s": 1.0659919999999943,
+   "finished_at": "2026-07-19T19:42:05.123942+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 99245,
+    "NumberOfChoicePoints": 46456,
+    "NumberOfFails": 69350,
+    "NumberOfSolutions": 22,
+    "PeakMemoryUsage": 1126041,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.07
+   },
+   "solver_solve_time_s": 1.07,
+   "status": "Optimal",
+   "wall_time_s": 1.0681475880555809
+  },
+  {
+   "cpu_time_s": 1.1433959999999956,
+   "finished_at": "2026-07-19T19:42:06.273269+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 124613,
+    "NumberOfChoicePoints": 60388,
+    "NumberOfFails": 79498,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1098313,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.13
+   },
+   "solver_solve_time_s": 1.13,
+   "status": "Optimal",
+   "wall_time_s": 1.146062125917524
+  },
+  {
+   "cpu_time_s": 0.21732900000000654,
+   "finished_at": "2026-07-19T19:42:06.494188+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 22812,
+    "NumberOfChoicePoints": 10806,
+    "NumberOfFails": 15406,
+    "NumberOfSolutions": 23,
+    "PeakMemoryUsage": 1056361,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.21
+   },
+   "solver_solve_time_s": 0.21,
+   "status": "Optimal",
+   "wall_time_s": 0.2190583636984229
+  },
+  {
+   "cpu_time_s": 2.470258000000001,
+   "finished_at": "2026-07-19T19:42:08.969826+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 7,
+   "solver_info": {
+    "NumberOfBranches": 242224,
+    "NumberOfChoicePoints": 119519,
+    "NumberOfFails": 149758,
+    "NumberOfSolutions": 22,
+    "PeakMemoryUsage": 1185584,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 2.46
+   },
+   "solver_solve_time_s": 2.46,
+   "status": "Optimal",
+   "wall_time_s": 2.4731838456355035
+  },
+  {
+   "cpu_time_s": 1.3568229999999915,
+   "finished_at": "2026-07-19T19:42:10.332580+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 125500,
+    "NumberOfChoicePoints": 60000,
+    "NumberOfFails": 81538,
+    "NumberOfSolutions": 10,
+    "PeakMemoryUsage": 1108761,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.35
+   },
+   "solver_solve_time_s": 1.35,
+   "status": "Optimal",
+   "wall_time_s": 1.3593054548837245
+  },
+  {
+   "cpu_time_s": 3.2250339999999937,
+   "finished_at": "2026-07-19T19:42:13.563279+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 318897,
+    "NumberOfChoicePoints": 163633,
+    "NumberOfFails": 177962,
+    "NumberOfSolutions": 19,
+    "PeakMemoryUsage": 1213873,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 3.23
+   },
+   "solver_solve_time_s": 3.23,
+   "status": "Optimal",
+   "wall_time_s": 3.2281457646749914
+  },
+  {
+   "cpu_time_s": 0.5849189999999993,
+   "finished_at": "2026-07-19T19:42:14.153097+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 63031,
+    "NumberOfChoicePoints": 30972,
+    "NumberOfFails": 42492,
+    "NumberOfSolutions": 20,
+    "PeakMemoryUsage": 1111753,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.58
+   },
+   "solver_solve_time_s": 0.58,
+   "status": "Optimal",
+   "wall_time_s": 0.5870141349732876
+  },
+  {
+   "cpu_time_s": 0.7538059999999973,
+   "finished_at": "2026-07-19T19:42:14.911473+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 75353,
+    "NumberOfChoicePoints": 35048,
+    "NumberOfFails": 52862,
+    "NumberOfSolutions": 19,
+    "PeakMemoryUsage": 1108025,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.74
+   },
+   "solver_solve_time_s": 0.74,
+   "status": "Optimal",
+   "wall_time_s": 0.7559382221661508
+  },
+  {
+   "cpu_time_s": 0.9421230000000094,
+   "finished_at": "2026-07-19T19:42:15.858401+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 91691,
+    "NumberOfChoicePoints": 44530,
+    "NumberOfFails": 58956,
+    "NumberOfSolutions": 22,
+    "PeakMemoryUsage": 1117321,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.94
+   },
+   "solver_solve_time_s": 0.94,
+   "status": "Optimal",
+   "wall_time_s": 0.9441764513030648
+  },
+  {
+   "cpu_time_s": 0.5468520000000012,
+   "finished_at": "2026-07-19T19:42:16.409808+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 60043,
+    "NumberOfChoicePoints": 26889,
+    "NumberOfFails": 41257,
+    "NumberOfSolutions": 13,
+    "PeakMemoryUsage": 1088497,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.54
+   },
+   "solver_solve_time_s": 0.54,
+   "status": "Optimal",
+   "wall_time_s": 0.548752258066088
+  },
+  {
+   "cpu_time_s": 0.8842230000000058,
+   "finished_at": "2026-07-19T19:42:17.298681+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 86125,
+    "NumberOfChoicePoints": 40942,
+    "NumberOfFails": 56186,
+    "NumberOfSolutions": 13,
+    "PeakMemoryUsage": 1077648,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.88
+   },
+   "solver_solve_time_s": 0.88,
+   "status": "Optimal",
+   "wall_time_s": 0.8860925058834255
+  },
+  {
+   "cpu_time_s": 0.8785469999999975,
+   "finished_at": "2026-07-19T19:42:18.181034+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 98118,
+    "NumberOfChoicePoints": 46749,
+    "NumberOfFails": 64401,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1118705,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.87
+   },
+   "solver_solve_time_s": 0.87,
+   "status": "Optimal",
+   "wall_time_s": 0.8805150622501969
+  },
+  {
+   "cpu_time_s": 0.15965500000000077,
+   "finished_at": "2026-07-19T19:42:18.345630+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 17786,
+    "NumberOfChoicePoints": 8111,
+    "NumberOfFails": 12063,
+    "NumberOfSolutions": 18,
+    "PeakMemoryUsage": 1052169,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.16
+   },
+   "solver_solve_time_s": 0.16,
+   "status": "Optimal",
+   "wall_time_s": 0.16162905283272266
+  },
+  {
+   "cpu_time_s": 2.6420339999999953,
+   "finished_at": "2026-07-19T19:42:20.993634+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 8,
+   "solver_info": {
+    "NumberOfBranches": 253544,
+    "NumberOfChoicePoints": 124709,
+    "NumberOfFails": 156987,
+    "NumberOfSolutions": 18,
+    "PeakMemoryUsage": 1198985,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 2.63
+   },
+   "solver_solve_time_s": 2.63,
+   "status": "Optimal",
+   "wall_time_s": 2.6450738166458905
+  },
+  {
+   "cpu_time_s": 1.577918000000011,
+   "finished_at": "2026-07-19T19:42:22.577203+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 149826,
+    "NumberOfChoicePoints": 73951,
+    "NumberOfFails": 90795,
+    "NumberOfSolutions": 9,
+    "PeakMemoryUsage": 1112161,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.57
+   },
+   "solver_solve_time_s": 1.57,
+   "status": "Optimal",
+   "wall_time_s": 1.5805421019904315
+  },
+  {
+   "cpu_time_s": 3.8633669999999967,
+   "finished_at": "2026-07-19T19:42:26.446590+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 391357,
+    "NumberOfChoicePoints": 200275,
+    "NumberOfFails": 219382,
+    "NumberOfSolutions": 21,
+    "PeakMemoryUsage": 1234888,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 3.86
+   },
+   "solver_solve_time_s": 3.86,
+   "status": "Optimal",
+   "wall_time_s": 3.8666756320744753
+  },
+  {
+   "cpu_time_s": 0.6269180000000034,
+   "finished_at": "2026-07-19T19:42:27.078599+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 83171,
+    "NumberOfChoicePoints": 37458,
+    "NumberOfFails": 57167,
+    "NumberOfSolutions": 22,
+    "PeakMemoryUsage": 1094833,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.62
+   },
+   "solver_solve_time_s": 0.62,
+   "status": "Optimal",
+   "wall_time_s": 0.6289551141671836
+  },
+  {
+   "cpu_time_s": 0.8979859999999888,
+   "finished_at": "2026-07-19T19:42:27.980669+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 89817,
+    "NumberOfChoicePoints": 42726,
+    "NumberOfFails": 59516,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1115513,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.89
+   },
+   "solver_solve_time_s": 0.89,
+   "status": "Optimal",
+   "wall_time_s": 0.9000865747220814
+  },
+  {
+   "cpu_time_s": 0.9798530000000056,
+   "finished_at": "2026-07-19T19:42:28.965448+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 93867,
+    "NumberOfChoicePoints": 45483,
+    "NumberOfFails": 61050,
+    "NumberOfSolutions": 23,
+    "PeakMemoryUsage": 1122801,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.98
+   },
+   "solver_solve_time_s": 0.98,
+   "status": "Optimal",
+   "wall_time_s": 0.9821149688214064
+  },
+  {
+   "cpu_time_s": 0.6663829999999962,
+   "finished_at": "2026-07-19T19:42:29.636966+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 64750,
+    "NumberOfChoicePoints": 31290,
+    "NumberOfFails": 43759,
+    "NumberOfSolutions": 16,
+    "PeakMemoryUsage": 1110953,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.66
+   },
+   "solver_solve_time_s": 0.66,
+   "status": "Optimal",
+   "wall_time_s": 0.6685050539672375
+  },
+  {
+   "cpu_time_s": 0.8410760000000153,
+   "finished_at": "2026-07-19T19:42:30.483382+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 86405,
+    "NumberOfChoicePoints": 41521,
+    "NumberOfFails": 56970,
+    "NumberOfSolutions": 21,
+    "PeakMemoryUsage": 1113544,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.84
+   },
+   "solver_solve_time_s": 0.84,
+   "status": "Optimal",
+   "wall_time_s": 0.8435114799067378
+  },
+  {
+   "cpu_time_s": 0.889663999999982,
+   "finished_at": "2026-07-19T19:42:31.378029+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 95812,
+    "NumberOfChoicePoints": 45878,
+    "NumberOfFails": 62168,
+    "NumberOfSolutions": 14,
+    "PeakMemoryUsage": 1083561,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.89
+   },
+   "solver_solve_time_s": 0.89,
+   "status": "Optimal",
+   "wall_time_s": 0.8920091092586517
+  },
+  {
+   "cpu_time_s": 0.14677199999999857,
+   "finished_at": "2026-07-19T19:42:31.529498+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 15093,
+    "NumberOfChoicePoints": 6508,
+    "NumberOfFails": 11042,
+    "NumberOfSolutions": 16,
+    "PeakMemoryUsage": 1050665,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.14
+   },
+   "solver_solve_time_s": 0.14,
+   "status": "Optimal",
+   "wall_time_s": 0.14866606006398797
+  },
+  {
+   "cpu_time_s": 2.067468000000005,
+   "finished_at": "2026-07-19T19:42:33.602785+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 9,
+   "solver_info": {
+    "NumberOfBranches": 208724,
+    "NumberOfChoicePoints": 104762,
+    "NumberOfFails": 123415,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1164944,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 2.07
+   },
+   "solver_solve_time_s": 2.07,
+   "status": "Optimal",
+   "wall_time_s": 2.069683779962361
+  },
+  {
+   "cpu_time_s": 1.4103130000000021,
+   "finished_at": "2026-07-19T19:42:35.017106+00:00",
+   "instance_id": "VFR10_5_1",
+   "objective_bounds": [
+    651
+   ],
+   "objective_values": [
+    651
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 139451,
+    "NumberOfChoicePoints": 68051,
+    "NumberOfFails": 87499,
+    "NumberOfSolutions": 19,
+    "PeakMemoryUsage": 1142049,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.41
+   },
+   "solver_solve_time_s": 1.41,
+   "status": "Optimal",
+   "wall_time_s": 1.4122842722572386
+  },
+  {
+   "cpu_time_s": 4.17432500000001,
+   "finished_at": "2026-07-19T19:42:39.198848+00:00",
+   "instance_id": "VFR10_5_2",
+   "objective_bounds": [
+    698
+   ],
+   "objective_values": [
+    698
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 429927,
+    "NumberOfChoicePoints": 223047,
+    "NumberOfFails": 231757,
+    "NumberOfSolutions": 19,
+    "PeakMemoryUsage": 1241128,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 4.17
+   },
+   "solver_solve_time_s": 4.17,
+   "status": "Optimal",
+   "wall_time_s": 4.17883438616991
+  },
+  {
+   "cpu_time_s": 0.594198999999989,
+   "finished_at": "2026-07-19T19:42:39.798523+00:00",
+   "instance_id": "VFR10_5_3",
+   "objective_bounds": [
+    724
+   ],
+   "objective_values": [
+    724
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 71477,
+    "NumberOfChoicePoints": 35302,
+    "NumberOfFails": 46502,
+    "NumberOfSolutions": 25,
+    "PeakMemoryUsage": 1105816,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.59
+   },
+   "solver_solve_time_s": 0.59,
+   "status": "Optimal",
+   "wall_time_s": 0.5962530570104718
+  },
+  {
+   "cpu_time_s": 0.7045710000000014,
+   "finished_at": "2026-07-19T19:42:40.508275+00:00",
+   "instance_id": "VFR10_5_4",
+   "objective_bounds": [
+    675
+   ],
+   "objective_values": [
+    675
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 71048,
+    "NumberOfChoicePoints": 33238,
+    "NumberOfFails": 48803,
+    "NumberOfSolutions": 16,
+    "PeakMemoryUsage": 1109233,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.7
+   },
+   "solver_solve_time_s": 0.7,
+   "status": "Optimal",
+   "wall_time_s": 0.7067103460431099
+  },
+  {
+   "cpu_time_s": 0.9267580000000066,
+   "finished_at": "2026-07-19T19:42:41.439658+00:00",
+   "instance_id": "VFR10_5_5",
+   "objective_bounds": [
+    707
+   ],
+   "objective_values": [
+    707
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 90344,
+    "NumberOfChoicePoints": 44108,
+    "NumberOfFails": 57712,
+    "NumberOfSolutions": 21,
+    "PeakMemoryUsage": 1118881,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.92
+   },
+   "solver_solve_time_s": 0.92,
+   "status": "Optimal",
+   "wall_time_s": 0.9286467730998993
+  },
+  {
+   "cpu_time_s": 0.829277999999988,
+   "finished_at": "2026-07-19T19:42:42.274525+00:00",
+   "instance_id": "VFR10_5_6",
+   "objective_bounds": [
+    735
+   ],
+   "objective_values": [
+    735
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 86665,
+    "NumberOfChoicePoints": 41609,
+    "NumberOfFails": 57413,
+    "NumberOfSolutions": 17,
+    "PeakMemoryUsage": 1112281,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.82
+   },
+   "solver_solve_time_s": 0.82,
+   "status": "Optimal",
+   "wall_time_s": 0.8314627432264388
+  },
+  {
+   "cpu_time_s": 0.8856480000000033,
+   "finished_at": "2026-07-19T19:42:43.164899+00:00",
+   "instance_id": "VFR10_5_7",
+   "objective_bounds": [
+    719
+   ],
+   "objective_values": [
+    719
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 88380,
+    "NumberOfChoicePoints": 41935,
+    "NumberOfFails": 58275,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1117937,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.88
+   },
+   "solver_solve_time_s": 0.88,
+   "status": "Optimal",
+   "wall_time_s": 0.8877160302363336
+  },
+  {
+   "cpu_time_s": 1.043364000000011,
+   "finished_at": "2026-07-19T19:42:44.213514+00:00",
+   "instance_id": "VFR10_5_8",
+   "objective_bounds": [
+    683
+   ],
+   "objective_values": [
+    683
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 118110,
+    "NumberOfChoicePoints": 57677,
+    "NumberOfFails": 74553,
+    "NumberOfSolutions": 21,
+    "PeakMemoryUsage": 1120721,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 1.03
+   },
+   "solver_solve_time_s": 1.03,
+   "status": "Optimal",
+   "wall_time_s": 1.0455496972426772
+  },
+  {
+   "cpu_time_s": 0.1529899999999884,
+   "finished_at": "2026-07-19T19:42:44.372749+00:00",
+   "instance_id": "VFR10_5_9",
+   "objective_bounds": [
+    761
+   ],
+   "objective_values": [
+    761
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 15693,
+    "NumberOfChoicePoints": 6677,
+    "NumberOfFails": 11464,
+    "NumberOfSolutions": 19,
+    "PeakMemoryUsage": 1050473,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 0.14
+   },
+   "solver_solve_time_s": 0.14,
+   "status": "Optimal",
+   "wall_time_s": 0.15479367505759
+  },
+  {
+   "cpu_time_s": 2.4836269999999985,
+   "finished_at": "2026-07-19T19:42:46.861791+00:00",
+   "instance_id": "VFR10_5_10",
+   "objective_bounds": [
+    632
+   ],
+   "objective_values": [
+    632
+   ],
+   "seed": 10,
+   "solver_info": {
+    "NumberOfBranches": 246079,
+    "NumberOfChoicePoints": 123252,
+    "NumberOfFails": 146001,
+    "NumberOfSolutions": 15,
+    "PeakMemoryUsage": 1192721,
+    "SearchStatus": "SearchCompleted",
+    "SearchStopCause": "SearchHasNotBeenStopped",
+    "SolveTime": 2.48
+   },
+   "solver_solve_time_s": 2.48,
+   "status": "Optimal",
+   "wall_time_s": 2.4860999030061066
+  }
+ ],
+ "schema_version": 1,
+ "summary": {
+  "instances": {
+   "VFR10_5_1": {
+    "complete_and_optimal": true,
+    "geomean_s": 1.3505955214720573,
+    "max_over_min": 1.3997278276493468,
+    "max_s": 1.6312959999999919,
+    "median_s": 1.3151189999999957,
+    "min_s": 1.1654379999999946,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     1.261567,
+     1.3967539999999996,
+     1.242281999999996,
+     1.2620819999999924,
+     1.6312959999999919,
+     1.1654379999999946,
+     1.273415,
+     1.3568229999999915,
+     1.577918000000011,
+     1.4103130000000021
+    ]
+   },
+   "VFR10_5_10": {
+    "complete_and_optimal": true,
+    "geomean_s": 2.350569666902223,
+    "max_over_min": 1.417003778514027,
+    "max_s": 2.7402430000000066,
+    "median_s": 2.4184775000000007,
+    "min_s": 1.933829000000003,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     2.3666970000000003,
+     2.2484530000000014,
+     2.7402430000000066,
+     2.0253990000000073,
+     1.933829000000003,
+     2.6901790000000005,
+     2.470258000000001,
+     2.6420339999999953,
+     2.067468000000005,
+     2.4836269999999985
+    ]
+   },
+   "VFR10_5_2": {
+    "complete_and_optimal": true,
+    "geomean_s": 3.733584769219809,
+    "max_over_min": 1.5170439902728652,
+    "max_s": 4.832888000000004,
+    "median_s": 3.8129855,
+    "min_s": 3.185727,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     3.316906,
+     3.818047,
+     4.832888000000004,
+     3.807924,
+     4.085618000000011,
+     3.185727,
+     3.336090999999996,
+     3.2250339999999937,
+     3.8633669999999967,
+     4.17432500000001
+    ]
+   },
+   "VFR10_5_3": {
+    "complete_and_optimal": true,
+    "geomean_s": 0.50629729895707,
+    "max_over_min": 1.7743480499890874,
+    "max_s": 0.6305269999999936,
+    "median_s": 0.5374865,
+    "min_s": 0.35535700000001214,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     0.36349500000000035,
+     0.5657980000000009,
+     0.509174999999999,
+     0.46526100000000525,
+     0.6305269999999936,
+     0.46529200000000515,
+     0.35535700000001214,
+     0.5849189999999993,
+     0.6269180000000034,
+     0.594198999999989
+    ]
+   },
+   "VFR10_5_4": {
+    "complete_and_optimal": true,
+    "geomean_s": 0.7683698597527038,
+    "max_over_min": 1.5371050040283365,
+    "max_s": 0.910063000000001,
+    "median_s": 0.7750399999999971,
+    "min_s": 0.5920629999999818,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     0.7074749999999996,
+     0.910063000000001,
+     0.7962739999999968,
+     0.8474969999999971,
+     0.7143389999999954,
+     0.8184530000000052,
+     0.5920629999999818,
+     0.7538059999999973,
+     0.8979859999999888,
+     0.7045710000000014
+    ]
+   },
+   "VFR10_5_5": {
+    "complete_and_optimal": true,
+    "geomean_s": 0.9304161526312199,
+    "max_over_min": 1.426692342231594,
+    "max_s": 1.0676110000000065,
+    "median_s": 0.934440500000008,
+    "min_s": 0.7483119999999985,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     0.9263560000000002,
+     1.0148669999999989,
+     0.8242150000000024,
+     1.0432830000000024,
+     1.0676110000000065,
+     0.8798570000000012,
+     0.7483119999999985,
+     0.9421230000000094,
+     0.9798530000000056,
+     0.9267580000000066
+    ]
+   },
+   "VFR10_5_6": {
+    "complete_and_optimal": true,
+    "geomean_s": 0.5990625682756854,
+    "max_over_min": 1.8364857592728991,
+    "max_s": 0.829277999999988,
+    "median_s": 0.5872364999999995,
+    "min_s": 0.45155699999999754,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     0.4797180000000001,
+     0.45155699999999754,
+     0.5707310000000021,
+     0.6037419999999969,
+     0.46069199999999455,
+     0.7494319999999846,
+     0.7643700000000138,
+     0.5468520000000012,
+     0.6663829999999962,
+     0.829277999999988
+    ]
+   },
+   "VFR10_5_7": {
+    "complete_and_optimal": true,
+    "geomean_s": 0.9224766265938757,
+    "max_over_min": 1.4191981841695411,
+    "max_s": 1.0754400000000004,
+    "median_s": 0.8849355000000045,
+    "min_s": 0.7577800000000039,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     0.969746999999999,
+     0.8804010000000027,
+     1.0754400000000004,
+     0.8686519999999973,
+     0.7577800000000039,
+     1.051544000000007,
+     1.0659919999999943,
+     0.8842230000000058,
+     0.8410760000000153,
+     0.8856480000000033
+    ]
+   },
+   "VFR10_5_8": {
+    "complete_and_optimal": true,
+    "geomean_s": 1.094012325523549,
+    "max_over_min": 1.766283420238195,
+    "max_s": 1.5517630000000011,
+    "median_s": 1.0791300000000064,
+    "min_s": 0.8785469999999975,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     1.5517630000000011,
+     0.9704489999999986,
+     0.984025999999993,
+     1.2430240000000055,
+     1.2825670000000002,
+     1.1148960000000017,
+     1.1433959999999956,
+     0.8785469999999975,
+     0.889663999999982,
+     1.043364000000011
+    ]
+   },
+   "VFR10_5_9": {
+    "complete_and_optimal": true,
+    "geomean_s": 0.17030141903273532,
+    "max_over_min": 1.4975297157623173,
+    "max_s": 0.21732900000000654,
+    "median_s": 0.15877400000000108,
+    "min_s": 0.14512500000000017,
+    "objective_matches_bound": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "statuses": [
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal",
+     "Optimal"
+    ],
+    "times_s_seed_order": [
+     0.17674399999999935,
+     0.21179400000000115,
+     0.19805500000000364,
+     0.15503399999999345,
+     0.14512500000000017,
+     0.1578930000000014,
+     0.21732900000000654,
+     0.15965500000000077,
+     0.14677199999999857,
+     0.1529899999999884
+    ]
+   }
+  }
+ }
+}

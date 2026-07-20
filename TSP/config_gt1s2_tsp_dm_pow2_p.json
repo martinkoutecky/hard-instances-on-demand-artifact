@@ -1,0 +1,86 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+            "L": 1,
+            "U": 1000,
+            "N": 20,
+            "code": "gt1s2_tsp_dm_pow2_p",
+            "budget": 100000,
+            "iters": 5,
+            "seed": 20260601,
+            "opt": {
+                "MetaCMA": {
+                    "Solver": "MetaCMA"
+                },
+                "CMA": {
+                    "Solver": "CMA"
+                },
+                "ChainCMAwithLHS": {
+                    "Solver": "ChainCMAwithLHS"
+                },
+                "PolyCMA": {
+                    "Solver": "PolyCMA"
+                },
+                "TripleCMA": {
+                    "Solver": "TripleCMA"
+                },
+                "NGOpt": {
+                    "Solver": "NGOpt"
+                },
+                "NgIohRS": {
+                    "Solver": "NgIohRS"
+                },
+                "NgIohTuned": {
+                    "Solver": "NgIohTuned"
+                },
+                "Shiwa": {
+                    "Solver": "Shiwa"
+                },
+                "MultiSQPPlus": {
+                    "Solver": "MultiSQPPlus"
+                },
+                "MultiSQP": {
+                    "Solver": "MultiSQP"
+                },
+                "MultiCobylaPlus": {
+                    "Solver": "MultiCobylaPlus"
+                },
+                "RecombiningPortfolioDiscreteOnePlusOne": {
+                    "Solver": "RecombiningPortfolioDiscreteOnePlusOne"
+                },
+                "DiscreteBSOOnePlusOne": {
+                    "Solver": "DiscreteBSOOnePlusOne"
+                },
+                "SplitSQOPSO": {
+                    "Solver": "SplitSQOPSO"
+                },
+                "HullAvgMetaRecentering": {
+                    "Solver": "HullAvgMetaRecentering"
+                },
+                "NaiveIsoEMNATBPSA": {
+                    "Solver": "NaiveIsoEMNATBPSA"
+                },
+                "GeneticDE": {
+                    "Solver": "GeneticDE"
+                },
+                "NaiveTBPSA": {
+                    "Solver": "NaiveTBPSA"
+                },
+                "LHSSearch": {
+                    "Solver": "LHSSearch"
+                }
+            },
+            "F_unflat": "neg_pow2",
+            "batch": 1,
+            "worker": 32,
+            "debug": 0,
+            "salt": 0,
+            "chunk": 5000,
+            "k": 21,
+            "F": "geomean3_median",
+            "seed_per_call": true,
+            "seed_n_reps": 3
+        }
+    }
+}

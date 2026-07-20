@@ -1,0 +1,87 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+            "solver": "cpopt",
+            "N": 6,
+            "M": 4,
+            "U": 100,
+            "code": "gt1s2_jssp_cpopt_mat_neg_p",
+            "budget": 100000,
+            "iters": 5,
+            "seed": 20260601,
+            "opt": {
+                "ChainCMAwithR": {
+                    "Solver": "ChainCMAwithR"
+                },
+                "DiagonalCMA": {
+                    "Solver": "DiagonalCMA"
+                },
+                "LSCMA": {
+                    "Solver": "LSCMA"
+                },
+                "MetaModelDiagonalCMA": {
+                    "Solver": "MetaModelDiagonalCMA"
+                },
+                "ChainCMAwithMetaRecentering": {
+                    "Solver": "ChainCMAwithMetaRecentering"
+                },
+                "MetaModel": {
+                    "Solver": "MetaModel"
+                },
+                "PCarola6": {
+                    "Solver": "PCarola6"
+                },
+                "MetaModelFmin2": {
+                    "Solver": "MetaModelFmin2"
+                },
+                "pCarola6": {
+                    "Solver": "pCarola6"
+                },
+                "ChainMetaModelSQP": {
+                    "Solver": "ChainMetaModelSQP"
+                },
+                "ChainNaiveTBPSAPowell": {
+                    "Solver": "ChainNaiveTBPSAPowell"
+                },
+                "MultiCobyla": {
+                    "Solver": "MultiCobyla"
+                },
+                "QrDE": {
+                    "Solver": "QrDE"
+                },
+                "LSDE": {
+                    "Solver": "LSDE"
+                },
+                "IsoEMNATBPSA": {
+                    "Solver": "IsoEMNATBPSA"
+                },
+                "NaiveTBPSA": {
+                    "Solver": "NaiveTBPSA"
+                },
+                "BAR4": {
+                    "Solver": "BAR4"
+                },
+                "SQORealSpacePSO": {
+                    "Solver": "SQORealSpacePSO"
+                },
+                "DiscreteLenglerOnePlusOne": {
+                    "Solver": "DiscreteLenglerOnePlusOne"
+                },
+                "CauchyRandomSearch": {
+                    "Solver": "CauchyRandomSearch"
+                }
+            },
+            "F_unflat": "negative",
+            "batch": 1,
+            "worker": 32,
+            "debug": 0,
+            "salt": 0,
+            "chunk": 5000,
+            "k": 3,
+            "F": "median",
+            "seed_per_call": true,
+            "seed_n_reps": 1
+        }
+    }
+}

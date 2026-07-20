@@ -1,0 +1,964 @@
+{
+  "corpus": {
+    "unique_formulas": 498,
+    "result_metadata": {
+      "sat": 106,
+      "unsat": 305,
+      "unknown": 87
+    },
+    "buckets": {
+      "under_0.1": 322,
+      "0.1_to_1": 36,
+      "1_to_8": 27,
+      "censored_at_12": 110,
+      "8_to_11.6": 3
+    },
+    "under_reported_champion_floor_11.6": 388,
+    "hard_families": [
+      {
+        "family": "sgen",
+        "censored_at_12": 61,
+        "total": 77
+      },
+      {
+        "family": "miter",
+        "censored_at_12": 27,
+        "total": 35
+      },
+      {
+        "family": "subset-cardinality",
+        "censored_at_12": 10,
+        "total": 10
+      },
+      {
+        "family": "long-learned-clauses",
+        "censored_at_12": 6,
+        "total": 7
+      },
+      {
+        "family": "hgen",
+        "censored_at_12": 3,
+        "total": 16
+      },
+      {
+        "family": "sgen-balanced",
+        "censored_at_12": 2,
+        "total": 2
+      },
+      {
+        "family": "pigeon-hole",
+        "censored_at_12": 1,
+        "total": 15
+      }
+    ]
+  },
+  "recent_main": {
+    "unique_formulas": 26,
+    "censored_at_20": 11,
+    "gray_11.6_to_20": 4,
+    "under_11.6": 11,
+    "rows": [
+      {
+        "hash": "245e9b5cdf197b523d57f35ac2fcb303",
+        "variables": "89",
+        "clauses": "188",
+        "gbd_variables": "89",
+        "gbd_clauses": "188",
+        "family": "sgen",
+        "author": "spence",
+        "result": "unsat",
+        "filename": "245e9b5cdf197b523d57f35ac2fcb303",
+        "tracks": "anni_2022,crafted_2012,main_2020",
+        "local_path": "instances/245e9b5cdf197b523d57f35ac2fcb303.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "8ee37a01a9ac1dbebe27e63e7b088762",
+        "variables": "97",
+        "clauses": "204",
+        "gbd_variables": "97",
+        "gbd_clauses": "204",
+        "family": "sgen",
+        "author": "spence",
+        "result": "unsat",
+        "filename": "8ee37a01a9ac1dbebe27e63e7b088762",
+        "tracks": "main_2019",
+        "local_path": "instances/8ee37a01a9ac1dbebe27e63e7b088762.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "a9e528e396f42fd1de5aac050ef5b1dd",
+        "variables": "109",
+        "clauses": "228",
+        "gbd_variables": "109",
+        "gbd_clauses": "228",
+        "family": "sgen",
+        "author": "spence",
+        "result": "unsat",
+        "filename": "a9e528e396f42fd1de5aac050ef5b1dd",
+        "tracks": "anni_2022,main_2019",
+        "local_path": "instances/a9e528e396f42fd1de5aac050ef5b1dd.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "2b60f9be1439f63b7f174c6b8ca7fedf",
+        "variables": "121",
+        "clauses": "252",
+        "gbd_variables": "121",
+        "gbd_clauses": "252",
+        "family": "sgen",
+        "author": "spence",
+        "result": "unsat",
+        "filename": "2b60f9be1439f63b7f174c6b8ca7fedf",
+        "tracks": "anni_2022,crafted_2009,main_2024",
+        "local_path": "instances/2b60f9be1439f63b7f174c6b8ca7fedf.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "2d6d26e1c5b4f2763c03697a6d00d3cf",
+        "variables": "125",
+        "clauses": "510",
+        "gbd_variables": "125",
+        "gbd_clauses": "510",
+        "family": "subset-cardinality",
+        "author": "elffers",
+        "result": "unsat",
+        "filename": "2d6d26e1c5b4f2763c03697a6d00d3cf",
+        "tracks": "anni_2022,crafted_2016,main_2024",
+        "local_path": "instances/2d6d26e1c5b4f2763c03697a6d00d3cf.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "b628043a07c5576dd6cd21c9d73a69e0",
+        "variables": "149",
+        "clauses": "606",
+        "gbd_variables": "149",
+        "gbd_clauses": "606",
+        "family": "subset-cardinality",
+        "author": "elffers",
+        "result": "unsat",
+        "filename": "b628043a07c5576dd6cd21c9d73a69e0",
+        "tracks": "anni_2022,crafted_2016,main_2025",
+        "local_path": "instances/b628043a07c5576dd6cd21c9d73a69e0.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "c6e03256680b96b52e3345a497333c2b",
+        "variables": "162",
+        "clauses": "774",
+        "gbd_variables": "162",
+        "gbd_clauses": "774",
+        "family": "miter",
+        "author": "stanion",
+        "result": "unsat",
+        "filename": "c6e03256680b96b52e3345a497333c2b",
+        "tracks": "anni_2022,handmade_2003,main_2024",
+        "local_path": "instances/c6e03256680b96b52e3345a497333c2b.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "55ef25b8bbf4dc45a9e55d103de5a41c",
+        "variables": "172",
+        "clauses": "832",
+        "gbd_variables": "172",
+        "gbd_clauses": "832",
+        "family": "miter",
+        "author": "stanion",
+        "result": "unsat",
+        "filename": "55ef25b8bbf4dc45a9e55d103de5a41c",
+        "tracks": "main_2019",
+        "local_path": "instances/55ef25b8bbf4dc45a9e55d103de5a41c.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "a5e71d3ade64c68c244a4446998442a2",
+        "variables": "172",
+        "clauses": "832",
+        "gbd_variables": "172",
+        "gbd_clauses": "832",
+        "family": "miter",
+        "author": "stanion",
+        "result": "unsat",
+        "filename": "a5e71d3ade64c68c244a4446998442a2",
+        "tracks": "main_2019",
+        "local_path": "instances/a5e71d3ade64c68c244a4446998442a2.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "a64f3c1afd7e0f6165efbe9fc2fc8003",
+        "variables": "190",
+        "clauses": "632",
+        "gbd_variables": "190",
+        "gbd_clauses": "632",
+        "family": "long-learned-clauses",
+        "author": "markstrom",
+        "result": "unsat",
+        "filename": "a64f3c1afd7e0f6165efbe9fc2fc8003",
+        "tracks": "anni_2022,crafted_2007,crafted_2009,crafted_2012,crafted_2013,main_2023",
+        "local_path": "instances/a64f3c1afd7e0f6165efbe9fc2fc8003.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "a85db7ae2d8ab543d6c166607d7af3fa",
+        "variables": "192",
+        "clauses": "689",
+        "gbd_variables": "192",
+        "gbd_clauses": "689",
+        "family": "sgen-balanced",
+        "author": "spence",
+        "result": "unsat",
+        "filename": "a85db7ae2d8ab543d6c166607d7af3fa",
+        "tracks": "anni_2022,main_2017",
+        "local_path": "instances/a85db7ae2d8ab543d6c166607d7af3fa.cnf",
+        "times": [
+          20.0
+        ],
+        "median": 20.0,
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "hash": "eac4b2e1c2fc8b94a135b5b1c6b7b228",
+        "variables": "180",
+        "clauses": "648",
+        "gbd_variables": "180",
+        "gbd_clauses": "648",
+        "family": "sgen-balanced",
+        "author": "spence",
+        "result": "unsat",
+        "filename": "eac4b2e1c2fc8b94a135b5b1c6b7b228",
+        "tracks": "anni_2022,main_2017",
+        "local_path": "instances/eac4b2e1c2fc8b94a135b5b1c6b7b228.cnf",
+        "times": [
+          18.576362096
+        ],
+        "median": 18.576362096,
+        "min": 18.576362096,
+        "max": 18.576362096
+      },
+      {
+        "hash": "41f4cb4992a481c9d43e2e1a4e2349ac",
+        "variables": "180",
+        "clauses": "432",
+        "gbd_variables": "180",
+        "gbd_clauses": "432",
+        "family": "sgen",
+        "author": "spence",
+        "result": "sat",
+        "filename": "41f4cb4992a481c9d43e2e1a4e2349ac",
+        "tracks": "anni_2022,crafted_2009,crafted_2012,main_2024",
+        "local_path": "instances/41f4cb4992a481c9d43e2e1a4e2349ac.cnf",
+        "times": [
+          14.180650562
+        ],
+        "median": 14.180650562,
+        "min": 14.180650562,
+        "max": 14.180650562
+      },
+      {
+        "hash": "5feccc06fd6bbced837e6533a9098f3d",
+        "variables": "180",
+        "clauses": "432",
+        "gbd_variables": "180",
+        "gbd_clauses": "432",
+        "family": "sgen",
+        "author": "spence",
+        "result": "sat",
+        "filename": "5feccc06fd6bbced837e6533a9098f3d",
+        "tracks": "main_2019",
+        "local_path": "instances/5feccc06fd6bbced837e6533a9098f3d.cnf",
+        "times": [
+          13.349061922
+        ],
+        "median": 13.349061922,
+        "min": 13.349061922,
+        "max": 13.349061922
+      },
+      {
+        "hash": "3aef3d8d02941ba7ddb18adc128259ae",
+        "variables": "156",
+        "clauses": "937",
+        "gbd_variables": "156",
+        "gbd_clauses": "937",
+        "family": "pigeon-hole",
+        "author": "reeves",
+        "result": "unsat",
+        "filename": "3aef3d8d02941ba7ddb18adc128259ae",
+        "tracks": "anni_2022,main_2021",
+        "local_path": "instances/3aef3d8d02941ba7ddb18adc128259ae.cnf",
+        "times": [
+          11.775708941
+        ],
+        "median": 11.775708941,
+        "min": 11.775708941,
+        "max": 11.775708941
+      },
+      {
+        "hash": "90fda6e7338d52aeb796636fde412daf",
+        "variables": "144",
+        "clauses": "936",
+        "gbd_variables": "144",
+        "gbd_clauses": "936",
+        "family": "battleship",
+        "author": "skvortsov",
+        "result": "unsat",
+        "filename": "90fda6e7338d52aeb796636fde412daf",
+        "tracks": "anni_2022,crafted_2011,crafted_2012,main_2021",
+        "local_path": "instances/90fda6e7338d52aeb796636fde412daf.cnf",
+        "times": [
+          1.447246033
+        ],
+        "median": 1.447246033,
+        "min": 1.447246033,
+        "max": 1.447246033
+      },
+      {
+        "hash": "9e43f8cb2154b642a125471161c60282",
+        "variables": "140",
+        "clauses": "560",
+        "gbd_variables": "140",
+        "gbd_clauses": "560",
+        "family": "tseitin-formulas",
+        "author": "jarvisalo",
+        "result": "unsat",
+        "filename": "9e43f8cb2154b642a125471161c60282",
+        "tracks": "main_2019",
+        "local_path": "instances/9e43f8cb2154b642a125471161c60282.cnf",
+        "times": [
+          0.77774584
+        ],
+        "median": 0.77774584,
+        "min": 0.77774584,
+        "max": 0.77774584
+      },
+      {
+        "hash": "0d3b2660155c61516a3af4badabdeeab",
+        "variables": "140",
+        "clauses": "560",
+        "gbd_variables": "140",
+        "gbd_clauses": "560",
+        "family": "tseitin-formulas",
+        "author": "jarvisalo",
+        "result": "unsat",
+        "filename": "0d3b2660155c61516a3af4badabdeeab",
+        "tracks": "main_2019",
+        "local_path": "instances/0d3b2660155c61516a3af4badabdeeab.cnf",
+        "times": [
+          0.776077478
+        ],
+        "median": 0.776077478,
+        "min": 0.776077478,
+        "max": 0.776077478
+      },
+      {
+        "hash": "44092fcc83a5cba81419e82cfd18602c",
+        "variables": "90",
+        "clauses": "415",
+        "gbd_variables": "90",
+        "gbd_clauses": "415",
+        "family": "pigeon-hole",
+        "author": "unknown",
+        "result": "unsat",
+        "filename": "44092fcc83a5cba81419e82cfd18602c",
+        "tracks": "anni_2022,crafted_2005,main_2023",
+        "local_path": "instances/44092fcc83a5cba81419e82cfd18602c.cnf",
+        "times": [
+          0.022114369
+        ],
+        "median": 0.022114369,
+        "min": 0.022114369,
+        "max": 0.022114369
+      },
+      {
+        "hash": "07b476c83150d3cb7e08f5d045e255ab",
+        "variables": "105",
+        "clauses": "512",
+        "gbd_variables": "105",
+        "gbd_clauses": "512",
+        "family": "tseitin-formulas",
+        "author": "bevan",
+        "result": "unsat",
+        "filename": "07b476c83150d3cb7e08f5d045e255ab",
+        "tracks": "anni_2022,handmade_2003,main_2024",
+        "local_path": "instances/07b476c83150d3cb7e08f5d045e255ab.cnf",
+        "times": [
+          0.008130526
+        ],
+        "median": 0.008130526,
+        "min": 0.008130526,
+        "max": 0.008130526
+      },
+      {
+        "hash": "ff5170c690129f8c94658e82b6aab05c",
+        "variables": "114",
+        "clauses": "888",
+        "gbd_variables": "114",
+        "gbd_clauses": "888",
+        "family": "tseitin-formulas",
+        "author": "simon",
+        "result": "unsat",
+        "filename": "ff5170c690129f8c94658e82b6aab05c",
+        "tracks": "anni_2022,handmade_2002,main_2023",
+        "local_path": "instances/ff5170c690129f8c94658e82b6aab05c.cnf",
+        "times": [
+          0.008115678000000001
+        ],
+        "median": 0.008115678000000001,
+        "min": 0.008115678000000001,
+        "max": 0.008115678000000001
+      },
+      {
+        "hash": "0297c2a35f116ffd5382aea5b421e6df",
+        "variables": "45",
+        "clauses": "376",
+        "gbd_variables": "45",
+        "gbd_clauses": "376",
+        "family": "tseitin-formulas",
+        "author": "chu-min-li",
+        "result": "unsat",
+        "filename": "0297c2a35f116ffd5382aea5b421e6df",
+        "tracks": "anni_2022,handmade_2003,handmade_2004,main_2023",
+        "local_path": "instances/0297c2a35f116ffd5382aea5b421e6df.cnf",
+        "times": [
+          0.008098085
+        ],
+        "median": 0.008098085,
+        "min": 0.008098085,
+        "max": 0.008098085
+      },
+      {
+        "hash": "aa39c6d885d283a085d033ab7b89f8c8",
+        "variables": "74",
+        "clauses": "694",
+        "gbd_variables": "74",
+        "gbd_clauses": "694",
+        "family": "tseitin-formulas",
+        "author": "simon",
+        "result": "unsat",
+        "filename": "aa39c6d885d283a085d033ab7b89f8c8",
+        "tracks": "anni_2022,crafted_2012,main_2024",
+        "local_path": "instances/aa39c6d885d283a085d033ab7b89f8c8.cnf",
+        "times": [
+          0.008054112
+        ],
+        "median": 0.008054112,
+        "min": 0.008054112,
+        "max": 0.008054112
+      },
+      {
+        "hash": "01d142c43f3ce9a8c5ef7a1ecdbb6cba",
+        "variables": "99",
+        "clauses": "264",
+        "gbd_variables": "99",
+        "gbd_clauses": "264",
+        "family": "tseitin-formulas",
+        "author": "chu-min-li",
+        "result": "unsat",
+        "filename": "01d142c43f3ce9a8c5ef7a1ecdbb6cba",
+        "tracks": "anni_2022,crafted_2011,crafted_2012,handmade_2002,main_2022,portfolio_2012",
+        "local_path": "instances/01d142c43f3ce9a8c5ef7a1ecdbb6cba.cnf",
+        "times": [
+          0.008041307000000001
+        ],
+        "median": 0.008041307000000001,
+        "min": 0.008041307000000001,
+        "max": 0.008041307000000001
+      },
+      {
+        "hash": "5a5fb82a3672ee898465aa8f1103147f",
+        "variables": "150",
+        "clauses": "153",
+        "gbd_variables": "150",
+        "gbd_clauses": "153",
+        "family": "cover",
+        "author": "gacek",
+        "result": "unsat",
+        "filename": "5a5fb82a3672ee898465aa8f1103147f",
+        "tracks": "anni_2022,main_2020",
+        "local_path": "instances/5a5fb82a3672ee898465aa8f1103147f.cnf",
+        "times": [
+          0.0010575540000000003
+        ],
+        "median": 0.0010575540000000003,
+        "min": 0.0010575540000000003,
+        "max": 0.0010575540000000003
+      },
+      {
+        "hash": "0928111a3d5d5ce05dffb83cb5982eba",
+        "variables": "54",
+        "clauses": "58",
+        "gbd_variables": "54",
+        "gbd_clauses": "58",
+        "family": "cover",
+        "author": "gacek",
+        "result": "unsat",
+        "filename": "0928111a3d5d5ce05dffb83cb5982eba",
+        "tracks": "anni_2022,main_2020",
+        "local_path": "instances/0928111a3d5d5ce05dffb83cb5982eba.cnf",
+        "times": [
+          0.00010117099999999994
+        ],
+        "median": 0.00010117099999999994,
+        "min": 0.00010117099999999994,
+        "max": 0.00010117099999999994
+      }
+    ]
+  },
+  "exact_remeasurements": {
+    "e2f755d3078faf0bfa12279003122fda": {
+      "source": "exact_hgen.json",
+      "hash": "e2f755d3078faf0bfa12279003122fda",
+      "variables": "180",
+      "clauses": "280",
+      "gbd_variables": "178",
+      "gbd_clauses": "280",
+      "family": "hgen",
+      "author": "heule",
+      "result": "unsat",
+      "filename": "e2f755d3078faf0bfa12279003122fda",
+      "tracks": "random_2003",
+      "local_path": "instances/e2f755d3078faf0bfa12279003122fda.cnf",
+      "times": [
+        12.0
+      ],
+      "median": 12.0,
+      "min": 12.0,
+      "max": 12.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.003547114785760641,
+      "symmetry_broken_clauses": 288,
+      "solvers": {
+        "minisat22": {
+          "time": 25.035503282,
+          "status": false
+        },
+        "breakid+cadical195": {
+          "time": 24.35697184,
+          "status": false
+        },
+        "cryptominisat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 10.547854000000001,
+          "status": false
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 24.35697184
+    },
+    "a64f3c1afd7e0f6165efbe9fc2fc8003": {
+      "source": "exact_long_learned_clauses.json",
+      "hash": "a64f3c1afd7e0f6165efbe9fc2fc8003",
+      "variables": "190",
+      "clauses": "632",
+      "gbd_variables": "190",
+      "gbd_clauses": "632",
+      "family": "long-learned-clauses",
+      "author": "markstrom",
+      "result": "unsat",
+      "filename": "a64f3c1afd7e0f6165efbe9fc2fc8003",
+      "tracks": "anni_2022,crafted_2007,crafted_2009,crafted_2012,crafted_2013,main_2023",
+      "local_path": "instances/a64f3c1afd7e0f6165efbe9fc2fc8003.cnf",
+      "times": [
+        20.0
+      ],
+      "median": 20.0,
+      "min": 20.0,
+      "max": 20.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.010458661243319511,
+      "symmetry_broken_clauses": 1414,
+      "solvers": {
+        "minisat22": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 30.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 30.0
+    },
+    "c6e03256680b96b52e3345a497333c2b": {
+      "source": "exact_miter.json",
+      "hash": "c6e03256680b96b52e3345a497333c2b",
+      "variables": "162",
+      "clauses": "774",
+      "gbd_variables": "162",
+      "gbd_clauses": "774",
+      "family": "miter",
+      "author": "stanion",
+      "result": "unsat",
+      "filename": "c6e03256680b96b52e3345a497333c2b",
+      "tracks": "anni_2022,handmade_2003,main_2024",
+      "local_path": "instances/c6e03256680b96b52e3345a497333c2b.cnf",
+      "times": [
+        20.0
+      ],
+      "median": 20.0,
+      "min": 20.0,
+      "max": 20.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.009158618748188019,
+      "symmetry_broken_clauses": 774,
+      "solvers": {
+        "minisat22": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 30.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 30.0
+    },
+    "3aef3d8d02941ba7ddb18adc128259ae": {
+      "source": "exact_pigeon_hole.json",
+      "hash": "3aef3d8d02941ba7ddb18adc128259ae",
+      "variables": "156",
+      "clauses": "937",
+      "gbd_variables": "156",
+      "gbd_clauses": "937",
+      "family": "pigeon-hole",
+      "author": "reeves",
+      "result": "unsat",
+      "filename": "3aef3d8d02941ba7ddb18adc128259ae",
+      "tracks": "anni_2022,main_2021",
+      "local_path": "instances/3aef3d8d02941ba7ddb18adc128259ae.cnf",
+      "times": [
+        11.775708941
+      ],
+      "median": 11.775708941,
+      "min": 11.775708941,
+      "max": 11.775708941,
+      "breakid_preprocess_wall_seconds_excluded": 0.016500716097652912,
+      "symmetry_broken_clauses": 1696,
+      "solvers": {
+        "minisat22": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 12.037328435,
+          "status": false
+        },
+        "cryptominisat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 12.037328435
+    },
+    "a85db7ae2d8ab543d6c166607d7af3fa": {
+      "source": "exact_sgen_balanced.json",
+      "hash": "a85db7ae2d8ab543d6c166607d7af3fa",
+      "variables": "192",
+      "clauses": "689",
+      "gbd_variables": "192",
+      "gbd_clauses": "689",
+      "family": "sgen-balanced",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "a85db7ae2d8ab543d6c166607d7af3fa",
+      "tracks": "anni_2022,main_2017",
+      "local_path": "instances/a85db7ae2d8ab543d6c166607d7af3fa.cnf",
+      "times": [
+        20.0
+      ],
+      "median": 20.0,
+      "min": 20.0,
+      "max": 20.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.008046402130275965,
+      "symmetry_broken_clauses": 689,
+      "solvers": {
+        "minisat22": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 30.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 30.0
+    },
+    "41f4cb4992a481c9d43e2e1a4e2349ac": {
+      "source": "exact_sgen_sat.json",
+      "hash": "41f4cb4992a481c9d43e2e1a4e2349ac",
+      "variables": "180",
+      "clauses": "432",
+      "gbd_variables": "180",
+      "gbd_clauses": "432",
+      "family": "sgen",
+      "author": "spence",
+      "result": "sat",
+      "filename": "41f4cb4992a481c9d43e2e1a4e2349ac",
+      "tracks": "anni_2022,crafted_2009,crafted_2012,main_2024",
+      "local_path": "instances/41f4cb4992a481c9d43e2e1a4e2349ac.cnf",
+      "times": [
+        14.180650562
+      ],
+      "median": 14.180650562,
+      "min": 14.180650562,
+      "max": 14.180650562,
+      "breakid_preprocess_wall_seconds_excluded": 0.007971154991537333,
+      "symmetry_broken_clauses": 432,
+      "solvers": {
+        "minisat22": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 30.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 14.427247185,
+          "status": true
+        },
+        "kissat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 14.427247185
+    },
+    "2d6d26e1c5b4f2763c03697a6d00d3cf": {
+      "source": "exact_subset_cardinality.json",
+      "hash": "2d6d26e1c5b4f2763c03697a6d00d3cf",
+      "variables": "125",
+      "clauses": "510",
+      "gbd_variables": "125",
+      "gbd_clauses": "510",
+      "family": "subset-cardinality",
+      "author": "elffers",
+      "result": "unsat",
+      "filename": "2d6d26e1c5b4f2763c03697a6d00d3cf",
+      "tracks": "anni_2022,crafted_2016,main_2024",
+      "local_path": "instances/2d6d26e1c5b4f2763c03697a6d00d3cf.cnf",
+      "times": [
+        20.0
+      ],
+      "median": 20.0,
+      "min": 20.0,
+      "max": 20.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.00875712325796485,
+      "symmetry_broken_clauses": 511,
+      "solvers": {
+        "minisat22": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 30.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 30.0
+    },
+    "602cb5256a5c05e90aec931c7f3fc0ab": {
+      "source": "exact_top.json",
+      "hash": "602cb5256a5c05e90aec931c7f3fc0ab",
+      "variables": "81",
+      "clauses": "172",
+      "gbd_variables": "81",
+      "gbd_clauses": "172",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "602cb5256a5c05e90aec931c7f3fc0ab",
+      "tracks": "anni_2022,crafted_2007,crafted_2012",
+      "local_path": "instances/602cb5256a5c05e90aec931c7f3fc0ab.cnf",
+      "times": [
+        60.0
+      ],
+      "median": 60.0,
+      "min": 60.0,
+      "max": 60.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.005221460945904255,
+      "symmetry_broken_clauses": 172,
+      "solvers": {
+        "minisat22": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 60.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 60.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 60.0
+    },
+    "05f3a48298721d68cded8618b432e7c3": {
+      "source": "exact_top.json",
+      "hash": "05f3a48298721d68cded8618b432e7c3",
+      "variables": "85",
+      "clauses": "180",
+      "gbd_variables": "85",
+      "gbd_clauses": "180",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "05f3a48298721d68cded8618b432e7c3",
+      "tracks": "anni_2022,crafted_2007",
+      "local_path": "instances/05f3a48298721d68cded8618b432e7c3.cnf",
+      "times": [
+        60.0
+      ],
+      "median": 60.0,
+      "min": 60.0,
+      "max": 60.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.00365282129496336,
+      "symmetry_broken_clauses": 180,
+      "solvers": {
+        "minisat22": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 60.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 60.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 60.0
+    }
+  }
+}

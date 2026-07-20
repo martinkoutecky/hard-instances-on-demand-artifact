@@ -1,0 +1,30 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+            "solver": "cpopt",
+            "N": 8,
+            "M": 4,
+            "U": 100,
+            "budget": 100000,
+            "opt": {
+                "DiagonalCMA": { "Solver": "DiagonalCMA", "iters": 5 },
+                "TwoPointsDE": { "Solver": "TwoPointsDE", "iters": 5 }
+            },
+            "k": 1,
+            "F": "min",
+            "F_unflat": "negative",
+            "batch": 0,
+            "tasks_parallel": 10,
+            "evals_parallel": 1,
+            "cache_size": 1000,
+            "debug": 2,
+            "seeding": 0,
+            "salt": 4000,
+            "top_k_genomes": 100,
+            "autosave_interval": 600
+        },
+        "transform": { "comment": true },
+        "plot": { "comment": true }
+    }
+}

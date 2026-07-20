@@ -1,0 +1,174 @@
+{
+  "protocol": {
+    "portfolio": [
+      "minisat22",
+      "BreakID + cadical195 (flat 0.008 s preprocessing charge)",
+      "CryptoMiniSat via pycryptosat, one thread"
+    ],
+    "metric": "first finishing branch CPU time, as in SAT/solution_portfolio.py",
+    "repeats": 1,
+    "aggregation": "median",
+    "cap_seconds": 60.0,
+    "breakid_runtime_included": false
+  },
+  "machine": {
+    "platform": "Linux-6.1.0-45-amd64-x86_64-with-glibc2.36",
+    "processor": "",
+    "python": "3.12.12"
+  },
+  "project_revision": "c0d119c717078e58de0c9e635660e453775dc05f",
+  "instances": {
+    "0297c2a35f116ffd5382aea5b421e6df": {
+      "hash": "0297c2a35f116ffd5382aea5b421e6df",
+      "variables": "45",
+      "clauses": "376",
+      "gbd_variables": "45",
+      "gbd_clauses": "376",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unsat",
+      "filename": "0297c2a35f116ffd5382aea5b421e6df",
+      "tracks": "anni_2022,handmade_2003,handmade_2004,main_2023",
+      "local_path": "instances/0297c2a35f116ffd5382aea5b421e6df.cnf",
+      "times": [
+        0.008060444
+      ],
+      "median": 0.008060444,
+      "min": 0.008060444,
+      "max": 0.008060444
+    },
+    "0928111a3d5d5ce05dffb83cb5982eba": {
+      "hash": "0928111a3d5d5ce05dffb83cb5982eba",
+      "variables": "54",
+      "clauses": "58",
+      "gbd_variables": "54",
+      "gbd_clauses": "58",
+      "family": "cover",
+      "author": "gacek",
+      "result": "unsat",
+      "filename": "0928111a3d5d5ce05dffb83cb5982eba",
+      "tracks": "anni_2022,main_2020",
+      "local_path": "instances/0928111a3d5d5ce05dffb83cb5982eba.cnf",
+      "times": [
+        9.800499999999997e-05
+      ],
+      "median": 9.800499999999997e-05,
+      "min": 9.800499999999997e-05,
+      "max": 9.800499999999997e-05
+    },
+    "aa39c6d885d283a085d033ab7b89f8c8": {
+      "hash": "aa39c6d885d283a085d033ab7b89f8c8",
+      "variables": "74",
+      "clauses": "694",
+      "gbd_variables": "74",
+      "gbd_clauses": "694",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "aa39c6d885d283a085d033ab7b89f8c8",
+      "tracks": "anni_2022,crafted_2012,main_2024",
+      "local_path": "instances/aa39c6d885d283a085d033ab7b89f8c8.cnf",
+      "times": [
+        0.008028995
+      ],
+      "median": 0.008028995,
+      "min": 0.008028995,
+      "max": 0.008028995
+    },
+    "245e9b5cdf197b523d57f35ac2fcb303": {
+      "hash": "245e9b5cdf197b523d57f35ac2fcb303",
+      "variables": "89",
+      "clauses": "188",
+      "gbd_variables": "89",
+      "gbd_clauses": "188",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "245e9b5cdf197b523d57f35ac2fcb303",
+      "tracks": "anni_2022,crafted_2012,main_2020",
+      "local_path": "instances/245e9b5cdf197b523d57f35ac2fcb303.cnf",
+      "times": [
+        60.0
+      ],
+      "median": 60.0,
+      "min": 60.0,
+      "max": 60.0
+    },
+    "44092fcc83a5cba81419e82cfd18602c": {
+      "hash": "44092fcc83a5cba81419e82cfd18602c",
+      "variables": "90",
+      "clauses": "415",
+      "gbd_variables": "90",
+      "gbd_clauses": "415",
+      "family": "pigeon-hole",
+      "author": "unknown",
+      "result": "unsat",
+      "filename": "44092fcc83a5cba81419e82cfd18602c",
+      "tracks": "anni_2022,crafted_2005,main_2023",
+      "local_path": "instances/44092fcc83a5cba81419e82cfd18602c.cnf",
+      "times": [
+        0.019557228
+      ],
+      "median": 0.019557228,
+      "min": 0.019557228,
+      "max": 0.019557228
+    },
+    "8ee37a01a9ac1dbebe27e63e7b088762": {
+      "hash": "8ee37a01a9ac1dbebe27e63e7b088762",
+      "variables": "97",
+      "clauses": "204",
+      "gbd_variables": "97",
+      "gbd_clauses": "204",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "8ee37a01a9ac1dbebe27e63e7b088762",
+      "tracks": "main_2019",
+      "local_path": "instances/8ee37a01a9ac1dbebe27e63e7b088762.cnf",
+      "times": [
+        60.0
+      ],
+      "median": 60.0,
+      "min": 60.0,
+      "max": 60.0
+    },
+    "01d142c43f3ce9a8c5ef7a1ecdbb6cba": {
+      "hash": "01d142c43f3ce9a8c5ef7a1ecdbb6cba",
+      "variables": "99",
+      "clauses": "264",
+      "gbd_variables": "99",
+      "gbd_clauses": "264",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unsat",
+      "filename": "01d142c43f3ce9a8c5ef7a1ecdbb6cba",
+      "tracks": "anni_2022,crafted_2011,crafted_2012,handmade_2002,main_2022,portfolio_2012",
+      "local_path": "instances/01d142c43f3ce9a8c5ef7a1ecdbb6cba.cnf",
+      "times": [
+        0.008050676
+      ],
+      "median": 0.008050676,
+      "min": 0.008050676,
+      "max": 0.008050676
+    },
+    "07b476c83150d3cb7e08f5d045e255ab": {
+      "hash": "07b476c83150d3cb7e08f5d045e255ab",
+      "variables": "105",
+      "clauses": "512",
+      "gbd_variables": "105",
+      "gbd_clauses": "512",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "07b476c83150d3cb7e08f5d045e255ab",
+      "tracks": "anni_2022,handmade_2003,main_2024",
+      "local_path": "instances/07b476c83150d3cb7e08f5d045e255ab.cnf",
+      "times": [
+        0.008142128
+      ],
+      "median": 0.008142128,
+      "min": 0.008142128,
+      "max": 0.008142128
+    }
+  }
+}

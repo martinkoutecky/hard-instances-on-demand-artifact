@@ -1,0 +1,61 @@
+{
+  "protocol": {
+    "portfolio": [
+      "minisat22",
+      "BreakID + cadical195 (flat 0.008 s preprocessing charge)",
+      "CryptoMiniSat via pycryptosat, one thread"
+    ],
+    "metric": "first finishing branch CPU time, as in SAT/solution_portfolio.py",
+    "repeats": 5,
+    "aggregation": "median",
+    "cap_seconds": 60.0,
+    "breakid_runtime_included": false
+  },
+  "machine": {
+    "platform": "Linux-6.1.0-45-amd64-x86_64-with-glibc2.36",
+    "processor": "",
+    "python": "3.12.12"
+  },
+  "project_revision": "c0d119c717078e58de0c9e635660e453775dc05f",
+  "instances": {
+    "8899e5c07d73f37ef7cef3a70895142b1c36aecd906f145a54b001225548ffd9": {
+      "hash": "8899e5c07d73f37ef7cef3a70895142b1c36aecd906f145a54b001225548ffd9",
+      "filename": "champ_MultiScaleCMA_kcnf_gt1s2L.cnf",
+      "local_path": "<workdir>/attachment-audit/individual_software_project-thesis-champions/champions/sat/champ_MultiScaleCMA_kcnf_gt1s2L.cnf",
+      "family": "Nevergrad champion",
+      "tracks": "paper",
+      "times": [
+        12.469739806,
+        12.439547998,
+        12.468736257,
+        12.48036285,
+        12.534340426
+      ],
+      "median": 12.469739806,
+      "min": 12.439547998,
+      "max": 12.534340426
+    },
+    "ce7135236b1b280b0ac6fed38d2e85fc1caff42523e7c31cc023c7f2f49c2b1d": {
+      "hash": "ce7135236b1b280b0ac6fed38d2e85fc1caff42523e7c31cc023c7f2f49c2b1d",
+      "filename": "champ_TripleCMA_mpfx_gt1s2L.cnf",
+      "local_path": "<workdir>/attachment-audit/individual_software_project-thesis-champions/champions/sat/champ_TripleCMA_mpfx_gt1s2L.cnf",
+      "family": "Nevergrad champion",
+      "tracks": "paper",
+      "times": [
+        11.850396074999999,
+        11.63384869,
+        11.612267099,
+        11.621125202,
+        11.683573999
+      ],
+      "median": 11.63384869,
+      "min": 11.612267099,
+      "max": 11.850396074999999
+    }
+  },
+  "ranking": [
+    "8899e5c07d73f37ef7cef3a70895142b1c36aecd906f145a54b001225548ffd9",
+    "ce7135236b1b280b0ac6fed38d2e85fc1caff42523e7c31cc023c7f2f49c2b1d"
+  ],
+  "completed_at_utc": "2026-07-17T13:15:56Z"
+}

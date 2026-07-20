@@ -1,0 +1,8 @@
+2026-07-19T12:26:29+00:00 START tsp-random-clean-1 cpu=2 attempt=1
+tsp-rs clean shard=1 rank=2 done
+tsp-rs clean shard=1 rank=6 done
+tsp-rs clean shard=1 rank=10 done
+tsp-rs clean shard=1 rank=14 done
+tsp-rs clean shard=1 rank=18 done
+wrote current_machine_rebench/results/followup-four-core/tsp-random-clean-shard1.json
+2026-07-19T12:31:19+00:00 DONE tsp-random-clean-1 cpu=2

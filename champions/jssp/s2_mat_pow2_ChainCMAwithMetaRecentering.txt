@@ -1,0 +1,8 @@
+# s2_mat_pow2_ChainCMAwithMetaRecentering
+6 4
+45 2 48 46
+43 2 42 43
+51 4 50 52
+99 99 89 90
+55 3 54 56
+42 2 43 41

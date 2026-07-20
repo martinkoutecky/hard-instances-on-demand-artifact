@@ -1,0 +1,424 @@
+2026-07-18T20:31:43+00:00 ham supervisor launch attempt 1
+ham control_randomsearch_trivial train seed=1 rep=0: SOLVED 0.028737s
+ham control_randomsearch_trivial train seed=1 rep=1: SOLVED 0.028182s
+ham control_randomsearch_trivial train seed=1 rep=2: SOLVED 0.028206s
+ham control_randomsearch_trivial train seed=2 rep=0: SOLVED 0.028004s
+ham control_randomsearch_trivial train seed=2 rep=1: SOLVED 0.027441s
+ham control_randomsearch_trivial train seed=2 rep=2: SOLVED 0.027515s
+ham control_randomsearch_trivial train seed=3 rep=0: SOLVED 0.029194s
+ham control_randomsearch_trivial train seed=3 rep=1: SOLVED 0.029368s
+ham control_randomsearch_trivial train seed=3 rep=2: SOLVED 0.029176s
+ham control_randomsearch_trivial train seed=4 rep=0: SOLVED 0.027641s
+ham control_randomsearch_trivial train seed=4 rep=1: SOLVED 0.028123s
+ham control_randomsearch_trivial train seed=4 rep=2: SOLVED 0.028091s
+ham control_randomsearch_trivial train seed=5 rep=0: SOLVED 0.027232s
+ham control_randomsearch_trivial train seed=5 rep=1: SOLVED 0.027295s
+ham control_randomsearch_trivial train seed=5 rep=2: SOLVED 0.027279s
+ham control_randomsearch_trivial train seed=6 rep=0: SOLVED 0.027920s
+ham control_randomsearch_trivial train seed=6 rep=1: SOLVED 0.027831s
+ham control_randomsearch_trivial train seed=6 rep=2: SOLVED 0.028308s
+ham control_randomsearch_trivial train seed=7 rep=0: SOLVED 0.028053s
+ham control_randomsearch_trivial train seed=7 rep=1: SOLVED 0.027861s
+ham control_randomsearch_trivial train seed=7 rep=2: SOLVED 0.027520s
+ham control_randomsearch_trivial heldout seed=8 rep=0: SOLVED 0.028791s
+ham control_randomsearch_trivial heldout seed=9 rep=0: SOLVED 0.030681s
+ham control_randomsearch_trivial heldout seed=10 rep=0: SOLVED 0.030483s
+ham control_randomsearch_trivial heldout seed=11 rep=0: SOLVED 0.031195s
+ham control_randomsearch_trivial heldout seed=12 rep=0: SOLVED 0.027743s
+ham control_randomsearch_trivial heldout seed=13 rep=0: SOLVED 0.028083s
+ham control_randomsearch_trivial heldout seed=14 rep=0: SOLVED 0.028256s
+ham control_randomsearch_trivial heldout seed=15 rep=0: SOLVED 0.027650s
+ham control_randomsearch_trivial heldout seed=16 rep=0: SOLVED 0.027941s
+ham control_randomsearch_trivial heldout seed=17 rep=0: SOLVED 0.027551s
+ham control_randomsearch_trivial heldout seed=18 rep=0: SOLVED 0.028039s
+ham control_randomsearch_trivial heldout seed=19 rep=0: SOLVED 0.026557s
+ham control_randomsearch_trivial heldout seed=20 rep=0: SOLVED 0.030233s
+ham control_randomsearch_trivial heldout seed=21 rep=0: SOLVED 0.029023s
+ham control_randomsearch_trivial heldout seed=22 rep=0: SOLVED 0.028621s
+ham control_randomsearch_trivial heldout seed=23 rep=0: SOLVED 0.027687s
+ham control_randomsearch_trivial heldout seed=24 rep=0: SOLVED 0.043540s
+ham control_randomsearch_trivial heldout seed=25 rep=0: SOLVED 0.029378s
+ham control_randomsearch_trivial heldout seed=26 rep=0: SOLVED 0.030390s
+ham control_randomsearch_trivial heldout seed=27 rep=0: SOLVED 0.028989s
+ham control_randomsearch_trivial heldout seed=28 rep=0: SOLVED 0.030839s
+ham control_randomsearch_trivial heldout seed=29 rep=0: SOLVED 0.031215s
+ham control_randomsearch_trivial heldout seed=30 rep=0: SOLVED 0.026436s
+ham control_randomsearch_perm_int train seed=1 rep=0: SOLVED 0.226826s
+ham control_randomsearch_perm_int train seed=1 rep=1: SOLVED 0.223009s
+ham control_randomsearch_perm_int train seed=1 rep=2: SOLVED 0.224044s
+ham control_randomsearch_perm_int train seed=2 rep=0: SOLVED 0.055151s
+ham control_randomsearch_perm_int train seed=2 rep=1: SOLVED 0.055058s
+ham control_randomsearch_perm_int train seed=2 rep=2: SOLVED 0.054998s
+ham control_randomsearch_perm_int train seed=3 rep=0: SOLVED 0.065861s
+ham control_randomsearch_perm_int train seed=3 rep=1: SOLVED 0.065804s
+ham control_randomsearch_perm_int train seed=3 rep=2: SOLVED 0.066646s
+ham control_randomsearch_perm_int train seed=4 rep=0: SOLVED 0.373719s
+ham control_randomsearch_perm_int train seed=4 rep=1: SOLVED 0.369389s
+ham control_randomsearch_perm_int train seed=4 rep=2: SOLVED 0.370088s
+ham control_randomsearch_perm_int train seed=5 rep=0: SOLVED 0.469887s
+ham control_randomsearch_perm_int train seed=5 rep=1: SOLVED 0.473182s
+ham control_randomsearch_perm_int train seed=5 rep=2: SOLVED 0.470020s
+ham control_randomsearch_perm_int train seed=6 rep=0: SOLVED 0.147134s
+ham control_randomsearch_perm_int train seed=6 rep=1: SOLVED 0.147160s
+ham control_randomsearch_perm_int train seed=6 rep=2: SOLVED 0.149294s
+ham control_randomsearch_perm_int train seed=7 rep=0: SOLVED 0.105399s
+ham control_randomsearch_perm_int train seed=7 rep=1: SOLVED 0.100310s
+ham control_randomsearch_perm_int train seed=7 rep=2: SOLVED 0.100386s
+ham control_randomsearch_perm_int heldout seed=8 rep=0: SOLVED 0.023160s
+ham control_randomsearch_perm_int heldout seed=9 rep=0: SOLVED 0.496485s
+ham control_randomsearch_perm_int heldout seed=10 rep=0: SOLVED 0.042400s
+ham control_randomsearch_perm_int heldout seed=11 rep=0: SOLVED 0.034155s
+ham control_randomsearch_perm_int heldout seed=12 rep=0: SOLVED 0.349952s
+ham control_randomsearch_perm_int heldout seed=13 rep=0: SOLVED 0.168301s
+ham control_randomsearch_perm_int heldout seed=14 rep=0: SOLVED 0.280188s
+ham control_randomsearch_perm_int heldout seed=15 rep=0: SOLVED 0.017487s
+ham control_randomsearch_perm_int heldout seed=16 rep=0: SOLVED 0.175537s
+ham control_randomsearch_perm_int heldout seed=17 rep=0: SOLVED 0.030839s
+ham control_randomsearch_perm_int heldout seed=18 rep=0: SOLVED 0.083192s
+ham control_randomsearch_perm_int heldout seed=19 rep=0: SOLVED 0.356140s
+ham control_randomsearch_perm_int heldout seed=20 rep=0: SOLVED 0.042588s
+ham control_randomsearch_perm_int heldout seed=21 rep=0: SOLVED 0.175981s
+ham control_randomsearch_perm_int heldout seed=22 rep=0: SOLVED 0.122474s
+ham control_randomsearch_perm_int heldout seed=23 rep=0: SOLVED 0.198921s
+ham control_randomsearch_perm_int heldout seed=24 rep=0: SOLVED 0.062471s
+ham control_randomsearch_perm_int heldout seed=25 rep=0: SOLVED 0.100162s
+ham control_randomsearch_perm_int heldout seed=26 rep=0: SOLVED 0.077054s
+ham control_randomsearch_perm_int heldout seed=27 rep=0: SOLVED 0.072063s
+ham control_randomsearch_perm_int heldout seed=28 rep=0: SOLVED 0.212210s
+ham control_randomsearch_perm_int heldout seed=29 rep=0: SOLVED 0.038400s
+ham control_randomsearch_perm_int heldout seed=30 rep=0: SOLVED 0.046372s
+ham control_randomsearch_perm_thr train seed=1 rep=0: SOLVED 0.132740s
+ham control_randomsearch_perm_thr train seed=1 rep=1: SOLVED 0.133653s
+ham control_randomsearch_perm_thr train seed=1 rep=2: SOLVED 0.136395s
+ham control_randomsearch_perm_thr train seed=2 rep=0: SOLVED 0.188957s
+ham control_randomsearch_perm_thr train seed=2 rep=1: SOLVED 0.183563s
+ham control_randomsearch_perm_thr train seed=2 rep=2: SOLVED 0.182555s
+ham control_randomsearch_perm_thr train seed=3 rep=0: SOLVED 0.112030s
+ham control_randomsearch_perm_thr train seed=3 rep=1: SOLVED 0.116363s
+ham control_randomsearch_perm_thr train seed=3 rep=2: SOLVED 0.114855s
+ham control_randomsearch_perm_thr train seed=4 rep=0: SOLVED 0.182260s
+ham control_randomsearch_perm_thr train seed=4 rep=1: SOLVED 0.180153s
+ham control_randomsearch_perm_thr train seed=4 rep=2: SOLVED 0.182612s
+ham control_randomsearch_perm_thr train seed=5 rep=0: SOLVED 0.130136s
+ham control_randomsearch_perm_thr train seed=5 rep=1: SOLVED 0.130307s
+ham control_randomsearch_perm_thr train seed=5 rep=2: SOLVED 0.132576s
+ham control_randomsearch_perm_thr train seed=6 rep=0: SOLVED 0.652583s
+ham control_randomsearch_perm_thr train seed=6 rep=1: SOLVED 0.650911s
+ham control_randomsearch_perm_thr train seed=6 rep=2: SOLVED 0.647760s
+ham control_randomsearch_perm_thr train seed=7 rep=0: SOLVED 0.055370s
+ham control_randomsearch_perm_thr train seed=7 rep=1: SOLVED 0.055768s
+ham control_randomsearch_perm_thr train seed=7 rep=2: SOLVED 0.055284s
+ham control_randomsearch_perm_thr heldout seed=8 rep=0: SOLVED 0.395135s
+ham control_randomsearch_perm_thr heldout seed=9 rep=0: SOLVED 0.191935s
+ham control_randomsearch_perm_thr heldout seed=10 rep=0: SOLVED 0.268858s
+ham control_randomsearch_perm_thr heldout seed=11 rep=0: SOLVED 0.116368s
+ham control_randomsearch_perm_thr heldout seed=12 rep=0: SOLVED 0.080525s
+ham control_randomsearch_perm_thr heldout seed=13 rep=0: SOLVED 0.123817s
+ham control_randomsearch_perm_thr heldout seed=14 rep=0: SOLVED 0.193984s
+ham control_randomsearch_perm_thr heldout seed=15 rep=0: SOLVED 0.121624s
+ham control_randomsearch_perm_thr heldout seed=16 rep=0: SOLVED 0.193174s
+ham control_randomsearch_perm_thr heldout seed=17 rep=0: SOLVED 0.041530s
+ham control_randomsearch_perm_thr heldout seed=18 rep=0: SOLVED 0.085898s
+ham control_randomsearch_perm_thr heldout seed=19 rep=0: SOLVED 0.142179s
+ham control_randomsearch_perm_thr heldout seed=20 rep=0: SOLVED 0.496665s
+ham control_randomsearch_perm_thr heldout seed=21 rep=0: SOLVED 0.100554s
+ham control_randomsearch_perm_thr heldout seed=22 rep=0: SOLVED 0.233003s
+ham control_randomsearch_perm_thr heldout seed=23 rep=0: SOLVED 0.196008s
+ham control_randomsearch_perm_thr heldout seed=24 rep=0: SOLVED 0.061093s
+ham control_randomsearch_perm_thr heldout seed=25 rep=0: SOLVED 0.173387s
+ham control_randomsearch_perm_thr heldout seed=26 rep=0: SOLVED 0.100761s
+ham control_randomsearch_perm_thr heldout seed=27 rep=0: SOLVED 0.232334s
+ham control_randomsearch_perm_thr heldout seed=28 rep=0: SOLVED 0.124637s
+ham control_randomsearch_perm_thr heldout seed=29 rep=0: SOLVED 0.122906s
+ham control_randomsearch_perm_thr heldout seed=30 rep=0: SOLVED 0.386714s
+ham control_gnp20_022 train seed=1 rep=0: SOLVED 0.376394s
+ham control_gnp20_022 train seed=1 rep=1: SOLVED 0.382550s
+ham control_gnp20_022 train seed=1 rep=2: SOLVED 0.379298s
+ham control_gnp20_022 train seed=2 rep=0: SOLVED 0.256330s
+ham control_gnp20_022 train seed=2 rep=1: SOLVED 0.260718s
+ham control_gnp20_022 train seed=2 rep=2: SOLVED 0.256246s
+ham control_gnp20_022 train seed=3 rep=0: SOLVED 0.064364s
+ham control_gnp20_022 train seed=3 rep=1: SOLVED 0.063815s
+ham control_gnp20_022 train seed=3 rep=2: SOLVED 0.063825s
+ham control_gnp20_022 train seed=4 rep=0: SOLVED 0.290632s
+ham control_gnp20_022 train seed=4 rep=1: SOLVED 0.292985s
+ham control_gnp20_022 train seed=4 rep=2: SOLVED 0.290066s
+ham control_gnp20_022 train seed=5 rep=0: SOLVED 0.011280s
+ham control_gnp20_022 train seed=5 rep=1: SOLVED 0.011260s
+ham control_gnp20_022 train seed=5 rep=2: SOLVED 0.011276s
+ham control_gnp20_022 train seed=6 rep=0: SOLVED 0.068808s
+ham control_gnp20_022 train seed=6 rep=1: SOLVED 0.069080s
+ham control_gnp20_022 train seed=6 rep=2: SOLVED 0.068878s
+ham control_gnp20_022 train seed=7 rep=0: SOLVED 0.526530s
+ham control_gnp20_022 train seed=7 rep=1: SOLVED 0.525731s
+ham control_gnp20_022 train seed=7 rep=2: SOLVED 0.527053s
+ham control_gnp20_022 heldout seed=8 rep=0: SOLVED 0.111735s
+ham control_gnp20_022 heldout seed=9 rep=0: SOLVED 0.085773s
+ham control_gnp20_022 heldout seed=10 rep=0: SOLVED 0.446831s
+ham control_gnp20_022 heldout seed=11 rep=0: SOLVED 0.327059s
+ham control_gnp20_022 heldout seed=12 rep=0: SOLVED 0.118023s
+ham control_gnp20_022 heldout seed=13 rep=0: SOLVED 0.156476s
+ham control_gnp20_022 heldout seed=14 rep=0: SOLVED 0.077633s
+ham control_gnp20_022 heldout seed=15 rep=0: SOLVED 0.093988s
+ham control_gnp20_022 heldout seed=16 rep=0: SOLVED 0.040837s
+ham control_gnp20_022 heldout seed=17 rep=0: SOLVED 0.376293s
+ham control_gnp20_022 heldout seed=18 rep=0: SOLVED 0.217821s
+ham control_gnp20_022 heldout seed=19 rep=0: SOLVED 0.249938s
+ham control_gnp20_022 heldout seed=20 rep=0: SOLVED 0.555514s
+ham control_gnp20_022 heldout seed=21 rep=0: SOLVED 0.065499s
+ham control_gnp20_022 heldout seed=22 rep=0: SOLVED 0.197920s
+ham control_gnp20_022 heldout seed=23 rep=0: SOLVED 0.314764s
+ham control_gnp20_022 heldout seed=24 rep=0: SOLVED 0.671043s
+ham control_gnp20_022 heldout seed=25 rep=0: SOLVED 0.168335s
+ham control_gnp20_022 heldout seed=26 rep=0: SOLVED 0.038037s
+ham control_gnp20_022 heldout seed=27 rep=0: SOLVED 0.170862s
+ham control_gnp20_022 heldout seed=28 rep=0: SOLVED 0.243792s
+ham control_gnp20_022 heldout seed=29 rep=0: SOLVED 0.211028s
+ham control_gnp20_022 heldout seed=30 rep=0: SOLVED 0.036296s
+ham control_cubic20 train seed=1 rep=0: SOLVED 0.023712s
+ham control_cubic20 train seed=1 rep=1: SOLVED 0.023785s
+ham control_cubic20 train seed=1 rep=2: SOLVED 0.023738s
+ham control_cubic20 train seed=2 rep=0: SOLVED 0.008372s
+ham control_cubic20 train seed=2 rep=1: SOLVED 0.008479s
+ham control_cubic20 train seed=2 rep=2: SOLVED 0.008505s
+ham control_cubic20 train seed=3 rep=0: SOLVED 0.105725s
+ham control_cubic20 train seed=3 rep=1: SOLVED 0.111074s
+ham control_cubic20 train seed=3 rep=2: SOLVED 0.105884s
+ham control_cubic20 train seed=4 rep=0: SOLVED 0.053089s
+ham control_cubic20 train seed=4 rep=1: SOLVED 0.053163s
+ham control_cubic20 train seed=4 rep=2: SOLVED 0.053209s
+ham control_cubic20 train seed=5 rep=0: SOLVED 0.061597s
+ham control_cubic20 train seed=5 rep=1: SOLVED 0.061879s
+ham control_cubic20 train seed=5 rep=2: SOLVED 0.061676s
+ham control_cubic20 train seed=6 rep=0: SOLVED 0.003479s
+ham control_cubic20 train seed=6 rep=1: SOLVED 0.002801s
+ham control_cubic20 train seed=6 rep=2: SOLVED 0.002793s
+ham control_cubic20 train seed=7 rep=0: SOLVED 0.039266s
+ham control_cubic20 train seed=7 rep=1: SOLVED 0.039097s
+ham control_cubic20 train seed=7 rep=2: SOLVED 0.039361s
+ham control_cubic20 heldout seed=8 rep=0: SOLVED 0.005052s
+ham control_cubic20 heldout seed=9 rep=0: SOLVED 0.073226s
+ham control_cubic20 heldout seed=10 rep=0: SOLVED 0.002761s
+ham control_cubic20 heldout seed=11 rep=0: SOLVED 0.061200s
+ham control_cubic20 heldout seed=12 rep=0: SOLVED 0.002975s
+ham control_cubic20 heldout seed=13 rep=0: SOLVED 0.018413s
+ham control_cubic20 heldout seed=14 rep=0: SOLVED 0.005278s
+ham control_cubic20 heldout seed=15 rep=0: SOLVED 0.217765s
+ham control_cubic20 heldout seed=16 rep=0: SOLVED 0.009631s
+ham control_cubic20 heldout seed=17 rep=0: SOLVED 0.018459s
+ham control_cubic20 heldout seed=18 rep=0: SOLVED 0.009136s
+ham control_cubic20 heldout seed=19 rep=0: SOLVED 0.002694s
+ham control_cubic20 heldout seed=20 rep=0: SOLVED 0.023365s
+ham control_cubic20 heldout seed=21 rep=0: SOLVED 0.037063s
+ham control_cubic20 heldout seed=22 rep=0: SOLVED 0.061725s
+ham control_cubic20 heldout seed=23 rep=0: SOLVED 0.002909s
+ham control_cubic20 heldout seed=24 rep=0: SOLVED 0.023994s
+ham control_cubic20 heldout seed=25 rep=0: SOLVED 0.002648s
+ham control_cubic20 heldout seed=26 rep=0: SOLVED 0.004949s
+ham control_cubic20 heldout seed=27 rep=0: SOLVED 0.002909s
+ham control_cubic20 heldout seed=28 rep=0: SOLVED 0.003465s
+ham control_cubic20 heldout seed=29 rep=0: SOLVED 0.002686s
+ham control_cubic20 heldout seed=30 rep=0: SOLVED 0.026538s
+ham champion_twopointsde train seed=1 rep=0: SOLVED 1.033975s
+ham champion_twopointsde train seed=1 rep=1: SOLVED 1.033127s
+ham champion_twopointsde train seed=1 rep=2: SOLVED 1.029014s
+ham champion_twopointsde train seed=2 rep=0: SOLVED 0.617823s
+ham champion_twopointsde train seed=2 rep=1: SOLVED 0.614356s
+ham champion_twopointsde train seed=2 rep=2: SOLVED 0.619653s
+ham champion_twopointsde train seed=3 rep=0: SOLVED 0.553045s
+ham champion_twopointsde train seed=3 rep=1: SOLVED 0.550248s
+ham champion_twopointsde train seed=3 rep=2: SOLVED 0.557232s
+ham champion_twopointsde train seed=4 rep=0: SOLVED 0.675706s
+ham champion_twopointsde train seed=4 rep=1: SOLVED 0.681589s
+ham champion_twopointsde train seed=4 rep=2: SOLVED 0.680432s
+ham champion_twopointsde train seed=5 rep=0: SOLVED 0.143230s
+ham champion_twopointsde train seed=5 rep=1: SOLVED 0.143421s
+ham champion_twopointsde train seed=5 rep=2: SOLVED 0.143012s
+ham champion_twopointsde train seed=6 rep=0: SOLVED 0.583117s
+ham champion_twopointsde train seed=6 rep=1: SOLVED 0.577591s
+ham champion_twopointsde train seed=6 rep=2: SOLVED 0.583939s
+ham champion_twopointsde train seed=7 rep=0: SOLVED 0.869944s
+ham champion_twopointsde train seed=7 rep=1: SOLVED 0.871784s
+ham champion_twopointsde train seed=7 rep=2: SOLVED 0.872956s
+ham champion_twopointsde heldout seed=8 rep=0: SOLVED 1.455441s
+ham champion_twopointsde heldout seed=9 rep=0: SOLVED 0.829227s
+ham champion_twopointsde heldout seed=10 rep=0: SOLVED 0.480261s
+ham champion_twopointsde heldout seed=11 rep=0: SOLVED 0.274495s
+ham champion_twopointsde heldout seed=12 rep=0: SOLVED 0.047532s
+ham champion_twopointsde heldout seed=13 rep=0: SOLVED 0.187818s
+ham champion_twopointsde heldout seed=14 rep=0: SOLVED 0.113714s
+ham champion_twopointsde heldout seed=15 rep=0: SOLVED 0.138910s
+ham champion_twopointsde heldout seed=16 rep=0: SOLVED 0.180598s
+ham champion_twopointsde heldout seed=17 rep=0: SOLVED 0.221368s
+ham champion_twopointsde heldout seed=18 rep=0: SOLVED 1.125160s
+ham champion_twopointsde heldout seed=19 rep=0: SOLVED 0.516088s
+ham champion_twopointsde heldout seed=20 rep=0: SOLVED 0.139711s
+ham champion_twopointsde heldout seed=21 rep=0: SOLVED 0.186561s
+ham champion_twopointsde heldout seed=22 rep=0: SOLVED 0.449687s
+ham champion_twopointsde heldout seed=23 rep=0: SOLVED 0.158144s
+ham champion_twopointsde heldout seed=24 rep=0: SOLVED 0.714157s
+ham champion_twopointsde heldout seed=25 rep=0: SOLVED 0.910238s
+ham champion_twopointsde heldout seed=26 rep=0: SOLVED 0.363803s
+ham champion_twopointsde heldout seed=27 rep=0: SOLVED 0.616787s
+ham champion_twopointsde heldout seed=28 rep=0: SOLVED 0.144955s
+ham champion_twopointsde heldout seed=29 rep=0: SOLVED 0.138481s
+ham champion_twopointsde heldout seed=30 rep=0: SOLVED 0.833019s
+ham champion_ngoptrw train seed=1 rep=0: SOLVED 1.079249s
+ham champion_ngoptrw train seed=1 rep=1: SOLVED 1.083610s
+ham champion_ngoptrw train seed=1 rep=2: SOLVED 1.083783s
+ham champion_ngoptrw train seed=2 rep=0: SOLVED 0.120742s
+ham champion_ngoptrw train seed=2 rep=1: SOLVED 0.122089s
+ham champion_ngoptrw train seed=2 rep=2: SOLVED 0.120444s
+ham champion_ngoptrw train seed=3 rep=0: SOLVED 1.002656s
+ham champion_ngoptrw train seed=3 rep=1: SOLVED 1.006160s
+ham champion_ngoptrw train seed=3 rep=2: SOLVED 1.001821s
+ham champion_ngoptrw train seed=4 rep=0: SOLVED 0.849261s
+ham champion_ngoptrw train seed=4 rep=1: SOLVED 0.848389s
+ham champion_ngoptrw train seed=4 rep=2: SOLVED 0.849052s
+ham champion_ngoptrw train seed=5 rep=0: SOLVED 0.281459s
+ham champion_ngoptrw train seed=5 rep=1: SOLVED 0.278143s
+ham champion_ngoptrw train seed=5 rep=2: SOLVED 0.276472s
+ham champion_ngoptrw train seed=6 rep=0: SOLVED 1.229990s
+ham champion_ngoptrw train seed=6 rep=1: SOLVED 1.235486s
+ham champion_ngoptrw train seed=6 rep=2: SOLVED 1.234924s
+ham champion_ngoptrw train seed=7 rep=0: SOLVED 0.197690s
+ham champion_ngoptrw train seed=7 rep=1: SOLVED 0.197148s
+ham champion_ngoptrw train seed=7 rep=2: SOLVED 0.200540s
+ham champion_ngoptrw heldout seed=8 rep=0: SOLVED 0.788235s
+ham champion_ngoptrw heldout seed=9 rep=0: SOLVED 0.465368s
+ham champion_ngoptrw heldout seed=10 rep=0: SOLVED 0.128077s
+ham champion_ngoptrw heldout seed=11 rep=0: SOLVED 0.197150s
+ham champion_ngoptrw heldout seed=12 rep=0: SOLVED 0.423195s
+ham champion_ngoptrw heldout seed=13 rep=0: SOLVED 0.379726s
+ham champion_ngoptrw heldout seed=14 rep=0: SOLVED 0.718753s
+ham champion_ngoptrw heldout seed=15 rep=0: SOLVED 0.303711s
+ham champion_ngoptrw heldout seed=16 rep=0: SOLVED 0.290800s
+ham champion_ngoptrw heldout seed=17 rep=0: SOLVED 0.317520s
+ham champion_ngoptrw heldout seed=18 rep=0: SOLVED 0.027135s
+ham champion_ngoptrw heldout seed=19 rep=0: SOLVED 0.063457s
+ham champion_ngoptrw heldout seed=20 rep=0: SOLVED 0.038415s
+ham champion_ngoptrw heldout seed=21 rep=0: SOLVED 0.018629s
+ham champion_ngoptrw heldout seed=22 rep=0: SOLVED 0.392442s
+ham champion_ngoptrw heldout seed=23 rep=0: SOLVED 0.022009s
+ham champion_ngoptrw heldout seed=24 rep=0: SOLVED 0.244340s
+ham champion_ngoptrw heldout seed=25 rep=0: SOLVED 0.612369s
+ham champion_ngoptrw heldout seed=26 rep=0: SOLVED 0.712540s
+ham champion_ngoptrw heldout seed=27 rep=0: SOLVED 0.283584s
+ham champion_ngoptrw heldout seed=28 rep=0: SOLVED 1.013680s
+ham champion_ngoptrw heldout seed=29 rep=0: SOLVED 0.509394s
+ham champion_ngoptrw heldout seed=30 rep=0: SOLVED 0.577153s
+ham champion_discretebso train seed=1 rep=0: SOLVED 1.730624s
+ham champion_discretebso train seed=1 rep=1: SOLVED 1.722487s
+ham champion_discretebso train seed=1 rep=2: SOLVED 1.729475s
+ham champion_discretebso train seed=2 rep=0: SOLVED 1.525588s
+ham champion_discretebso train seed=2 rep=1: SOLVED 1.525813s
+ham champion_discretebso train seed=2 rep=2: SOLVED 1.522874s
+ham champion_discretebso train seed=3 rep=0: SOLVED 1.098129s
+ham champion_discretebso train seed=3 rep=1: SOLVED 1.118291s
+ham champion_discretebso train seed=3 rep=2: SOLVED 1.096318s
+ham champion_discretebso train seed=4 rep=0: SOLVED 1.385752s
+ham champion_discretebso train seed=4 rep=1: SOLVED 1.419646s
+ham champion_discretebso train seed=4 rep=2: SOLVED 1.383720s
+ham champion_discretebso train seed=5 rep=0: SOLVED 0.038163s
+ham champion_discretebso train seed=5 rep=1: SOLVED 0.037750s
+ham champion_discretebso train seed=5 rep=2: SOLVED 0.037703s
+ham champion_discretebso train seed=6 rep=0: SOLVED 0.732082s
+ham champion_discretebso train seed=6 rep=1: SOLVED 0.738172s
+ham champion_discretebso train seed=6 rep=2: SOLVED 0.735121s
+ham champion_discretebso train seed=7 rep=0: SOLVED 0.065919s
+ham champion_discretebso train seed=7 rep=1: SOLVED 0.066395s
+ham champion_discretebso train seed=7 rep=2: SOLVED 0.066001s
+ham champion_discretebso heldout seed=8 rep=0: SOLVED 0.772284s
+ham champion_discretebso heldout seed=9 rep=0: SOLVED 0.080106s
+ham champion_discretebso heldout seed=10 rep=0: SOLVED 0.039979s
+ham champion_discretebso heldout seed=11 rep=0: SOLVED 0.380874s
+ham champion_discretebso heldout seed=12 rep=0: SOLVED 0.655574s
+ham champion_discretebso heldout seed=13 rep=0: SOLVED 1.073321s
+ham champion_discretebso heldout seed=14 rep=0: SOLVED 0.829360s
+ham champion_discretebso heldout seed=15 rep=0: SOLVED 1.102510s
+ham champion_discretebso heldout seed=16 rep=0: SOLVED 0.971831s
+ham champion_discretebso heldout seed=17 rep=0: SOLVED 1.248082s
+ham champion_discretebso heldout seed=18 rep=0: SOLVED 0.350151s
+ham champion_discretebso heldout seed=19 rep=0: SOLVED 1.097811s
+ham champion_discretebso heldout seed=20 rep=0: SOLVED 0.419288s
+ham champion_discretebso heldout seed=21 rep=0: SOLVED 0.484216s
+ham champion_discretebso heldout seed=22 rep=0: SOLVED 0.670483s
+ham champion_discretebso heldout seed=23 rep=0: SOLVED 0.473795s
+ham champion_discretebso heldout seed=24 rep=0: SOLVED 0.295092s
+ham champion_discretebso heldout seed=25 rep=0: SOLVED 0.102294s
+ham champion_discretebso heldout seed=26 rep=0: SOLVED 0.045362s
+ham champion_discretebso heldout seed=27 rep=0: SOLVED 0.362771s
+ham champion_discretebso heldout seed=28 rep=0: SOLVED 1.192541s
+ham champion_discretebso heldout seed=29 rep=0: SOLVED 0.057117s
+ham champion_discretebso heldout seed=30 rep=0: SOLVED 0.486692s
+ham_external fhcp/graph5 seed=1: SOLVED 3.818652s
+ham_external fhcp/graph5 seed=2: TIMEOUT 60.000000s
+ham_external fhcp/graph5 seed=3: TIMEOUT 60.000000s
+ham_external fhcp/graph5 seed=4: TIMEOUT 60.000000s
+ham_external fhcp/graph5 seed=5: SOLVED 7.088784s
+ham_external fhcp/graph5 seed=6: SOLVED 43.234044s
+ham_external fhcp/graph5 seed=7: SOLVED 12.293308s
+ham_external fhcp/graph6 seed=1: SOLVED 0.022837s
+ham_external fhcp/graph6 seed=2: SOLVED 0.022661s
+ham_external fhcp/graph6 seed=3: SOLVED 0.021970s
+ham_external fhcp/graph6 seed=4: SOLVED 0.082995s
+ham_external fhcp/graph6 seed=5: SOLVED 0.022480s
+ham_external fhcp/graph6 seed=6: SOLVED 0.023871s
+ham_external fhcp/graph6 seed=7: SOLVED 0.022573s
+ham_external fhcp/graph7 seed=1: TIMEOUT 60.000000s
+ham_external fhcp/graph7 seed=2: SOLVED 37.980978s
+ham_external fhcp/graph7 seed=3: TIMEOUT 60.000000s
+ham_external fhcp/graph7 seed=4: SOLVED 53.060405s
+ham_external fhcp/graph7 seed=5: TIMEOUT 60.000000s
+ham_external fhcp/graph7 seed=6: TIMEOUT 60.000000s
+ham_external fhcp/graph7: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph8 seed=1: SOLVED 0.512650s
+ham_external fhcp/graph8 seed=2: SOLVED 12.122227s
+ham_external fhcp/graph8 seed=3: SOLVED 10.235244s
+ham_external fhcp/graph8 seed=4: SOLVED 22.615489s
+ham_external fhcp/graph8 seed=5: SOLVED 7.874641s
+ham_external fhcp/graph8 seed=6: SOLVED 0.088568s
+ham_external fhcp/graph8 seed=7: SOLVED 6.312184s
+ham_external fhcp/graph9 seed=1: TIMEOUT 60.000000s
+ham_external fhcp/graph9 seed=2: TIMEOUT 60.000000s
+ham_external fhcp/graph9 seed=3: TIMEOUT 60.000000s
+ham_external fhcp/graph9 seed=4: TIMEOUT 60.000000s
+ham_external fhcp/graph9: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph10 seed=1: SOLVED 0.031542s
+ham_external fhcp/graph10 seed=2: SOLVED 0.031833s
+ham_external fhcp/graph10 seed=3: SOLVED 0.030371s
+ham_external fhcp/graph10 seed=4: SOLVED 0.030656s
+ham_external fhcp/graph10 seed=5: SOLVED 0.032610s
+ham_external fhcp/graph10 seed=6: SOLVED 0.033715s
+ham_external fhcp/graph10 seed=7: SOLVED 0.360355s
+ham_external fhcp/graph11 seed=1: TIMEOUT 60.000000s
+ham_external fhcp/graph11 seed=2: TIMEOUT 60.000000s
+ham_external fhcp/graph11 seed=3: TIMEOUT 60.000000s
+ham_external fhcp/graph11 seed=4: TIMEOUT 60.000000s
+ham_external fhcp/graph11: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph12 seed=1: TIMEOUT 60.000000s
+ham_external fhcp/graph12 seed=2: TIMEOUT 60.000000s
+ham_external fhcp/graph12 seed=3: TIMEOUT 60.000000s
+ham_external fhcp/graph12 seed=4: SOLVED 59.224804s
+ham_external fhcp/graph12 seed=5: SOLVED 33.990506s
+ham_external fhcp/graph12 seed=6: TIMEOUT 60.000000s
+ham_external fhcp/graph12: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph13 seed=1: TIMEOUT 60.000000s
+ham_external fhcp/graph13 seed=2: TIMEOUT 60.000000s
+ham_external fhcp/graph13 seed=3: TIMEOUT 60.000000s
+ham_external fhcp/graph13 seed=4: TIMEOUT 60.000000s
+ham_external fhcp/graph13: median is right-censored at 60s after 4/7 timeout seeds
+ham_external fhcp/graph14 seed=1: SOLVED 0.042376s
+ham_external fhcp/graph14 seed=2: SOLVED 0.436992s
+ham_external fhcp/graph14 seed=3: SOLVED 0.046627s
+ham_external fhcp/graph14 seed=4: SOLVED 0.045066s
+ham_external fhcp/graph14 seed=5: SOLVED 0.037387s
+ham_external fhcp/graph14 seed=6: SOLVED 0.038489s
+ham_external fhcp/graph14 seed=7: SOLVED 0.053360s
+ham_external fhcp/graph15 seed=1: TIMEOUT 60.000000s
+ham_external fhcp/graph15 seed=2: TIMEOUT 60.000000s
+ham_external fhcp/graph15 seed=3: TIMEOUT 60.000000s
+ham_external fhcp/graph15 seed=4: TIMEOUT 60.000000s
+ham_external fhcp/graph15: median is right-censored at 60s after 4/7 timeout seeds
+wrote current_machine_rebench/results/ham-suite.json
+2026-07-18T21:05:48+00:00 ham supervisor: suite completed

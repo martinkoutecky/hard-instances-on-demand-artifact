@@ -1,0 +1,50 @@
+{
+  "cap_seconds": 30.0,
+  "breakid_runtime_included": false,
+  "instances": [
+    {
+      "hash": "a85db7ae2d8ab543d6c166607d7af3fa",
+      "variables": "192",
+      "clauses": "689",
+      "gbd_variables": "192",
+      "gbd_clauses": "689",
+      "family": "sgen-balanced",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "a85db7ae2d8ab543d6c166607d7af3fa",
+      "tracks": "anni_2022,main_2017",
+      "local_path": "instances/a85db7ae2d8ab543d6c166607d7af3fa.cnf",
+      "times": [
+        20.0
+      ],
+      "median": 20.0,
+      "min": 20.0,
+      "max": 20.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.008046402130275965,
+      "symmetry_broken_clauses": 689,
+      "solvers": {
+        "minisat22": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 30.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 30.0
+    }
+  ]
+}

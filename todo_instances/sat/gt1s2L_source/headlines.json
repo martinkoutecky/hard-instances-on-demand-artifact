@@ -1,0 +1,27 @@
+{
+ "note": "Source of the two gt1s2L headline CNFs (already in champions/sat/); k=10 reps=5 clean local rebench.",
+ "archive": "SAT/logs_arch_gt1s2L_sat",
+ "rebench": ".rebench_bg/SAT_gt1s2L_sat",
+ "headlines": {
+  "champ_MultiScaleCMA_kcnf_gt1s2L.cnf": {
+   "cfg": "log_gt1s2L_sat_kcnf_neg",
+   "opt": "MultiScaleCMA",
+   "iter": "1",
+   "idx": 1,
+   "local_wc_med": 12.793003864000639,
+   "local_pt_med": 12.730464836,
+   "chimera_value": 16.426331111,
+   "committed_at": "champions/sat/champ_MultiScaleCMA_kcnf_gt1s2L.cnf"
+  },
+  "champ_TripleCMA_mpfx_gt1s2L.cnf": {
+   "cfg": "log_gt1s2L_sat_mpfx_log",
+   "opt": "TripleCMA",
+   "iter": "2",
+   "idx": 0,
+   "local_wc_med": 11.994894299998123,
+   "local_pt_med": 11.934894336000001,
+   "chimera_value": 15.278009286,
+   "committed_at": "champions/sat/champ_TripleCMA_mpfx_gt1s2L.cnf"
+  }
+ }
+}

@@ -1,0 +1,1685 @@
+{
+  "candidates": [
+    {
+      "evaluation_index": 54075,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank01_eval054075.cnf",
+      "n_clauses": 852,
+      "n_vars": 200,
+      "rank_by_selection_score": 1,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.6456743190003253,
+              "raw_cpu_s": 0.6376743190003253,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.6478730740002066,
+              "raw_cpu_s": 0.6398730740002065,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.6439683539994876,
+              "raw_cpu_s": 0.6359683539994876,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.594141731000491,
+              "raw_cpu_s": 2.594141731000491,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.5547128139996857,
+              "raw_cpu_s": 2.5547128139996857,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.569460331999835,
+              "raw_cpu_s": 2.569460331999835,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.48602011000002676,
+              "raw_cpu_s": 0.48602011000002676,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.48700265900060913,
+              "raw_cpu_s": 0.48700265900060913,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.4904632279994985,
+              "raw_cpu_s": 0.4904632279994985,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 852,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.48602011000002676,
+          0.48700265900060913,
+          0.4904632279994985
+        ],
+        "score_s": 0.48700265900060913
+      },
+      "selection_score_s": 0.48700265900060913
+    },
+    {
+      "evaluation_index": 92277,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank02_eval092277.cnf",
+      "n_clauses": 813,
+      "n_vars": 200,
+      "rank_by_selection_score": 2,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5780292080000509,
+              "raw_cpu_s": 0.5700292080000509,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5824251020005322,
+              "raw_cpu_s": 0.5744251020005322,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5786701269991754,
+              "raw_cpu_s": 0.5706701269991754,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.6583415620007145,
+              "raw_cpu_s": 2.6583415620007145,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.667725368999527,
+              "raw_cpu_s": 2.667725368999527,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.7740498699986347,
+              "raw_cpu_s": 2.7740498699986347,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3984246340005484,
+              "raw_cpu_s": 0.3984246340005484,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.40325679299894546,
+              "raw_cpu_s": 0.40325679299894546,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3980135580004571,
+              "raw_cpu_s": 0.3980135580004571,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 813,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3984246340005484,
+          0.40325679299894546,
+          0.3980135580004571
+        ],
+        "score_s": 0.3984246340005484
+      },
+      "selection_score_s": 0.3984246340005484
+    },
+    {
+      "evaluation_index": 11252,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank03_eval011252.cnf",
+      "n_clauses": 849,
+      "n_vars": 200,
+      "rank_by_selection_score": 3,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4544605870000469,
+              "raw_cpu_s": 0.44646058700004687,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.45043694900001174,
+              "raw_cpu_s": 0.44243694900001174,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.44989704599989455,
+              "raw_cpu_s": 0.44189704599989454,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.1895688289998816,
+              "raw_cpu_s": 1.1895688289998816,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.1756975089999742,
+              "raw_cpu_s": 1.1756975089999742,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.178406324999969,
+              "raw_cpu_s": 1.178406324999969,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3891085810000732,
+              "raw_cpu_s": 0.3891085810000732,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3922968800000035,
+              "raw_cpu_s": 0.3922968800000035,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.39458612699991136,
+              "raw_cpu_s": 0.39458612699991136,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 849,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3891085810000732,
+          0.3922968800000035,
+          0.39458612699991136
+        ],
+        "score_s": 0.3922968800000035
+      },
+      "selection_score_s": 0.3922968800000035
+    },
+    {
+      "evaluation_index": 80931,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank04_eval080931.cnf",
+      "n_clauses": 845,
+      "n_vars": 200,
+      "rank_by_selection_score": 4,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5264607720002532,
+              "raw_cpu_s": 0.5184607720002532,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5306686509995489,
+              "raw_cpu_s": 0.5226686509995488,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5260034029999661,
+              "raw_cpu_s": 0.5180034029999661,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.6019843640006002,
+              "raw_cpu_s": 1.6019843640006002,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.5962302420011838,
+              "raw_cpu_s": 1.5962302420011838,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.6088228579992574,
+              "raw_cpu_s": 1.6088228579992574,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3851011879996804,
+              "raw_cpu_s": 0.3851011879996804,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.38092276099996525,
+              "raw_cpu_s": 0.38092276099996525,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.38571510600013426,
+              "raw_cpu_s": 0.38571510600013426,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 845,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3851011879996804,
+          0.38092276099996525,
+          0.38571510600013426
+        ],
+        "score_s": 0.3851011879996804
+      },
+      "selection_score_s": 0.3851011879996804
+    },
+    {
+      "evaluation_index": 8589,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank05_eval008589.cnf",
+      "n_clauses": 815,
+      "n_vars": 200,
+      "rank_by_selection_score": 5,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5649376150001517,
+              "raw_cpu_s": 0.5569376150001517,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5602029050000583,
+              "raw_cpu_s": 0.5522029050000583,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.565131980999884,
+              "raw_cpu_s": 0.557131980999884,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.3603658630001974,
+              "raw_cpu_s": 2.3603658630001974,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.3012554770000406,
+              "raw_cpu_s": 2.3012554770000406,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.3757760840001083,
+              "raw_cpu_s": 2.3757760840001083,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3829884630001743,
+              "raw_cpu_s": 0.3829884630001743,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.38705440599983376,
+              "raw_cpu_s": 0.38705440599983376,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.38351738899996235,
+              "raw_cpu_s": 0.38351738899996235,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 815,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3829884630001743,
+          0.38705440599983376,
+          0.38351738899996235
+        ],
+        "score_s": 0.38351738899996235
+      },
+      "selection_score_s": 0.38351738899996235
+    },
+    {
+      "evaluation_index": 88366,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank06_eval088366.cnf",
+      "n_clauses": 827,
+      "n_vars": 200,
+      "rank_by_selection_score": 6,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5855264290004998,
+              "raw_cpu_s": 0.5775264290004998,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5862813250007166,
+              "raw_cpu_s": 0.5782813250007166,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5816178749993997,
+              "raw_cpu_s": 0.5736178749993996,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.766357793001589,
+              "raw_cpu_s": 2.766357793001589,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.764788820999456,
+              "raw_cpu_s": 2.764788820999456,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.768283077999513,
+              "raw_cpu_s": 2.768283077999513,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.37727291399824026,
+              "raw_cpu_s": 0.37727291399824026,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.37387091900018277,
+              "raw_cpu_s": 0.37387091900018277,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.37739241300005233,
+              "raw_cpu_s": 0.37739241300005233,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 827,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.37727291399824026,
+          0.37387091900018277,
+          0.37739241300005233
+        ],
+        "score_s": 0.37727291399824026
+      },
+      "selection_score_s": 0.37727291399824026
+    },
+    {
+      "evaluation_index": 67471,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank07_eval067471.cnf",
+      "n_clauses": 821,
+      "n_vars": 200,
+      "rank_by_selection_score": 7,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4056373509995028,
+              "raw_cpu_s": 0.3976373509995028,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.40934782799941605,
+              "raw_cpu_s": 0.40134782799941604,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4064068859990657,
+              "raw_cpu_s": 0.3984068859990657,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.0429479729991726,
+              "raw_cpu_s": 1.0429479729991726,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.0426279309995152,
+              "raw_cpu_s": 1.0426279309995152,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.0463861810003436,
+              "raw_cpu_s": 1.0463861810003436,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.37317033399995125,
+              "raw_cpu_s": 0.37317033399995125,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3791329430005135,
+              "raw_cpu_s": 0.3791329430005135,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3761162240007252,
+              "raw_cpu_s": 0.3761162240007252,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 821,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.37317033399995125,
+          0.3791329430005135,
+          0.3761162240007252
+        ],
+        "score_s": 0.3761162240007252
+      },
+      "selection_score_s": 0.3761162240007252
+    },
+    {
+      "evaluation_index": 57179,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank08_eval057179.cnf",
+      "n_clauses": 845,
+      "n_vars": 200,
+      "rank_by_selection_score": 8,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4166997979993612,
+              "raw_cpu_s": 0.4086997979993612,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4147664470003365,
+              "raw_cpu_s": 0.4067664470003365,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.41313668899984624,
+              "raw_cpu_s": 0.40513668899984623,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.8306975989999046,
+              "raw_cpu_s": 1.8306975989999046,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.8341675930005295,
+              "raw_cpu_s": 1.8341675930005295,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.8693934880002416,
+              "raw_cpu_s": 1.8693934880002416,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3690046589999838,
+              "raw_cpu_s": 0.3690046589999838,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3729689589999907,
+              "raw_cpu_s": 0.3729689589999907,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.37052015000062966,
+              "raw_cpu_s": 0.37052015000062966,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 845,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3690046589999838,
+          0.3729689589999907,
+          0.37052015000062966
+        ],
+        "score_s": 0.37052015000062966
+      },
+      "selection_score_s": 0.37052015000062966
+    },
+    {
+      "evaluation_index": 30337,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank09_eval030337.cnf",
+      "n_clauses": 784,
+      "n_vars": 200,
+      "rank_by_selection_score": 9,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5594998160001596,
+              "raw_cpu_s": 0.5514998160001596,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5621835019998871,
+              "raw_cpu_s": 0.5541835019998871,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5639719630000473,
+              "raw_cpu_s": 0.5559719630000473,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.5050426539996806,
+              "raw_cpu_s": 1.5050426539996806,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.5289837000000261,
+              "raw_cpu_s": 1.5289837000000261,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.5053126759999031,
+              "raw_cpu_s": 1.5053126759999031,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3684134449999874,
+              "raw_cpu_s": 0.3684134449999874,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.39177260699989347,
+              "raw_cpu_s": 0.39177260699989347,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.36920398700021906,
+              "raw_cpu_s": 0.36920398700021906,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 784,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3684134449999874,
+          0.39177260699989347,
+          0.36920398700021906
+        ],
+        "score_s": 0.36920398700021906
+      },
+      "selection_score_s": 0.36920398700021906
+    },
+    {
+      "evaluation_index": 82530,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank10_eval082530.cnf",
+      "n_clauses": 834,
+      "n_vars": 200,
+      "rank_by_selection_score": 10,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.42605358000056004,
+              "raw_cpu_s": 0.41805358000056003,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4270797620012745,
+              "raw_cpu_s": 0.4190797620012745,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.42728924000058033,
+              "raw_cpu_s": 0.4192892400005803,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.298413350001283,
+              "raw_cpu_s": 1.298413350001283,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.3010574180007097,
+              "raw_cpu_s": 1.3010574180007097,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.3026033420010208,
+              "raw_cpu_s": 1.3026033420010208,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3670646390000911,
+              "raw_cpu_s": 0.3670646390000911,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3649201300013374,
+              "raw_cpu_s": 0.3649201300013374,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.36398342800021055,
+              "raw_cpu_s": 0.36398342800021055,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 834,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3670646390000911,
+          0.3649201300013374,
+          0.36398342800021055
+        ],
+        "score_s": 0.3649201300013374
+      },
+      "selection_score_s": 0.3649201300013374
+    },
+    {
+      "evaluation_index": 79743,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank11_eval079743.cnf",
+      "n_clauses": 820,
+      "n_vars": 200,
+      "rank_by_selection_score": 11,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.602994298000529,
+              "raw_cpu_s": 0.5949942980005289,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5947416320015764,
+              "raw_cpu_s": 0.5867416320015764,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.6027955749998073,
+              "raw_cpu_s": 0.5947955749998073,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.3784560119984235,
+              "raw_cpu_s": 1.3784560119984235,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.3785005169993383,
+              "raw_cpu_s": 1.3785005169993383,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.3777142630005983,
+              "raw_cpu_s": 1.3777142630005983,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3548418190002849,
+              "raw_cpu_s": 0.3548418190002849,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3602693899993028,
+              "raw_cpu_s": 0.3602693899993028,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3548301549999451,
+              "raw_cpu_s": 0.3548301549999451,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 820,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3548418190002849,
+          0.3602693899993028,
+          0.3548301549999451
+        ],
+        "score_s": 0.3548418190002849
+      },
+      "selection_score_s": 0.3548418190002849
+    },
+    {
+      "evaluation_index": 62822,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank12_eval062822.cnf",
+      "n_clauses": 865,
+      "n_vars": 200,
+      "rank_by_selection_score": 12,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5047557760001,
+              "raw_cpu_s": 0.4967557760001,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5020291530001559,
+              "raw_cpu_s": 0.49402915300015593,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5007774429997953,
+              "raw_cpu_s": 0.4927774429997953,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.7731600770002842,
+              "raw_cpu_s": 1.7731600770002842,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.7681249079996633,
+              "raw_cpu_s": 1.7681249079996633,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.767851642000096,
+              "raw_cpu_s": 1.767851642000096,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3551243850006358,
+              "raw_cpu_s": 0.3551243850006358,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3508016529995075,
+              "raw_cpu_s": 0.3508016529995075,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.35456139800044184,
+              "raw_cpu_s": 0.35456139800044184,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 865,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3551243850006358,
+          0.3508016529995075,
+          0.35456139800044184
+        ],
+        "score_s": 0.35456139800044184
+      },
+      "selection_score_s": 0.35456139800044184
+    },
+    {
+      "evaluation_index": 18247,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank13_eval018247.cnf",
+      "n_clauses": 843,
+      "n_vars": 200,
+      "rank_by_selection_score": 13,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4281538580000488,
+              "raw_cpu_s": 0.4201538580000488,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.42277125400024307,
+              "raw_cpu_s": 0.41477125400024306,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4205617710001279,
+              "raw_cpu_s": 0.4125617710001279,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.6795737780003037,
+              "raw_cpu_s": 1.6795737780003037,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.6915319609997823,
+              "raw_cpu_s": 1.6915319609997823,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.6718445329997849,
+              "raw_cpu_s": 1.6718445329997849,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.348695222999595,
+              "raw_cpu_s": 0.348695222999595,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.34771154300005946,
+              "raw_cpu_s": 0.34771154300005946,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.35171566700000767,
+              "raw_cpu_s": 0.35171566700000767,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 843,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.348695222999595,
+          0.34771154300005946,
+          0.35171566700000767
+        ],
+        "score_s": 0.348695222999595
+      },
+      "selection_score_s": 0.348695222999595
+    },
+    {
+      "evaluation_index": 70426,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank14_eval070426.cnf",
+      "n_clauses": 852,
+      "n_vars": 200,
+      "rank_by_selection_score": 14,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.366909032000156,
+              "raw_cpu_s": 0.358909032000156,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.36565189599987935,
+              "raw_cpu_s": 0.35765189599987934,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.36598421199979203,
+              "raw_cpu_s": 0.357984211999792,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.3241781979995721,
+              "raw_cpu_s": 1.3241781979995721,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.3140727219997643,
+              "raw_cpu_s": 1.3140727219997643,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.3274396659999184,
+              "raw_cpu_s": 1.3274396659999184,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.34583403500073473,
+              "raw_cpu_s": 0.34583403500073473,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3487956409990147,
+              "raw_cpu_s": 0.3487956409990147,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.34659000300052867,
+              "raw_cpu_s": 0.34659000300052867,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 852,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.34583403500073473,
+          0.3487956409990147,
+          0.34659000300052867
+        ],
+        "score_s": 0.34659000300052867
+      },
+      "selection_score_s": 0.34659000300052867
+    },
+    {
+      "evaluation_index": 11283,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank15_eval011283.cnf",
+      "n_clauses": 835,
+      "n_vars": 200,
+      "rank_by_selection_score": 15,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.39462297699988813,
+              "raw_cpu_s": 0.3866229769998881,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.38951667500005716,
+              "raw_cpu_s": 0.38151667500005715,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.3950701180001106,
+              "raw_cpu_s": 0.3870701180001106,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.4533092859999215,
+              "raw_cpu_s": 1.4533092859999215,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.44778503800012,
+              "raw_cpu_s": 1.44778503800012,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.442629974999818,
+              "raw_cpu_s": 1.442629974999818,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3432505969999511,
+              "raw_cpu_s": 0.3432505969999511,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.34262058900003467,
+              "raw_cpu_s": 0.34262058900003467,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3415455720000864,
+              "raw_cpu_s": 0.3415455720000864,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 835,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3432505969999511,
+          0.34262058900003467,
+          0.3415455720000864
+        ],
+        "score_s": 0.34262058900003467
+      },
+      "selection_score_s": 0.34262058900003467
+    },
+    {
+      "evaluation_index": 46502,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank16_eval046502.cnf",
+      "n_clauses": 840,
+      "n_vars": 200,
+      "rank_by_selection_score": 16,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5449961549995423,
+              "raw_cpu_s": 0.5369961549995423,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5423590259999473,
+              "raw_cpu_s": 0.5343590259999473,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.5456228730001458,
+              "raw_cpu_s": 0.5376228730001458,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.5241079890001856,
+              "raw_cpu_s": 1.5241079890001856,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.570974565999677,
+              "raw_cpu_s": 1.570974565999677,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.525023999000041,
+              "raw_cpu_s": 1.525023999000041,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.332623462999436,
+              "raw_cpu_s": 0.332623462999436,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.33459843500077113,
+              "raw_cpu_s": 0.33459843500077113,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.33603807800045615,
+              "raw_cpu_s": 0.33603807800045615,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 840,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.332623462999436,
+          0.33459843500077113,
+          0.33603807800045615
+        ],
+        "score_s": 0.33459843500077113
+      },
+      "selection_score_s": 0.33459843500077113
+    },
+    {
+      "evaluation_index": 56793,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank17_eval056793.cnf",
+      "n_clauses": 855,
+      "n_vars": 200,
+      "rank_by_selection_score": 17,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.3325427789997848,
+              "raw_cpu_s": 0.3245427789997848,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.3372384350006614,
+              "raw_cpu_s": 0.3292384350006614,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.3339093230008148,
+              "raw_cpu_s": 0.32590932300081477,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.5340485279994027,
+              "raw_cpu_s": 1.5340485279994027,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.5233159950003028,
+              "raw_cpu_s": 1.5233159950003028,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.5192717169993557,
+              "raw_cpu_s": 1.5192717169993557,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.36787717700008216,
+              "raw_cpu_s": 0.36787717700008216,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3680397810003342,
+              "raw_cpu_s": 0.3680397810003342,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3722722109996539,
+              "raw_cpu_s": 0.3722722109996539,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 855,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3325427789997848,
+          0.3372384350006614,
+          0.3339093230008148
+        ],
+        "score_s": 0.3339093230008148
+      },
+      "selection_score_s": 0.3339093230008148
+    },
+    {
+      "evaluation_index": 38593,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank18_eval038593.cnf",
+      "n_clauses": 861,
+      "n_vars": 200,
+      "rank_by_selection_score": 18,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.429083150999948,
+              "raw_cpu_s": 0.421083150999948,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.43012370400011424,
+              "raw_cpu_s": 0.42212370400011423,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4277678749997067,
+              "raw_cpu_s": 0.4197678749997067,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.4757218980003017,
+              "raw_cpu_s": 1.4757218980003017,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.469902521000222,
+              "raw_cpu_s": 1.469902521000222,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.4747246010001618,
+              "raw_cpu_s": 1.4747246010001618,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3315579769996475,
+              "raw_cpu_s": 0.3315579769996475,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3321405680007956,
+              "raw_cpu_s": 0.3321405680007956,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.33558998700027587,
+              "raw_cpu_s": 0.33558998700027587,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 861,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3315579769996475,
+          0.3321405680007956,
+          0.33558998700027587
+        ],
+        "score_s": 0.3321405680007956
+      },
+      "selection_score_s": 0.3321405680007956
+    },
+    {
+      "evaluation_index": 32466,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank19_eval032466.cnf",
+      "n_clauses": 811,
+      "n_vars": 200,
+      "rank_by_selection_score": 19,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4987641789995978,
+              "raw_cpu_s": 0.4907641789995978,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.4947793140001595,
+              "raw_cpu_s": 0.4867793140001595,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.501149586999607,
+              "raw_cpu_s": 0.493149586999607,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.0878407029995287,
+              "raw_cpu_s": 2.0878407029995287,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.0747762720002356,
+              "raw_cpu_s": 2.0747762720002356,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 2.069175378000182,
+              "raw_cpu_s": 2.069175378000182,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.32795780600008584,
+              "raw_cpu_s": 0.32795780600008584,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3299795800003267,
+              "raw_cpu_s": 0.3299795800003267,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3321864559993628,
+              "raw_cpu_s": 0.3321864559993628,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 811,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.32795780600008584,
+          0.3299795800003267,
+          0.3321864559993628
+        ],
+        "score_s": 0.3299795800003267
+      },
+      "selection_score_s": 0.3299795800003267
+    },
+    {
+      "evaluation_index": 21905,
+      "file": "current_machine_rebench/results/sat_randomsearch/candidates/original3_mprefix_rank20_eval021905.cnf",
+      "n_clauses": 836,
+      "n_vars": 200,
+      "rank_by_selection_score": 20,
+      "selection_measurement": {
+        "branch_runs": {
+          "breakid_cadical195": [
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.3770544799997042,
+              "raw_cpu_s": 0.3690544799997042,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.37542117499989036,
+              "raw_cpu_s": 0.36742117499989035,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "breakid_cadical195",
+              "charged_cpu_s": 0.3771937210001015,
+              "raw_cpu_s": 0.3691937210001015,
+              "status": "UNSAT"
+            }
+          ],
+          "cryptominisat": [
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.2750115339999866,
+              "raw_cpu_s": 1.2750115339999866,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.269652280000173,
+              "raw_cpu_s": 1.269652280000173,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "cryptominisat",
+              "charged_cpu_s": 1.2752445999999509,
+              "raw_cpu_s": 1.2752445999999509,
+              "status": "UNSAT"
+            }
+          ],
+          "minisat22": [
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3264316489999146,
+              "raw_cpu_s": 0.3264316489999146,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3298408619998554,
+              "raw_cpu_s": 0.3298408619998554,
+              "status": "UNSAT"
+            },
+            {
+              "branch": "minisat22",
+              "charged_cpu_s": 0.3344038489999548,
+              "raw_cpu_s": 0.3344038489999548,
+              "status": "UNSAT"
+            }
+          ]
+        },
+        "n_clauses": 836,
+        "n_vars": 200,
+        "portfolio_runs_s": [
+          0.3264316489999146,
+          0.3298408619998554,
+          0.3344038489999548
+        ],
+        "score_s": 0.3298408619998554
+      },
+      "selection_score_s": 0.3298408619998554
+    }
+  ],
+  "completed_at": "2026-07-18T23:53:55.471551+00:00",
+  "machine": {
+    "cpu_affinity": [
+      1
+    ],
+    "cpu_model": "AMD Ryzen 5 8600G w/ Radeon 760M Graphics",
+    "hostname": "8f9fd2be337b",
+    "platform": "Linux-6.1.0-45-amd64-x86_64-with-glibc2.36",
+    "python": "3.12.12 | packaged by conda-forge | (main, Jan 26 2026, 23:51:32) [GCC 14.3.0]"
+  },
+  "project_revision": "7f9c76392c6b7fcd105004bbff59119f96dcbda9",
+  "protocol": {
+    "budget": 100000,
+    "cap": 60.0,
+    "encoding": "mprefix",
+    "keep": 20,
+    "portfolio": "original3",
+    "repeats": 3,
+    "seed": 20260601
+  },
+  "schema_version": 1,
+  "solver_inventory": {
+    "binaries": {
+      "breakid_dpll4": {
+        "path": "dpll4_portfolio/bin/breakid",
+        "sha256": "b4956be27b47b3b4f4692856ba1d6a4732cc5b2cd216f74e3c85f2a460742697"
+      },
+      "breakid_original": {
+        "path": "SAT/breakid",
+        "sha256": "b4956be27b47b3b4f4692856ba1d6a4732cc5b2cd216f74e3c85f2a460742697"
+      },
+      "kissat": {
+        "path": "dpll4_portfolio/bin/kissat",
+        "sha256": "abee2ac50a61b8192eac182e8e1b29baa39977f7ba1bdfeddb04067c0148f213"
+      },
+      "march_cu": {
+        "path": "dpll4_portfolio/bin/march_cu",
+        "sha256": "c106f9234d281030b9028a13efa0c5693f5cf878f46194ee6c22fb06a9850351"
+      }
+    },
+    "dpll4_active_guards_after_pin": {
+      "XOR (CryptoMiniSat)": {
+        "active": true,
+        "detail": "pycryptosat"
+      },
+      "baseline CDCL (kissat)": {
+        "active": true,
+        "detail": "exit 10"
+      },
+      "look-ahead/DPLL (march_cu)": {
+        "active": true,
+        "detail": "exit 10"
+      },
+      "symmetry (BreakID->CDCL)": {
+        "active": true,
+        "detail": "cadical195"
+      }
+    },
+    "original_active_guards_after_pin": {
+      "XOR (CryptoMiniSat)": {
+        "active": true,
+        "detail": "pycryptosat"
+      },
+      "baseline (minisat22)": {
+        "active": true,
+        "detail": "minisat22"
+      },
+      "strong CDCL": {
+        "active": true,
+        "detail": "cadical195"
+      },
+      "symmetry (BreakID)": {
+        "active": true,
+        "detail": null
+      }
+    },
+    "pinned_strong_cdcl": "cadical195",
+    "pycryptosat": "5.14.4",
+    "python_sat": "1.9.dev2"
+  },
+  "started_at": "2026-07-18T20:00:39.351328+00:00"
+}

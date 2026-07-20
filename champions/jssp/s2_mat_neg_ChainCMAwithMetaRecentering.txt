@@ -1,0 +1,8 @@
+# s2_mat_neg_ChainCMAwithMetaRecentering
+6 4
+55 2 53 53
+58 32 19 59
+96 94 48 62
+52 2 45 55
+58 21 27 57
+56 4 48 55

@@ -1,0 +1,94 @@
+{
+  "cap_seconds": 60.0,
+  "breakid_runtime_included": false,
+  "instances": [
+    {
+      "hash": "602cb5256a5c05e90aec931c7f3fc0ab",
+      "variables": "81",
+      "clauses": "172",
+      "gbd_variables": "81",
+      "gbd_clauses": "172",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "602cb5256a5c05e90aec931c7f3fc0ab",
+      "tracks": "anni_2022,crafted_2007,crafted_2012",
+      "local_path": "instances/602cb5256a5c05e90aec931c7f3fc0ab.cnf",
+      "times": [
+        60.0
+      ],
+      "median": 60.0,
+      "min": 60.0,
+      "max": 60.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.005221460945904255,
+      "symmetry_broken_clauses": 172,
+      "solvers": {
+        "minisat22": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 60.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 60.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 60.0
+    },
+    {
+      "hash": "05f3a48298721d68cded8618b432e7c3",
+      "variables": "85",
+      "clauses": "180",
+      "gbd_variables": "85",
+      "gbd_clauses": "180",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "05f3a48298721d68cded8618b432e7c3",
+      "tracks": "anni_2022,crafted_2007",
+      "local_path": "instances/05f3a48298721d68cded8618b432e7c3.cnf",
+      "times": [
+        60.0
+      ],
+      "median": 60.0,
+      "min": 60.0,
+      "max": 60.0,
+      "breakid_preprocess_wall_seconds_excluded": 0.00365282129496336,
+      "symmetry_broken_clauses": 180,
+      "solvers": {
+        "minisat22": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 60.008,
+          "status": "timeout"
+        },
+        "cryptominisat": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 60.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 60.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 60.0
+    }
+  ]
+}

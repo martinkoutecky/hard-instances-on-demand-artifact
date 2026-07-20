@@ -1,0 +1,554 @@
+2026-07-19T10:28:51+00:00 START tsp-random-screen-0 cpu=2 attempt=1
+tsp-rs shard=0 evaluated=50 next=393/100000 best=0.017416s eval=32 elapsed=4.4s
+tsp-rs shard=0 evaluated=100 next=793/100000 best=0.017416s eval=32 elapsed=8.2s
+tsp-rs shard=0 evaluated=150 next=1193/100000 best=0.131830s eval=1016 elapsed=16.9s
+tsp-rs shard=0 evaluated=200 next=1593/100000 best=0.317018s eval=1304 elapsed=30.5s
+tsp-rs shard=0 evaluated=250 next=1993/100000 best=0.317018s eval=1304 elapsed=35.3s
+tsp-rs shard=0 evaluated=300 next=2393/100000 best=0.317018s eval=1304 elapsed=38.7s
+tsp-rs shard=0 evaluated=350 next=2793/100000 best=0.317018s eval=1304 elapsed=43.1s
+tsp-rs shard=0 evaluated=400 next=3193/100000 best=0.317018s eval=1304 elapsed=51.3s
+tsp-rs shard=0 evaluated=450 next=3593/100000 best=0.317018s eval=1304 elapsed=54.9s
+tsp-rs shard=0 evaluated=500 next=3993/100000 best=0.317018s eval=1304 elapsed=58.5s
+tsp-rs shard=0 evaluated=550 next=4393/100000 best=0.317018s eval=1304 elapsed=63.3s
+tsp-rs shard=0 evaluated=600 next=4793/100000 best=0.421228s eval=4688 elapsed=75.2s
+tsp-rs shard=0 evaluated=650 next=5193/100000 best=0.421228s eval=4688 elapsed=83.6s
+tsp-rs shard=0 evaluated=700 next=5593/100000 best=0.421228s eval=4688 elapsed=88.0s
+tsp-rs shard=0 evaluated=750 next=5993/100000 best=0.421228s eval=4688 elapsed=92.4s
+tsp-rs shard=0 evaluated=800 next=6393/100000 best=0.421228s eval=4688 elapsed=107.1s
+tsp-rs shard=0 evaluated=850 next=6793/100000 best=0.421228s eval=4688 elapsed=111.0s
+tsp-rs shard=0 evaluated=900 next=7193/100000 best=0.421228s eval=4688 elapsed=116.8s
+tsp-rs shard=0 evaluated=950 next=7593/100000 best=0.421228s eval=4688 elapsed=130.2s
+tsp-rs shard=0 evaluated=1000 next=7993/100000 best=0.421228s eval=4688 elapsed=136.4s
+tsp-rs shard=0 evaluated=1050 next=8393/100000 best=0.421228s eval=4688 elapsed=145.3s
+tsp-rs shard=0 evaluated=1100 next=8793/100000 best=0.421228s eval=4688 elapsed=158.7s
+tsp-rs shard=0 evaluated=1150 next=9193/100000 best=0.421228s eval=4688 elapsed=164.4s
+tsp-rs shard=0 evaluated=1200 next=9593/100000 best=0.421228s eval=4688 elapsed=170.2s
+tsp-rs shard=0 evaluated=1250 next=9993/100000 best=0.421228s eval=4688 elapsed=173.9s
+tsp-rs shard=0 evaluated=1300 next=10393/100000 best=0.421228s eval=4688 elapsed=178.8s
+tsp-rs shard=0 evaluated=1350 next=10793/100000 best=0.421228s eval=4688 elapsed=187.2s
+tsp-rs shard=0 evaluated=1400 next=11193/100000 best=0.421228s eval=4688 elapsed=193.5s
+tsp-rs shard=0 evaluated=1450 next=11593/100000 best=0.421228s eval=4688 elapsed=198.7s
+tsp-rs shard=0 evaluated=1500 next=11993/100000 best=0.421228s eval=4688 elapsed=202.7s
+tsp-rs shard=0 evaluated=1550 next=12393/100000 best=0.421228s eval=4688 elapsed=206.8s
+tsp-rs shard=0 evaluated=1600 next=12793/100000 best=0.421228s eval=4688 elapsed=210.8s
+tsp-rs shard=0 evaluated=1650 next=13193/100000 best=0.421228s eval=4688 elapsed=215.6s
+tsp-rs shard=0 evaluated=1700 next=13593/100000 best=0.421228s eval=4688 elapsed=221.1s
+tsp-rs shard=0 evaluated=1750 next=13993/100000 best=0.421228s eval=4688 elapsed=229.3s
+tsp-rs shard=0 evaluated=1800 next=14393/100000 best=0.421228s eval=4688 elapsed=237.4s
+tsp-rs shard=0 evaluated=1850 next=14793/100000 best=0.421228s eval=4688 elapsed=240.5s
+tsp-rs shard=0 evaluated=1900 next=15193/100000 best=0.421228s eval=4688 elapsed=249.7s
+tsp-rs shard=0 evaluated=1950 next=15593/100000 best=0.421228s eval=4688 elapsed=253.5s
+tsp-rs shard=0 evaluated=2000 next=15993/100000 best=0.421228s eval=4688 elapsed=260.7s
+tsp-rs shard=0 evaluated=2050 next=16393/100000 best=0.421228s eval=4688 elapsed=264.7s
+tsp-rs shard=0 evaluated=2100 next=16793/100000 best=0.421228s eval=4688 elapsed=270.1s
+tsp-rs shard=0 evaluated=2150 next=17193/100000 best=0.421228s eval=4688 elapsed=274.9s
+tsp-rs shard=0 evaluated=2200 next=17593/100000 best=0.421228s eval=4688 elapsed=280.2s
+tsp-rs shard=0 evaluated=2250 next=17993/100000 best=0.421228s eval=4688 elapsed=284.3s
+tsp-rs shard=0 evaluated=2300 next=18393/100000 best=0.421228s eval=4688 elapsed=288.1s
+tsp-rs shard=0 evaluated=2350 next=18793/100000 best=0.421228s eval=4688 elapsed=300.9s
+tsp-rs shard=0 evaluated=2400 next=19193/100000 best=0.421228s eval=4688 elapsed=314.6s
+tsp-rs shard=0 evaluated=2450 next=19593/100000 best=0.421228s eval=4688 elapsed=321.5s
+tsp-rs shard=0 evaluated=2500 next=19993/100000 best=0.421228s eval=4688 elapsed=328.6s
+tsp-rs shard=0 evaluated=2550 next=20393/100000 best=0.421228s eval=4688 elapsed=333.3s
+tsp-rs shard=0 evaluated=2600 next=20793/100000 best=0.421228s eval=4688 elapsed=345.3s
+tsp-rs shard=0 evaluated=2650 next=21193/100000 best=0.421228s eval=4688 elapsed=358.1s
+tsp-rs shard=0 evaluated=2700 next=21593/100000 best=0.421228s eval=4688 elapsed=362.4s
+tsp-rs shard=0 evaluated=2750 next=21993/100000 best=0.421228s eval=4688 elapsed=368.2s
+tsp-rs shard=0 evaluated=2800 next=22393/100000 best=0.421228s eval=4688 elapsed=377.0s
+tsp-rs shard=0 evaluated=2850 next=22793/100000 best=0.421228s eval=4688 elapsed=381.2s
+tsp-rs shard=0 evaluated=2900 next=23193/100000 best=0.421228s eval=4688 elapsed=386.4s
+tsp-rs shard=0 evaluated=2950 next=23593/100000 best=0.421228s eval=4688 elapsed=389.8s
+tsp-rs shard=0 evaluated=3000 next=23993/100000 best=0.421228s eval=4688 elapsed=395.8s
+tsp-rs shard=0 evaluated=3050 next=24393/100000 best=0.510130s eval=24280 elapsed=420.4s
+tsp-rs shard=0 evaluated=3100 next=24793/100000 best=0.510130s eval=24280 elapsed=425.1s
+tsp-rs shard=0 evaluated=3150 next=25193/100000 best=0.510130s eval=24280 elapsed=428.6s
+tsp-rs shard=0 evaluated=3200 next=25593/100000 best=0.510130s eval=24280 elapsed=434.8s
+tsp-rs shard=0 evaluated=3250 next=25993/100000 best=0.510130s eval=24280 elapsed=439.1s
+tsp-rs shard=0 evaluated=3300 next=26393/100000 best=0.510130s eval=24280 elapsed=443.6s
+tsp-rs shard=0 evaluated=3350 next=26793/100000 best=0.510130s eval=24280 elapsed=450.0s
+tsp-rs shard=0 evaluated=3400 next=27193/100000 best=0.510130s eval=24280 elapsed=454.8s
+tsp-rs shard=0 evaluated=3450 next=27593/100000 best=0.510130s eval=24280 elapsed=460.0s
+tsp-rs shard=0 evaluated=3500 next=27993/100000 best=0.510130s eval=24280 elapsed=467.2s
+tsp-rs shard=0 evaluated=3550 next=28393/100000 best=0.510130s eval=24280 elapsed=471.1s
+tsp-rs shard=0 evaluated=3600 next=28793/100000 best=0.510130s eval=24280 elapsed=476.9s
+tsp-rs shard=0 evaluated=3650 next=29193/100000 best=0.510130s eval=24280 elapsed=483.7s
+tsp-rs shard=0 evaluated=3700 next=29593/100000 best=0.510130s eval=24280 elapsed=487.7s
+tsp-rs shard=0 evaluated=3750 next=29993/100000 best=0.510130s eval=24280 elapsed=491.3s
+tsp-rs shard=0 evaluated=3800 next=30393/100000 best=0.522393s eval=30040 elapsed=514.1s
+tsp-rs shard=0 evaluated=3850 next=30793/100000 best=0.522393s eval=30040 elapsed=520.8s
+tsp-rs shard=0 evaluated=3900 next=31193/100000 best=0.522393s eval=30040 elapsed=524.8s
+tsp-rs shard=0 evaluated=3950 next=31593/100000 best=0.522393s eval=30040 elapsed=528.3s
+tsp-rs shard=0 evaluated=4000 next=31993/100000 best=0.522393s eval=30040 elapsed=531.7s
+tsp-rs shard=0 evaluated=4050 next=32393/100000 best=0.522393s eval=30040 elapsed=535.9s
+tsp-rs shard=0 evaluated=4100 next=32793/100000 best=0.522393s eval=30040 elapsed=545.3s
+tsp-rs shard=0 evaluated=4150 next=33193/100000 best=0.599760s eval=33176 elapsed=561.9s
+tsp-rs shard=0 evaluated=4200 next=33593/100000 best=0.599760s eval=33176 elapsed=569.3s
+tsp-rs shard=0 evaluated=4250 next=33993/100000 best=0.633767s eval=33928 elapsed=590.6s
+tsp-rs shard=0 evaluated=4300 next=34393/100000 best=0.633767s eval=33928 elapsed=596.3s
+tsp-rs shard=0 evaluated=4350 next=34793/100000 best=0.633767s eval=33928 elapsed=603.0s
+tsp-rs shard=0 evaluated=4400 next=35193/100000 best=0.633767s eval=33928 elapsed=606.9s
+tsp-rs shard=0 evaluated=4450 next=35593/100000 best=0.633767s eval=33928 elapsed=619.8s
+tsp-rs shard=0 evaluated=4500 next=35993/100000 best=0.633767s eval=33928 elapsed=623.3s
+tsp-rs shard=0 evaluated=4550 next=36393/100000 best=0.633767s eval=33928 elapsed=627.1s
+tsp-rs shard=0 evaluated=4600 next=36793/100000 best=0.633767s eval=33928 elapsed=631.6s
+tsp-rs shard=0 evaluated=4650 next=37193/100000 best=0.633767s eval=33928 elapsed=635.5s
+tsp-rs shard=0 evaluated=4700 next=37593/100000 best=0.633767s eval=33928 elapsed=641.4s
+tsp-rs shard=0 evaluated=4750 next=37993/100000 best=0.633767s eval=33928 elapsed=649.9s
+tsp-rs shard=0 evaluated=4800 next=38393/100000 best=0.633767s eval=33928 elapsed=662.2s
+tsp-rs shard=0 evaluated=4850 next=38793/100000 best=0.633767s eval=33928 elapsed=667.3s
+tsp-rs shard=0 evaluated=4900 next=39193/100000 best=0.633767s eval=33928 elapsed=671.5s
+tsp-rs shard=0 evaluated=4950 next=39593/100000 best=0.633767s eval=33928 elapsed=676.4s
+tsp-rs shard=0 evaluated=5000 next=39993/100000 best=0.633767s eval=33928 elapsed=681.4s
+tsp-rs shard=0 evaluated=5050 next=40393/100000 best=0.633767s eval=33928 elapsed=688.8s
+tsp-rs shard=0 evaluated=5100 next=40793/100000 best=0.633767s eval=33928 elapsed=692.6s
+tsp-rs shard=0 evaluated=5150 next=41193/100000 best=0.633767s eval=33928 elapsed=697.0s
+tsp-rs shard=0 evaluated=5200 next=41593/100000 best=0.633767s eval=33928 elapsed=702.1s
+tsp-rs shard=0 evaluated=5250 next=41993/100000 best=0.633767s eval=33928 elapsed=705.9s
+tsp-rs shard=0 evaluated=5300 next=42393/100000 best=0.633767s eval=33928 elapsed=716.9s
+tsp-rs shard=0 evaluated=5350 next=42793/100000 best=0.633767s eval=33928 elapsed=720.8s
+tsp-rs shard=0 evaluated=5400 next=43193/100000 best=0.633767s eval=33928 elapsed=724.9s
+tsp-rs shard=0 evaluated=5450 next=43593/100000 best=0.633767s eval=33928 elapsed=730.0s
+tsp-rs shard=0 evaluated=5500 next=43993/100000 best=0.633767s eval=33928 elapsed=745.3s
+tsp-rs shard=0 evaluated=5550 next=44393/100000 best=0.633767s eval=33928 elapsed=748.9s
+tsp-rs shard=0 evaluated=5600 next=44793/100000 best=0.633767s eval=33928 elapsed=752.6s
+tsp-rs shard=0 evaluated=5650 next=45193/100000 best=0.633767s eval=33928 elapsed=759.0s
+tsp-rs shard=0 evaluated=5700 next=45593/100000 best=0.633767s eval=33928 elapsed=762.7s
+tsp-rs shard=0 evaluated=5750 next=45993/100000 best=0.633767s eval=33928 elapsed=768.2s
+tsp-rs shard=0 evaluated=5800 next=46393/100000 best=0.633767s eval=33928 elapsed=771.7s
+tsp-rs shard=0 evaluated=5850 next=46793/100000 best=0.633767s eval=33928 elapsed=778.2s
+tsp-rs shard=0 evaluated=5900 next=47193/100000 best=0.633767s eval=33928 elapsed=796.9s
+tsp-rs shard=0 evaluated=5950 next=47593/100000 best=0.633767s eval=33928 elapsed=800.5s
+tsp-rs shard=0 evaluated=6000 next=47993/100000 best=0.633767s eval=33928 elapsed=805.4s
+tsp-rs shard=0 evaluated=6050 next=48393/100000 best=0.633767s eval=33928 elapsed=808.3s
+tsp-rs shard=0 evaluated=6100 next=48793/100000 best=0.633767s eval=33928 elapsed=812.7s
+tsp-rs shard=0 evaluated=6150 next=49193/100000 best=0.633767s eval=33928 elapsed=816.1s
+tsp-rs shard=0 evaluated=6200 next=49593/100000 best=0.633767s eval=33928 elapsed=819.8s
+tsp-rs shard=0 evaluated=6250 next=49993/100000 best=0.633767s eval=33928 elapsed=825.4s
+tsp-rs shard=0 evaluated=6300 next=50393/100000 best=0.633767s eval=33928 elapsed=836.2s
+tsp-rs shard=0 evaluated=6350 next=50793/100000 best=0.633767s eval=33928 elapsed=840.3s
+tsp-rs shard=0 evaluated=6400 next=51193/100000 best=0.633767s eval=33928 elapsed=848.8s
+tsp-rs shard=0 evaluated=6450 next=51593/100000 best=0.633767s eval=33928 elapsed=855.6s
+tsp-rs shard=0 evaluated=6500 next=51993/100000 best=0.633767s eval=33928 elapsed=859.8s
+tsp-rs shard=0 evaluated=6550 next=52393/100000 best=0.633767s eval=33928 elapsed=864.9s
+tsp-rs shard=0 evaluated=6600 next=52793/100000 best=0.633767s eval=33928 elapsed=871.8s
+tsp-rs shard=0 evaluated=6650 next=53193/100000 best=0.633767s eval=33928 elapsed=876.1s
+tsp-rs shard=0 evaluated=6700 next=53593/100000 best=0.633767s eval=33928 elapsed=880.0s
+tsp-rs shard=0 evaluated=6750 next=53993/100000 best=0.633767s eval=33928 elapsed=889.5s
+tsp-rs shard=0 evaluated=6800 next=54393/100000 best=0.633767s eval=33928 elapsed=900.0s
+tsp-rs shard=0 evaluated=6850 next=54793/100000 best=0.633767s eval=33928 elapsed=903.8s
+tsp-rs shard=0 evaluated=6900 next=55193/100000 best=0.633767s eval=33928 elapsed=915.8s
+tsp-rs shard=0 evaluated=6950 next=55593/100000 best=0.633767s eval=33928 elapsed=937.7s
+tsp-rs shard=0 evaluated=7000 next=55993/100000 best=0.633767s eval=33928 elapsed=942.9s
+tsp-rs shard=0 evaluated=7050 next=56393/100000 best=0.633767s eval=33928 elapsed=949.9s
+tsp-rs shard=0 evaluated=7100 next=56793/100000 best=0.633767s eval=33928 elapsed=957.3s
+tsp-rs shard=0 evaluated=7150 next=57193/100000 best=0.633767s eval=33928 elapsed=962.6s
+tsp-rs shard=0 evaluated=7200 next=57593/100000 best=0.633767s eval=33928 elapsed=967.7s
+tsp-rs shard=0 evaluated=7250 next=57993/100000 best=0.633767s eval=33928 elapsed=974.8s
+tsp-rs shard=0 evaluated=7300 next=58393/100000 best=0.633767s eval=33928 elapsed=981.8s
+tsp-rs shard=0 evaluated=7350 next=58793/100000 best=0.633767s eval=33928 elapsed=990.6s
+tsp-rs shard=0 evaluated=7400 next=59193/100000 best=0.633767s eval=33928 elapsed=994.7s
+tsp-rs shard=0 evaluated=7450 next=59593/100000 best=0.633767s eval=33928 elapsed=999.1s
+tsp-rs shard=0 evaluated=7500 next=59993/100000 best=0.633767s eval=33928 elapsed=1010.0s
+tsp-rs shard=0 evaluated=7550 next=60393/100000 best=0.633767s eval=33928 elapsed=1013.4s
+tsp-rs shard=0 evaluated=7600 next=60793/100000 best=0.633767s eval=33928 elapsed=1019.6s
+tsp-rs shard=0 evaluated=7650 next=61193/100000 best=0.633767s eval=33928 elapsed=1024.5s
+tsp-rs shard=0 evaluated=7700 next=61593/100000 best=0.633767s eval=33928 elapsed=1028.4s
+tsp-rs shard=0 evaluated=7750 next=61993/100000 best=0.633767s eval=33928 elapsed=1038.6s
+tsp-rs shard=0 evaluated=7800 next=62393/100000 best=0.633767s eval=33928 elapsed=1044.0s
+tsp-rs shard=0 evaluated=7850 next=62793/100000 best=0.633767s eval=33928 elapsed=1050.4s
+tsp-rs shard=0 evaluated=7900 next=63193/100000 best=0.633767s eval=33928 elapsed=1067.8s
+tsp-rs shard=0 evaluated=7950 next=63593/100000 best=0.633767s eval=33928 elapsed=1073.6s
+tsp-rs shard=0 evaluated=8000 next=63993/100000 best=0.633767s eval=33928 elapsed=1076.8s
+tsp-rs shard=0 evaluated=8050 next=64393/100000 best=0.633767s eval=33928 elapsed=1094.2s
+tsp-rs shard=0 evaluated=8100 next=64793/100000 best=0.633767s eval=33928 elapsed=1103.1s
+tsp-rs shard=0 evaluated=8150 next=65193/100000 best=0.633767s eval=33928 elapsed=1107.8s
+tsp-rs shard=0 evaluated=8200 next=65593/100000 best=0.633767s eval=33928 elapsed=1112.1s
+tsp-rs shard=0 evaluated=8250 next=65993/100000 best=0.633767s eval=33928 elapsed=1118.1s
+tsp-rs shard=0 evaluated=8300 next=66393/100000 best=0.633767s eval=33928 elapsed=1126.2s
+tsp-rs shard=0 evaluated=8350 next=66793/100000 best=0.633767s eval=33928 elapsed=1138.8s
+tsp-rs shard=0 evaluated=8400 next=67193/100000 best=0.633767s eval=33928 elapsed=1145.4s
+tsp-rs shard=0 evaluated=8450 next=67593/100000 best=0.633767s eval=33928 elapsed=1149.1s
+tsp-rs shard=0 evaluated=8500 next=67993/100000 best=0.633767s eval=33928 elapsed=1157.8s
+tsp-rs shard=0 evaluated=8550 next=68393/100000 best=0.633767s eval=33928 elapsed=1163.8s
+tsp-rs shard=0 evaluated=8600 next=68793/100000 best=0.633767s eval=33928 elapsed=1170.4s
+tsp-rs shard=0 evaluated=8650 next=69193/100000 best=0.633767s eval=33928 elapsed=1183.9s
+tsp-rs shard=0 evaluated=8700 next=69593/100000 best=0.633767s eval=33928 elapsed=1192.5s
+tsp-rs shard=0 evaluated=8750 next=69993/100000 best=0.633767s eval=33928 elapsed=1196.0s
+tsp-rs shard=0 evaluated=8800 next=70393/100000 best=0.633767s eval=33928 elapsed=1207.4s
+tsp-rs shard=0 evaluated=8850 next=70793/100000 best=0.633767s eval=33928 elapsed=1212.2s
+tsp-rs shard=0 evaluated=8900 next=71193/100000 best=0.633767s eval=33928 elapsed=1217.3s
+tsp-rs shard=0 evaluated=8950 next=71593/100000 best=0.633767s eval=33928 elapsed=1224.1s
+tsp-rs shard=0 evaluated=9000 next=71993/100000 best=0.633767s eval=33928 elapsed=1244.7s
+tsp-rs shard=0 evaluated=9050 next=72393/100000 best=0.633767s eval=33928 elapsed=1250.4s
+tsp-rs shard=0 evaluated=9100 next=72793/100000 best=0.633767s eval=33928 elapsed=1253.9s
+tsp-rs shard=0 evaluated=9150 next=73193/100000 best=0.633767s eval=33928 elapsed=1265.7s
+tsp-rs shard=0 evaluated=9200 next=73593/100000 best=0.633767s eval=33928 elapsed=1269.7s
+tsp-rs shard=0 evaluated=9250 next=73993/100000 best=0.633767s eval=33928 elapsed=1273.4s
+tsp-rs shard=0 evaluated=9300 next=74393/100000 best=0.633767s eval=33928 elapsed=1277.6s
+tsp-rs shard=0 evaluated=9350 next=74793/100000 best=0.633767s eval=33928 elapsed=1282.0s
+tsp-rs shard=0 evaluated=9400 next=75193/100000 best=0.633767s eval=33928 elapsed=1314.3s
+tsp-rs shard=0 evaluated=9450 next=75593/100000 best=0.633767s eval=33928 elapsed=1321.1s
+tsp-rs shard=0 evaluated=9500 next=75993/100000 best=0.633767s eval=33928 elapsed=1325.0s
+tsp-rs shard=0 evaluated=9550 next=76393/100000 best=0.633767s eval=33928 elapsed=1330.9s
+tsp-rs shard=0 evaluated=9600 next=76793/100000 best=0.633767s eval=33928 elapsed=1334.8s
+tsp-rs shard=0 evaluated=9650 next=77193/100000 best=0.633767s eval=33928 elapsed=1338.8s
+tsp-rs shard=0 evaluated=9700 next=77593/100000 best=0.633767s eval=33928 elapsed=1341.9s
+tsp-rs shard=0 evaluated=9750 next=77993/100000 best=0.633767s eval=33928 elapsed=1345.2s
+tsp-rs shard=0 evaluated=9800 next=78393/100000 best=0.633767s eval=33928 elapsed=1350.4s
+tsp-rs shard=0 evaluated=9850 next=78793/100000 best=0.633767s eval=33928 elapsed=1353.6s
+tsp-rs shard=0 evaluated=9900 next=79193/100000 best=0.633767s eval=33928 elapsed=1358.4s
+tsp-rs shard=0 evaluated=9950 next=79593/100000 best=0.633767s eval=33928 elapsed=1364.6s
+tsp-rs shard=0 evaluated=10000 next=79993/100000 best=0.633767s eval=33928 elapsed=1368.7s
+tsp-rs shard=0 evaluated=10050 next=80393/100000 best=0.633767s eval=33928 elapsed=1372.2s
+tsp-rs shard=0 evaluated=10100 next=80793/100000 best=0.633767s eval=33928 elapsed=1378.3s
+tsp-rs shard=0 evaluated=10150 next=81193/100000 best=0.633767s eval=33928 elapsed=1381.6s
+tsp-rs shard=0 evaluated=10200 next=81593/100000 best=0.633767s eval=33928 elapsed=1385.2s
+tsp-rs shard=0 evaluated=10250 next=81993/100000 best=0.633767s eval=33928 elapsed=1389.7s
+tsp-rs shard=0 evaluated=10300 next=82393/100000 best=0.633767s eval=33928 elapsed=1393.6s
+tsp-rs shard=0 evaluated=10350 next=82793/100000 best=0.633767s eval=33928 elapsed=1401.4s
+tsp-rs shard=0 evaluated=10400 next=83193/100000 best=0.633767s eval=33928 elapsed=1404.9s
+tsp-rs shard=0 evaluated=10450 next=83593/100000 best=0.633767s eval=33928 elapsed=1411.1s
+tsp-rs shard=0 evaluated=10500 next=83993/100000 best=0.633767s eval=33928 elapsed=1414.4s
+tsp-rs shard=0 evaluated=10550 next=84393/100000 best=0.633767s eval=33928 elapsed=1418.7s
+tsp-rs shard=0 evaluated=10600 next=84793/100000 best=0.633767s eval=33928 elapsed=1423.5s
+tsp-rs shard=0 evaluated=10650 next=85193/100000 best=0.633767s eval=33928 elapsed=1428.0s
+tsp-rs shard=0 evaluated=10700 next=85593/100000 best=0.633767s eval=33928 elapsed=1432.3s
+tsp-rs shard=0 evaluated=10750 next=85993/100000 best=0.633767s eval=33928 elapsed=1435.9s
+tsp-rs shard=0 evaluated=10800 next=86393/100000 best=0.633767s eval=33928 elapsed=1443.1s
+tsp-rs shard=0 evaluated=10850 next=86793/100000 best=0.633767s eval=33928 elapsed=1453.2s
+tsp-rs shard=0 evaluated=10900 next=87193/100000 best=0.633767s eval=33928 elapsed=1460.6s
+tsp-rs shard=0 evaluated=10950 next=87593/100000 best=0.633767s eval=33928 elapsed=1470.1s
+tsp-rs shard=0 evaluated=11000 next=87993/100000 best=0.633767s eval=33928 elapsed=1482.9s
+tsp-rs shard=0 evaluated=11050 next=88393/100000 best=0.633767s eval=33928 elapsed=1487.1s
+tsp-rs shard=0 evaluated=11100 next=88793/100000 best=0.633767s eval=33928 elapsed=1492.0s
+tsp-rs shard=0 evaluated=11150 next=89193/100000 best=0.633767s eval=33928 elapsed=1496.8s
+tsp-rs shard=0 evaluated=11200 next=89593/100000 best=0.633767s eval=33928 elapsed=1500.6s
+tsp-rs shard=0 evaluated=11250 next=89993/100000 best=0.633767s eval=33928 elapsed=1507.2s
+tsp-rs shard=0 evaluated=11300 next=90393/100000 best=0.633767s eval=33928 elapsed=1510.8s
+tsp-rs shard=0 evaluated=11350 next=90793/100000 best=0.633767s eval=33928 elapsed=1515.4s
+tsp-rs shard=0 evaluated=11400 next=91193/100000 best=0.633767s eval=33928 elapsed=1526.1s
+tsp-rs shard=0 evaluated=11450 next=91593/100000 best=0.633767s eval=33928 elapsed=1530.8s
+tsp-rs shard=0 evaluated=11500 next=91993/100000 best=0.633767s eval=33928 elapsed=1535.0s
+tsp-rs shard=0 evaluated=11550 next=92393/100000 best=0.633767s eval=33928 elapsed=1538.4s
+tsp-rs shard=0 evaluated=11600 next=92793/100000 best=0.633767s eval=33928 elapsed=1543.3s
+tsp-rs shard=0 evaluated=11650 next=93193/100000 best=0.633767s eval=33928 elapsed=1555.6s
+tsp-rs shard=0 evaluated=11700 next=93593/100000 best=0.633767s eval=33928 elapsed=1559.0s
+tsp-rs shard=0 evaluated=11750 next=93993/100000 best=0.633767s eval=33928 elapsed=1566.3s
+tsp-rs shard=0 evaluated=11800 next=94393/100000 best=0.633767s eval=33928 elapsed=1574.2s
+tsp-rs shard=0 evaluated=11850 next=94793/100000 best=0.633767s eval=33928 elapsed=1577.6s
+tsp-rs shard=0 evaluated=11900 next=95193/100000 best=0.633767s eval=33928 elapsed=1583.8s
+tsp-rs shard=0 evaluated=11950 next=95593/100000 best=0.633767s eval=33928 elapsed=1587.6s
+tsp-rs shard=0 evaluated=12000 next=95993/100000 best=0.633767s eval=33928 elapsed=1594.2s
+tsp-rs shard=0 evaluated=12050 next=96393/100000 best=0.633767s eval=33928 elapsed=1599.3s
+tsp-rs shard=0 evaluated=12100 next=96793/100000 best=0.633767s eval=33928 elapsed=1603.6s
+tsp-rs shard=0 evaluated=12150 next=97193/100000 best=0.633767s eval=33928 elapsed=1608.3s
+tsp-rs shard=0 evaluated=12200 next=97593/100000 best=0.633767s eval=33928 elapsed=1616.2s
+tsp-rs shard=0 evaluated=12250 next=97993/100000 best=0.633767s eval=33928 elapsed=1622.7s
+tsp-rs shard=0 evaluated=12300 next=98393/100000 best=0.633767s eval=33928 elapsed=1626.8s
+tsp-rs shard=0 evaluated=12350 next=98793/100000 best=0.633767s eval=33928 elapsed=1630.9s
+tsp-rs shard=0 evaluated=12400 next=99193/100000 best=0.633767s eval=33928 elapsed=1635.9s
+tsp-rs shard=0 evaluated=12450 next=99593/100000 best=0.633767s eval=33928 elapsed=1639.5s
+tsp-rs shard=0 evaluated=12500 next=99993/100000 best=0.633767s eval=33928 elapsed=1649.6s
+wrote current_machine_rebench/results/followup-four-core/tsp-random-screen-shard0.json
+2026-07-19T10:56:22+00:00 DONE tsp-random-screen-0 cpu=2
+2026-07-19T10:56:22+00:00 START tsp-random-screen-4 cpu=2 attempt=1
+tsp-rs shard=4 evaluated=50 next=397/100000 best=0.076113s eval=308 elapsed=6.6s
+tsp-rs shard=4 evaluated=100 next=797/100000 best=0.076113s eval=308 elapsed=11.1s
+tsp-rs shard=4 evaluated=150 next=1197/100000 best=0.076113s eval=308 elapsed=17.5s
+tsp-rs shard=4 evaluated=200 next=1597/100000 best=0.081348s eval=1516 elapsed=25.5s
+tsp-rs shard=4 evaluated=250 next=1997/100000 best=0.081348s eval=1516 elapsed=29.1s
+tsp-rs shard=4 evaluated=300 next=2397/100000 best=0.081348s eval=1516 elapsed=34.1s
+tsp-rs shard=4 evaluated=350 next=2797/100000 best=0.081348s eval=1516 elapsed=40.0s
+tsp-rs shard=4 evaluated=400 next=3197/100000 best=0.081348s eval=1516 elapsed=46.0s
+tsp-rs shard=4 evaluated=450 next=3597/100000 best=0.107083s eval=3468 elapsed=51.6s
+tsp-rs shard=4 evaluated=500 next=3997/100000 best=0.168241s eval=3788 elapsed=58.1s
+tsp-rs shard=4 evaluated=550 next=4397/100000 best=0.168241s eval=3788 elapsed=64.2s
+tsp-rs shard=4 evaluated=600 next=4797/100000 best=0.168241s eval=3788 elapsed=69.4s
+tsp-rs shard=4 evaluated=650 next=5197/100000 best=0.384511s eval=5172 elapsed=82.3s
+tsp-rs shard=4 evaluated=700 next=5597/100000 best=0.384511s eval=5172 elapsed=85.7s
+tsp-rs shard=4 evaluated=750 next=5997/100000 best=0.384511s eval=5172 elapsed=89.6s
+tsp-rs shard=4 evaluated=800 next=6397/100000 best=0.384511s eval=5172 elapsed=92.8s
+tsp-rs shard=4 evaluated=850 next=6797/100000 best=0.384511s eval=5172 elapsed=96.8s
+tsp-rs shard=4 evaluated=900 next=7197/100000 best=0.384511s eval=5172 elapsed=102.3s
+tsp-rs shard=4 evaluated=950 next=7597/100000 best=0.384511s eval=5172 elapsed=107.8s
+tsp-rs shard=4 evaluated=1000 next=7997/100000 best=0.384511s eval=5172 elapsed=111.3s
+tsp-rs shard=4 evaluated=1050 next=8397/100000 best=0.384511s eval=5172 elapsed=114.7s
+tsp-rs shard=4 evaluated=1100 next=8797/100000 best=0.384511s eval=5172 elapsed=119.1s
+tsp-rs shard=4 evaluated=1150 next=9197/100000 best=0.384511s eval=5172 elapsed=128.6s
+tsp-rs shard=4 evaluated=1200 next=9597/100000 best=0.384511s eval=5172 elapsed=135.3s
+tsp-rs shard=4 evaluated=1250 next=9997/100000 best=0.384511s eval=5172 elapsed=138.9s
+tsp-rs shard=4 evaluated=1300 next=10397/100000 best=0.384511s eval=5172 elapsed=142.9s
+tsp-rs shard=4 evaluated=1350 next=10797/100000 best=0.384511s eval=5172 elapsed=152.3s
+tsp-rs shard=4 evaluated=1400 next=11197/100000 best=0.384511s eval=5172 elapsed=156.3s
+tsp-rs shard=4 evaluated=1450 next=11597/100000 best=0.384511s eval=5172 elapsed=160.5s
+tsp-rs shard=4 evaluated=1500 next=11997/100000 best=0.384511s eval=5172 elapsed=172.6s
+tsp-rs shard=4 evaluated=1550 next=12397/100000 best=0.384511s eval=5172 elapsed=182.5s
+tsp-rs shard=4 evaluated=1600 next=12797/100000 best=0.384511s eval=5172 elapsed=186.9s
+tsp-rs shard=4 evaluated=1650 next=13197/100000 best=0.384511s eval=5172 elapsed=200.9s
+tsp-rs shard=4 evaluated=1700 next=13597/100000 best=0.384511s eval=5172 elapsed=210.9s
+tsp-rs shard=4 evaluated=1750 next=13997/100000 best=0.384511s eval=5172 elapsed=215.2s
+tsp-rs shard=4 evaluated=1800 next=14397/100000 best=0.384511s eval=5172 elapsed=218.8s
+tsp-rs shard=4 evaluated=1850 next=14797/100000 best=0.384511s eval=5172 elapsed=222.4s
+tsp-rs shard=4 evaluated=1900 next=15197/100000 best=0.384511s eval=5172 elapsed=226.7s
+tsp-rs shard=4 evaluated=1950 next=15597/100000 best=0.384511s eval=5172 elapsed=229.8s
+tsp-rs shard=4 evaluated=2000 next=15997/100000 best=0.384511s eval=5172 elapsed=234.4s
+tsp-rs shard=4 evaluated=2050 next=16397/100000 best=0.384511s eval=5172 elapsed=239.8s
+tsp-rs shard=4 evaluated=2100 next=16797/100000 best=0.384511s eval=5172 elapsed=246.8s
+tsp-rs shard=4 evaluated=2150 next=17197/100000 best=0.384511s eval=5172 elapsed=254.1s
+tsp-rs shard=4 evaluated=2200 next=17597/100000 best=0.384511s eval=5172 elapsed=260.7s
+tsp-rs shard=4 evaluated=2250 next=17997/100000 best=0.384511s eval=5172 elapsed=265.4s
+tsp-rs shard=4 evaluated=2300 next=18397/100000 best=0.384511s eval=5172 elapsed=270.9s
+tsp-rs shard=4 evaluated=2350 next=18797/100000 best=0.384511s eval=5172 elapsed=274.5s
+tsp-rs shard=4 evaluated=2400 next=19197/100000 best=0.384511s eval=5172 elapsed=277.8s
+tsp-rs shard=4 evaluated=2450 next=19597/100000 best=0.384511s eval=5172 elapsed=281.6s
+tsp-rs shard=4 evaluated=2500 next=19997/100000 best=0.384511s eval=5172 elapsed=290.3s
+tsp-rs shard=4 evaluated=2550 next=20397/100000 best=0.384511s eval=5172 elapsed=298.5s
+tsp-rs shard=4 evaluated=2600 next=20797/100000 best=0.384511s eval=5172 elapsed=303.0s
+tsp-rs shard=4 evaluated=2650 next=21197/100000 best=0.384511s eval=5172 elapsed=310.8s
+tsp-rs shard=4 evaluated=2700 next=21597/100000 best=0.384511s eval=5172 elapsed=316.5s
+tsp-rs shard=4 evaluated=2750 next=21997/100000 best=0.384511s eval=5172 elapsed=325.4s
+tsp-rs shard=4 evaluated=2800 next=22397/100000 best=0.384511s eval=5172 elapsed=333.6s
+tsp-rs shard=4 evaluated=2850 next=22797/100000 best=0.384511s eval=5172 elapsed=339.1s
+tsp-rs shard=4 evaluated=2900 next=23197/100000 best=0.384511s eval=5172 elapsed=343.6s
+tsp-rs shard=4 evaluated=2950 next=23597/100000 best=0.384511s eval=5172 elapsed=349.1s
+tsp-rs shard=4 evaluated=3000 next=23997/100000 best=0.384511s eval=5172 elapsed=357.5s
+tsp-rs shard=4 evaluated=3050 next=24397/100000 best=0.384511s eval=5172 elapsed=365.9s
+tsp-rs shard=4 evaluated=3100 next=24797/100000 best=0.384511s eval=5172 elapsed=372.3s
+tsp-rs shard=4 evaluated=3150 next=25197/100000 best=0.384511s eval=5172 elapsed=386.3s
+tsp-rs shard=4 evaluated=3200 next=25597/100000 best=0.384511s eval=5172 elapsed=390.3s
+tsp-rs shard=4 evaluated=3250 next=25997/100000 best=0.384511s eval=5172 elapsed=393.8s
+tsp-rs shard=4 evaluated=3300 next=26397/100000 best=0.384511s eval=5172 elapsed=398.3s
+tsp-rs shard=4 evaluated=3350 next=26797/100000 best=0.384511s eval=5172 elapsed=402.5s
+tsp-rs shard=4 evaluated=3400 next=27197/100000 best=0.384511s eval=5172 elapsed=414.6s
+tsp-rs shard=4 evaluated=3450 next=27597/100000 best=0.384511s eval=5172 elapsed=421.5s
+tsp-rs shard=4 evaluated=3500 next=27997/100000 best=0.384511s eval=5172 elapsed=426.8s
+tsp-rs shard=4 evaluated=3550 next=28397/100000 best=0.384511s eval=5172 elapsed=430.3s
+tsp-rs shard=4 evaluated=3600 next=28797/100000 best=0.384511s eval=5172 elapsed=434.8s
+tsp-rs shard=4 evaluated=3650 next=29197/100000 best=0.384511s eval=5172 elapsed=439.5s
+tsp-rs shard=4 evaluated=3700 next=29597/100000 best=0.384511s eval=5172 elapsed=444.0s
+tsp-rs shard=4 evaluated=3750 next=29997/100000 best=0.384511s eval=5172 elapsed=451.5s
+tsp-rs shard=4 evaluated=3800 next=30397/100000 best=0.384511s eval=5172 elapsed=455.1s
+tsp-rs shard=4 evaluated=3850 next=30797/100000 best=0.384511s eval=5172 elapsed=461.5s
+tsp-rs shard=4 evaluated=3900 next=31197/100000 best=0.384511s eval=5172 elapsed=464.6s
+tsp-rs shard=4 evaluated=3950 next=31597/100000 best=0.384511s eval=5172 elapsed=468.9s
+tsp-rs shard=4 evaluated=4000 next=31997/100000 best=0.384511s eval=5172 elapsed=473.8s
+tsp-rs shard=4 evaluated=4050 next=32397/100000 best=0.384511s eval=5172 elapsed=480.9s
+tsp-rs shard=4 evaluated=4100 next=32797/100000 best=0.384511s eval=5172 elapsed=484.5s
+tsp-rs shard=4 evaluated=4150 next=33197/100000 best=0.384511s eval=5172 elapsed=490.0s
+tsp-rs shard=4 evaluated=4200 next=33597/100000 best=0.384511s eval=5172 elapsed=496.6s
+tsp-rs shard=4 evaluated=4250 next=33997/100000 best=0.384511s eval=5172 elapsed=504.3s
+tsp-rs shard=4 evaluated=4300 next=34397/100000 best=0.384511s eval=5172 elapsed=509.7s
+tsp-rs shard=4 evaluated=4350 next=34797/100000 best=0.384511s eval=5172 elapsed=515.9s
+tsp-rs shard=4 evaluated=4400 next=35197/100000 best=0.384511s eval=5172 elapsed=522.4s
+tsp-rs shard=4 evaluated=4450 next=35597/100000 best=0.384511s eval=5172 elapsed=525.9s
+tsp-rs shard=4 evaluated=4500 next=35997/100000 best=0.384511s eval=5172 elapsed=530.6s
+tsp-rs shard=4 evaluated=4550 next=36397/100000 best=0.384511s eval=5172 elapsed=536.2s
+tsp-rs shard=4 evaluated=4600 next=36797/100000 best=0.384511s eval=5172 elapsed=541.4s
+tsp-rs shard=4 evaluated=4650 next=37197/100000 best=0.384511s eval=5172 elapsed=545.0s
+tsp-rs shard=4 evaluated=4700 next=37597/100000 best=0.384511s eval=5172 elapsed=553.7s
+tsp-rs shard=4 evaluated=4750 next=37997/100000 best=0.384511s eval=5172 elapsed=561.1s
+tsp-rs shard=4 evaluated=4800 next=38397/100000 best=0.384511s eval=5172 elapsed=564.9s
+tsp-rs shard=4 evaluated=4850 next=38797/100000 best=0.384511s eval=5172 elapsed=570.8s
+tsp-rs shard=4 evaluated=4900 next=39197/100000 best=0.384511s eval=5172 elapsed=579.8s
+tsp-rs shard=4 evaluated=4950 next=39597/100000 best=0.384511s eval=5172 elapsed=583.8s
+tsp-rs shard=4 evaluated=5000 next=39997/100000 best=0.384511s eval=5172 elapsed=589.4s
+tsp-rs shard=4 evaluated=5050 next=40397/100000 best=0.384511s eval=5172 elapsed=594.9s
+tsp-rs shard=4 evaluated=5100 next=40797/100000 best=0.384511s eval=5172 elapsed=600.0s
+tsp-rs shard=4 evaluated=5150 next=41197/100000 best=0.384511s eval=5172 elapsed=604.5s
+tsp-rs shard=4 evaluated=5200 next=41597/100000 best=0.384511s eval=5172 elapsed=613.4s
+tsp-rs shard=4 evaluated=5250 next=41997/100000 best=0.384511s eval=5172 elapsed=623.9s
+tsp-rs shard=4 evaluated=5300 next=42397/100000 best=0.384511s eval=5172 elapsed=632.1s
+tsp-rs shard=4 evaluated=5350 next=42797/100000 best=0.384511s eval=5172 elapsed=635.5s
+tsp-rs shard=4 evaluated=5400 next=43197/100000 best=0.384511s eval=5172 elapsed=640.2s
+tsp-rs shard=4 evaluated=5450 next=43597/100000 best=0.384511s eval=5172 elapsed=644.0s
+tsp-rs shard=4 evaluated=5500 next=43997/100000 best=0.384511s eval=5172 elapsed=656.4s
+tsp-rs shard=4 evaluated=5550 next=44397/100000 best=0.384511s eval=5172 elapsed=660.7s
+tsp-rs shard=4 evaluated=5600 next=44797/100000 best=0.384511s eval=5172 elapsed=664.1s
+tsp-rs shard=4 evaluated=5650 next=45197/100000 best=0.384511s eval=5172 elapsed=668.9s
+tsp-rs shard=4 evaluated=5700 next=45597/100000 best=0.384511s eval=5172 elapsed=675.0s
+tsp-rs shard=4 evaluated=5750 next=45997/100000 best=0.384511s eval=5172 elapsed=685.4s
+tsp-rs shard=4 evaluated=5800 next=46397/100000 best=0.384511s eval=5172 elapsed=688.8s
+tsp-rs shard=4 evaluated=5850 next=46797/100000 best=0.384511s eval=5172 elapsed=692.4s
+tsp-rs shard=4 evaluated=5900 next=47197/100000 best=0.384511s eval=5172 elapsed=696.6s
+tsp-rs shard=4 evaluated=5950 next=47597/100000 best=0.384511s eval=5172 elapsed=703.6s
+tsp-rs shard=4 evaluated=6000 next=47997/100000 best=0.384511s eval=5172 elapsed=709.8s
+tsp-rs shard=4 evaluated=6050 next=48397/100000 best=0.384511s eval=5172 elapsed=717.3s
+tsp-rs shard=4 evaluated=6100 next=48797/100000 best=0.384511s eval=5172 elapsed=720.8s
+tsp-rs shard=4 evaluated=6150 next=49197/100000 best=0.384511s eval=5172 elapsed=724.4s
+tsp-rs shard=4 evaluated=6200 next=49597/100000 best=0.384511s eval=5172 elapsed=727.7s
+tsp-rs shard=4 evaluated=6250 next=49997/100000 best=0.384511s eval=5172 elapsed=731.1s
+tsp-rs shard=4 evaluated=6300 next=50397/100000 best=0.384511s eval=5172 elapsed=735.4s
+tsp-rs shard=4 evaluated=6350 next=50797/100000 best=0.384511s eval=5172 elapsed=739.5s
+tsp-rs shard=4 evaluated=6400 next=51197/100000 best=0.384511s eval=5172 elapsed=747.9s
+tsp-rs shard=4 evaluated=6450 next=51597/100000 best=0.384511s eval=5172 elapsed=754.8s
+tsp-rs shard=4 evaluated=6500 next=51997/100000 best=0.384511s eval=5172 elapsed=761.1s
+tsp-rs shard=4 evaluated=6550 next=52397/100000 best=0.384511s eval=5172 elapsed=764.7s
+tsp-rs shard=4 evaluated=6600 next=52797/100000 best=0.384511s eval=5172 elapsed=768.4s
+tsp-rs shard=4 evaluated=6650 next=53197/100000 best=0.384511s eval=5172 elapsed=774.6s
+tsp-rs shard=4 evaluated=6700 next=53597/100000 best=0.384511s eval=5172 elapsed=778.0s
+tsp-rs shard=4 evaluated=6750 next=53997/100000 best=0.384511s eval=5172 elapsed=787.9s
+tsp-rs shard=4 evaluated=6800 next=54397/100000 best=0.384511s eval=5172 elapsed=793.6s
+tsp-rs shard=4 evaluated=6850 next=54797/100000 best=0.384511s eval=5172 elapsed=803.3s
+tsp-rs shard=4 evaluated=6900 next=55197/100000 best=0.384511s eval=5172 elapsed=808.7s
+tsp-rs shard=4 evaluated=6950 next=55597/100000 best=0.384511s eval=5172 elapsed=812.3s
+tsp-rs shard=4 evaluated=7000 next=55997/100000 best=0.384511s eval=5172 elapsed=815.9s
+tsp-rs shard=4 evaluated=7050 next=56397/100000 best=0.384511s eval=5172 elapsed=828.8s
+tsp-rs shard=4 evaluated=7100 next=56797/100000 best=0.384511s eval=5172 elapsed=833.7s
+tsp-rs shard=4 evaluated=7150 next=57197/100000 best=0.384511s eval=5172 elapsed=843.1s
+tsp-rs shard=4 evaluated=7200 next=57597/100000 best=0.384511s eval=5172 elapsed=846.6s
+tsp-rs shard=4 evaluated=7250 next=57997/100000 best=0.424170s eval=57964 elapsed=857.6s
+tsp-rs shard=4 evaluated=7300 next=58397/100000 best=0.424170s eval=57964 elapsed=861.9s
+tsp-rs shard=4 evaluated=7350 next=58797/100000 best=0.424170s eval=57964 elapsed=870.8s
+tsp-rs shard=4 evaluated=7400 next=59197/100000 best=0.424170s eval=57964 elapsed=873.9s
+tsp-rs shard=4 evaluated=7450 next=59597/100000 best=0.424170s eval=57964 elapsed=878.9s
+tsp-rs shard=4 evaluated=7500 next=59997/100000 best=0.424170s eval=57964 elapsed=884.0s
+tsp-rs shard=4 evaluated=7550 next=60397/100000 best=0.424170s eval=57964 elapsed=898.9s
+tsp-rs shard=4 evaluated=7600 next=60797/100000 best=0.424170s eval=57964 elapsed=904.3s
+tsp-rs shard=4 evaluated=7650 next=61197/100000 best=0.424170s eval=57964 elapsed=908.8s
+tsp-rs shard=4 evaluated=7700 next=61597/100000 best=0.424170s eval=57964 elapsed=916.6s
+tsp-rs shard=4 evaluated=7750 next=61997/100000 best=0.424170s eval=57964 elapsed=921.0s
+tsp-rs shard=4 evaluated=7800 next=62397/100000 best=0.424170s eval=57964 elapsed=928.6s
+tsp-rs shard=4 evaluated=7850 next=62797/100000 best=0.424170s eval=57964 elapsed=931.7s
+tsp-rs shard=4 evaluated=7900 next=63197/100000 best=0.424170s eval=57964 elapsed=943.4s
+tsp-rs shard=4 evaluated=7950 next=63597/100000 best=0.424170s eval=57964 elapsed=947.1s
+tsp-rs shard=4 evaluated=8000 next=63997/100000 best=0.424170s eval=57964 elapsed=955.4s
+tsp-rs shard=4 evaluated=8050 next=64397/100000 best=0.424170s eval=57964 elapsed=961.2s
+tsp-rs shard=4 evaluated=8100 next=64797/100000 best=0.424170s eval=57964 elapsed=966.9s
+tsp-rs shard=4 evaluated=8150 next=65197/100000 best=0.424170s eval=57964 elapsed=972.1s
+tsp-rs shard=4 evaluated=8200 next=65597/100000 best=0.424170s eval=57964 elapsed=975.8s
+tsp-rs shard=4 evaluated=8250 next=65997/100000 best=0.424170s eval=57964 elapsed=984.2s
+tsp-rs shard=4 evaluated=8300 next=66397/100000 best=0.424170s eval=57964 elapsed=989.6s
+tsp-rs shard=4 evaluated=8350 next=66797/100000 best=0.424170s eval=57964 elapsed=996.8s
+tsp-rs shard=4 evaluated=8400 next=67197/100000 best=0.424170s eval=57964 elapsed=1004.1s
+tsp-rs shard=4 evaluated=8450 next=67597/100000 best=0.424170s eval=57964 elapsed=1008.1s
+tsp-rs shard=4 evaluated=8500 next=67997/100000 best=0.429780s eval=67892 elapsed=1030.8s
+tsp-rs shard=4 evaluated=8550 next=68397/100000 best=0.429780s eval=67892 elapsed=1036.4s
+tsp-rs shard=4 evaluated=8600 next=68797/100000 best=0.444996s eval=68620 elapsed=1048.8s
+tsp-rs shard=4 evaluated=8650 next=69197/100000 best=0.444996s eval=68620 elapsed=1053.3s
+tsp-rs shard=4 evaluated=8700 next=69597/100000 best=0.444996s eval=68620 elapsed=1056.8s
+tsp-rs shard=4 evaluated=8750 next=69997/100000 best=0.444996s eval=68620 elapsed=1060.6s
+tsp-rs shard=4 evaluated=8800 next=70397/100000 best=0.444996s eval=68620 elapsed=1068.2s
+tsp-rs shard=4 evaluated=8850 next=70797/100000 best=0.444996s eval=68620 elapsed=1071.9s
+tsp-rs shard=4 evaluated=8900 next=71197/100000 best=0.444996s eval=68620 elapsed=1075.7s
+tsp-rs shard=4 evaluated=8950 next=71597/100000 best=0.444996s eval=68620 elapsed=1084.9s
+tsp-rs shard=4 evaluated=9000 next=71997/100000 best=0.444996s eval=68620 elapsed=1089.2s
+tsp-rs shard=4 evaluated=9050 next=72397/100000 best=0.444996s eval=68620 elapsed=1097.9s
+tsp-rs shard=4 evaluated=9100 next=72797/100000 best=0.444996s eval=68620 elapsed=1104.6s
+tsp-rs shard=4 evaluated=9150 next=73197/100000 best=0.444996s eval=68620 elapsed=1108.8s
+tsp-rs shard=4 evaluated=9200 next=73597/100000 best=0.444996s eval=68620 elapsed=1114.7s
+tsp-rs shard=4 evaluated=9250 next=73997/100000 best=0.444996s eval=68620 elapsed=1121.0s
+tsp-rs shard=4 evaluated=9300 next=74397/100000 best=0.444996s eval=68620 elapsed=1126.5s
+tsp-rs shard=4 evaluated=9350 next=74797/100000 best=0.444996s eval=68620 elapsed=1130.4s
+tsp-rs shard=4 evaluated=9400 next=75197/100000 best=0.444996s eval=68620 elapsed=1134.9s
+tsp-rs shard=4 evaluated=9450 next=75597/100000 best=0.444996s eval=68620 elapsed=1141.8s
+tsp-rs shard=4 evaluated=9500 next=75997/100000 best=0.444996s eval=68620 elapsed=1146.4s
+tsp-rs shard=4 evaluated=9550 next=76397/100000 best=0.444996s eval=68620 elapsed=1152.3s
+tsp-rs shard=4 evaluated=9600 next=76797/100000 best=0.444996s eval=68620 elapsed=1159.6s
+tsp-rs shard=4 evaluated=9650 next=77197/100000 best=0.444996s eval=68620 elapsed=1166.0s
+tsp-rs shard=4 evaluated=9700 next=77597/100000 best=0.444996s eval=68620 elapsed=1169.8s
+tsp-rs shard=4 evaluated=9750 next=77997/100000 best=0.444996s eval=68620 elapsed=1173.1s
+tsp-rs shard=4 evaluated=9800 next=78397/100000 best=0.444996s eval=68620 elapsed=1182.8s
+tsp-rs shard=4 evaluated=9850 next=78797/100000 best=0.444996s eval=68620 elapsed=1186.9s
+tsp-rs shard=4 evaluated=9900 next=79197/100000 best=0.444996s eval=68620 elapsed=1205.4s
+tsp-rs shard=4 evaluated=9950 next=79597/100000 best=0.444996s eval=68620 elapsed=1212.3s
+tsp-rs shard=4 evaluated=10000 next=79997/100000 best=0.444996s eval=68620 elapsed=1218.2s
+tsp-rs shard=4 evaluated=10050 next=80397/100000 best=0.444996s eval=68620 elapsed=1221.8s
+tsp-rs shard=4 evaluated=10100 next=80797/100000 best=0.444996s eval=68620 elapsed=1225.9s
+tsp-rs shard=4 evaluated=10150 next=81197/100000 best=0.444996s eval=68620 elapsed=1237.3s
+tsp-rs shard=4 evaluated=10200 next=81597/100000 best=0.444996s eval=68620 elapsed=1241.7s
+tsp-rs shard=4 evaluated=10250 next=81997/100000 best=0.444996s eval=68620 elapsed=1250.8s
+tsp-rs shard=4 evaluated=10300 next=82397/100000 best=0.444996s eval=68620 elapsed=1264.0s
+tsp-rs shard=4 evaluated=10350 next=82797/100000 best=0.571855s eval=82420 elapsed=1285.1s
+tsp-rs shard=4 evaluated=10400 next=83197/100000 best=0.571855s eval=82420 elapsed=1289.6s
+tsp-rs shard=4 evaluated=10450 next=83597/100000 best=0.571855s eval=82420 elapsed=1295.9s
+tsp-rs shard=4 evaluated=10500 next=83997/100000 best=0.571855s eval=82420 elapsed=1301.2s
+tsp-rs shard=4 evaluated=10550 next=84397/100000 best=0.571855s eval=82420 elapsed=1305.3s
+tsp-rs shard=4 evaluated=10600 next=84797/100000 best=0.571855s eval=82420 elapsed=1313.9s
+tsp-rs shard=4 evaluated=10650 next=85197/100000 best=0.571855s eval=82420 elapsed=1319.2s
+tsp-rs shard=4 evaluated=10700 next=85597/100000 best=0.571855s eval=82420 elapsed=1323.3s
+tsp-rs shard=4 evaluated=10750 next=85997/100000 best=0.571855s eval=82420 elapsed=1331.4s
+tsp-rs shard=4 evaluated=10800 next=86397/100000 best=0.571855s eval=82420 elapsed=1337.0s
+tsp-rs shard=4 evaluated=10850 next=86797/100000 best=0.571855s eval=82420 elapsed=1347.0s
+tsp-rs shard=4 evaluated=10900 next=87197/100000 best=0.571855s eval=82420 elapsed=1355.7s
+tsp-rs shard=4 evaluated=10950 next=87597/100000 best=0.571855s eval=82420 elapsed=1360.7s
+tsp-rs shard=4 evaluated=11000 next=87997/100000 best=0.571855s eval=82420 elapsed=1365.0s
+tsp-rs shard=4 evaluated=11050 next=88397/100000 best=0.571855s eval=82420 elapsed=1368.3s
+tsp-rs shard=4 evaluated=11100 next=88797/100000 best=0.571855s eval=82420 elapsed=1382.7s
+tsp-rs shard=4 evaluated=11150 next=89197/100000 best=0.571855s eval=82420 elapsed=1388.2s
+tsp-rs shard=4 evaluated=11200 next=89597/100000 best=0.571855s eval=82420 elapsed=1391.9s
+tsp-rs shard=4 evaluated=11250 next=89997/100000 best=0.571855s eval=82420 elapsed=1396.2s
+tsp-rs shard=4 evaluated=11300 next=90397/100000 best=0.571855s eval=82420 elapsed=1401.1s
+tsp-rs shard=4 evaluated=11350 next=90797/100000 best=0.571855s eval=82420 elapsed=1408.3s
+tsp-rs shard=4 evaluated=11400 next=91197/100000 best=0.571855s eval=82420 elapsed=1411.7s
+tsp-rs shard=4 evaluated=11450 next=91597/100000 best=0.571855s eval=82420 elapsed=1414.9s
+tsp-rs shard=4 evaluated=11500 next=91997/100000 best=0.571855s eval=82420 elapsed=1423.9s
+tsp-rs shard=4 evaluated=11550 next=92397/100000 best=0.571855s eval=82420 elapsed=1428.4s
+tsp-rs shard=4 evaluated=11600 next=92797/100000 best=0.571855s eval=82420 elapsed=1435.6s
+tsp-rs shard=4 evaluated=11650 next=93197/100000 best=0.571855s eval=82420 elapsed=1439.4s
+tsp-rs shard=4 evaluated=11700 next=93597/100000 best=0.571855s eval=82420 elapsed=1442.9s
+tsp-rs shard=4 evaluated=11750 next=93997/100000 best=0.571855s eval=82420 elapsed=1448.7s
+tsp-rs shard=4 evaluated=11800 next=94397/100000 best=0.571855s eval=82420 elapsed=1452.6s
+tsp-rs shard=4 evaluated=11850 next=94797/100000 best=0.571855s eval=82420 elapsed=1458.0s
+tsp-rs shard=4 evaluated=11900 next=95197/100000 best=0.571855s eval=82420 elapsed=1461.7s
+tsp-rs shard=4 evaluated=11950 next=95597/100000 best=0.571855s eval=82420 elapsed=1465.9s
+tsp-rs shard=4 evaluated=12000 next=95997/100000 best=0.571855s eval=82420 elapsed=1471.0s
+tsp-rs shard=4 evaluated=12050 next=96397/100000 best=0.571855s eval=82420 elapsed=1486.6s
+tsp-rs shard=4 evaluated=12100 next=96797/100000 best=0.571855s eval=82420 elapsed=1492.8s
+tsp-rs shard=4 evaluated=12150 next=97197/100000 best=0.571855s eval=82420 elapsed=1504.3s
+tsp-rs shard=4 evaluated=12200 next=97597/100000 best=0.571855s eval=82420 elapsed=1509.8s
+tsp-rs shard=4 evaluated=12250 next=97997/100000 best=0.571855s eval=82420 elapsed=1515.4s
+tsp-rs shard=4 evaluated=12300 next=98397/100000 best=0.571855s eval=82420 elapsed=1523.0s
+tsp-rs shard=4 evaluated=12350 next=98797/100000 best=0.571855s eval=82420 elapsed=1529.6s
+tsp-rs shard=4 evaluated=12400 next=99197/100000 best=0.571855s eval=82420 elapsed=1535.8s
+tsp-rs shard=4 evaluated=12450 next=99597/100000 best=0.571855s eval=82420 elapsed=1540.6s
+tsp-rs shard=4 evaluated=12500 next=99997/100000 best=0.571855s eval=82420 elapsed=1547.3s
+wrote current_machine_rebench/results/followup-four-core/tsp-random-screen-shard4.json
+2026-07-19T11:22:11+00:00 DONE tsp-random-screen-4 cpu=2
+2026-07-19T11:22:11+00:00 START tsp-20009-half0 cpu=2 attempt=1
+20009_hard train seed=1 rep=0: SOLVED 19.132394s
+20009_hard train seed=1 rep=2: SOLVED 19.161064s
+20009_hard train seed=2 rep=1: SOLVED 31.998868s
+20009_hard train seed=3 rep=0: SOLVED 34.367277s
+20009_hard train seed=3 rep=2: SOLVED 34.258225s
+20009_hard train seed=4 rep=1: SOLVED 36.867614s
+20009_hard train seed=5 rep=0: SOLVED 38.479974s
+20009_hard train seed=5 rep=2: SOLVED 38.363909s
+20009_hard train seed=6 rep=1: SOLVED 33.279801s
+20009_hard train seed=7 rep=0: SOLVED 28.255843s
+20009_hard train seed=7 rep=2: SOLVED 28.250117s
+20009_hard heldout seed=8 rep=1: SOLVED 24.484354s
+20009_hard heldout seed=9 rep=0: SOLVED 25.903551s
+20009_hard heldout seed=9 rep=2: SOLVED 26.040411s
+20009_hard heldout seed=10 rep=1: SOLVED 25.327878s
+20009_hard heldout seed=11 rep=0: SOLVED 27.106286s
+20009_hard heldout seed=11 rep=2: SOLVED 27.138318s
+20009_hard heldout seed=12 rep=1: SOLVED 26.167879s
+20009_hard heldout seed=13 rep=0: SOLVED 42.765674s
+20009_hard heldout seed=13 rep=2: SOLVED 42.820238s
+20009_hard heldout seed=14 rep=1: SOLVED 20.936863s
+20009_hard heldout seed=15 rep=0: SOLVED 35.879913s
+20009_hard heldout seed=15 rep=2: SOLVED 35.937576s
+20009_hard heldout seed=16 rep=1: SOLVED 41.269573s
+20009_hard heldout seed=17 rep=0: SOLVED 40.510261s
+20009_hard heldout seed=17 rep=2: SOLVED 40.559910s
+20009_hard heldout seed=18 rep=1: SOLVED 28.715527s
+20009_hard heldout seed=19 rep=0: SOLVED 22.489475s
+20009_hard heldout seed=19 rep=2: SOLVED 22.287638s
+20009_hard heldout seed=20 rep=1: SOLVED 39.478995s
+20009_hard heldout seed=21 rep=0: SOLVED 28.736075s
+20009_hard heldout seed=21 rep=2: SOLVED 28.698725s
+20009_hard heldout seed=22 rep=1: SOLVED 26.218560s
+20009_hard heldout seed=23 rep=0: SOLVED 24.395114s
+20009_hard heldout seed=23 rep=2: SOLVED 24.455560s
+20009_hard heldout seed=24 rep=1: SOLVED 29.040501s
+20009_hard heldout seed=25 rep=0: SOLVED 34.095283s
+20009_hard heldout seed=25 rep=2: SOLVED 34.102228s
+20009_hard heldout seed=26 rep=1: SOLVED 36.617986s
+20009_hard heldout seed=27 rep=0: SOLVED 33.841040s
+20009_hard heldout seed=27 rep=2: SOLVED 33.910213s
+20009_hard heldout seed=28 rep=1: SOLVED 27.246011s
+20009_hard heldout seed=29 rep=0: SOLVED 26.836977s
+20009_hard heldout seed=29 rep=2: SOLVED 26.823017s
+20009_hard heldout seed=30 rep=1: SOLVED 35.355778s
+wrote current_machine_rebench/results/followup-four-core/tsp-20009-half0.json
+2026-07-19T11:45:22+00:00 DONE tsp-20009-half0 cpu=2

@@ -1,0 +1,1370 @@
+2026-07-19T10:28:51+00:00 START ham-full-r3 cpu=3 attempt=1
+ham control_randomsearch_trivial train seed=1 rep=0: SOLVED 0.031398s
+ham control_randomsearch_trivial train seed=1 rep=1: SOLVED 0.027581s
+ham control_randomsearch_trivial train seed=1 rep=2: SOLVED 0.027887s
+ham control_randomsearch_trivial train seed=2 rep=0: SOLVED 0.027017s
+ham control_randomsearch_trivial train seed=2 rep=1: SOLVED 0.026810s
+ham control_randomsearch_trivial train seed=2 rep=2: SOLVED 0.026797s
+ham control_randomsearch_trivial train seed=3 rep=0: SOLVED 0.028719s
+ham control_randomsearch_trivial train seed=3 rep=1: SOLVED 0.028377s
+ham control_randomsearch_trivial train seed=3 rep=2: SOLVED 0.028514s
+ham control_randomsearch_trivial train seed=4 rep=0: SOLVED 0.027048s
+ham control_randomsearch_trivial train seed=4 rep=1: SOLVED 0.027163s
+ham control_randomsearch_trivial train seed=4 rep=2: SOLVED 0.027523s
+ham control_randomsearch_trivial train seed=5 rep=0: SOLVED 0.027164s
+ham control_randomsearch_trivial train seed=5 rep=1: SOLVED 0.027433s
+ham control_randomsearch_trivial train seed=5 rep=2: SOLVED 0.026985s
+ham control_randomsearch_trivial train seed=6 rep=0: SOLVED 0.027230s
+ham control_randomsearch_trivial train seed=6 rep=1: SOLVED 0.027938s
+ham control_randomsearch_trivial train seed=6 rep=2: SOLVED 0.028008s
+ham control_randomsearch_trivial train seed=7 rep=0: SOLVED 0.027263s
+ham control_randomsearch_trivial train seed=7 rep=1: SOLVED 0.026421s
+ham control_randomsearch_trivial train seed=7 rep=2: SOLVED 0.026232s
+ham control_randomsearch_trivial heldout seed=8 rep=0: SOLVED 0.027367s
+ham control_randomsearch_trivial heldout seed=8 rep=1: SOLVED 0.027283s
+ham control_randomsearch_trivial heldout seed=8 rep=2: SOLVED 0.027480s
+ham control_randomsearch_trivial heldout seed=9 rep=0: SOLVED 0.029004s
+ham control_randomsearch_trivial heldout seed=9 rep=1: SOLVED 0.028697s
+ham control_randomsearch_trivial heldout seed=9 rep=2: SOLVED 0.028804s
+ham control_randomsearch_trivial heldout seed=10 rep=0: SOLVED 0.029342s
+ham control_randomsearch_trivial heldout seed=10 rep=1: SOLVED 0.029426s
+ham control_randomsearch_trivial heldout seed=10 rep=2: SOLVED 0.029499s
+ham control_randomsearch_trivial heldout seed=11 rep=0: SOLVED 0.027803s
+ham control_randomsearch_trivial heldout seed=11 rep=1: SOLVED 0.027752s
+ham control_randomsearch_trivial heldout seed=11 rep=2: SOLVED 0.029949s
+ham control_randomsearch_trivial heldout seed=12 rep=0: SOLVED 0.032361s
+ham control_randomsearch_trivial heldout seed=12 rep=1: SOLVED 0.027007s
+ham control_randomsearch_trivial heldout seed=12 rep=2: SOLVED 0.026890s
+ham control_randomsearch_trivial heldout seed=13 rep=0: SOLVED 0.028598s
+ham control_randomsearch_trivial heldout seed=13 rep=1: SOLVED 0.030382s
+ham control_randomsearch_trivial heldout seed=13 rep=2: SOLVED 0.027426s
+ham control_randomsearch_trivial heldout seed=14 rep=0: SOLVED 0.027512s
+ham control_randomsearch_trivial heldout seed=14 rep=1: SOLVED 0.027911s
+ham control_randomsearch_trivial heldout seed=14 rep=2: SOLVED 0.027758s
+ham control_randomsearch_trivial heldout seed=15 rep=0: SOLVED 0.028121s
+ham control_randomsearch_trivial heldout seed=15 rep=1: SOLVED 0.027385s
+ham control_randomsearch_trivial heldout seed=15 rep=2: SOLVED 0.027184s
+ham control_randomsearch_trivial heldout seed=16 rep=0: SOLVED 0.027648s
+ham control_randomsearch_trivial heldout seed=16 rep=1: SOLVED 0.028748s
+ham control_randomsearch_trivial heldout seed=16 rep=2: SOLVED 0.028128s
+ham control_randomsearch_trivial heldout seed=17 rep=0: SOLVED 0.027102s
+ham control_randomsearch_trivial heldout seed=17 rep=1: SOLVED 0.027553s
+ham control_randomsearch_trivial heldout seed=17 rep=2: SOLVED 0.027138s
+ham control_randomsearch_trivial heldout seed=18 rep=0: SOLVED 0.027488s
+ham control_randomsearch_trivial heldout seed=18 rep=1: SOLVED 0.027420s
+ham control_randomsearch_trivial heldout seed=18 rep=2: SOLVED 0.027417s
+ham control_randomsearch_trivial heldout seed=19 rep=0: SOLVED 0.026031s
+ham control_randomsearch_trivial heldout seed=19 rep=1: SOLVED 0.026272s
+ham control_randomsearch_trivial heldout seed=19 rep=2: SOLVED 0.026039s
+ham control_randomsearch_trivial heldout seed=20 rep=0: SOLVED 0.028882s
+ham control_randomsearch_trivial heldout seed=20 rep=1: SOLVED 0.028968s
+ham control_randomsearch_trivial heldout seed=20 rep=2: SOLVED 0.028853s
+ham control_randomsearch_trivial heldout seed=21 rep=0: SOLVED 0.028302s
+ham control_randomsearch_trivial heldout seed=21 rep=1: SOLVED 0.028482s
+ham control_randomsearch_trivial heldout seed=21 rep=2: SOLVED 0.028451s
+ham control_randomsearch_trivial heldout seed=22 rep=0: SOLVED 0.027754s
+ham control_randomsearch_trivial heldout seed=22 rep=1: SOLVED 0.027865s
+ham control_randomsearch_trivial heldout seed=22 rep=2: SOLVED 0.027908s
+ham control_randomsearch_trivial heldout seed=23 rep=0: SOLVED 0.027078s
+ham control_randomsearch_trivial heldout seed=23 rep=1: SOLVED 0.027166s
+ham control_randomsearch_trivial heldout seed=23 rep=2: SOLVED 0.027252s
+ham control_randomsearch_trivial heldout seed=24 rep=0: SOLVED 0.042619s
+ham control_randomsearch_trivial heldout seed=24 rep=1: SOLVED 0.042951s
+ham control_randomsearch_trivial heldout seed=24 rep=2: SOLVED 0.044427s
+ham control_randomsearch_trivial heldout seed=25 rep=0: SOLVED 0.027141s
+ham control_randomsearch_trivial heldout seed=25 rep=1: SOLVED 0.027306s
+ham control_randomsearch_trivial heldout seed=25 rep=2: SOLVED 0.028483s
+ham control_randomsearch_trivial heldout seed=26 rep=0: SOLVED 0.029742s
+ham control_randomsearch_trivial heldout seed=26 rep=1: SOLVED 0.029920s
+ham control_randomsearch_trivial heldout seed=26 rep=2: SOLVED 0.029092s
+ham control_randomsearch_trivial heldout seed=27 rep=0: SOLVED 0.028536s
+ham control_randomsearch_trivial heldout seed=27 rep=1: SOLVED 0.028217s
+ham control_randomsearch_trivial heldout seed=27 rep=2: SOLVED 0.028665s
+ham control_randomsearch_trivial heldout seed=28 rep=0: SOLVED 0.027872s
+ham control_randomsearch_trivial heldout seed=28 rep=1: SOLVED 0.027991s
+ham control_randomsearch_trivial heldout seed=28 rep=2: SOLVED 0.027873s
+ham control_randomsearch_trivial heldout seed=29 rep=0: SOLVED 0.030953s
+ham control_randomsearch_trivial heldout seed=29 rep=1: SOLVED 0.030491s
+ham control_randomsearch_trivial heldout seed=29 rep=2: SOLVED 0.030533s
+ham control_randomsearch_trivial heldout seed=30 rep=0: SOLVED 0.025921s
+ham control_randomsearch_trivial heldout seed=30 rep=1: SOLVED 0.026128s
+ham control_randomsearch_trivial heldout seed=30 rep=2: SOLVED 0.026369s
+ham control_randomsearch_perm_int train seed=1 rep=0: SOLVED 0.214219s
+ham control_randomsearch_perm_int train seed=1 rep=1: SOLVED 0.217531s
+ham control_randomsearch_perm_int train seed=1 rep=2: SOLVED 0.217985s
+ham control_randomsearch_perm_int train seed=2 rep=0: SOLVED 0.054165s
+ham control_randomsearch_perm_int train seed=2 rep=1: SOLVED 0.053741s
+ham control_randomsearch_perm_int train seed=2 rep=2: SOLVED 0.053697s
+ham control_randomsearch_perm_int train seed=3 rep=0: SOLVED 0.064140s
+ham control_randomsearch_perm_int train seed=3 rep=1: SOLVED 0.064433s
+ham control_randomsearch_perm_int train seed=3 rep=2: SOLVED 0.064102s
+ham control_randomsearch_perm_int train seed=4 rep=0: SOLVED 0.361607s
+ham control_randomsearch_perm_int train seed=4 rep=1: SOLVED 0.361797s
+ham control_randomsearch_perm_int train seed=4 rep=2: SOLVED 0.359686s
+ham control_randomsearch_perm_int train seed=5 rep=0: SOLVED 0.461913s
+ham control_randomsearch_perm_int train seed=5 rep=1: SOLVED 0.457807s
+ham control_randomsearch_perm_int train seed=5 rep=2: SOLVED 0.464637s
+ham control_randomsearch_perm_int train seed=6 rep=0: SOLVED 0.143747s
+ham control_randomsearch_perm_int train seed=6 rep=1: SOLVED 0.144489s
+ham control_randomsearch_perm_int train seed=6 rep=2: SOLVED 0.144261s
+ham control_randomsearch_perm_int train seed=7 rep=0: SOLVED 0.097170s
+ham control_randomsearch_perm_int train seed=7 rep=1: SOLVED 0.097189s
+ham control_randomsearch_perm_int train seed=7 rep=2: SOLVED 0.097507s
+ham control_randomsearch_perm_int heldout seed=8 rep=0: SOLVED 0.024062s
+ham control_randomsearch_perm_int heldout seed=8 rep=1: SOLVED 0.022939s
+ham control_randomsearch_perm_int heldout seed=8 rep=2: SOLVED 0.022849s
+ham control_randomsearch_perm_int heldout seed=9 rep=0: SOLVED 0.489840s
+ham control_randomsearch_perm_int heldout seed=9 rep=1: SOLVED 0.502327s
+ham control_randomsearch_perm_int heldout seed=9 rep=2: SOLVED 0.487907s
+ham control_randomsearch_perm_int heldout seed=10 rep=0: SOLVED 0.041314s
+ham control_randomsearch_perm_int heldout seed=10 rep=1: SOLVED 0.041551s
+ham control_randomsearch_perm_int heldout seed=10 rep=2: SOLVED 0.041554s
+ham control_randomsearch_perm_int heldout seed=11 rep=0: SOLVED 0.033506s
+ham control_randomsearch_perm_int heldout seed=11 rep=1: SOLVED 0.033649s
+ham control_randomsearch_perm_int heldout seed=11 rep=2: SOLVED 0.033567s
+ham control_randomsearch_perm_int heldout seed=12 rep=0: SOLVED 0.340157s
+ham control_randomsearch_perm_int heldout seed=12 rep=1: SOLVED 0.335906s
+ham control_randomsearch_perm_int heldout seed=12 rep=2: SOLVED 0.345824s
+ham control_randomsearch_perm_int heldout seed=13 rep=0: SOLVED 0.166643s
+ham control_randomsearch_perm_int heldout seed=13 rep=1: SOLVED 0.168707s
+ham control_randomsearch_perm_int heldout seed=13 rep=2: SOLVED 0.165570s
+ham control_randomsearch_perm_int heldout seed=14 rep=0: SOLVED 0.276545s
+ham control_randomsearch_perm_int heldout seed=14 rep=1: SOLVED 0.275491s
+ham control_randomsearch_perm_int heldout seed=14 rep=2: SOLVED 0.280779s
+ham control_randomsearch_perm_int heldout seed=15 rep=0: SOLVED 0.017307s
+ham control_randomsearch_perm_int heldout seed=15 rep=1: SOLVED 0.017181s
+ham control_randomsearch_perm_int heldout seed=15 rep=2: SOLVED 0.017150s
+ham control_randomsearch_perm_int heldout seed=16 rep=0: SOLVED 0.167235s
+ham control_randomsearch_perm_int heldout seed=16 rep=1: SOLVED 0.169614s
+ham control_randomsearch_perm_int heldout seed=16 rep=2: SOLVED 0.169016s
+ham control_randomsearch_perm_int heldout seed=17 rep=0: SOLVED 0.030531s
+ham control_randomsearch_perm_int heldout seed=17 rep=1: SOLVED 0.029495s
+ham control_randomsearch_perm_int heldout seed=17 rep=2: SOLVED 0.029727s
+ham control_randomsearch_perm_int heldout seed=18 rep=0: SOLVED 0.083180s
+ham control_randomsearch_perm_int heldout seed=18 rep=1: SOLVED 0.082151s
+ham control_randomsearch_perm_int heldout seed=18 rep=2: SOLVED 0.081797s
+ham control_randomsearch_perm_int heldout seed=19 rep=0: SOLVED 0.348320s
+ham control_randomsearch_perm_int heldout seed=19 rep=1: SOLVED 0.348233s
+ham control_randomsearch_perm_int heldout seed=19 rep=2: SOLVED 0.352159s
+ham control_randomsearch_perm_int heldout seed=20 rep=0: SOLVED 0.042690s
+ham control_randomsearch_perm_int heldout seed=20 rep=1: SOLVED 0.041422s
+ham control_randomsearch_perm_int heldout seed=20 rep=2: SOLVED 0.041475s
+ham control_randomsearch_perm_int heldout seed=21 rep=0: SOLVED 0.173339s
+ham control_randomsearch_perm_int heldout seed=21 rep=1: SOLVED 0.172994s
+ham control_randomsearch_perm_int heldout seed=21 rep=2: SOLVED 0.172946s
+ham control_randomsearch_perm_int heldout seed=22 rep=0: SOLVED 0.123953s
+ham control_randomsearch_perm_int heldout seed=22 rep=1: SOLVED 0.122776s
+ham control_randomsearch_perm_int heldout seed=22 rep=2: SOLVED 0.120266s
+ham control_randomsearch_perm_int heldout seed=23 rep=0: SOLVED 0.193607s
+ham control_randomsearch_perm_int heldout seed=23 rep=1: SOLVED 0.196255s
+ham control_randomsearch_perm_int heldout seed=23 rep=2: SOLVED 0.194536s
+ham control_randomsearch_perm_int heldout seed=24 rep=0: SOLVED 0.058025s
+ham control_randomsearch_perm_int heldout seed=24 rep=1: SOLVED 0.057049s
+ham control_randomsearch_perm_int heldout seed=24 rep=2: SOLVED 0.058184s
+ham control_randomsearch_perm_int heldout seed=25 rep=0: SOLVED 0.097283s
+ham control_randomsearch_perm_int heldout seed=25 rep=1: SOLVED 0.096579s
+ham control_randomsearch_perm_int heldout seed=25 rep=2: SOLVED 0.096769s
+ham control_randomsearch_perm_int heldout seed=26 rep=0: SOLVED 0.075485s
+ham control_randomsearch_perm_int heldout seed=26 rep=1: SOLVED 0.075488s
+ham control_randomsearch_perm_int heldout seed=26 rep=2: SOLVED 0.075538s
+ham control_randomsearch_perm_int heldout seed=27 rep=0: SOLVED 0.070914s
+ham control_randomsearch_perm_int heldout seed=27 rep=1: SOLVED 0.070554s
+ham control_randomsearch_perm_int heldout seed=27 rep=2: SOLVED 0.070739s
+ham control_randomsearch_perm_int heldout seed=28 rep=0: SOLVED 0.212956s
+ham control_randomsearch_perm_int heldout seed=28 rep=1: SOLVED 0.208537s
+ham control_randomsearch_perm_int heldout seed=28 rep=2: SOLVED 0.207312s
+ham control_randomsearch_perm_int heldout seed=29 rep=0: SOLVED 0.037897s
+ham control_randomsearch_perm_int heldout seed=29 rep=1: SOLVED 0.038225s
+ham control_randomsearch_perm_int heldout seed=29 rep=2: SOLVED 0.037871s
+ham control_randomsearch_perm_int heldout seed=30 rep=0: SOLVED 0.042371s
+ham control_randomsearch_perm_int heldout seed=30 rep=1: SOLVED 0.042460s
+ham control_randomsearch_perm_int heldout seed=30 rep=2: SOLVED 0.042390s
+ham control_randomsearch_perm_thr train seed=1 rep=0: SOLVED 0.133995s
+ham control_randomsearch_perm_thr train seed=1 rep=1: SOLVED 0.133639s
+ham control_randomsearch_perm_thr train seed=1 rep=2: SOLVED 0.131237s
+ham control_randomsearch_perm_thr train seed=2 rep=0: SOLVED 0.180301s
+ham control_randomsearch_perm_thr train seed=2 rep=1: SOLVED 0.180344s
+ham control_randomsearch_perm_thr train seed=2 rep=2: SOLVED 0.180212s
+ham control_randomsearch_perm_thr train seed=3 rep=0: SOLVED 0.112065s
+ham control_randomsearch_perm_thr train seed=3 rep=1: SOLVED 0.112431s
+ham control_randomsearch_perm_thr train seed=3 rep=2: SOLVED 0.112785s
+ham control_randomsearch_perm_thr train seed=4 rep=0: SOLVED 0.176774s
+ham control_randomsearch_perm_thr train seed=4 rep=1: SOLVED 0.176180s
+ham control_randomsearch_perm_thr train seed=4 rep=2: SOLVED 0.177426s
+ham control_randomsearch_perm_thr train seed=5 rep=0: SOLVED 0.128775s
+ham control_randomsearch_perm_thr train seed=5 rep=1: SOLVED 0.130994s
+ham control_randomsearch_perm_thr train seed=5 rep=2: SOLVED 0.131615s
+ham control_randomsearch_perm_thr train seed=6 rep=0: SOLVED 0.644259s
+ham control_randomsearch_perm_thr train seed=6 rep=1: SOLVED 0.650983s
+ham control_randomsearch_perm_thr train seed=6 rep=2: SOLVED 0.634445s
+ham control_randomsearch_perm_thr train seed=7 rep=0: SOLVED 0.057978s
+ham control_randomsearch_perm_thr train seed=7 rep=1: SOLVED 0.054059s
+ham control_randomsearch_perm_thr train seed=7 rep=2: SOLVED 0.054069s
+ham control_randomsearch_perm_thr heldout seed=8 rep=0: SOLVED 0.385616s
+ham control_randomsearch_perm_thr heldout seed=8 rep=1: SOLVED 0.391733s
+ham control_randomsearch_perm_thr heldout seed=8 rep=2: SOLVED 0.385444s
+ham control_randomsearch_perm_thr heldout seed=9 rep=0: SOLVED 0.188444s
+ham control_randomsearch_perm_thr heldout seed=9 rep=1: SOLVED 0.188493s
+ham control_randomsearch_perm_thr heldout seed=9 rep=2: SOLVED 0.195632s
+ham control_randomsearch_perm_thr heldout seed=10 rep=0: SOLVED 0.264571s
+ham control_randomsearch_perm_thr heldout seed=10 rep=1: SOLVED 0.266991s
+ham control_randomsearch_perm_thr heldout seed=10 rep=2: SOLVED 0.263280s
+ham control_randomsearch_perm_thr heldout seed=11 rep=0: SOLVED 0.112141s
+ham control_randomsearch_perm_thr heldout seed=11 rep=1: SOLVED 0.112776s
+ham control_randomsearch_perm_thr heldout seed=11 rep=2: SOLVED 0.114709s
+ham control_randomsearch_perm_thr heldout seed=12 rep=0: SOLVED 0.079214s
+ham control_randomsearch_perm_thr heldout seed=12 rep=1: SOLVED 0.079247s
+ham control_randomsearch_perm_thr heldout seed=12 rep=2: SOLVED 0.078963s
+ham control_randomsearch_perm_thr heldout seed=13 rep=0: SOLVED 0.122547s
+ham control_randomsearch_perm_thr heldout seed=13 rep=1: SOLVED 0.125487s
+ham control_randomsearch_perm_thr heldout seed=13 rep=2: SOLVED 0.121663s
+ham control_randomsearch_perm_thr heldout seed=14 rep=0: SOLVED 0.195444s
+ham control_randomsearch_perm_thr heldout seed=14 rep=1: SOLVED 0.191006s
+ham control_randomsearch_perm_thr heldout seed=14 rep=2: SOLVED 0.194924s
+ham control_randomsearch_perm_thr heldout seed=15 rep=0: SOLVED 0.117004s
+ham control_randomsearch_perm_thr heldout seed=15 rep=1: SOLVED 0.116362s
+ham control_randomsearch_perm_thr heldout seed=15 rep=2: SOLVED 0.116270s
+ham control_randomsearch_perm_thr heldout seed=16 rep=0: SOLVED 0.198794s
+ham control_randomsearch_perm_thr heldout seed=16 rep=1: SOLVED 0.192050s
+ham control_randomsearch_perm_thr heldout seed=16 rep=2: SOLVED 0.192027s
+ham control_randomsearch_perm_thr heldout seed=17 rep=0: SOLVED 0.039381s
+ham control_randomsearch_perm_thr heldout seed=17 rep=1: SOLVED 0.043337s
+ham control_randomsearch_perm_thr heldout seed=17 rep=2: SOLVED 0.039514s
+ham control_randomsearch_perm_thr heldout seed=18 rep=0: SOLVED 0.081336s
+ham control_randomsearch_perm_thr heldout seed=18 rep=1: SOLVED 0.081598s
+ham control_randomsearch_perm_thr heldout seed=18 rep=2: SOLVED 0.081071s
+ham control_randomsearch_perm_thr heldout seed=19 rep=0: SOLVED 0.141531s
+ham control_randomsearch_perm_thr heldout seed=19 rep=1: SOLVED 0.143835s
+ham control_randomsearch_perm_thr heldout seed=19 rep=2: SOLVED 0.137583s
+ham control_randomsearch_perm_thr heldout seed=20 rep=0: SOLVED 0.469496s
+ham control_randomsearch_perm_thr heldout seed=20 rep=1: SOLVED 0.480589s
+ham control_randomsearch_perm_thr heldout seed=20 rep=2: SOLVED 0.471042s
+ham control_randomsearch_perm_thr heldout seed=21 rep=0: SOLVED 0.098522s
+ham control_randomsearch_perm_thr heldout seed=21 rep=1: SOLVED 0.101458s
+ham control_randomsearch_perm_thr heldout seed=21 rep=2: SOLVED 0.101502s
+ham control_randomsearch_perm_thr heldout seed=22 rep=0: SOLVED 0.226040s
+ham control_randomsearch_perm_thr heldout seed=22 rep=1: SOLVED 0.226444s
+ham control_randomsearch_perm_thr heldout seed=22 rep=2: SOLVED 0.227615s
+ham control_randomsearch_perm_thr heldout seed=23 rep=0: SOLVED 0.194371s
+ham control_randomsearch_perm_thr heldout seed=23 rep=1: SOLVED 0.194770s
+ham control_randomsearch_perm_thr heldout seed=23 rep=2: SOLVED 0.191760s
+ham control_randomsearch_perm_thr heldout seed=24 rep=0: SOLVED 0.060088s
+ham control_randomsearch_perm_thr heldout seed=24 rep=1: SOLVED 0.060238s
+ham control_randomsearch_perm_thr heldout seed=24 rep=2: SOLVED 0.060229s
+ham control_randomsearch_perm_thr heldout seed=25 rep=0: SOLVED 0.171929s
+ham control_randomsearch_perm_thr heldout seed=25 rep=1: SOLVED 0.175288s
+ham control_randomsearch_perm_thr heldout seed=25 rep=2: SOLVED 0.175601s
+ham control_randomsearch_perm_thr heldout seed=26 rep=0: SOLVED 0.099379s
+ham control_randomsearch_perm_thr heldout seed=26 rep=1: SOLVED 0.100577s
+ham control_randomsearch_perm_thr heldout seed=26 rep=2: SOLVED 0.103877s
+ham control_randomsearch_perm_thr heldout seed=27 rep=0: SOLVED 0.229245s
+ham control_randomsearch_perm_thr heldout seed=27 rep=1: SOLVED 0.232589s
+ham control_randomsearch_perm_thr heldout seed=27 rep=2: SOLVED 0.235983s
+ham control_randomsearch_perm_thr heldout seed=28 rep=0: SOLVED 0.120615s
+ham control_randomsearch_perm_thr heldout seed=28 rep=1: SOLVED 0.120635s
+ham control_randomsearch_perm_thr heldout seed=28 rep=2: SOLVED 0.121790s
+ham control_randomsearch_perm_thr heldout seed=29 rep=0: SOLVED 0.121828s
+ham control_randomsearch_perm_thr heldout seed=29 rep=1: SOLVED 0.129003s
+ham control_randomsearch_perm_thr heldout seed=29 rep=2: SOLVED 0.122354s
+ham control_randomsearch_perm_thr heldout seed=30 rep=0: SOLVED 0.388942s
+ham control_randomsearch_perm_thr heldout seed=30 rep=1: SOLVED 0.380713s
+ham control_randomsearch_perm_thr heldout seed=30 rep=2: SOLVED 0.389897s
+ham control_gnp20_022 train seed=1 rep=0: SOLVED 0.375863s
+ham control_gnp20_022 train seed=1 rep=1: SOLVED 0.375516s
+ham control_gnp20_022 train seed=1 rep=2: SOLVED 0.376423s
+ham control_gnp20_022 train seed=2 rep=0: SOLVED 0.252860s
+ham control_gnp20_022 train seed=2 rep=1: SOLVED 0.255783s
+ham control_gnp20_022 train seed=2 rep=2: SOLVED 0.257666s
+ham control_gnp20_022 train seed=3 rep=0: SOLVED 0.062875s
+ham control_gnp20_022 train seed=3 rep=1: SOLVED 0.066202s
+ham control_gnp20_022 train seed=3 rep=2: SOLVED 0.063096s
+ham control_gnp20_022 train seed=4 rep=0: SOLVED 0.286174s
+ham control_gnp20_022 train seed=4 rep=1: SOLVED 0.290653s
+ham control_gnp20_022 train seed=4 rep=2: SOLVED 0.290286s
+ham control_gnp20_022 train seed=5 rep=0: SOLVED 0.011171s
+ham control_gnp20_022 train seed=5 rep=1: SOLVED 0.011209s
+ham control_gnp20_022 train seed=5 rep=2: SOLVED 0.011228s
+ham control_gnp20_022 train seed=6 rep=0: SOLVED 0.067889s
+ham control_gnp20_022 train seed=6 rep=1: SOLVED 0.070900s
+ham control_gnp20_022 train seed=6 rep=2: SOLVED 0.077842s
+ham control_gnp20_022 train seed=7 rep=0: SOLVED 0.529070s
+ham control_gnp20_022 train seed=7 rep=1: SOLVED 0.518302s
+ham control_gnp20_022 train seed=7 rep=2: SOLVED 0.522028s
+ham control_gnp20_022 heldout seed=8 rep=0: SOLVED 0.109365s
+ham control_gnp20_022 heldout seed=8 rep=1: SOLVED 0.109544s
+ham control_gnp20_022 heldout seed=8 rep=2: SOLVED 0.109203s
+ham control_gnp20_022 heldout seed=9 rep=0: SOLVED 0.079662s
+ham control_gnp20_022 heldout seed=9 rep=1: SOLVED 0.080029s
+ham control_gnp20_022 heldout seed=9 rep=2: SOLVED 0.079598s
+ham control_gnp20_022 heldout seed=10 rep=0: SOLVED 0.423922s
+ham control_gnp20_022 heldout seed=10 rep=1: SOLVED 0.419694s
+ham control_gnp20_022 heldout seed=10 rep=2: SOLVED 0.424565s
+ham control_gnp20_022 heldout seed=11 rep=0: SOLVED 0.325828s
+ham control_gnp20_022 heldout seed=11 rep=1: SOLVED 0.323763s
+ham control_gnp20_022 heldout seed=11 rep=2: SOLVED 0.326145s
+ham control_gnp20_022 heldout seed=12 rep=0: SOLVED 0.118493s
+ham control_gnp20_022 heldout seed=12 rep=1: SOLVED 0.116757s
+ham control_gnp20_022 heldout seed=12 rep=2: SOLVED 0.116715s
+ham control_gnp20_022 heldout seed=13 rep=0: SOLVED 0.144861s
+ham control_gnp20_022 heldout seed=13 rep=1: SOLVED 0.144170s
+ham control_gnp20_022 heldout seed=13 rep=2: SOLVED 0.144387s
+ham control_gnp20_022 heldout seed=14 rep=0: SOLVED 0.078772s
+ham control_gnp20_022 heldout seed=14 rep=1: SOLVED 0.077745s
+ham control_gnp20_022 heldout seed=14 rep=2: SOLVED 0.077995s
+ham control_gnp20_022 heldout seed=15 rep=0: SOLVED 0.091469s
+ham control_gnp20_022 heldout seed=15 rep=1: SOLVED 0.091664s
+ham control_gnp20_022 heldout seed=15 rep=2: SOLVED 0.091659s
+ham control_gnp20_022 heldout seed=16 rep=0: SOLVED 0.039484s
+ham control_gnp20_022 heldout seed=16 rep=1: SOLVED 0.039873s
+ham control_gnp20_022 heldout seed=16 rep=2: SOLVED 0.039791s
+ham control_gnp20_022 heldout seed=17 rep=0: SOLVED 0.368851s
+ham control_gnp20_022 heldout seed=17 rep=1: SOLVED 0.370629s
+ham control_gnp20_022 heldout seed=17 rep=2: SOLVED 0.367140s
+ham control_gnp20_022 heldout seed=18 rep=0: SOLVED 0.216324s
+ham control_gnp20_022 heldout seed=18 rep=1: SOLVED 0.218933s
+ham control_gnp20_022 heldout seed=18 rep=2: SOLVED 0.215570s
+ham control_gnp20_022 heldout seed=19 rep=0: SOLVED 0.248869s
+ham control_gnp20_022 heldout seed=19 rep=1: SOLVED 0.256081s
+ham control_gnp20_022 heldout seed=19 rep=2: SOLVED 0.259280s
+ham control_gnp20_022 heldout seed=20 rep=0: SOLVED 0.549071s
+ham control_gnp20_022 heldout seed=20 rep=1: SOLVED 0.546598s
+ham control_gnp20_022 heldout seed=20 rep=2: SOLVED 0.540293s
+ham control_gnp20_022 heldout seed=21 rep=0: SOLVED 0.064248s
+ham control_gnp20_022 heldout seed=21 rep=1: SOLVED 0.066406s
+ham control_gnp20_022 heldout seed=21 rep=2: SOLVED 0.066159s
+ham control_gnp20_022 heldout seed=22 rep=0: SOLVED 0.190692s
+ham control_gnp20_022 heldout seed=22 rep=1: SOLVED 0.190385s
+ham control_gnp20_022 heldout seed=22 rep=2: SOLVED 0.189941s
+ham control_gnp20_022 heldout seed=23 rep=0: SOLVED 0.295913s
+ham control_gnp20_022 heldout seed=23 rep=1: SOLVED 0.296789s
+ham control_gnp20_022 heldout seed=23 rep=2: SOLVED 0.294621s
+ham control_gnp20_022 heldout seed=24 rep=0: SOLVED 0.660607s
+ham control_gnp20_022 heldout seed=24 rep=1: SOLVED 0.655040s
+ham control_gnp20_022 heldout seed=24 rep=2: SOLVED 0.663443s
+ham control_gnp20_022 heldout seed=25 rep=0: SOLVED 0.167412s
+ham control_gnp20_022 heldout seed=25 rep=1: SOLVED 0.167394s
+ham control_gnp20_022 heldout seed=25 rep=2: SOLVED 0.171979s
+ham control_gnp20_022 heldout seed=26 rep=0: SOLVED 0.036729s
+ham control_gnp20_022 heldout seed=26 rep=1: SOLVED 0.036608s
+ham control_gnp20_022 heldout seed=26 rep=2: SOLVED 0.036785s
+ham control_gnp20_022 heldout seed=27 rep=0: SOLVED 0.166452s
+ham control_gnp20_022 heldout seed=27 rep=1: SOLVED 0.168526s
+ham control_gnp20_022 heldout seed=27 rep=2: SOLVED 0.166492s
+ham control_gnp20_022 heldout seed=28 rep=0: SOLVED 0.241638s
+ham control_gnp20_022 heldout seed=28 rep=1: SOLVED 0.240990s
+ham control_gnp20_022 heldout seed=28 rep=2: SOLVED 0.239498s
+ham control_gnp20_022 heldout seed=29 rep=0: SOLVED 0.205424s
+ham control_gnp20_022 heldout seed=29 rep=1: SOLVED 0.207009s
+ham control_gnp20_022 heldout seed=29 rep=2: SOLVED 0.208760s
+ham control_gnp20_022 heldout seed=30 rep=0: SOLVED 0.035731s
+ham control_gnp20_022 heldout seed=30 rep=1: SOLVED 0.035695s
+ham control_gnp20_022 heldout seed=30 rep=2: SOLVED 0.035808s
+ham control_cubic20 train seed=1 rep=0: SOLVED 0.023795s
+ham control_cubic20 train seed=1 rep=1: SOLVED 0.023675s
+ham control_cubic20 train seed=1 rep=2: SOLVED 0.023765s
+ham control_cubic20 train seed=2 rep=0: SOLVED 0.008386s
+ham control_cubic20 train seed=2 rep=1: SOLVED 0.008336s
+ham control_cubic20 train seed=2 rep=2: SOLVED 0.008335s
+ham control_cubic20 train seed=3 rep=0: SOLVED 0.103393s
+ham control_cubic20 train seed=3 rep=1: SOLVED 0.102921s
+ham control_cubic20 train seed=3 rep=2: SOLVED 0.103345s
+ham control_cubic20 train seed=4 rep=0: SOLVED 0.052690s
+ham control_cubic20 train seed=4 rep=1: SOLVED 0.057810s
+ham control_cubic20 train seed=4 rep=2: SOLVED 0.055501s
+ham control_cubic20 train seed=5 rep=0: SOLVED 0.062926s
+ham control_cubic20 train seed=5 rep=1: SOLVED 0.061514s
+ham control_cubic20 train seed=5 rep=2: SOLVED 0.061536s
+ham control_cubic20 train seed=6 rep=0: SOLVED 0.002782s
+ham control_cubic20 train seed=6 rep=1: SOLVED 0.002752s
+ham control_cubic20 train seed=6 rep=2: SOLVED 0.002784s
+ham control_cubic20 train seed=7 rep=0: SOLVED 0.038986s
+ham control_cubic20 train seed=7 rep=1: SOLVED 0.043242s
+ham control_cubic20 train seed=7 rep=2: SOLVED 0.039272s
+ham control_cubic20 heldout seed=8 rep=0: SOLVED 0.004991s
+ham control_cubic20 heldout seed=8 rep=1: SOLVED 0.005029s
+ham control_cubic20 heldout seed=8 rep=2: SOLVED 0.005054s
+ham control_cubic20 heldout seed=9 rep=0: SOLVED 0.072806s
+ham control_cubic20 heldout seed=9 rep=1: SOLVED 0.072682s
+ham control_cubic20 heldout seed=9 rep=2: SOLVED 0.072461s
+ham control_cubic20 heldout seed=10 rep=0: SOLVED 0.002797s
+ham control_cubic20 heldout seed=10 rep=1: SOLVED 0.002700s
+ham control_cubic20 heldout seed=10 rep=2: SOLVED 0.002687s
+ham control_cubic20 heldout seed=11 rep=0: SOLVED 0.061063s
+ham control_cubic20 heldout seed=11 rep=1: SOLVED 0.061552s
+ham control_cubic20 heldout seed=11 rep=2: SOLVED 0.060990s
+ham control_cubic20 heldout seed=12 rep=0: SOLVED 0.002950s
+ham control_cubic20 heldout seed=12 rep=1: SOLVED 0.003030s
+ham control_cubic20 heldout seed=12 rep=2: SOLVED 0.003037s
+ham control_cubic20 heldout seed=13 rep=0: SOLVED 0.018420s
+ham control_cubic20 heldout seed=13 rep=1: SOLVED 0.017221s
+ham control_cubic20 heldout seed=13 rep=2: SOLVED 0.017239s
+ham control_cubic20 heldout seed=14 rep=0: SOLVED 0.005146s
+ham control_cubic20 heldout seed=14 rep=1: SOLVED 0.005086s
+ham control_cubic20 heldout seed=14 rep=2: SOLVED 0.005642s
+ham control_cubic20 heldout seed=15 rep=0: SOLVED 0.210232s
+ham control_cubic20 heldout seed=15 rep=1: SOLVED 0.209533s
+ham control_cubic20 heldout seed=15 rep=2: SOLVED 0.209847s
+ham control_cubic20 heldout seed=16 rep=0: SOLVED 0.009440s
+ham control_cubic20 heldout seed=16 rep=1: SOLVED 0.009473s
+ham control_cubic20 heldout seed=16 rep=2: SOLVED 0.009556s
+ham control_cubic20 heldout seed=17 rep=0: SOLVED 0.018016s
+ham control_cubic20 heldout seed=17 rep=1: SOLVED 0.018012s
+ham control_cubic20 heldout seed=17 rep=2: SOLVED 0.018068s
+ham control_cubic20 heldout seed=18 rep=0: SOLVED 0.008920s
+ham control_cubic20 heldout seed=18 rep=1: SOLVED 0.008940s
+ham control_cubic20 heldout seed=18 rep=2: SOLVED 0.008948s
+ham control_cubic20 heldout seed=19 rep=0: SOLVED 0.002700s
+ham control_cubic20 heldout seed=19 rep=1: SOLVED 0.002714s
+ham control_cubic20 heldout seed=19 rep=2: SOLVED 0.002787s
+ham control_cubic20 heldout seed=20 rep=0: SOLVED 0.024291s
+ham control_cubic20 heldout seed=20 rep=1: SOLVED 0.022988s
+ham control_cubic20 heldout seed=20 rep=2: SOLVED 0.023660s
+ham control_cubic20 heldout seed=21 rep=0: SOLVED 0.038209s
+ham control_cubic20 heldout seed=21 rep=1: SOLVED 0.036830s
+ham control_cubic20 heldout seed=21 rep=2: SOLVED 0.036604s
+ham control_cubic20 heldout seed=22 rep=0: SOLVED 0.060855s
+ham control_cubic20 heldout seed=22 rep=1: SOLVED 0.060490s
+ham control_cubic20 heldout seed=22 rep=2: SOLVED 0.060915s
+ham control_cubic20 heldout seed=23 rep=0: SOLVED 0.002879s
+ham control_cubic20 heldout seed=23 rep=1: SOLVED 0.002869s
+ham control_cubic20 heldout seed=23 rep=2: SOLVED 0.002921s
+ham control_cubic20 heldout seed=24 rep=0: SOLVED 0.023780s
+ham control_cubic20 heldout seed=24 rep=1: SOLVED 0.023803s
+ham control_cubic20 heldout seed=24 rep=2: SOLVED 0.023555s
+ham control_cubic20 heldout seed=25 rep=0: SOLVED 0.002631s
+ham control_cubic20 heldout seed=25 rep=1: SOLVED 0.002665s
+ham control_cubic20 heldout seed=25 rep=2: SOLVED 0.002676s
+ham control_cubic20 heldout seed=26 rep=0: SOLVED 0.004893s
+ham control_cubic20 heldout seed=26 rep=1: SOLVED 0.004786s
+ham control_cubic20 heldout seed=26 rep=2: SOLVED 0.004779s
+ham control_cubic20 heldout seed=27 rep=0: SOLVED 0.002859s
+ham control_cubic20 heldout seed=27 rep=1: SOLVED 0.002893s
+ham control_cubic20 heldout seed=27 rep=2: SOLVED 0.002866s
+ham control_cubic20 heldout seed=28 rep=0: SOLVED 0.003483s
+ham control_cubic20 heldout seed=28 rep=1: SOLVED 0.003454s
+ham control_cubic20 heldout seed=28 rep=2: SOLVED 0.003442s
+ham control_cubic20 heldout seed=29 rep=0: SOLVED 0.002661s
+ham control_cubic20 heldout seed=29 rep=1: SOLVED 0.002684s
+ham control_cubic20 heldout seed=29 rep=2: SOLVED 0.002717s
+ham control_cubic20 heldout seed=30 rep=0: SOLVED 0.026245s
+ham control_cubic20 heldout seed=30 rep=1: SOLVED 0.026265s
+ham control_cubic20 heldout seed=30 rep=2: SOLVED 0.026102s
+ham champion_twopointsde train seed=1 rep=0: SOLVED 1.023845s
+ham champion_twopointsde train seed=1 rep=1: SOLVED 1.023807s
+ham champion_twopointsde train seed=1 rep=2: SOLVED 1.021685s
+ham champion_twopointsde train seed=2 rep=0: SOLVED 0.613567s
+ham champion_twopointsde train seed=2 rep=1: SOLVED 0.614720s
+ham champion_twopointsde train seed=2 rep=2: SOLVED 0.610878s
+ham champion_twopointsde train seed=3 rep=0: SOLVED 0.548796s
+ham champion_twopointsde train seed=3 rep=1: SOLVED 0.546954s
+ham champion_twopointsde train seed=3 rep=2: SOLVED 0.567696s
+ham champion_twopointsde train seed=4 rep=0: SOLVED 0.678824s
+ham champion_twopointsde train seed=4 rep=1: SOLVED 0.674479s
+ham champion_twopointsde train seed=4 rep=2: SOLVED 0.677971s
+ham champion_twopointsde train seed=5 rep=0: SOLVED 0.142488s
+ham champion_twopointsde train seed=5 rep=1: SOLVED 0.141634s
+ham champion_twopointsde train seed=5 rep=2: SOLVED 0.143217s
+ham champion_twopointsde train seed=6 rep=0: SOLVED 0.578360s
+ham champion_twopointsde train seed=6 rep=1: SOLVED 0.579585s
+ham champion_twopointsde train seed=6 rep=2: SOLVED 0.575662s
+ham champion_twopointsde train seed=7 rep=0: SOLVED 0.869477s
+ham champion_twopointsde train seed=7 rep=1: SOLVED 0.868616s
+ham champion_twopointsde train seed=7 rep=2: SOLVED 0.875775s
+ham champion_twopointsde heldout seed=8 rep=0: SOLVED 1.462778s
+ham champion_twopointsde heldout seed=8 rep=1: SOLVED 1.462652s
+ham champion_twopointsde heldout seed=8 rep=2: SOLVED 1.467464s
+ham champion_twopointsde heldout seed=9 rep=0: SOLVED 0.824802s
+ham champion_twopointsde heldout seed=9 rep=1: SOLVED 0.826393s
+ham champion_twopointsde heldout seed=9 rep=2: SOLVED 0.832513s
+ham champion_twopointsde heldout seed=10 rep=0: SOLVED 0.474960s
+ham champion_twopointsde heldout seed=10 rep=1: SOLVED 0.481683s
+ham champion_twopointsde heldout seed=10 rep=2: SOLVED 0.478319s
+ham champion_twopointsde heldout seed=11 rep=0: SOLVED 0.275695s
+ham champion_twopointsde heldout seed=11 rep=1: SOLVED 0.270574s
+ham champion_twopointsde heldout seed=11 rep=2: SOLVED 0.270997s
+ham champion_twopointsde heldout seed=12 rep=0: SOLVED 0.046673s
+ham champion_twopointsde heldout seed=12 rep=1: SOLVED 0.046523s
+ham champion_twopointsde heldout seed=12 rep=2: SOLVED 0.046539s
+ham champion_twopointsde heldout seed=13 rep=0: SOLVED 0.189382s
+ham champion_twopointsde heldout seed=13 rep=1: SOLVED 0.194399s
+ham champion_twopointsde heldout seed=13 rep=2: SOLVED 0.187507s
+ham champion_twopointsde heldout seed=14 rep=0: SOLVED 0.113747s
+ham champion_twopointsde heldout seed=14 rep=1: SOLVED 0.118011s
+ham champion_twopointsde heldout seed=14 rep=2: SOLVED 0.113944s
+ham champion_twopointsde heldout seed=15 rep=0: SOLVED 0.137367s
+ham champion_twopointsde heldout seed=15 rep=1: SOLVED 0.141933s
+ham champion_twopointsde heldout seed=15 rep=2: SOLVED 0.140953s
+ham champion_twopointsde heldout seed=16 rep=0: SOLVED 0.179960s
+ham champion_twopointsde heldout seed=16 rep=1: SOLVED 0.179159s
+ham champion_twopointsde heldout seed=16 rep=2: SOLVED 0.179402s
+ham champion_twopointsde heldout seed=17 rep=0: SOLVED 0.220921s
+ham champion_twopointsde heldout seed=17 rep=1: SOLVED 0.217797s
+ham champion_twopointsde heldout seed=17 rep=2: SOLVED 0.218920s
+ham champion_twopointsde heldout seed=18 rep=0: SOLVED 1.119438s
+ham champion_twopointsde heldout seed=18 rep=1: SOLVED 1.125084s
+ham champion_twopointsde heldout seed=18 rep=2: SOLVED 1.128805s
+ham champion_twopointsde heldout seed=19 rep=0: SOLVED 0.523441s
+ham champion_twopointsde heldout seed=19 rep=1: SOLVED 0.518179s
+ham champion_twopointsde heldout seed=19 rep=2: SOLVED 0.521644s
+ham champion_twopointsde heldout seed=20 rep=0: SOLVED 0.137133s
+ham champion_twopointsde heldout seed=20 rep=1: SOLVED 0.136426s
+ham champion_twopointsde heldout seed=20 rep=2: SOLVED 0.137305s
+ham champion_twopointsde heldout seed=21 rep=0: SOLVED 0.187891s
+ham champion_twopointsde heldout seed=21 rep=1: SOLVED 0.182691s
+ham champion_twopointsde heldout seed=21 rep=2: SOLVED 0.186292s
+ham champion_twopointsde heldout seed=22 rep=0: SOLVED 0.449685s
+ham champion_twopointsde heldout seed=22 rep=1: SOLVED 0.455757s
+ham champion_twopointsde heldout seed=22 rep=2: SOLVED 0.451862s
+ham champion_twopointsde heldout seed=23 rep=0: SOLVED 0.161908s
+ham champion_twopointsde heldout seed=23 rep=1: SOLVED 0.158505s
+ham champion_twopointsde heldout seed=23 rep=2: SOLVED 0.157953s
+ham champion_twopointsde heldout seed=24 rep=0: SOLVED 0.709728s
+ham champion_twopointsde heldout seed=24 rep=1: SOLVED 0.708974s
+ham champion_twopointsde heldout seed=24 rep=2: SOLVED 0.712523s
+ham champion_twopointsde heldout seed=25 rep=0: SOLVED 0.910237s
+ham champion_twopointsde heldout seed=25 rep=1: SOLVED 0.906172s
+ham champion_twopointsde heldout seed=25 rep=2: SOLVED 0.909935s
+ham champion_twopointsde heldout seed=26 rep=0: SOLVED 0.367427s
+ham champion_twopointsde heldout seed=26 rep=1: SOLVED 0.398475s
+ham champion_twopointsde heldout seed=26 rep=2: SOLVED 0.371003s
+ham champion_twopointsde heldout seed=27 rep=0: SOLVED 0.593606s
+ham champion_twopointsde heldout seed=27 rep=1: SOLVED 0.594082s
+ham champion_twopointsde heldout seed=27 rep=2: SOLVED 0.595125s
+ham champion_twopointsde heldout seed=28 rep=0: SOLVED 0.145159s
+ham champion_twopointsde heldout seed=28 rep=1: SOLVED 0.145054s
+ham champion_twopointsde heldout seed=28 rep=2: SOLVED 0.144389s
+ham champion_twopointsde heldout seed=29 rep=0: SOLVED 0.137464s
+ham champion_twopointsde heldout seed=29 rep=1: SOLVED 0.142916s
+ham champion_twopointsde heldout seed=29 rep=2: SOLVED 0.140231s
+ham champion_twopointsde heldout seed=30 rep=0: SOLVED 0.837781s
+ham champion_twopointsde heldout seed=30 rep=1: SOLVED 0.832514s
+ham champion_twopointsde heldout seed=30 rep=2: SOLVED 0.835318s
+ham champion_ngoptrw train seed=1 rep=0: SOLVED 1.086330s
+ham champion_ngoptrw train seed=1 rep=1: SOLVED 1.084277s
+ham champion_ngoptrw train seed=1 rep=2: SOLVED 1.097034s
+ham champion_ngoptrw train seed=2 rep=0: SOLVED 0.122381s
+ham champion_ngoptrw train seed=2 rep=1: SOLVED 0.121665s
+ham champion_ngoptrw train seed=2 rep=2: SOLVED 0.121645s
+ham champion_ngoptrw train seed=3 rep=0: SOLVED 1.013934s
+ham champion_ngoptrw train seed=3 rep=1: SOLVED 1.039654s
+ham champion_ngoptrw train seed=3 rep=2: SOLVED 1.017201s
+ham champion_ngoptrw train seed=4 rep=0: SOLVED 0.861685s
+ham champion_ngoptrw train seed=4 rep=1: SOLVED 0.862577s
+ham champion_ngoptrw train seed=4 rep=2: SOLVED 0.859085s
+ham champion_ngoptrw train seed=5 rep=0: SOLVED 0.281367s
+ham champion_ngoptrw train seed=5 rep=1: SOLVED 0.281400s
+ham champion_ngoptrw train seed=5 rep=2: SOLVED 0.282976s
+ham champion_ngoptrw train seed=6 rep=0: SOLVED 1.250129s
+ham champion_ngoptrw train seed=6 rep=1: SOLVED 1.249039s
+ham champion_ngoptrw train seed=6 rep=2: SOLVED 1.247322s
+ham champion_ngoptrw train seed=7 rep=0: SOLVED 0.202989s
+ham champion_ngoptrw train seed=7 rep=1: SOLVED 0.201911s
+ham champion_ngoptrw train seed=7 rep=2: SOLVED 0.201306s
+ham champion_ngoptrw heldout seed=8 rep=0: SOLVED 0.799624s
+ham champion_ngoptrw heldout seed=8 rep=1: SOLVED 0.802016s
+ham champion_ngoptrw heldout seed=8 rep=2: SOLVED 0.794532s
+ham champion_ngoptrw heldout seed=9 rep=0: SOLVED 0.473983s
+ham champion_ngoptrw heldout seed=9 rep=1: SOLVED 0.469816s
+ham champion_ngoptrw heldout seed=9 rep=2: SOLVED 0.472100s
+ham champion_ngoptrw heldout seed=10 rep=0: SOLVED 0.129352s
+ham champion_ngoptrw heldout seed=10 rep=1: SOLVED 0.130041s
+ham champion_ngoptrw heldout seed=10 rep=2: SOLVED 0.129214s
+ham champion_ngoptrw heldout seed=11 rep=0: SOLVED 0.199593s
+ham champion_ngoptrw heldout seed=11 rep=1: SOLVED 0.205683s
+ham champion_ngoptrw heldout seed=11 rep=2: SOLVED 0.201503s
+ham champion_ngoptrw heldout seed=12 rep=0: SOLVED 0.427930s
+ham champion_ngoptrw heldout seed=12 rep=1: SOLVED 0.431059s
+ham champion_ngoptrw heldout seed=12 rep=2: SOLVED 0.427149s
+ham champion_ngoptrw heldout seed=13 rep=0: SOLVED 0.387138s
+ham champion_ngoptrw heldout seed=13 rep=1: SOLVED 0.380684s
+ham champion_ngoptrw heldout seed=13 rep=2: SOLVED 0.380762s
+ham champion_ngoptrw heldout seed=14 rep=0: SOLVED 0.732320s
+ham champion_ngoptrw heldout seed=14 rep=1: SOLVED 0.727006s
+ham champion_ngoptrw heldout seed=14 rep=2: SOLVED 0.768397s
+ham champion_ngoptrw heldout seed=15 rep=0: SOLVED 0.317100s
+ham champion_ngoptrw heldout seed=15 rep=1: SOLVED 0.309590s
+ham champion_ngoptrw heldout seed=15 rep=2: SOLVED 0.316716s
+ham champion_ngoptrw heldout seed=16 rep=0: SOLVED 0.294772s
+ham champion_ngoptrw heldout seed=16 rep=1: SOLVED 0.299671s
+ham champion_ngoptrw heldout seed=16 rep=2: SOLVED 0.299421s
+ham champion_ngoptrw heldout seed=17 rep=0: SOLVED 0.318074s
+ham champion_ngoptrw heldout seed=17 rep=1: SOLVED 0.318043s
+ham champion_ngoptrw heldout seed=17 rep=2: SOLVED 0.321201s
+ham champion_ngoptrw heldout seed=18 rep=0: SOLVED 0.027311s
+ham champion_ngoptrw heldout seed=18 rep=1: SOLVED 0.026895s
+ham champion_ngoptrw heldout seed=18 rep=2: SOLVED 0.026709s
+ham champion_ngoptrw heldout seed=19 rep=0: SOLVED 0.064055s
+ham champion_ngoptrw heldout seed=19 rep=1: SOLVED 0.063784s
+ham champion_ngoptrw heldout seed=19 rep=2: SOLVED 0.064088s
+ham champion_ngoptrw heldout seed=20 rep=0: SOLVED 0.038668s
+ham champion_ngoptrw heldout seed=20 rep=1: SOLVED 0.038709s
+ham champion_ngoptrw heldout seed=20 rep=2: SOLVED 0.038702s
+ham champion_ngoptrw heldout seed=21 rep=0: SOLVED 0.018709s
+ham champion_ngoptrw heldout seed=21 rep=1: SOLVED 0.018694s
+ham champion_ngoptrw heldout seed=21 rep=2: SOLVED 0.018674s
+ham champion_ngoptrw heldout seed=22 rep=0: SOLVED 0.401867s
+ham champion_ngoptrw heldout seed=22 rep=1: SOLVED 0.400001s
+ham champion_ngoptrw heldout seed=22 rep=2: SOLVED 0.395398s
+ham champion_ngoptrw heldout seed=23 rep=0: SOLVED 0.022377s
+ham champion_ngoptrw heldout seed=23 rep=1: SOLVED 0.022485s
+ham champion_ngoptrw heldout seed=23 rep=2: SOLVED 0.022798s
+ham champion_ngoptrw heldout seed=24 rep=0: SOLVED 0.246486s
+ham champion_ngoptrw heldout seed=24 rep=1: SOLVED 0.242382s
+ham champion_ngoptrw heldout seed=24 rep=2: SOLVED 0.242474s
+ham champion_ngoptrw heldout seed=25 rep=0: SOLVED 0.624496s
+ham champion_ngoptrw heldout seed=25 rep=1: SOLVED 0.617340s
+ham champion_ngoptrw heldout seed=25 rep=2: SOLVED 0.621662s
+ham champion_ngoptrw heldout seed=26 rep=0: SOLVED 0.720619s
+ham champion_ngoptrw heldout seed=26 rep=1: SOLVED 0.721545s
+ham champion_ngoptrw heldout seed=26 rep=2: SOLVED 0.717589s
+ham champion_ngoptrw heldout seed=27 rep=0: SOLVED 0.292974s
+ham champion_ngoptrw heldout seed=27 rep=1: SOLVED 0.289170s
+ham champion_ngoptrw heldout seed=27 rep=2: SOLVED 0.283791s
+ham champion_ngoptrw heldout seed=28 rep=0: SOLVED 1.024172s
+ham champion_ngoptrw heldout seed=28 rep=1: SOLVED 1.026563s
+ham champion_ngoptrw heldout seed=28 rep=2: SOLVED 1.020165s
+ham champion_ngoptrw heldout seed=29 rep=0: SOLVED 0.515577s
+ham champion_ngoptrw heldout seed=29 rep=1: SOLVED 0.508647s
+ham champion_ngoptrw heldout seed=29 rep=2: SOLVED 0.520411s
+ham champion_ngoptrw heldout seed=30 rep=0: SOLVED 0.580066s
+ham champion_ngoptrw heldout seed=30 rep=1: SOLVED 0.583327s
+ham champion_ngoptrw heldout seed=30 rep=2: SOLVED 0.584386s
+ham champion_discretebso train seed=1 rep=0: SOLVED 1.802682s
+ham champion_discretebso train seed=1 rep=1: SOLVED 1.781241s
+ham champion_discretebso train seed=1 rep=2: SOLVED 1.756265s
+ham champion_discretebso train seed=2 rep=0: SOLVED 1.552121s
+ham champion_discretebso train seed=2 rep=1: SOLVED 1.537052s
+ham champion_discretebso train seed=2 rep=2: SOLVED 1.594609s
+ham champion_discretebso train seed=3 rep=0: SOLVED 1.131681s
+ham champion_discretebso train seed=3 rep=1: SOLVED 1.114853s
+ham champion_discretebso train seed=3 rep=2: SOLVED 1.111458s
+ham champion_discretebso train seed=4 rep=0: SOLVED 1.393210s
+ham champion_discretebso train seed=4 rep=1: SOLVED 1.385045s
+ham champion_discretebso train seed=4 rep=2: SOLVED 1.386781s
+ham champion_discretebso train seed=5 rep=0: SOLVED 0.039401s
+ham champion_discretebso train seed=5 rep=1: SOLVED 0.038201s
+ham champion_discretebso train seed=5 rep=2: SOLVED 0.037852s
+ham champion_discretebso train seed=6 rep=0: SOLVED 0.735330s
+ham champion_discretebso train seed=6 rep=1: SOLVED 0.767256s
+ham champion_discretebso train seed=6 rep=2: SOLVED 0.745803s
+ham champion_discretebso train seed=7 rep=0: SOLVED 0.066630s
+ham champion_discretebso train seed=7 rep=1: SOLVED 0.066876s
+ham champion_discretebso train seed=7 rep=2: SOLVED 0.066481s
+ham champion_discretebso heldout seed=8 rep=0: SOLVED 0.767934s
+ham champion_discretebso heldout seed=8 rep=1: SOLVED 0.769504s
+ham champion_discretebso heldout seed=8 rep=2: SOLVED 0.763850s
+ham champion_discretebso heldout seed=9 rep=0: SOLVED 0.082401s
+ham champion_discretebso heldout seed=9 rep=1: SOLVED 0.080981s
+ham champion_discretebso heldout seed=9 rep=2: SOLVED 0.080429s
+ham champion_discretebso heldout seed=10 rep=0: SOLVED 0.040437s
+ham champion_discretebso heldout seed=10 rep=1: SOLVED 0.040405s
+ham champion_discretebso heldout seed=10 rep=2: SOLVED 0.040361s
+ham champion_discretebso heldout seed=11 rep=0: SOLVED 0.383245s
+ham champion_discretebso heldout seed=11 rep=1: SOLVED 0.392758s
+ham champion_discretebso heldout seed=11 rep=2: SOLVED 0.385152s
+ham champion_discretebso heldout seed=12 rep=0: SOLVED 0.665729s
+ham champion_discretebso heldout seed=12 rep=1: SOLVED 0.660107s
+ham champion_discretebso heldout seed=12 rep=2: SOLVED 0.661064s
+ham champion_discretebso heldout seed=13 rep=0: SOLVED 1.085891s
+ham champion_discretebso heldout seed=13 rep=1: SOLVED 1.088220s
+ham champion_discretebso heldout seed=13 rep=2: SOLVED 1.089971s
+ham champion_discretebso heldout seed=14 rep=0: SOLVED 0.839146s
+ham champion_discretebso heldout seed=14 rep=1: SOLVED 0.837751s
+ham champion_discretebso heldout seed=14 rep=2: SOLVED 0.835312s
+ham champion_discretebso heldout seed=15 rep=0: SOLVED 1.115941s
+ham champion_discretebso heldout seed=15 rep=1: SOLVED 1.136767s
+ham champion_discretebso heldout seed=15 rep=2: SOLVED 1.117842s
+ham champion_discretebso heldout seed=16 rep=0: SOLVED 0.978160s
+ham champion_discretebso heldout seed=16 rep=1: SOLVED 0.982215s
+ham champion_discretebso heldout seed=16 rep=2: SOLVED 0.981094s
+ham champion_discretebso heldout seed=17 rep=0: SOLVED 1.267609s
+ham champion_discretebso heldout seed=17 rep=1: SOLVED 1.263146s
+ham champion_discretebso heldout seed=17 rep=2: SOLVED 1.262235s
+ham champion_discretebso heldout seed=18 rep=0: SOLVED 0.354786s
+ham champion_discretebso heldout seed=18 rep=1: SOLVED 0.350373s
+ham champion_discretebso heldout seed=18 rep=2: SOLVED 0.348624s
+ham champion_discretebso heldout seed=19 rep=0: SOLVED 1.112231s
+ham champion_discretebso heldout seed=19 rep=1: SOLVED 1.105729s
+ham champion_discretebso heldout seed=19 rep=2: SOLVED 1.106555s
+ham champion_discretebso heldout seed=20 rep=0: SOLVED 0.422161s
+ham champion_discretebso heldout seed=20 rep=1: SOLVED 0.427241s
+ham champion_discretebso heldout seed=20 rep=2: SOLVED 0.424948s
+ham champion_discretebso heldout seed=21 rep=0: SOLVED 0.484214s
+ham champion_discretebso heldout seed=21 rep=1: SOLVED 0.484951s
+ham champion_discretebso heldout seed=21 rep=2: SOLVED 0.481950s
+ham champion_discretebso heldout seed=22 rep=0: SOLVED 0.698753s
+ham champion_discretebso heldout seed=22 rep=1: SOLVED 0.679152s
+ham champion_discretebso heldout seed=22 rep=2: SOLVED 0.679904s
+ham champion_discretebso heldout seed=23 rep=0: SOLVED 0.474665s
+ham champion_discretebso heldout seed=23 rep=1: SOLVED 0.478861s
+ham champion_discretebso heldout seed=23 rep=2: SOLVED 0.475726s
+ham champion_discretebso heldout seed=24 rep=0: SOLVED 0.301513s
+ham champion_discretebso heldout seed=24 rep=1: SOLVED 0.319730s
+ham champion_discretebso heldout seed=24 rep=2: SOLVED 0.309195s
+ham champion_discretebso heldout seed=25 rep=0: SOLVED 0.103428s
+ham champion_discretebso heldout seed=25 rep=1: SOLVED 0.104308s
+ham champion_discretebso heldout seed=25 rep=2: SOLVED 0.103393s
+ham champion_discretebso heldout seed=26 rep=0: SOLVED 0.044121s
+ham champion_discretebso heldout seed=26 rep=1: SOLVED 0.044938s
+ham champion_discretebso heldout seed=26 rep=2: SOLVED 0.048021s
+ham champion_discretebso heldout seed=27 rep=0: SOLVED 0.364713s
+ham champion_discretebso heldout seed=27 rep=1: SOLVED 0.362931s
+ham champion_discretebso heldout seed=27 rep=2: SOLVED 0.368515s
+ham champion_discretebso heldout seed=28 rep=0: SOLVED 1.195414s
+ham champion_discretebso heldout seed=28 rep=1: SOLVED 1.192465s
+ham champion_discretebso heldout seed=28 rep=2: SOLVED 1.193596s
+ham champion_discretebso heldout seed=29 rep=0: SOLVED 0.057243s
+ham champion_discretebso heldout seed=29 rep=1: SOLVED 0.057137s
+ham champion_discretebso heldout seed=29 rep=2: SOLVED 0.058593s
+ham champion_discretebso heldout seed=30 rep=0: SOLVED 0.489366s
+ham champion_discretebso heldout seed=30 rep=1: SOLVED 0.487965s
+ham champion_discretebso heldout seed=30 rep=2: SOLVED 0.489851s
+wrote current_machine_rebench/results/followup-four-core/ham-full-r3.json
+2026-07-19T10:32:17+00:00 DONE ham-full-r3 cpu=3
+2026-07-19T10:32:17+00:00 START tsp-gr229 cpu=3 attempt=1
+gr229 train seed=1 rep=0: SOLVED 4.810867s
+gr229 train seed=1 rep=1: SOLVED 4.820518s
+gr229 train seed=1 rep=2: SOLVED 4.809478s
+gr229 train seed=2 rep=0: SOLVED 2.259540s
+gr229 train seed=2 rep=1: SOLVED 2.257286s
+gr229 train seed=2 rep=2: SOLVED 2.259226s
+gr229 train seed=3 rep=0: SOLVED 2.665882s
+gr229 train seed=3 rep=1: SOLVED 2.678615s
+gr229 train seed=3 rep=2: SOLVED 2.665997s
+gr229 train seed=4 rep=0: SOLVED 1.823954s
+gr229 train seed=4 rep=1: SOLVED 1.827944s
+gr229 train seed=4 rep=2: SOLVED 1.829864s
+gr229 train seed=5 rep=0: SOLVED 5.618924s
+gr229 train seed=5 rep=1: SOLVED 5.627386s
+gr229 train seed=5 rep=2: SOLVED 5.621382s
+gr229 train seed=6 rep=0: SOLVED 2.327399s
+gr229 train seed=6 rep=1: SOLVED 2.336103s
+gr229 train seed=6 rep=2: SOLVED 2.350829s
+gr229 train seed=7 rep=0: SOLVED 2.196595s
+gr229 train seed=7 rep=1: SOLVED 2.208291s
+gr229 train seed=7 rep=2: SOLVED 2.194969s
+gr229 heldout seed=8 rep=0: SOLVED 2.759859s
+gr229 heldout seed=8 rep=1: SOLVED 2.764818s
+gr229 heldout seed=8 rep=2: SOLVED 2.762363s
+gr229 heldout seed=9 rep=0: SOLVED 2.241248s
+gr229 heldout seed=9 rep=1: SOLVED 2.248543s
+gr229 heldout seed=9 rep=2: SOLVED 2.273651s
+gr229 heldout seed=10 rep=0: SOLVED 2.565128s
+gr229 heldout seed=10 rep=1: SOLVED 2.568498s
+gr229 heldout seed=10 rep=2: SOLVED 2.560430s
+gr229 heldout seed=11 rep=0: SOLVED 2.097869s
+gr229 heldout seed=11 rep=1: SOLVED 2.101598s
+gr229 heldout seed=11 rep=2: SOLVED 2.113228s
+gr229 heldout seed=12 rep=0: SOLVED 2.253642s
+gr229 heldout seed=12 rep=1: SOLVED 2.241776s
+gr229 heldout seed=12 rep=2: SOLVED 2.233963s
+gr229 heldout seed=13 rep=0: SOLVED 2.126421s
+gr229 heldout seed=13 rep=1: SOLVED 2.114965s
+gr229 heldout seed=13 rep=2: SOLVED 2.113730s
+gr229 heldout seed=14 rep=0: SOLVED 2.484602s
+gr229 heldout seed=14 rep=1: SOLVED 2.489748s
+gr229 heldout seed=14 rep=2: SOLVED 2.487599s
+gr229 heldout seed=15 rep=0: SOLVED 1.957125s
+gr229 heldout seed=15 rep=1: SOLVED 1.931210s
+gr229 heldout seed=15 rep=2: SOLVED 1.927512s
+gr229 heldout seed=16 rep=0: SOLVED 2.905935s
+gr229 heldout seed=16 rep=1: SOLVED 2.899500s
+gr229 heldout seed=16 rep=2: SOLVED 2.902519s
+gr229 heldout seed=17 rep=0: SOLVED 2.199547s
+gr229 heldout seed=17 rep=1: SOLVED 2.189627s
+gr229 heldout seed=17 rep=2: SOLVED 2.204879s
+gr229 heldout seed=18 rep=0: SOLVED 1.770259s
+gr229 heldout seed=18 rep=1: SOLVED 1.775746s
+gr229 heldout seed=18 rep=2: SOLVED 1.782113s
+gr229 heldout seed=19 rep=0: SOLVED 1.784555s
+gr229 heldout seed=19 rep=1: SOLVED 1.776955s
+gr229 heldout seed=19 rep=2: SOLVED 1.777947s
+gr229 heldout seed=20 rep=0: SOLVED 2.078488s
+gr229 heldout seed=20 rep=1: SOLVED 2.084610s
+gr229 heldout seed=20 rep=2: SOLVED 2.106220s
+gr229 heldout seed=21 rep=0: SOLVED 1.937237s
+gr229 heldout seed=21 rep=1: SOLVED 1.945967s
+gr229 heldout seed=21 rep=2: SOLVED 1.934875s
+gr229 heldout seed=22 rep=0: SOLVED 2.672025s
+gr229 heldout seed=22 rep=1: SOLVED 2.689911s
+gr229 heldout seed=22 rep=2: SOLVED 2.664478s
+gr229 heldout seed=23 rep=0: SOLVED 3.123552s
+gr229 heldout seed=23 rep=1: SOLVED 3.128819s
+gr229 heldout seed=23 rep=2: SOLVED 3.146687s
+gr229 heldout seed=24 rep=0: SOLVED 2.244924s
+gr229 heldout seed=24 rep=1: SOLVED 2.237247s
+gr229 heldout seed=24 rep=2: SOLVED 2.241851s
+gr229 heldout seed=25 rep=0: SOLVED 1.765883s
+gr229 heldout seed=25 rep=1: SOLVED 1.767422s
+gr229 heldout seed=25 rep=2: SOLVED 1.765071s
+gr229 heldout seed=26 rep=0: SOLVED 2.177056s
+gr229 heldout seed=26 rep=1: SOLVED 2.152826s
+gr229 heldout seed=26 rep=2: SOLVED 2.147421s
+gr229 heldout seed=27 rep=0: SOLVED 3.877196s
+gr229 heldout seed=27 rep=1: SOLVED 3.884801s
+gr229 heldout seed=27 rep=2: SOLVED 3.892023s
+gr229 heldout seed=28 rep=0: SOLVED 2.979501s
+gr229 heldout seed=28 rep=1: SOLVED 2.975750s
+gr229 heldout seed=28 rep=2: SOLVED 2.954396s
+gr229 heldout seed=29 rep=0: SOLVED 1.362555s
+gr229 heldout seed=29 rep=1: SOLVED 1.368109s
+gr229 heldout seed=29 rep=2: SOLVED 1.363423s
+gr229 heldout seed=30 rep=0: SOLVED 3.143274s
+gr229 heldout seed=30 rep=1: SOLVED 3.155106s
+gr229 heldout seed=30 rep=2: SOLVED 3.176385s
+wrote current_machine_rebench/results/followup-four-core/tsp-gr229.json
+2026-07-19T10:36:07+00:00 DONE tsp-gr229 cpu=3
+2026-07-19T10:36:07+00:00 START tsp-random-screen-2 cpu=3 attempt=1
+tsp-rs shard=2 evaluated=50 next=395/100000 best=0.096705s eval=114 elapsed=8.3s
+tsp-rs shard=2 evaluated=100 next=795/100000 best=0.161674s eval=626 elapsed=15.7s
+tsp-rs shard=2 evaluated=150 next=1195/100000 best=0.305593s eval=1034 elapsed=27.2s
+tsp-rs shard=2 evaluated=200 next=1595/100000 best=0.305593s eval=1034 elapsed=30.4s
+tsp-rs shard=2 evaluated=250 next=1995/100000 best=0.305593s eval=1034 elapsed=37.9s
+tsp-rs shard=2 evaluated=300 next=2395/100000 best=0.305593s eval=1034 elapsed=41.5s
+tsp-rs shard=2 evaluated=350 next=2795/100000 best=0.305593s eval=1034 elapsed=47.3s
+tsp-rs shard=2 evaluated=400 next=3195/100000 best=0.399361s eval=3122 elapsed=63.5s
+tsp-rs shard=2 evaluated=450 next=3595/100000 best=0.399361s eval=3122 elapsed=70.3s
+tsp-rs shard=2 evaluated=500 next=3995/100000 best=0.399361s eval=3122 elapsed=75.6s
+tsp-rs shard=2 evaluated=550 next=4395/100000 best=0.399361s eval=3122 elapsed=83.2s
+tsp-rs shard=2 evaluated=600 next=4795/100000 best=0.399361s eval=3122 elapsed=91.6s
+tsp-rs shard=2 evaluated=650 next=5195/100000 best=0.399361s eval=3122 elapsed=95.8s
+tsp-rs shard=2 evaluated=700 next=5595/100000 best=0.399361s eval=3122 elapsed=100.1s
+tsp-rs shard=2 evaluated=750 next=5995/100000 best=0.399361s eval=3122 elapsed=103.6s
+tsp-rs shard=2 evaluated=800 next=6395/100000 best=0.399361s eval=3122 elapsed=108.5s
+tsp-rs shard=2 evaluated=850 next=6795/100000 best=0.399361s eval=3122 elapsed=114.0s
+tsp-rs shard=2 evaluated=900 next=7195/100000 best=0.399361s eval=3122 elapsed=134.3s
+tsp-rs shard=2 evaluated=950 next=7595/100000 best=0.399361s eval=3122 elapsed=138.1s
+tsp-rs shard=2 evaluated=1000 next=7995/100000 best=0.399361s eval=3122 elapsed=141.2s
+tsp-rs shard=2 evaluated=1050 next=8395/100000 best=0.399361s eval=3122 elapsed=145.4s
+tsp-rs shard=2 evaluated=1100 next=8795/100000 best=0.399361s eval=3122 elapsed=149.6s
+tsp-rs shard=2 evaluated=1150 next=9195/100000 best=0.399361s eval=3122 elapsed=154.3s
+tsp-rs shard=2 evaluated=1200 next=9595/100000 best=0.399361s eval=3122 elapsed=158.2s
+tsp-rs shard=2 evaluated=1250 next=9995/100000 best=0.399361s eval=3122 elapsed=164.7s
+tsp-rs shard=2 evaluated=1300 next=10395/100000 best=0.446466s eval=10010 elapsed=182.3s
+tsp-rs shard=2 evaluated=1350 next=10795/100000 best=0.446466s eval=10010 elapsed=185.5s
+tsp-rs shard=2 evaluated=1400 next=11195/100000 best=0.446466s eval=10010 elapsed=191.7s
+tsp-rs shard=2 evaluated=1450 next=11595/100000 best=0.446466s eval=10010 elapsed=200.3s
+tsp-rs shard=2 evaluated=1500 next=11995/100000 best=0.446466s eval=10010 elapsed=203.6s
+tsp-rs shard=2 evaluated=1550 next=12395/100000 best=0.446466s eval=10010 elapsed=208.6s
+tsp-rs shard=2 evaluated=1600 next=12795/100000 best=0.446466s eval=10010 elapsed=215.6s
+tsp-rs shard=2 evaluated=1650 next=13195/100000 best=0.446466s eval=10010 elapsed=220.0s
+tsp-rs shard=2 evaluated=1700 next=13595/100000 best=0.446466s eval=10010 elapsed=224.9s
+tsp-rs shard=2 evaluated=1750 next=13995/100000 best=0.446466s eval=10010 elapsed=229.4s
+tsp-rs shard=2 evaluated=1800 next=14395/100000 best=0.446466s eval=10010 elapsed=235.0s
+tsp-rs shard=2 evaluated=1850 next=14795/100000 best=0.446466s eval=10010 elapsed=239.1s
+tsp-rs shard=2 evaluated=1900 next=15195/100000 best=0.446466s eval=10010 elapsed=244.0s
+tsp-rs shard=2 evaluated=1950 next=15595/100000 best=0.446466s eval=10010 elapsed=251.3s
+tsp-rs shard=2 evaluated=2000 next=15995/100000 best=0.446466s eval=10010 elapsed=263.7s
+tsp-rs shard=2 evaluated=2050 next=16395/100000 best=0.446466s eval=10010 elapsed=275.9s
+tsp-rs shard=2 evaluated=2100 next=16795/100000 best=0.446466s eval=10010 elapsed=290.1s
+tsp-rs shard=2 evaluated=2150 next=17195/100000 best=0.446466s eval=10010 elapsed=293.3s
+tsp-rs shard=2 evaluated=2200 next=17595/100000 best=0.446466s eval=10010 elapsed=299.8s
+tsp-rs shard=2 evaluated=2250 next=17995/100000 best=0.446466s eval=10010 elapsed=310.1s
+tsp-rs shard=2 evaluated=2300 next=18395/100000 best=0.446466s eval=10010 elapsed=315.4s
+tsp-rs shard=2 evaluated=2350 next=18795/100000 best=0.446466s eval=10010 elapsed=320.3s
+tsp-rs shard=2 evaluated=2400 next=19195/100000 best=0.446466s eval=10010 elapsed=327.2s
+tsp-rs shard=2 evaluated=2450 next=19595/100000 best=0.446466s eval=10010 elapsed=330.6s
+tsp-rs shard=2 evaluated=2500 next=19995/100000 best=0.446466s eval=10010 elapsed=334.2s
+tsp-rs shard=2 evaluated=2550 next=20395/100000 best=0.446466s eval=10010 elapsed=341.6s
+tsp-rs shard=2 evaluated=2600 next=20795/100000 best=0.530530s eval=20450 elapsed=360.0s
+tsp-rs shard=2 evaluated=2650 next=21195/100000 best=0.530530s eval=20450 elapsed=363.5s
+tsp-rs shard=2 evaluated=2700 next=21595/100000 best=0.530530s eval=20450 elapsed=371.8s
+tsp-rs shard=2 evaluated=2750 next=21995/100000 best=0.530530s eval=20450 elapsed=375.0s
+tsp-rs shard=2 evaluated=2800 next=22395/100000 best=0.530530s eval=20450 elapsed=378.6s
+tsp-rs shard=2 evaluated=2850 next=22795/100000 best=0.530530s eval=20450 elapsed=388.6s
+tsp-rs shard=2 evaluated=2900 next=23195/100000 best=0.530530s eval=20450 elapsed=395.7s
+tsp-rs shard=2 evaluated=2950 next=23595/100000 best=0.530530s eval=20450 elapsed=400.3s
+tsp-rs shard=2 evaluated=3000 next=23995/100000 best=0.530530s eval=20450 elapsed=405.0s
+tsp-rs shard=2 evaluated=3050 next=24395/100000 best=0.530530s eval=20450 elapsed=408.9s
+tsp-rs shard=2 evaluated=3100 next=24795/100000 best=0.530530s eval=20450 elapsed=418.7s
+tsp-rs shard=2 evaluated=3150 next=25195/100000 best=0.530530s eval=20450 elapsed=424.1s
+tsp-rs shard=2 evaluated=3200 next=25595/100000 best=0.530530s eval=20450 elapsed=432.4s
+tsp-rs shard=2 evaluated=3250 next=25995/100000 best=0.530530s eval=20450 elapsed=437.0s
+tsp-rs shard=2 evaluated=3300 next=26395/100000 best=0.530530s eval=20450 elapsed=441.4s
+tsp-rs shard=2 evaluated=3350 next=26795/100000 best=0.530530s eval=20450 elapsed=446.8s
+tsp-rs shard=2 evaluated=3400 next=27195/100000 best=0.530530s eval=20450 elapsed=450.8s
+tsp-rs shard=2 evaluated=3450 next=27595/100000 best=0.530530s eval=20450 elapsed=453.8s
+tsp-rs shard=2 evaluated=3500 next=27995/100000 best=0.530530s eval=20450 elapsed=459.3s
+tsp-rs shard=2 evaluated=3550 next=28395/100000 best=0.530530s eval=20450 elapsed=463.4s
+tsp-rs shard=2 evaluated=3600 next=28795/100000 best=0.530530s eval=20450 elapsed=469.1s
+tsp-rs shard=2 evaluated=3650 next=29195/100000 best=0.530530s eval=20450 elapsed=473.1s
+tsp-rs shard=2 evaluated=3700 next=29595/100000 best=0.530530s eval=20450 elapsed=477.5s
+tsp-rs shard=2 evaluated=3750 next=29995/100000 best=0.530530s eval=20450 elapsed=482.7s
+tsp-rs shard=2 evaluated=3800 next=30395/100000 best=0.530530s eval=20450 elapsed=489.3s
+tsp-rs shard=2 evaluated=3850 next=30795/100000 best=0.530530s eval=20450 elapsed=498.3s
+tsp-rs shard=2 evaluated=3900 next=31195/100000 best=0.530530s eval=20450 elapsed=504.5s
+tsp-rs shard=2 evaluated=3950 next=31595/100000 best=0.530530s eval=20450 elapsed=508.6s
+tsp-rs shard=2 evaluated=4000 next=31995/100000 best=0.530530s eval=20450 elapsed=512.9s
+tsp-rs shard=2 evaluated=4050 next=32395/100000 best=0.530530s eval=20450 elapsed=516.7s
+tsp-rs shard=2 evaluated=4100 next=32795/100000 best=0.530530s eval=20450 elapsed=521.7s
+tsp-rs shard=2 evaluated=4150 next=33195/100000 best=0.530530s eval=20450 elapsed=527.9s
+tsp-rs shard=2 evaluated=4200 next=33595/100000 best=0.530530s eval=20450 elapsed=531.1s
+tsp-rs shard=2 evaluated=4250 next=33995/100000 best=0.530530s eval=20450 elapsed=536.7s
+tsp-rs shard=2 evaluated=4300 next=34395/100000 best=0.530530s eval=20450 elapsed=546.8s
+tsp-rs shard=2 evaluated=4350 next=34795/100000 best=0.530530s eval=20450 elapsed=551.1s
+tsp-rs shard=2 evaluated=4400 next=35195/100000 best=0.530530s eval=20450 elapsed=554.8s
+tsp-rs shard=2 evaluated=4450 next=35595/100000 best=0.530530s eval=20450 elapsed=559.3s
+tsp-rs shard=2 evaluated=4500 next=35995/100000 best=0.530530s eval=20450 elapsed=562.8s
+tsp-rs shard=2 evaluated=4550 next=36395/100000 best=0.530530s eval=20450 elapsed=566.6s
+tsp-rs shard=2 evaluated=4600 next=36795/100000 best=0.530530s eval=20450 elapsed=572.0s
+tsp-rs shard=2 evaluated=4650 next=37195/100000 best=0.530530s eval=20450 elapsed=578.4s
+tsp-rs shard=2 evaluated=4700 next=37595/100000 best=0.530530s eval=20450 elapsed=586.1s
+tsp-rs shard=2 evaluated=4750 next=37995/100000 best=0.530530s eval=20450 elapsed=594.1s
+tsp-rs shard=2 evaluated=4800 next=38395/100000 best=0.530530s eval=20450 elapsed=598.8s
+tsp-rs shard=2 evaluated=4850 next=38795/100000 best=0.530530s eval=20450 elapsed=605.3s
+tsp-rs shard=2 evaluated=4900 next=39195/100000 best=0.530530s eval=20450 elapsed=613.4s
+tsp-rs shard=2 evaluated=4950 next=39595/100000 best=0.530530s eval=20450 elapsed=617.0s
+tsp-rs shard=2 evaluated=5000 next=39995/100000 best=0.530530s eval=20450 elapsed=624.9s
+tsp-rs shard=2 evaluated=5050 next=40395/100000 best=0.530530s eval=20450 elapsed=630.1s
+tsp-rs shard=2 evaluated=5100 next=40795/100000 best=0.530530s eval=20450 elapsed=634.4s
+tsp-rs shard=2 evaluated=5150 next=41195/100000 best=0.530530s eval=20450 elapsed=638.9s
+tsp-rs shard=2 evaluated=5200 next=41595/100000 best=0.530530s eval=20450 elapsed=644.3s
+tsp-rs shard=2 evaluated=5250 next=41995/100000 best=0.530530s eval=20450 elapsed=648.4s
+tsp-rs shard=2 evaluated=5300 next=42395/100000 best=0.530530s eval=20450 elapsed=661.5s
+tsp-rs shard=2 evaluated=5350 next=42795/100000 best=0.530530s eval=20450 elapsed=666.6s
+tsp-rs shard=2 evaluated=5400 next=43195/100000 best=0.530530s eval=20450 elapsed=670.3s
+tsp-rs shard=2 evaluated=5450 next=43595/100000 best=0.530530s eval=20450 elapsed=674.9s
+tsp-rs shard=2 evaluated=5500 next=43995/100000 best=0.530530s eval=20450 elapsed=680.3s
+tsp-rs shard=2 evaluated=5550 next=44395/100000 best=0.530530s eval=20450 elapsed=683.8s
+tsp-rs shard=2 evaluated=5600 next=44795/100000 best=0.530530s eval=20450 elapsed=692.8s
+tsp-rs shard=2 evaluated=5650 next=45195/100000 best=0.530530s eval=20450 elapsed=697.0s
+tsp-rs shard=2 evaluated=5700 next=45595/100000 best=0.530530s eval=20450 elapsed=704.6s
+tsp-rs shard=2 evaluated=5750 next=45995/100000 best=0.530530s eval=20450 elapsed=708.1s
+tsp-rs shard=2 evaluated=5800 next=46395/100000 best=0.530530s eval=20450 elapsed=711.9s
+tsp-rs shard=2 evaluated=5850 next=46795/100000 best=0.530530s eval=20450 elapsed=716.0s
+tsp-rs shard=2 evaluated=5900 next=47195/100000 best=0.530530s eval=20450 elapsed=722.9s
+tsp-rs shard=2 evaluated=5950 next=47595/100000 best=0.530530s eval=20450 elapsed=728.2s
+tsp-rs shard=2 evaluated=6000 next=47995/100000 best=0.530530s eval=20450 elapsed=734.1s
+tsp-rs shard=2 evaluated=6050 next=48395/100000 best=0.530530s eval=20450 elapsed=739.4s
+tsp-rs shard=2 evaluated=6100 next=48795/100000 best=0.530530s eval=20450 elapsed=743.4s
+tsp-rs shard=2 evaluated=6150 next=49195/100000 best=0.530530s eval=20450 elapsed=746.7s
+tsp-rs shard=2 evaluated=6200 next=49595/100000 best=0.530530s eval=20450 elapsed=754.1s
+tsp-rs shard=2 evaluated=6250 next=49995/100000 best=0.530530s eval=20450 elapsed=759.6s
+tsp-rs shard=2 evaluated=6300 next=50395/100000 best=0.530530s eval=20450 elapsed=763.7s
+tsp-rs shard=2 evaluated=6350 next=50795/100000 best=0.530530s eval=20450 elapsed=770.6s
+tsp-rs shard=2 evaluated=6400 next=51195/100000 best=0.530530s eval=20450 elapsed=777.5s
+tsp-rs shard=2 evaluated=6450 next=51595/100000 best=0.530530s eval=20450 elapsed=781.7s
+tsp-rs shard=2 evaluated=6500 next=51995/100000 best=0.530530s eval=20450 elapsed=785.2s
+tsp-rs shard=2 evaluated=6550 next=52395/100000 best=0.530530s eval=20450 elapsed=790.4s
+tsp-rs shard=2 evaluated=6600 next=52795/100000 best=0.530530s eval=20450 elapsed=795.1s
+tsp-rs shard=2 evaluated=6650 next=53195/100000 best=0.530530s eval=20450 elapsed=801.1s
+tsp-rs shard=2 evaluated=6700 next=53595/100000 best=0.530530s eval=20450 elapsed=808.3s
+tsp-rs shard=2 evaluated=6750 next=53995/100000 best=0.530530s eval=20450 elapsed=812.2s
+tsp-rs shard=2 evaluated=6800 next=54395/100000 best=0.530530s eval=20450 elapsed=816.4s
+tsp-rs shard=2 evaluated=6850 next=54795/100000 best=0.530530s eval=20450 elapsed=822.4s
+tsp-rs shard=2 evaluated=6900 next=55195/100000 best=0.530530s eval=20450 elapsed=825.5s
+tsp-rs shard=2 evaluated=6950 next=55595/100000 best=0.530530s eval=20450 elapsed=828.9s
+tsp-rs shard=2 evaluated=7000 next=55995/100000 best=0.530530s eval=20450 elapsed=832.3s
+tsp-rs shard=2 evaluated=7050 next=56395/100000 best=0.530530s eval=20450 elapsed=837.8s
+tsp-rs shard=2 evaluated=7100 next=56795/100000 best=0.530530s eval=20450 elapsed=843.4s
+tsp-rs shard=2 evaluated=7150 next=57195/100000 best=0.530530s eval=20450 elapsed=852.2s
+tsp-rs shard=2 evaluated=7200 next=57595/100000 best=0.530530s eval=20450 elapsed=857.4s
+tsp-rs shard=2 evaluated=7250 next=57995/100000 best=0.530530s eval=20450 elapsed=861.2s
+tsp-rs shard=2 evaluated=7300 next=58395/100000 best=0.530530s eval=20450 elapsed=866.9s
+tsp-rs shard=2 evaluated=7350 next=58795/100000 best=0.530530s eval=20450 elapsed=871.1s
+tsp-rs shard=2 evaluated=7400 next=59195/100000 best=0.530530s eval=20450 elapsed=877.0s
+tsp-rs shard=2 evaluated=7450 next=59595/100000 best=0.530530s eval=20450 elapsed=880.9s
+tsp-rs shard=2 evaluated=7500 next=59995/100000 best=0.530530s eval=20450 elapsed=888.7s
+tsp-rs shard=2 evaluated=7550 next=60395/100000 best=0.530530s eval=20450 elapsed=892.1s
+tsp-rs shard=2 evaluated=7600 next=60795/100000 best=0.530530s eval=20450 elapsed=899.3s
+tsp-rs shard=2 evaluated=7650 next=61195/100000 best=0.530530s eval=20450 elapsed=904.1s
+tsp-rs shard=2 evaluated=7700 next=61595/100000 best=0.530530s eval=20450 elapsed=909.4s
+tsp-rs shard=2 evaluated=7750 next=61995/100000 best=0.530530s eval=20450 elapsed=912.7s
+tsp-rs shard=2 evaluated=7800 next=62395/100000 best=0.530530s eval=20450 elapsed=926.6s
+tsp-rs shard=2 evaluated=7850 next=62795/100000 best=0.530530s eval=20450 elapsed=930.3s
+tsp-rs shard=2 evaluated=7900 next=63195/100000 best=0.530530s eval=20450 elapsed=934.2s
+tsp-rs shard=2 evaluated=7950 next=63595/100000 best=0.530530s eval=20450 elapsed=941.1s
+tsp-rs shard=2 evaluated=8000 next=63995/100000 best=0.530530s eval=20450 elapsed=946.1s
+tsp-rs shard=2 evaluated=8050 next=64395/100000 best=0.530530s eval=20450 elapsed=958.0s
+tsp-rs shard=2 evaluated=8100 next=64795/100000 best=0.530530s eval=20450 elapsed=966.2s
+tsp-rs shard=2 evaluated=8150 next=65195/100000 best=0.530530s eval=20450 elapsed=974.0s
+tsp-rs shard=2 evaluated=8200 next=65595/100000 best=0.530530s eval=20450 elapsed=987.9s
+tsp-rs shard=2 evaluated=8250 next=65995/100000 best=0.530530s eval=20450 elapsed=992.2s
+tsp-rs shard=2 evaluated=8300 next=66395/100000 best=0.530530s eval=20450 elapsed=1000.0s
+tsp-rs shard=2 evaluated=8350 next=66795/100000 best=0.530530s eval=20450 elapsed=1004.9s
+tsp-rs shard=2 evaluated=8400 next=67195/100000 best=0.530530s eval=20450 elapsed=1011.7s
+tsp-rs shard=2 evaluated=8450 next=67595/100000 best=0.530530s eval=20450 elapsed=1016.4s
+tsp-rs shard=2 evaluated=8500 next=67995/100000 best=0.530530s eval=20450 elapsed=1020.1s
+tsp-rs shard=2 evaluated=8550 next=68395/100000 best=0.530530s eval=20450 elapsed=1024.1s
+tsp-rs shard=2 evaluated=8600 next=68795/100000 best=0.530530s eval=20450 elapsed=1028.9s
+tsp-rs shard=2 evaluated=8650 next=69195/100000 best=0.530530s eval=20450 elapsed=1032.7s
+tsp-rs shard=2 evaluated=8700 next=69595/100000 best=0.530530s eval=20450 elapsed=1042.2s
+tsp-rs shard=2 evaluated=8750 next=69995/100000 best=0.530530s eval=20450 elapsed=1045.9s
+tsp-rs shard=2 evaluated=8800 next=70395/100000 best=0.530530s eval=20450 elapsed=1051.9s
+tsp-rs shard=2 evaluated=8850 next=70795/100000 best=0.530530s eval=20450 elapsed=1057.8s
+tsp-rs shard=2 evaluated=8900 next=71195/100000 best=0.530530s eval=20450 elapsed=1062.9s
+tsp-rs shard=2 evaluated=8950 next=71595/100000 best=0.530530s eval=20450 elapsed=1072.8s
+tsp-rs shard=2 evaluated=9000 next=71995/100000 best=0.530530s eval=20450 elapsed=1079.6s
+tsp-rs shard=2 evaluated=9050 next=72395/100000 best=0.530530s eval=20450 elapsed=1083.3s
+tsp-rs shard=2 evaluated=9100 next=72795/100000 best=0.530530s eval=20450 elapsed=1094.0s
+tsp-rs shard=2 evaluated=9150 next=73195/100000 best=0.530530s eval=20450 elapsed=1102.6s
+tsp-rs shard=2 evaluated=9200 next=73595/100000 best=0.530530s eval=20450 elapsed=1106.6s
+tsp-rs shard=2 evaluated=9250 next=73995/100000 best=0.530530s eval=20450 elapsed=1112.8s
+tsp-rs shard=2 evaluated=9300 next=74395/100000 best=0.530530s eval=20450 elapsed=1116.9s
+tsp-rs shard=2 evaluated=9350 next=74795/100000 best=0.530530s eval=20450 elapsed=1122.1s
+tsp-rs shard=2 evaluated=9400 next=75195/100000 best=0.530530s eval=20450 elapsed=1126.2s
+tsp-rs shard=2 evaluated=9450 next=75595/100000 best=0.530530s eval=20450 elapsed=1133.9s
+tsp-rs shard=2 evaluated=9500 next=75995/100000 best=0.530530s eval=20450 elapsed=1137.9s
+tsp-rs shard=2 evaluated=9550 next=76395/100000 best=0.530530s eval=20450 elapsed=1144.4s
+tsp-rs shard=2 evaluated=9600 next=76795/100000 best=0.530530s eval=20450 elapsed=1149.2s
+tsp-rs shard=2 evaluated=9650 next=77195/100000 best=0.530530s eval=20450 elapsed=1159.4s
+tsp-rs shard=2 evaluated=9700 next=77595/100000 best=0.530530s eval=20450 elapsed=1164.2s
+tsp-rs shard=2 evaluated=9750 next=77995/100000 best=0.530530s eval=20450 elapsed=1169.6s
+tsp-rs shard=2 evaluated=9800 next=78395/100000 best=0.530530s eval=20450 elapsed=1173.0s
+tsp-rs shard=2 evaluated=9850 next=78795/100000 best=0.530530s eval=20450 elapsed=1184.3s
+tsp-rs shard=2 evaluated=9900 next=79195/100000 best=0.530530s eval=20450 elapsed=1188.5s
+tsp-rs shard=2 evaluated=9950 next=79595/100000 best=0.530530s eval=20450 elapsed=1192.2s
+tsp-rs shard=2 evaluated=10000 next=79995/100000 best=0.530530s eval=20450 elapsed=1199.0s
+tsp-rs shard=2 evaluated=10050 next=80395/100000 best=0.530530s eval=20450 elapsed=1204.2s
+tsp-rs shard=2 evaluated=10100 next=80795/100000 best=0.530530s eval=20450 elapsed=1210.3s
+tsp-rs shard=2 evaluated=10150 next=81195/100000 best=0.530530s eval=20450 elapsed=1214.3s
+tsp-rs shard=2 evaluated=10200 next=81595/100000 best=0.530530s eval=20450 elapsed=1218.1s
+tsp-rs shard=2 evaluated=10250 next=81995/100000 best=0.530530s eval=20450 elapsed=1222.8s
+tsp-rs shard=2 evaluated=10300 next=82395/100000 best=0.530530s eval=20450 elapsed=1226.9s
+tsp-rs shard=2 evaluated=10350 next=82795/100000 best=0.530530s eval=20450 elapsed=1231.6s
+tsp-rs shard=2 evaluated=10400 next=83195/100000 best=0.530530s eval=20450 elapsed=1235.5s
+tsp-rs shard=2 evaluated=10450 next=83595/100000 best=0.530530s eval=20450 elapsed=1245.3s
+tsp-rs shard=2 evaluated=10500 next=83995/100000 best=0.530530s eval=20450 elapsed=1249.0s
+tsp-rs shard=2 evaluated=10550 next=84395/100000 best=0.530530s eval=20450 elapsed=1253.7s
+tsp-rs shard=2 evaluated=10600 next=84795/100000 best=0.530530s eval=20450 elapsed=1259.5s
+tsp-rs shard=2 evaluated=10650 next=85195/100000 best=0.530530s eval=20450 elapsed=1265.2s
+tsp-rs shard=2 evaluated=10700 next=85595/100000 best=0.530530s eval=20450 elapsed=1269.6s
+tsp-rs shard=2 evaluated=10750 next=85995/100000 best=0.530530s eval=20450 elapsed=1274.6s
+tsp-rs shard=2 evaluated=10800 next=86395/100000 best=0.530530s eval=20450 elapsed=1280.9s
+tsp-rs shard=2 evaluated=10850 next=86795/100000 best=0.530530s eval=20450 elapsed=1284.4s
+tsp-rs shard=2 evaluated=10900 next=87195/100000 best=0.530530s eval=20450 elapsed=1290.0s
+tsp-rs shard=2 evaluated=10950 next=87595/100000 best=0.530530s eval=20450 elapsed=1294.6s
+tsp-rs shard=2 evaluated=11000 next=87995/100000 best=0.530530s eval=20450 elapsed=1298.7s
+tsp-rs shard=2 evaluated=11050 next=88395/100000 best=0.530530s eval=20450 elapsed=1302.5s
+tsp-rs shard=2 evaluated=11100 next=88795/100000 best=0.530530s eval=20450 elapsed=1307.9s
+tsp-rs shard=2 evaluated=11150 next=89195/100000 best=0.530530s eval=20450 elapsed=1314.8s
+tsp-rs shard=2 evaluated=11200 next=89595/100000 best=0.530530s eval=20450 elapsed=1324.0s
+tsp-rs shard=2 evaluated=11250 next=89995/100000 best=0.530530s eval=20450 elapsed=1328.3s
+tsp-rs shard=2 evaluated=11300 next=90395/100000 best=0.530530s eval=20450 elapsed=1332.0s
+tsp-rs shard=2 evaluated=11350 next=90795/100000 best=0.530530s eval=20450 elapsed=1340.7s
+tsp-rs shard=2 evaluated=11400 next=91195/100000 best=0.530530s eval=20450 elapsed=1345.2s
+tsp-rs shard=2 evaluated=11450 next=91595/100000 best=0.530530s eval=20450 elapsed=1358.0s
+tsp-rs shard=2 evaluated=11500 next=91995/100000 best=0.530530s eval=20450 elapsed=1365.1s
+tsp-rs shard=2 evaluated=11550 next=92395/100000 best=0.530530s eval=20450 elapsed=1368.5s
+tsp-rs shard=2 evaluated=11600 next=92795/100000 best=0.530530s eval=20450 elapsed=1373.6s
+tsp-rs shard=2 evaluated=11650 next=93195/100000 best=0.530530s eval=20450 elapsed=1377.2s
+tsp-rs shard=2 evaluated=11700 next=93595/100000 best=0.530530s eval=20450 elapsed=1383.3s
+tsp-rs shard=2 evaluated=11750 next=93995/100000 best=0.530530s eval=20450 elapsed=1387.4s
+tsp-rs shard=2 evaluated=11800 next=94395/100000 best=0.530530s eval=20450 elapsed=1391.8s
+tsp-rs shard=2 evaluated=11850 next=94795/100000 best=0.530530s eval=20450 elapsed=1395.5s
+tsp-rs shard=2 evaluated=11900 next=95195/100000 best=0.530530s eval=20450 elapsed=1399.9s
+tsp-rs shard=2 evaluated=11950 next=95595/100000 best=0.530530s eval=20450 elapsed=1403.8s
+tsp-rs shard=2 evaluated=12000 next=95995/100000 best=0.530530s eval=20450 elapsed=1412.8s
+tsp-rs shard=2 evaluated=12050 next=96395/100000 best=0.530530s eval=20450 elapsed=1415.9s
+tsp-rs shard=2 evaluated=12100 next=96795/100000 best=0.530530s eval=20450 elapsed=1421.1s
+tsp-rs shard=2 evaluated=12150 next=97195/100000 best=0.530530s eval=20450 elapsed=1424.7s
+tsp-rs shard=2 evaluated=12200 next=97595/100000 best=0.530530s eval=20450 elapsed=1428.4s
+tsp-rs shard=2 evaluated=12250 next=97995/100000 best=0.530530s eval=20450 elapsed=1432.1s
+tsp-rs shard=2 evaluated=12300 next=98395/100000 best=0.530530s eval=20450 elapsed=1439.4s
+tsp-rs shard=2 evaluated=12350 next=98795/100000 best=0.530530s eval=20450 elapsed=1448.1s
+tsp-rs shard=2 evaluated=12400 next=99195/100000 best=0.530530s eval=20450 elapsed=1452.1s
+tsp-rs shard=2 evaluated=12450 next=99595/100000 best=0.530530s eval=20450 elapsed=1456.0s
+tsp-rs shard=2 evaluated=12500 next=99995/100000 best=0.530530s eval=20450 elapsed=1462.9s
+wrote current_machine_rebench/results/followup-four-core/tsp-random-screen-shard2.json
+2026-07-19T11:00:32+00:00 DONE tsp-random-screen-2 cpu=3
+2026-07-19T11:00:32+00:00 START tsp-random-screen-6 cpu=3 attempt=1
+tsp-rs shard=6 evaluated=50 next=399/100000 best=0.021925s eval=94 elapsed=3.6s
+tsp-rs shard=6 evaluated=100 next=799/100000 best=0.079437s eval=606 elapsed=10.4s
+tsp-rs shard=6 evaluated=150 next=1199/100000 best=0.169018s eval=910 elapsed=20.5s
+tsp-rs shard=6 evaluated=200 next=1599/100000 best=0.169018s eval=910 elapsed=29.8s
+tsp-rs shard=6 evaluated=250 next=1999/100000 best=0.169018s eval=910 elapsed=33.1s
+tsp-rs shard=6 evaluated=300 next=2399/100000 best=0.169018s eval=910 elapsed=38.2s
+tsp-rs shard=6 evaluated=350 next=2799/100000 best=0.169018s eval=910 elapsed=41.3s
+tsp-rs shard=6 evaluated=400 next=3199/100000 best=0.169018s eval=910 elapsed=45.4s
+tsp-rs shard=6 evaluated=450 next=3599/100000 best=0.169018s eval=910 elapsed=50.0s
+tsp-rs shard=6 evaluated=500 next=3999/100000 best=0.169018s eval=910 elapsed=53.6s
+tsp-rs shard=6 evaluated=550 next=4399/100000 best=0.169018s eval=910 elapsed=58.7s
+tsp-rs shard=6 evaluated=600 next=4799/100000 best=0.169018s eval=910 elapsed=66.1s
+tsp-rs shard=6 evaluated=650 next=5199/100000 best=0.169018s eval=910 elapsed=72.2s
+tsp-rs shard=6 evaluated=700 next=5599/100000 best=0.169018s eval=910 elapsed=75.7s
+tsp-rs shard=6 evaluated=750 next=5999/100000 best=0.169018s eval=910 elapsed=80.4s
+tsp-rs shard=6 evaluated=800 next=6399/100000 best=0.169018s eval=910 elapsed=87.3s
+tsp-rs shard=6 evaluated=850 next=6799/100000 best=0.169018s eval=910 elapsed=93.0s
+tsp-rs shard=6 evaluated=900 next=7199/100000 best=0.169018s eval=910 elapsed=98.8s
+tsp-rs shard=6 evaluated=950 next=7599/100000 best=0.169018s eval=910 elapsed=102.1s
+tsp-rs shard=6 evaluated=1000 next=7999/100000 best=0.169018s eval=910 elapsed=107.5s
+tsp-rs shard=6 evaluated=1050 next=8399/100000 best=0.169018s eval=910 elapsed=115.2s
+tsp-rs shard=6 evaluated=1100 next=8799/100000 best=0.169018s eval=910 elapsed=119.0s
+tsp-rs shard=6 evaluated=1150 next=9199/100000 best=0.197384s eval=8806 elapsed=129.0s
+tsp-rs shard=6 evaluated=1200 next=9599/100000 best=0.197384s eval=8806 elapsed=137.3s
+tsp-rs shard=6 evaluated=1250 next=9999/100000 best=0.197384s eval=8806 elapsed=141.0s
+tsp-rs shard=6 evaluated=1300 next=10399/100000 best=0.197384s eval=8806 elapsed=147.4s
+tsp-rs shard=6 evaluated=1350 next=10799/100000 best=0.197384s eval=8806 elapsed=156.5s
+tsp-rs shard=6 evaluated=1400 next=11199/100000 best=0.197384s eval=8806 elapsed=160.0s
+tsp-rs shard=6 evaluated=1450 next=11599/100000 best=0.197384s eval=8806 elapsed=163.7s
+tsp-rs shard=6 evaluated=1500 next=11999/100000 best=0.197384s eval=8806 elapsed=167.4s
+tsp-rs shard=6 evaluated=1550 next=12399/100000 best=0.197384s eval=8806 elapsed=172.2s
+tsp-rs shard=6 evaluated=1600 next=12799/100000 best=0.197384s eval=8806 elapsed=177.2s
+tsp-rs shard=6 evaluated=1650 next=13199/100000 best=0.197384s eval=8806 elapsed=182.0s
+tsp-rs shard=6 evaluated=1700 next=13599/100000 best=0.584601s eval=13566 elapsed=202.1s
+tsp-rs shard=6 evaluated=1750 next=13999/100000 best=0.584601s eval=13566 elapsed=209.5s
+tsp-rs shard=6 evaluated=1800 next=14399/100000 best=0.584601s eval=13566 elapsed=216.0s
+tsp-rs shard=6 evaluated=1850 next=14799/100000 best=0.584601s eval=13566 elapsed=223.3s
+tsp-rs shard=6 evaluated=1900 next=15199/100000 best=0.584601s eval=13566 elapsed=227.0s
+tsp-rs shard=6 evaluated=1950 next=15599/100000 best=0.700552s eval=15278 elapsed=248.5s
+tsp-rs shard=6 evaluated=2000 next=15999/100000 best=0.700552s eval=15278 elapsed=254.4s
+tsp-rs shard=6 evaluated=2050 next=16399/100000 best=0.700552s eval=15278 elapsed=258.8s
+tsp-rs shard=6 evaluated=2100 next=16799/100000 best=0.700552s eval=15278 elapsed=262.7s
+tsp-rs shard=6 evaluated=2150 next=17199/100000 best=0.700552s eval=15278 elapsed=266.6s
+tsp-rs shard=6 evaluated=2200 next=17599/100000 best=0.700552s eval=15278 elapsed=272.4s
+tsp-rs shard=6 evaluated=2250 next=17999/100000 best=0.700552s eval=15278 elapsed=278.2s
+tsp-rs shard=6 evaluated=2300 next=18399/100000 best=0.700552s eval=15278 elapsed=281.8s
+tsp-rs shard=6 evaluated=2350 next=18799/100000 best=0.700552s eval=15278 elapsed=286.2s
+tsp-rs shard=6 evaluated=2400 next=19199/100000 best=0.700552s eval=15278 elapsed=289.6s
+tsp-rs shard=6 evaluated=2450 next=19599/100000 best=0.700552s eval=15278 elapsed=292.8s
+tsp-rs shard=6 evaluated=2500 next=19999/100000 best=0.700552s eval=15278 elapsed=306.4s
+tsp-rs shard=6 evaluated=2550 next=20399/100000 best=0.700552s eval=15278 elapsed=309.7s
+tsp-rs shard=6 evaluated=2600 next=20799/100000 best=0.700552s eval=15278 elapsed=317.3s
+tsp-rs shard=6 evaluated=2650 next=21199/100000 best=0.700552s eval=15278 elapsed=322.2s
+tsp-rs shard=6 evaluated=2700 next=21599/100000 best=0.700552s eval=15278 elapsed=326.1s
+tsp-rs shard=6 evaluated=2750 next=21999/100000 best=0.700552s eval=15278 elapsed=330.2s
+tsp-rs shard=6 evaluated=2800 next=22399/100000 best=0.700552s eval=15278 elapsed=334.6s
+tsp-rs shard=6 evaluated=2850 next=22799/100000 best=0.700552s eval=15278 elapsed=340.0s
+tsp-rs shard=6 evaluated=2900 next=23199/100000 best=0.700552s eval=15278 elapsed=348.4s
+tsp-rs shard=6 evaluated=2950 next=23599/100000 best=0.700552s eval=15278 elapsed=352.4s
+tsp-rs shard=6 evaluated=3000 next=23999/100000 best=0.700552s eval=15278 elapsed=358.0s
+tsp-rs shard=6 evaluated=3050 next=24399/100000 best=0.700552s eval=15278 elapsed=373.8s
+tsp-rs shard=6 evaluated=3100 next=24799/100000 best=0.700552s eval=15278 elapsed=382.0s
+tsp-rs shard=6 evaluated=3150 next=25199/100000 best=0.700552s eval=15278 elapsed=389.6s
+tsp-rs shard=6 evaluated=3200 next=25599/100000 best=0.700552s eval=15278 elapsed=396.7s
+tsp-rs shard=6 evaluated=3250 next=25999/100000 best=0.700552s eval=15278 elapsed=401.5s
+tsp-rs shard=6 evaluated=3300 next=26399/100000 best=0.700552s eval=15278 elapsed=412.6s
+tsp-rs shard=6 evaluated=3350 next=26799/100000 best=0.700552s eval=15278 elapsed=417.5s
+tsp-rs shard=6 evaluated=3400 next=27199/100000 best=0.700552s eval=15278 elapsed=421.6s
+tsp-rs shard=6 evaluated=3450 next=27599/100000 best=0.700552s eval=15278 elapsed=435.3s
+tsp-rs shard=6 evaluated=3500 next=27999/100000 best=0.700552s eval=15278 elapsed=439.7s
+tsp-rs shard=6 evaluated=3550 next=28399/100000 best=0.700552s eval=15278 elapsed=446.4s
+tsp-rs shard=6 evaluated=3600 next=28799/100000 best=0.700552s eval=15278 elapsed=456.7s
+tsp-rs shard=6 evaluated=3650 next=29199/100000 best=0.700552s eval=15278 elapsed=460.7s
+tsp-rs shard=6 evaluated=3700 next=29599/100000 best=0.700552s eval=15278 elapsed=468.1s
+tsp-rs shard=6 evaluated=3750 next=29999/100000 best=0.700552s eval=15278 elapsed=472.1s
+tsp-rs shard=6 evaluated=3800 next=30399/100000 best=0.700552s eval=15278 elapsed=476.6s
+tsp-rs shard=6 evaluated=3850 next=30799/100000 best=0.700552s eval=15278 elapsed=479.9s
+tsp-rs shard=6 evaluated=3900 next=31199/100000 best=0.700552s eval=15278 elapsed=493.9s
+tsp-rs shard=6 evaluated=3950 next=31599/100000 best=0.700552s eval=15278 elapsed=506.8s
+tsp-rs shard=6 evaluated=4000 next=31999/100000 best=0.700552s eval=15278 elapsed=514.3s
+tsp-rs shard=6 evaluated=4050 next=32399/100000 best=0.700552s eval=15278 elapsed=520.8s
+tsp-rs shard=6 evaluated=4100 next=32799/100000 best=0.700552s eval=15278 elapsed=524.7s
+tsp-rs shard=6 evaluated=4150 next=33199/100000 best=0.700552s eval=15278 elapsed=530.0s
+tsp-rs shard=6 evaluated=4200 next=33599/100000 best=0.700552s eval=15278 elapsed=537.6s
+tsp-rs shard=6 evaluated=4250 next=33999/100000 best=0.700552s eval=15278 elapsed=552.3s
+tsp-rs shard=6 evaluated=4300 next=34399/100000 best=0.700552s eval=15278 elapsed=571.6s
+tsp-rs shard=6 evaluated=4350 next=34799/100000 best=0.700552s eval=15278 elapsed=575.1s
+tsp-rs shard=6 evaluated=4400 next=35199/100000 best=0.700552s eval=15278 elapsed=579.1s
+tsp-rs shard=6 evaluated=4450 next=35599/100000 best=0.700552s eval=15278 elapsed=585.0s
+tsp-rs shard=6 evaluated=4500 next=35999/100000 best=0.700552s eval=15278 elapsed=589.1s
+tsp-rs shard=6 evaluated=4550 next=36399/100000 best=0.700552s eval=15278 elapsed=593.0s
+tsp-rs shard=6 evaluated=4600 next=36799/100000 best=0.700552s eval=15278 elapsed=599.0s
+tsp-rs shard=6 evaluated=4650 next=37199/100000 best=0.700552s eval=15278 elapsed=603.2s
+tsp-rs shard=6 evaluated=4700 next=37599/100000 best=0.700552s eval=15278 elapsed=606.2s
+tsp-rs shard=6 evaluated=4750 next=37999/100000 best=0.700552s eval=15278 elapsed=612.2s
+tsp-rs shard=6 evaluated=4800 next=38399/100000 best=0.700552s eval=15278 elapsed=615.5s
+tsp-rs shard=6 evaluated=4850 next=38799/100000 best=0.700552s eval=15278 elapsed=633.6s
+tsp-rs shard=6 evaluated=4900 next=39199/100000 best=0.700552s eval=15278 elapsed=637.8s
+tsp-rs shard=6 evaluated=4950 next=39599/100000 best=0.700552s eval=15278 elapsed=644.6s
+tsp-rs shard=6 evaluated=5000 next=39999/100000 best=0.700552s eval=15278 elapsed=650.1s
+tsp-rs shard=6 evaluated=5050 next=40399/100000 best=0.700552s eval=15278 elapsed=657.4s
+tsp-rs shard=6 evaluated=5100 next=40799/100000 best=0.700552s eval=15278 elapsed=670.2s
+tsp-rs shard=6 evaluated=5150 next=41199/100000 best=0.700552s eval=15278 elapsed=674.9s
+tsp-rs shard=6 evaluated=5200 next=41599/100000 best=0.700552s eval=15278 elapsed=678.6s
+tsp-rs shard=6 evaluated=5250 next=41999/100000 best=0.700552s eval=15278 elapsed=683.3s
+tsp-rs shard=6 evaluated=5300 next=42399/100000 best=0.700552s eval=15278 elapsed=687.8s
+tsp-rs shard=6 evaluated=5350 next=42799/100000 best=0.700552s eval=15278 elapsed=693.1s
+tsp-rs shard=6 evaluated=5400 next=43199/100000 best=0.700552s eval=15278 elapsed=701.6s
+tsp-rs shard=6 evaluated=5450 next=43599/100000 best=0.700552s eval=15278 elapsed=705.2s
+tsp-rs shard=6 evaluated=5500 next=43999/100000 best=0.700552s eval=15278 elapsed=710.7s
+tsp-rs shard=6 evaluated=5550 next=44399/100000 best=0.700552s eval=15278 elapsed=715.1s
+tsp-rs shard=6 evaluated=5600 next=44799/100000 best=0.700552s eval=15278 elapsed=725.1s
+tsp-rs shard=6 evaluated=5650 next=45199/100000 best=0.700552s eval=15278 elapsed=731.2s
+tsp-rs shard=6 evaluated=5700 next=45599/100000 best=0.700552s eval=15278 elapsed=739.7s
+tsp-rs shard=6 evaluated=5750 next=45999/100000 best=0.700552s eval=15278 elapsed=743.1s
+tsp-rs shard=6 evaluated=5800 next=46399/100000 best=0.700552s eval=15278 elapsed=747.1s
+tsp-rs shard=6 evaluated=5850 next=46799/100000 best=0.700552s eval=15278 elapsed=754.9s
+tsp-rs shard=6 evaluated=5900 next=47199/100000 best=0.700552s eval=15278 elapsed=759.0s
+tsp-rs shard=6 evaluated=5950 next=47599/100000 best=0.700552s eval=15278 elapsed=763.9s
+tsp-rs shard=6 evaluated=6000 next=47999/100000 best=0.700552s eval=15278 elapsed=774.0s
+tsp-rs shard=6 evaluated=6050 next=48399/100000 best=0.700552s eval=15278 elapsed=779.0s
+tsp-rs shard=6 evaluated=6100 next=48799/100000 best=0.700552s eval=15278 elapsed=784.2s
+tsp-rs shard=6 evaluated=6150 next=49199/100000 best=0.700552s eval=15278 elapsed=789.5s
+tsp-rs shard=6 evaluated=6200 next=49599/100000 best=0.700552s eval=15278 elapsed=797.1s
+tsp-rs shard=6 evaluated=6250 next=49999/100000 best=0.700552s eval=15278 elapsed=803.3s
+tsp-rs shard=6 evaluated=6300 next=50399/100000 best=0.700552s eval=15278 elapsed=806.6s
+tsp-rs shard=6 evaluated=6350 next=50799/100000 best=0.700552s eval=15278 elapsed=811.0s
+tsp-rs shard=6 evaluated=6400 next=51199/100000 best=0.700552s eval=15278 elapsed=815.2s
+tsp-rs shard=6 evaluated=6450 next=51599/100000 best=0.700552s eval=15278 elapsed=820.1s
+tsp-rs shard=6 evaluated=6500 next=51999/100000 best=0.700552s eval=15278 elapsed=833.7s
+tsp-rs shard=6 evaluated=6550 next=52399/100000 best=0.700552s eval=15278 elapsed=841.8s
+tsp-rs shard=6 evaluated=6600 next=52799/100000 best=0.700552s eval=15278 elapsed=852.1s
+tsp-rs shard=6 evaluated=6650 next=53199/100000 best=0.700552s eval=15278 elapsed=859.5s
+tsp-rs shard=6 evaluated=6700 next=53599/100000 best=0.700552s eval=15278 elapsed=864.0s
+tsp-rs shard=6 evaluated=6750 next=53999/100000 best=0.700552s eval=15278 elapsed=867.6s
+tsp-rs shard=6 evaluated=6800 next=54399/100000 best=0.700552s eval=15278 elapsed=871.7s
+tsp-rs shard=6 evaluated=6850 next=54799/100000 best=0.700552s eval=15278 elapsed=877.2s
+tsp-rs shard=6 evaluated=6900 next=55199/100000 best=0.700552s eval=15278 elapsed=880.9s
+tsp-rs shard=6 evaluated=6950 next=55599/100000 best=0.700552s eval=15278 elapsed=884.4s
+tsp-rs shard=6 evaluated=7000 next=55999/100000 best=0.700552s eval=15278 elapsed=892.2s
+tsp-rs shard=6 evaluated=7050 next=56399/100000 best=0.700552s eval=15278 elapsed=895.6s
+tsp-rs shard=6 evaluated=7100 next=56799/100000 best=0.700552s eval=15278 elapsed=900.3s
+tsp-rs shard=6 evaluated=7150 next=57199/100000 best=0.700552s eval=15278 elapsed=905.1s
+tsp-rs shard=6 evaluated=7200 next=57599/100000 best=0.700552s eval=15278 elapsed=920.0s
+tsp-rs shard=6 evaluated=7250 next=57999/100000 best=0.700552s eval=15278 elapsed=923.6s
+tsp-rs shard=6 evaluated=7300 next=58399/100000 best=0.700552s eval=15278 elapsed=927.3s
+tsp-rs shard=6 evaluated=7350 next=58799/100000 best=0.700552s eval=15278 elapsed=930.3s
+tsp-rs shard=6 evaluated=7400 next=59199/100000 best=0.700552s eval=15278 elapsed=937.4s
+tsp-rs shard=6 evaluated=7450 next=59599/100000 best=0.700552s eval=15278 elapsed=941.2s
+tsp-rs shard=6 evaluated=7500 next=59999/100000 best=0.700552s eval=15278 elapsed=946.6s
+tsp-rs shard=6 evaluated=7550 next=60399/100000 best=0.700552s eval=15278 elapsed=958.8s
+tsp-rs shard=6 evaluated=7600 next=60799/100000 best=0.700552s eval=15278 elapsed=963.0s
+tsp-rs shard=6 evaluated=7650 next=61199/100000 best=0.700552s eval=15278 elapsed=970.7s
+tsp-rs shard=6 evaluated=7700 next=61599/100000 best=0.700552s eval=15278 elapsed=976.2s
+tsp-rs shard=6 evaluated=7750 next=61999/100000 best=0.700552s eval=15278 elapsed=979.8s
+tsp-rs shard=6 evaluated=7800 next=62399/100000 best=0.700552s eval=15278 elapsed=983.2s
+tsp-rs shard=6 evaluated=7850 next=62799/100000 best=0.700552s eval=15278 elapsed=986.9s
+tsp-rs shard=6 evaluated=7900 next=63199/100000 best=0.700552s eval=15278 elapsed=992.8s
+tsp-rs shard=6 evaluated=7950 next=63599/100000 best=0.700552s eval=15278 elapsed=996.2s
+tsp-rs shard=6 evaluated=8000 next=63999/100000 best=0.700552s eval=15278 elapsed=1003.0s
+tsp-rs shard=6 evaluated=8050 next=64399/100000 best=0.700552s eval=15278 elapsed=1008.6s
+tsp-rs shard=6 evaluated=8100 next=64799/100000 best=0.700552s eval=15278 elapsed=1012.1s
+tsp-rs shard=6 evaluated=8150 next=65199/100000 best=0.700552s eval=15278 elapsed=1018.6s
+tsp-rs shard=6 evaluated=8200 next=65599/100000 best=0.700552s eval=15278 elapsed=1021.7s
+tsp-rs shard=6 evaluated=8250 next=65999/100000 best=0.700552s eval=15278 elapsed=1026.4s
+tsp-rs shard=6 evaluated=8300 next=66399/100000 best=0.700552s eval=15278 elapsed=1037.1s
+tsp-rs shard=6 evaluated=8350 next=66799/100000 best=0.700552s eval=15278 elapsed=1053.0s
+tsp-rs shard=6 evaluated=8400 next=67199/100000 best=0.700552s eval=15278 elapsed=1058.0s
+tsp-rs shard=6 evaluated=8450 next=67599/100000 best=0.700552s eval=15278 elapsed=1061.5s
+tsp-rs shard=6 evaluated=8500 next=67999/100000 best=0.700552s eval=15278 elapsed=1066.7s
+tsp-rs shard=6 evaluated=8550 next=68399/100000 best=0.700552s eval=15278 elapsed=1073.8s
+tsp-rs shard=6 evaluated=8600 next=68799/100000 best=0.700552s eval=15278 elapsed=1078.1s
+tsp-rs shard=6 evaluated=8650 next=69199/100000 best=0.700552s eval=15278 elapsed=1082.2s
+tsp-rs shard=6 evaluated=8700 next=69599/100000 best=0.700552s eval=15278 elapsed=1087.5s
+tsp-rs shard=6 evaluated=8750 next=69999/100000 best=0.700552s eval=15278 elapsed=1090.9s
+tsp-rs shard=6 evaluated=8800 next=70399/100000 best=0.700552s eval=15278 elapsed=1095.4s
+tsp-rs shard=6 evaluated=8850 next=70799/100000 best=0.700552s eval=15278 elapsed=1099.2s
+tsp-rs shard=6 evaluated=8900 next=71199/100000 best=0.700552s eval=15278 elapsed=1107.0s
+tsp-rs shard=6 evaluated=8950 next=71599/100000 best=0.700552s eval=15278 elapsed=1114.0s
+tsp-rs shard=6 evaluated=9000 next=71999/100000 best=0.700552s eval=15278 elapsed=1123.2s
+tsp-rs shard=6 evaluated=9050 next=72399/100000 best=0.700552s eval=15278 elapsed=1130.3s
+tsp-rs shard=6 evaluated=9100 next=72799/100000 best=0.700552s eval=15278 elapsed=1134.7s
+tsp-rs shard=6 evaluated=9150 next=73199/100000 best=0.700552s eval=15278 elapsed=1142.0s
+tsp-rs shard=6 evaluated=9200 next=73599/100000 best=0.700552s eval=15278 elapsed=1146.8s
+tsp-rs shard=6 evaluated=9250 next=73999/100000 best=0.700552s eval=15278 elapsed=1158.2s
+tsp-rs shard=6 evaluated=9300 next=74399/100000 best=0.700552s eval=15278 elapsed=1162.5s
+tsp-rs shard=6 evaluated=9350 next=74799/100000 best=0.700552s eval=15278 elapsed=1170.6s
+tsp-rs shard=6 evaluated=9400 next=75199/100000 best=0.700552s eval=15278 elapsed=1176.0s
+tsp-rs shard=6 evaluated=9450 next=75599/100000 best=0.700552s eval=15278 elapsed=1182.0s
+tsp-rs shard=6 evaluated=9500 next=75999/100000 best=0.700552s eval=15278 elapsed=1186.5s
+tsp-rs shard=6 evaluated=9550 next=76399/100000 best=0.700552s eval=15278 elapsed=1192.8s
+tsp-rs shard=6 evaluated=9600 next=76799/100000 best=0.700552s eval=15278 elapsed=1200.7s
+tsp-rs shard=6 evaluated=9650 next=77199/100000 best=0.700552s eval=15278 elapsed=1204.5s
+tsp-rs shard=6 evaluated=9700 next=77599/100000 best=0.700552s eval=15278 elapsed=1210.9s
+tsp-rs shard=6 evaluated=9750 next=77999/100000 best=0.700552s eval=15278 elapsed=1215.1s
+tsp-rs shard=6 evaluated=9800 next=78399/100000 best=0.700552s eval=15278 elapsed=1226.1s
+tsp-rs shard=6 evaluated=9850 next=78799/100000 best=0.700552s eval=15278 elapsed=1230.4s
+tsp-rs shard=6 evaluated=9900 next=79199/100000 best=0.700552s eval=15278 elapsed=1236.6s
+tsp-rs shard=6 evaluated=9950 next=79599/100000 best=0.700552s eval=15278 elapsed=1241.5s
+tsp-rs shard=6 evaluated=10000 next=79999/100000 best=0.700552s eval=15278 elapsed=1246.4s
+tsp-rs shard=6 evaluated=10050 next=80399/100000 best=0.700552s eval=15278 elapsed=1253.8s
+tsp-rs shard=6 evaluated=10100 next=80799/100000 best=0.700552s eval=15278 elapsed=1256.9s
+tsp-rs shard=6 evaluated=10150 next=81199/100000 best=0.700552s eval=15278 elapsed=1264.5s
+tsp-rs shard=6 evaluated=10200 next=81599/100000 best=0.700552s eval=15278 elapsed=1269.7s
+tsp-rs shard=6 evaluated=10250 next=81999/100000 best=0.700552s eval=15278 elapsed=1273.9s
+tsp-rs shard=6 evaluated=10300 next=82399/100000 best=0.700552s eval=15278 elapsed=1278.5s
+tsp-rs shard=6 evaluated=10350 next=82799/100000 best=0.700552s eval=15278 elapsed=1283.3s
+tsp-rs shard=6 evaluated=10400 next=83199/100000 best=0.700552s eval=15278 elapsed=1293.6s
+tsp-rs shard=6 evaluated=10450 next=83599/100000 best=0.700552s eval=15278 elapsed=1297.8s
+tsp-rs shard=6 evaluated=10500 next=83999/100000 best=0.700552s eval=15278 elapsed=1302.8s
+tsp-rs shard=6 evaluated=10550 next=84399/100000 best=0.700552s eval=15278 elapsed=1318.2s
+tsp-rs shard=6 evaluated=10600 next=84799/100000 best=0.700552s eval=15278 elapsed=1322.2s
+tsp-rs shard=6 evaluated=10650 next=85199/100000 best=0.700552s eval=15278 elapsed=1336.9s
+tsp-rs shard=6 evaluated=10700 next=85599/100000 best=0.700552s eval=15278 elapsed=1343.3s
+tsp-rs shard=6 evaluated=10750 next=85999/100000 best=0.700552s eval=15278 elapsed=1347.7s
+tsp-rs shard=6 evaluated=10800 next=86399/100000 best=0.700552s eval=15278 elapsed=1351.3s
+tsp-rs shard=6 evaluated=10850 next=86799/100000 best=0.700552s eval=15278 elapsed=1357.8s
+tsp-rs shard=6 evaluated=10900 next=87199/100000 best=0.700552s eval=15278 elapsed=1370.7s
+tsp-rs shard=6 evaluated=10950 next=87599/100000 best=0.700552s eval=15278 elapsed=1374.7s
+tsp-rs shard=6 evaluated=11000 next=87999/100000 best=0.700552s eval=15278 elapsed=1410.5s
+tsp-rs shard=6 evaluated=11050 next=88399/100000 best=0.700552s eval=15278 elapsed=1414.4s
+tsp-rs shard=6 evaluated=11100 next=88799/100000 best=0.700552s eval=15278 elapsed=1420.4s
+tsp-rs shard=6 evaluated=11150 next=89199/100000 best=0.700552s eval=15278 elapsed=1427.5s
+tsp-rs shard=6 evaluated=11200 next=89599/100000 best=0.700552s eval=15278 elapsed=1432.7s
+tsp-rs shard=6 evaluated=11250 next=89999/100000 best=0.700552s eval=15278 elapsed=1442.1s
+tsp-rs shard=6 evaluated=11300 next=90399/100000 best=0.700552s eval=15278 elapsed=1450.8s
+tsp-rs shard=6 evaluated=11350 next=90799/100000 best=0.700552s eval=15278 elapsed=1454.8s
+tsp-rs shard=6 evaluated=11400 next=91199/100000 best=0.700552s eval=15278 elapsed=1459.3s
+tsp-rs shard=6 evaluated=11450 next=91599/100000 best=0.700552s eval=15278 elapsed=1464.2s
+tsp-rs shard=6 evaluated=11500 next=91999/100000 best=0.700552s eval=15278 elapsed=1469.6s
+tsp-rs shard=6 evaluated=11550 next=92399/100000 best=0.700552s eval=15278 elapsed=1475.5s
+tsp-rs shard=6 evaluated=11600 next=92799/100000 best=0.700552s eval=15278 elapsed=1480.1s
+tsp-rs shard=6 evaluated=11650 next=93199/100000 best=0.700552s eval=15278 elapsed=1487.1s
+tsp-rs shard=6 evaluated=11700 next=93599/100000 best=0.700552s eval=15278 elapsed=1493.5s
+tsp-rs shard=6 evaluated=11750 next=93999/100000 best=0.700552s eval=15278 elapsed=1497.0s
+tsp-rs shard=6 evaluated=11800 next=94399/100000 best=0.700552s eval=15278 elapsed=1501.4s
+tsp-rs shard=6 evaluated=11850 next=94799/100000 best=0.700552s eval=15278 elapsed=1504.9s
+tsp-rs shard=6 evaluated=11900 next=95199/100000 best=0.700552s eval=15278 elapsed=1509.7s
+tsp-rs shard=6 evaluated=11950 next=95599/100000 best=0.700552s eval=15278 elapsed=1513.1s
+tsp-rs shard=6 evaluated=12000 next=95999/100000 best=0.700552s eval=15278 elapsed=1516.8s
+tsp-rs shard=6 evaluated=12050 next=96399/100000 best=0.700552s eval=15278 elapsed=1533.3s
+tsp-rs shard=6 evaluated=12100 next=96799/100000 best=0.700552s eval=15278 elapsed=1542.3s
+tsp-rs shard=6 evaluated=12150 next=97199/100000 best=0.700552s eval=15278 elapsed=1546.6s
+tsp-rs shard=6 evaluated=12200 next=97599/100000 best=0.700552s eval=15278 elapsed=1551.8s
+tsp-rs shard=6 evaluated=12250 next=97999/100000 best=0.700552s eval=15278 elapsed=1559.2s
+tsp-rs shard=6 evaluated=12300 next=98399/100000 best=0.700552s eval=15278 elapsed=1565.5s
+tsp-rs shard=6 evaluated=12350 next=98799/100000 best=0.700552s eval=15278 elapsed=1575.8s
+tsp-rs shard=6 evaluated=12400 next=99199/100000 best=0.700552s eval=15278 elapsed=1582.1s
+tsp-rs shard=6 evaluated=12450 next=99599/100000 best=0.700552s eval=15278 elapsed=1586.3s
+tsp-rs shard=6 evaluated=12500 next=99999/100000 best=0.700552s eval=15278 elapsed=1591.3s
+wrote current_machine_rebench/results/followup-four-core/tsp-random-screen-shard6.json
+2026-07-19T11:27:05+00:00 DONE tsp-random-screen-6 cpu=3
+2026-07-19T11:27:05+00:00 START tsp-20009-half1 cpu=3 attempt=1
+20009_hard train seed=1 rep=1: SOLVED 19.152415s
+20009_hard train seed=2 rep=0: SOLVED 31.901659s
+20009_hard train seed=2 rep=2: SOLVED 32.482794s
+20009_hard train seed=3 rep=1: SOLVED 34.753001s
+20009_hard train seed=4 rep=0: SOLVED 37.515508s
+20009_hard train seed=4 rep=2: SOLVED 37.587651s
+20009_hard train seed=5 rep=1: SOLVED 39.261668s
+20009_hard train seed=6 rep=0: SOLVED 33.997231s
+20009_hard train seed=6 rep=2: SOLVED 33.981838s
+20009_hard train seed=7 rep=1: SOLVED 28.687186s
+20009_hard heldout seed=8 rep=0: SOLVED 24.258666s
+20009_hard heldout seed=8 rep=2: SOLVED 24.386817s
+20009_hard heldout seed=9 rep=1: SOLVED 25.756268s
+20009_hard heldout seed=10 rep=0: SOLVED 24.994670s
+20009_hard heldout seed=10 rep=2: SOLVED 24.932648s
+20009_hard heldout seed=11 rep=1: SOLVED 26.390115s
+20009_hard heldout seed=12 rep=0: SOLVED 25.446809s
+20009_hard heldout seed=12 rep=2: SOLVED 25.352058s
+20009_hard heldout seed=13 rep=1: SOLVED 41.832080s
+20009_hard heldout seed=14 rep=0: SOLVED 20.802440s
+20009_hard heldout seed=14 rep=2: SOLVED 20.700775s
+20009_hard heldout seed=15 rep=1: SOLVED 35.609789s
+20009_hard heldout seed=16 rep=0: SOLVED 41.200345s
+20009_hard heldout seed=16 rep=2: SOLVED 41.256173s
+20009_hard heldout seed=17 rep=1: SOLVED 40.680799s
+20009_hard heldout seed=18 rep=0: SOLVED 28.857576s
+20009_hard heldout seed=18 rep=2: SOLVED 28.906349s
+20009_hard heldout seed=19 rep=1: SOLVED 22.172444s
+20009_hard heldout seed=20 rep=0: SOLVED 39.810712s
+20009_hard heldout seed=20 rep=2: SOLVED 39.626155s
+20009_hard heldout seed=21 rep=1: SOLVED 28.667492s
+20009_hard heldout seed=22 rep=0: SOLVED 26.131667s
+20009_hard heldout seed=22 rep=2: SOLVED 26.112493s
+20009_hard heldout seed=23 rep=1: SOLVED 24.264823s
+20009_hard heldout seed=24 rep=0: SOLVED 29.153907s
+20009_hard heldout seed=24 rep=2: SOLVED 29.130284s
+20009_hard heldout seed=25 rep=1: SOLVED 33.907370s
+20009_hard heldout seed=26 rep=0: SOLVED 35.610391s
+20009_hard heldout seed=26 rep=2: SOLVED 35.685692s
+20009_hard heldout seed=27 rep=1: SOLVED 33.467934s
+20009_hard heldout seed=28 rep=0: SOLVED 26.848501s
+20009_hard heldout seed=28 rep=2: SOLVED 26.859982s
+20009_hard heldout seed=29 rep=1: SOLVED 26.636961s
+20009_hard heldout seed=30 rep=0: SOLVED 35.213521s
+20009_hard heldout seed=30 rep=2: SOLVED 35.210521s
+wrote current_machine_rebench/results/followup-four-core/tsp-20009-half1.json
+2026-07-19T11:50:11+00:00 DONE tsp-20009-half1 cpu=3

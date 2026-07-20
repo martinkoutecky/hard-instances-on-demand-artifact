@@ -1,0 +1,41 @@
+NAME : s2_pthr_neg_BPRotationInvariantDE
+COMMENT : bred adversarial HCP instance
+TYPE : HCP
+DIMENSION : 20
+EDGE_DATA_FORMAT : EDGE_LIST
+EDGE_DATA_SECTION
+1 4
+1 6
+1 8
+1 14
+1 16
+1 17
+2 5
+2 7
+2 16
+2 19
+2 20
+3 16
+3 20
+4 14
+4 19
+4 20
+5 13
+6 11
+6 17
+7 10
+7 14
+8 20
+9 11
+9 12
+9 14
+9 18
+10 14
+10 17
+10 19
+11 12
+11 15
+12 13
+13 14
+-1
+EOF

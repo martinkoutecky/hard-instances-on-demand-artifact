@@ -1,0 +1,52 @@
+NAME : s2_triv_pow2_RecombiningDiscreteLenglerOnePlusOne
+COMMENT : bred adversarial HCP instance
+TYPE : HCP
+DIMENSION : 20
+EDGE_DATA_FORMAT : EDGE_LIST
+EDGE_DATA_SECTION
+1 9
+1 11
+1 12
+1 16
+1 17
+2 11
+3 14
+3 16
+4 9
+4 17
+5 7
+5 10
+5 11
+6 11
+6 12
+6 16
+6 17
+6 18
+6 19
+7 11
+7 13
+7 16
+8 9
+8 10
+8 11
+8 19
+9 11
+9 13
+9 14
+9 17
+10 13
+10 15
+10 16
+11 12
+11 17
+12 16
+12 17
+12 18
+13 17
+13 20
+14 16
+16 17
+17 19
+19 20
+-1
+EOF

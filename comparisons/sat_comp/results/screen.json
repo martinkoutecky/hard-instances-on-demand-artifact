@@ -1,0 +1,3005 @@
+{
+  "protocol": {
+    "portfolio": [
+      "minisat22",
+      "BreakID + cadical195 (flat 0.008 s preprocessing charge)",
+      "CryptoMiniSat via pycryptosat, one thread"
+    ],
+    "metric": "first finishing branch CPU time, as in SAT/solution_portfolio.py",
+    "repeats": 1,
+    "aggregation": "median",
+    "cap_seconds": 60.0,
+    "breakid_runtime_included": false
+  },
+  "machine": {
+    "platform": "Linux-6.1.0-45-amd64-x86_64-with-glibc2.36",
+    "processor": "",
+    "python": "3.12.12"
+  },
+  "project_revision": "c0d119c717078e58de0c9e635660e453775dc05f",
+  "instances": {
+    "cbeca117cfb441b828e931758b854d3c": {
+      "hash": "cbeca117cfb441b828e931758b854d3c",
+      "variables": "12",
+      "clauses": "20",
+      "gbd_variables": "12",
+      "gbd_clauses": "20",
+      "family": "battleship",
+      "author": "skvortsov",
+      "result": "sat",
+      "filename": "cbeca117cfb441b828e931758b854d3c",
+      "tracks": "crafted_2012,portfolio_2012",
+      "local_path": "instances/cbeca117cfb441b828e931758b854d3c.cnf",
+      "times": [
+        0.00010501800000000013
+      ],
+      "median": 0.00010501800000000013,
+      "min": 0.00010501800000000013,
+      "max": 0.00010501800000000013
+    },
+    "2b738a1991a7318cad993a809b10cc2c": {
+      "hash": "2b738a1991a7318cad993a809b10cc2c",
+      "variables": "12",
+      "clauses": "32",
+      "gbd_variables": "12",
+      "gbd_clauses": "32",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "2b738a1991a7318cad993a809b10cc2c",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/2b738a1991a7318cad993a809b10cc2c.cnf",
+      "times": [
+        0.00016821700000000002
+      ],
+      "median": 0.00016821700000000002,
+      "min": 0.00016821700000000002,
+      "max": 0.00016821700000000002
+    },
+    "a53f5bdf5c68f006c146f172fdd5a49d": {
+      "hash": "a53f5bdf5c68f006c146f172fdd5a49d",
+      "variables": "12",
+      "clauses": "32",
+      "gbd_variables": "12",
+      "gbd_clauses": "32",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "a53f5bdf5c68f006c146f172fdd5a49d",
+      "tracks": "handmade_2003",
+      "local_path": "instances/a53f5bdf5c68f006c146f172fdd5a49d.cnf",
+      "times": [
+        0.00018271499999999996
+      ],
+      "median": 0.00018271499999999996,
+      "min": 0.00018271499999999996,
+      "max": 0.00018271499999999996
+    },
+    "23a92c04ee9248308a18d6a44e5d15f0": {
+      "hash": "23a92c04ee9248308a18d6a44e5d15f0",
+      "variables": "15",
+      "clauses": "24",
+      "gbd_variables": "15",
+      "gbd_clauses": "24",
+      "family": "battleship",
+      "author": "skvortsov",
+      "result": "sat",
+      "filename": "23a92c04ee9248308a18d6a44e5d15f0",
+      "tracks": "anni_2022,crafted_2012",
+      "local_path": "instances/23a92c04ee9248308a18d6a44e5d15f0.cnf",
+      "times": [
+        6.902999999999987e-05
+      ],
+      "median": 6.902999999999987e-05,
+      "min": 6.902999999999987e-05,
+      "max": 6.902999999999987e-05
+    },
+    "6ff98b815c0ff57d92086702e7dd2829": {
+      "hash": "6ff98b815c0ff57d92086702e7dd2829",
+      "variables": "15",
+      "clauses": "64",
+      "gbd_variables": "15",
+      "gbd_clauses": "64",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "6ff98b815c0ff57d92086702e7dd2829",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/6ff98b815c0ff57d92086702e7dd2829.cnf",
+      "times": [
+        0.00035365599999999994
+      ],
+      "median": 0.00035365599999999994,
+      "min": 0.00035365599999999994,
+      "max": 0.00035365599999999994
+    },
+    "1cf67760092ebabc1bb42706fb8d43dc": {
+      "hash": "1cf67760092ebabc1bb42706fb8d43dc",
+      "variables": "18",
+      "clauses": "95",
+      "gbd_variables": "18",
+      "gbd_clauses": "95",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "sat",
+      "filename": "1cf67760092ebabc1bb42706fb8d43dc",
+      "tracks": "handmade_2003",
+      "local_path": "instances/1cf67760092ebabc1bb42706fb8d43dc.cnf",
+      "times": [
+        0.00014109600000000006
+      ],
+      "median": 0.00014109600000000006,
+      "min": 0.00014109600000000006,
+      "max": 0.00014109600000000006
+    },
+    "4efecd99c585a00761bc52113f4ac456": {
+      "hash": "4efecd99c585a00761bc52113f4ac456",
+      "variables": "20",
+      "clauses": "783",
+      "gbd_variables": "20",
+      "gbd_clauses": "783",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "4efecd99c585a00761bc52113f4ac456",
+      "tracks": "random_2002",
+      "local_path": "instances/4efecd99c585a00761bc52113f4ac456.cnf",
+      "times": [
+        0.001627348
+      ],
+      "median": 0.001627348,
+      "min": 0.001627348,
+      "max": 0.001627348
+    },
+    "a277def937f2d67b91d8be7ea410a1a3": {
+      "hash": "a277def937f2d67b91d8be7ea410a1a3",
+      "variables": "20",
+      "clauses": "785",
+      "gbd_variables": "20",
+      "gbd_clauses": "785",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "a277def937f2d67b91d8be7ea410a1a3",
+      "tracks": "random_2002",
+      "local_path": "instances/a277def937f2d67b91d8be7ea410a1a3.cnf",
+      "times": [
+        0.0004933699999999999
+      ],
+      "median": 0.0004933699999999999,
+      "min": 0.0004933699999999999,
+      "max": 0.0004933699999999999
+    },
+    "a9919a354663b96040f9b806a812d0d1": {
+      "hash": "a9919a354663b96040f9b806a812d0d1",
+      "variables": "20",
+      "clauses": "795",
+      "gbd_variables": "20",
+      "gbd_clauses": "795",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "a9919a354663b96040f9b806a812d0d1",
+      "tracks": "random_2002",
+      "local_path": "instances/a9919a354663b96040f9b806a812d0d1.cnf",
+      "times": [
+        0.0024639349999999996
+      ],
+      "median": 0.0024639349999999996,
+      "min": 0.0024639349999999996,
+      "max": 0.0024639349999999996
+    },
+    "866f6730afd797a244fea4f28ac3a218": {
+      "hash": "866f6730afd797a244fea4f28ac3a218",
+      "variables": "20",
+      "clauses": "797",
+      "gbd_variables": "20",
+      "gbd_clauses": "797",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "866f6730afd797a244fea4f28ac3a218",
+      "tracks": "random_2002",
+      "local_path": "instances/866f6730afd797a244fea4f28ac3a218.cnf",
+      "times": [
+        0.000508999
+      ],
+      "median": 0.000508999,
+      "min": 0.000508999,
+      "max": 0.000508999
+    },
+    "7b7d94844b730bd2015a6328464bc706": {
+      "hash": "7b7d94844b730bd2015a6328464bc706",
+      "variables": "20",
+      "clauses": "803",
+      "gbd_variables": "20",
+      "gbd_clauses": "803",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "7b7d94844b730bd2015a6328464bc706",
+      "tracks": "random_2002",
+      "local_path": "instances/7b7d94844b730bd2015a6328464bc706.cnf",
+      "times": [
+        0.011116856
+      ],
+      "median": 0.011116856,
+      "min": 0.011116856,
+      "max": 0.011116856
+    },
+    "8345bdb88fa777b2940145d3306bbf7e": {
+      "hash": "8345bdb88fa777b2940145d3306bbf7e",
+      "variables": "20",
+      "clauses": "806",
+      "gbd_variables": "20",
+      "gbd_clauses": "806",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "8345bdb88fa777b2940145d3306bbf7e",
+      "tracks": "random_2002",
+      "local_path": "instances/8345bdb88fa777b2940145d3306bbf7e.cnf",
+      "times": [
+        0.00047536599999999985
+      ],
+      "median": 0.00047536599999999985,
+      "min": 0.00047536599999999985,
+      "max": 0.00047536599999999985
+    },
+    "3eaa112593cb66052d579c16f3d5a37e": {
+      "hash": "3eaa112593cb66052d579c16f3d5a37e",
+      "variables": "20",
+      "clauses": "822",
+      "gbd_variables": "20",
+      "gbd_clauses": "822",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "3eaa112593cb66052d579c16f3d5a37e",
+      "tracks": "random_2002",
+      "local_path": "instances/3eaa112593cb66052d579c16f3d5a37e.cnf",
+      "times": [
+        0.010449268000000001
+      ],
+      "median": 0.010449268000000001,
+      "min": 0.010449268000000001,
+      "max": 0.010449268000000001
+    },
+    "4b7ca3eb0be96a25f119e8238d5da1f6": {
+      "hash": "4b7ca3eb0be96a25f119e8238d5da1f6",
+      "variables": "20",
+      "clauses": "830",
+      "gbd_variables": "20",
+      "gbd_clauses": "830",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "4b7ca3eb0be96a25f119e8238d5da1f6",
+      "tracks": "random_2002",
+      "local_path": "instances/4b7ca3eb0be96a25f119e8238d5da1f6.cnf",
+      "times": [
+        9.458800000000005e-05
+      ],
+      "median": 9.458800000000005e-05,
+      "min": 9.458800000000005e-05,
+      "max": 9.458800000000005e-05
+    },
+    "2367a7e13ff5d039978a26c3081a4342": {
+      "hash": "2367a7e13ff5d039978a26c3081a4342",
+      "variables": "20",
+      "clauses": "832",
+      "gbd_variables": "20",
+      "gbd_clauses": "832",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "2367a7e13ff5d039978a26c3081a4342",
+      "tracks": "random_2002",
+      "local_path": "instances/2367a7e13ff5d039978a26c3081a4342.cnf",
+      "times": [
+        0.001319658
+      ],
+      "median": 0.001319658,
+      "min": 0.001319658,
+      "max": 0.001319658
+    },
+    "92dca1683b78f5de8e7591f94e9aa948": {
+      "hash": "92dca1683b78f5de8e7591f94e9aa948",
+      "variables": "20",
+      "clauses": "833",
+      "gbd_variables": "20",
+      "gbd_clauses": "833",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "92dca1683b78f5de8e7591f94e9aa948",
+      "tracks": "random_2002",
+      "local_path": "instances/92dca1683b78f5de8e7591f94e9aa948.cnf",
+      "times": [
+        0.009385743
+      ],
+      "median": 0.009385743,
+      "min": 0.009385743,
+      "max": 0.009385743
+    },
+    "f2a0158e6029a7535611c6a8113daada": {
+      "hash": "f2a0158e6029a7535611c6a8113daada",
+      "variables": "21",
+      "clauses": "72",
+      "gbd_variables": "21",
+      "gbd_clauses": "72",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "f2a0158e6029a7535611c6a8113daada",
+      "tracks": "handmade_2003",
+      "local_path": "instances/f2a0158e6029a7535611c6a8113daada.cnf",
+      "times": [
+        0.0005284160000000001
+      ],
+      "median": 0.0005284160000000001,
+      "min": 0.0005284160000000001,
+      "max": 0.0005284160000000001
+    },
+    "787fd7b0f4d779fdabfbbd3dd29f8db4": {
+      "hash": "787fd7b0f4d779fdabfbbd3dd29f8db4",
+      "variables": "24",
+      "clauses": "52",
+      "gbd_variables": "24",
+      "gbd_clauses": "52",
+      "family": "battleship",
+      "author": "skvortsov",
+      "result": "unsat",
+      "filename": "787fd7b0f4d779fdabfbbd3dd29f8db4",
+      "tracks": "anni_2022,crafted_2012,portfolio_2012",
+      "local_path": "instances/787fd7b0f4d779fdabfbbd3dd29f8db4.cnf",
+      "times": [
+        0.000790671
+      ],
+      "median": 0.000790671,
+      "min": 0.000790671,
+      "max": 0.000790671
+    },
+    "f42d2ce7b4efd3f96e063dd1f6fec7f1": {
+      "hash": "f42d2ce7b4efd3f96e063dd1f6fec7f1",
+      "variables": "24",
+      "clauses": "61",
+      "gbd_variables": "24",
+      "gbd_clauses": "61",
+      "family": "linvrinv",
+      "author": "biere",
+      "result": "unsat",
+      "filename": "f42d2ce7b4efd3f96e063dd1f6fec7f1",
+      "tracks": "anni_2022,crafted_2005",
+      "local_path": "instances/f42d2ce7b4efd3f96e063dd1f6fec7f1.cnf",
+      "times": [
+        5.328999999999989e-05
+      ],
+      "median": 5.328999999999989e-05,
+      "min": 5.328999999999989e-05,
+      "max": 5.328999999999989e-05
+    },
+    "47e3b78c2157b685e23b53915a1b33b5": {
+      "hash": "47e3b78c2157b685e23b53915a1b33b5",
+      "variables": "26",
+      "clauses": "70",
+      "gbd_variables": "26",
+      "gbd_clauses": "70",
+      "family": "miter",
+      "author": "biere",
+      "result": "unsat",
+      "filename": "47e3b78c2157b685e23b53915a1b33b5",
+      "tracks": "anni_2022,industrial_2002,mus_2011",
+      "local_path": "instances/47e3b78c2157b685e23b53915a1b33b5.cnf",
+      "times": [
+        0.00012724999999999998
+      ],
+      "median": 0.00012724999999999998,
+      "min": 0.00012724999999999998,
+      "max": 0.00012724999999999998
+    },
+    "c7d10eee6ce5f663697f3146ec866c69": {
+      "hash": "c7d10eee6ce5f663697f3146ec866c69",
+      "variables": "26",
+      "clauses": "156",
+      "gbd_variables": "26",
+      "gbd_clauses": "156",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "c7d10eee6ce5f663697f3146ec866c69",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/c7d10eee6ce5f663697f3146ec866c69.cnf",
+      "times": [
+        0.008136457
+      ],
+      "median": 0.008136457,
+      "min": 0.008136457,
+      "max": 0.008136457
+    },
+    "f349621e75ede4e9e9422b3d0f677268": {
+      "hash": "f349621e75ede4e9e9422b3d0f677268",
+      "variables": "27",
+      "clauses": "53",
+      "gbd_variables": "27",
+      "gbd_clauses": "53",
+      "family": "parity-games",
+      "author": "friedmann",
+      "result": "unsat",
+      "filename": "f349621e75ede4e9e9422b3d0f677268",
+      "tracks": "anni_2022,crafted_2009,crafted_2012,portfolio_2012",
+      "local_path": "instances/f349621e75ede4e9e9422b3d0f677268.cnf",
+      "times": [
+        6.370000000000008e-05
+      ],
+      "median": 6.370000000000008e-05,
+      "min": 6.370000000000008e-05,
+      "max": 6.370000000000008e-05
+    },
+    "e4eab3cf8678b03835123608fdd268e4": {
+      "hash": "e4eab3cf8678b03835123608fdd268e4",
+      "variables": "28",
+      "clauses": "96",
+      "gbd_variables": "28",
+      "gbd_clauses": "96",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "e4eab3cf8678b03835123608fdd268e4",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/e4eab3cf8678b03835123608fdd268e4.cnf",
+      "times": [
+        0.008047450000000001
+      ],
+      "median": 0.008047450000000001,
+      "min": 0.008047450000000001,
+      "max": 0.008047450000000001
+    },
+    "9a9827b82f6ff4fd887f0ada83dd2eab": {
+      "hash": "9a9827b82f6ff4fd887f0ada83dd2eab",
+      "variables": "30",
+      "clauses": "80",
+      "gbd_variables": "30",
+      "gbd_clauses": "80",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "9a9827b82f6ff4fd887f0ada83dd2eab",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/9a9827b82f6ff4fd887f0ada83dd2eab.cnf",
+      "times": [
+        0.0006307190000000001
+      ],
+      "median": 0.0006307190000000001,
+      "min": 0.0006307190000000001,
+      "max": 0.0006307190000000001
+    },
+    "cfd1346d0bd598be135475ecd856eb9e": {
+      "hash": "cfd1346d0bd598be135475ecd856eb9e",
+      "variables": "30",
+      "clauses": "192",
+      "gbd_variables": "30",
+      "gbd_clauses": "192",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "cfd1346d0bd598be135475ecd856eb9e",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/cfd1346d0bd598be135475ecd856eb9e.cnf",
+      "times": [
+        0.008174478
+      ],
+      "median": 0.008174478,
+      "min": 0.008174478,
+      "max": 0.008174478
+    },
+    "6176faf90d04b943e72346f634a1577e": {
+      "hash": "6176faf90d04b943e72346f634a1577e",
+      "variables": "30",
+      "clauses": "419",
+      "gbd_variables": "30",
+      "gbd_clauses": "419",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "6176faf90d04b943e72346f634a1577e",
+      "tracks": "random_2002",
+      "local_path": "instances/6176faf90d04b943e72346f634a1577e.cnf",
+      "times": [
+        0.003699054
+      ],
+      "median": 0.003699054,
+      "min": 0.003699054,
+      "max": 0.003699054
+    },
+    "43e1cc469be3087b024dc0b5f4b01d5c": {
+      "hash": "43e1cc469be3087b024dc0b5f4b01d5c",
+      "variables": "30",
+      "clauses": "420",
+      "gbd_variables": "30",
+      "gbd_clauses": "420",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "43e1cc469be3087b024dc0b5f4b01d5c",
+      "tracks": "anni_2022,crafted_2011,random_2002",
+      "local_path": "instances/43e1cc469be3087b024dc0b5f4b01d5c.cnf",
+      "times": [
+        0.009739289
+      ],
+      "median": 0.009739289,
+      "min": 0.009739289,
+      "max": 0.009739289
+    },
+    "c7f30869e2222200eb837086a2198e39": {
+      "hash": "c7f30869e2222200eb837086a2198e39",
+      "variables": "31",
+      "clauses": "240",
+      "gbd_variables": "31",
+      "gbd_clauses": "240",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "c7f30869e2222200eb837086a2198e39",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/c7f30869e2222200eb837086a2198e39.cnf",
+      "times": [
+        0.008048281000000001
+      ],
+      "median": 0.008048281000000001,
+      "min": 0.008048281000000001,
+      "max": 0.008048281000000001
+    },
+    "04327b18171b43ff06586707499b97fc": {
+      "hash": "04327b18171b43ff06586707499b97fc",
+      "variables": "32",
+      "clauses": "128",
+      "gbd_variables": "32",
+      "gbd_clauses": "128",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "04327b18171b43ff06586707499b97fc",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/04327b18171b43ff06586707499b97fc.cnf",
+      "times": [
+        0.008051387
+      ],
+      "median": 0.008051387,
+      "min": 0.008051387,
+      "max": 0.008051387
+    },
+    "b675ff0d198a1ddf59de56ac6e98481f": {
+      "hash": "b675ff0d198a1ddf59de56ac6e98481f",
+      "variables": "33",
+      "clauses": "128",
+      "gbd_variables": "33",
+      "gbd_clauses": "128",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "b675ff0d198a1ddf59de56ac6e98481f",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/b675ff0d198a1ddf59de56ac6e98481f.cnf",
+      "times": [
+        0.008257846
+      ],
+      "median": 0.008257846,
+      "min": 0.008257846,
+      "max": 0.008257846
+    },
+    "c3cc6d7dc2f972fa2d8b4830f230aacf": {
+      "hash": "c3cc6d7dc2f972fa2d8b4830f230aacf",
+      "variables": "34",
+      "clauses": "150",
+      "gbd_variables": "34",
+      "gbd_clauses": "150",
+      "family": "genurq",
+      "author": "ostrowski",
+      "result": "sat",
+      "filename": "c3cc6d7dc2f972fa2d8b4830f230aacf",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/c3cc6d7dc2f972fa2d8b4830f230aacf.cnf",
+      "times": [
+        0.00013600599999999993
+      ],
+      "median": 0.00013600599999999993,
+      "min": 0.00013600599999999993,
+      "max": 0.00013600599999999993
+    },
+    "04071576275e4113b60c21601b364345": {
+      "hash": "04071576275e4113b60c21601b364345",
+      "variables": "35",
+      "clauses": "120",
+      "gbd_variables": "35",
+      "gbd_clauses": "120",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "04071576275e4113b60c21601b364345",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/04071576275e4113b60c21601b364345.cnf",
+      "times": [
+        0.008049433
+      ],
+      "median": 0.008049433,
+      "min": 0.008049433,
+      "max": 0.008049433
+    },
+    "4df590f124b66f482b7fea490be31ef5": {
+      "hash": "4df590f124b66f482b7fea490be31ef5",
+      "variables": "35",
+      "clauses": "216",
+      "gbd_variables": "35",
+      "gbd_clauses": "216",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "4df590f124b66f482b7fea490be31ef5",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/4df590f124b66f482b7fea490be31ef5.cnf",
+      "times": [
+        0.008051126
+      ],
+      "median": 0.008051126,
+      "min": 0.008051126,
+      "max": 0.008051126
+    },
+    "6b36abc94899ab1d25a9c48d7697916c": {
+      "hash": "6b36abc94899ab1d25a9c48d7697916c",
+      "variables": "36",
+      "clauses": "84",
+      "gbd_variables": "36",
+      "gbd_clauses": "84",
+      "family": "coloring",
+      "author": "vangelder",
+      "result": "unsat",
+      "filename": "6b36abc94899ab1d25a9c48d7697916c",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/6b36abc94899ab1d25a9c48d7697916c.cnf",
+      "times": [
+        0.00019854399999999993
+      ],
+      "median": 0.00019854399999999993,
+      "min": 0.00019854399999999993,
+      "max": 0.00019854399999999993
+    },
+    "9a9e21318977d18e1d51a744adc7d854": {
+      "hash": "9a9e21318977d18e1d51a744adc7d854",
+      "variables": "36",
+      "clauses": "96",
+      "gbd_variables": "36",
+      "gbd_clauses": "96",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unsat",
+      "filename": "9a9e21318977d18e1d51a744adc7d854",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/9a9e21318977d18e1d51a744adc7d854.cnf",
+      "times": [
+        0.008025869
+      ],
+      "median": 0.008025869,
+      "min": 0.008025869,
+      "max": 0.008025869
+    },
+    "af35fbf18f3fd6a60f0ef4c38fb50d3e": {
+      "hash": "af35fbf18f3fd6a60f0ef4c38fb50d3e",
+      "variables": "36",
+      "clauses": "96",
+      "gbd_variables": "36",
+      "gbd_clauses": "96",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unsat",
+      "filename": "af35fbf18f3fd6a60f0ef4c38fb50d3e",
+      "tracks": "handmade_2003",
+      "local_path": "instances/af35fbf18f3fd6a60f0ef4c38fb50d3e.cnf",
+      "times": [
+        0.00027216299999999996
+      ],
+      "median": 0.00027216299999999996,
+      "min": 0.00027216299999999996,
+      "max": 0.00027216299999999996
+    },
+    "11c893b7c37aeb53cdaf5f677dda0b7d": {
+      "hash": "11c893b7c37aeb53cdaf5f677dda0b7d",
+      "variables": "36",
+      "clauses": "144",
+      "gbd_variables": "36",
+      "gbd_clauses": "144",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "11c893b7c37aeb53cdaf5f677dda0b7d",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/11c893b7c37aeb53cdaf5f677dda0b7d.cnf",
+      "times": [
+        0.008179318
+      ],
+      "median": 0.008179318,
+      "min": 0.008179318,
+      "max": 0.008179318
+    },
+    "7c0296e111436f76c122df0d9cc07696": {
+      "hash": "7c0296e111436f76c122df0d9cc07696",
+      "variables": "36",
+      "clauses": "230",
+      "gbd_variables": "36",
+      "gbd_clauses": "230",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "7c0296e111436f76c122df0d9cc07696",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/7c0296e111436f76c122df0d9cc07696.cnf",
+      "times": [
+        0.008050856
+      ],
+      "median": 0.008050856,
+      "min": 0.008050856,
+      "max": 0.008050856
+    },
+    "3df4057f6ca11c57e2d3e8f24234cd5b": {
+      "hash": "3df4057f6ca11c57e2d3e8f24234cd5b",
+      "variables": "37",
+      "clauses": "160",
+      "gbd_variables": "37",
+      "gbd_clauses": "160",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "3df4057f6ca11c57e2d3e8f24234cd5b",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/3df4057f6ca11c57e2d3e8f24234cd5b.cnf",
+      "times": [
+        0.008130276
+      ],
+      "median": 0.008130276,
+      "min": 0.008130276,
+      "max": 0.008130276
+    },
+    "988603bd72158a0c8491d29b7c62c04e": {
+      "hash": "988603bd72158a0c8491d29b7c62c04e",
+      "variables": "39",
+      "clauses": "80",
+      "gbd_variables": "39",
+      "gbd_clauses": "80",
+      "family": "parity-games",
+      "author": "friedmann",
+      "result": "unsat",
+      "filename": "988603bd72158a0c8491d29b7c62c04e",
+      "tracks": "anni_2022,crafted_2009,crafted_2012,portfolio_2012",
+      "local_path": "instances/988603bd72158a0c8491d29b7c62c04e.cnf",
+      "times": [
+        8.509000000000012e-05
+      ],
+      "median": 8.509000000000012e-05,
+      "min": 8.509000000000012e-05,
+      "max": 8.509000000000012e-05
+    },
+    "d89c0f6742978220b2ef27f104913931": {
+      "hash": "d89c0f6742978220b2ef27f104913931",
+      "variables": "40",
+      "clauses": "105",
+      "gbd_variables": "40",
+      "gbd_clauses": "105",
+      "family": "battleship",
+      "author": "skvortsov",
+      "result": "unsat",
+      "filename": "d89c0f6742978220b2ef27f104913931",
+      "tracks": "anni_2022,crafted_2011,crafted_2012",
+      "local_path": "instances/d89c0f6742978220b2ef27f104913931.cnf",
+      "times": [
+        0.009514325
+      ],
+      "median": 0.009514325,
+      "min": 0.009514325,
+      "max": 0.009514325
+    },
+    "00f969737ba4338bd233cd3ed249bd55": {
+      "hash": "00f969737ba4338bd233cd3ed249bd55",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "00f969737ba4338bd233cd3ed249bd55",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/00f969737ba4338bd233cd3ed249bd55.cnf",
+      "times": [
+        7.278699999999994e-05
+      ],
+      "median": 7.278699999999994e-05,
+      "min": 7.278699999999994e-05,
+      "max": 7.278699999999994e-05
+    },
+    "04e47e6635908600ef3938b32644825a": {
+      "hash": "04e47e6635908600ef3938b32644825a",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "04e47e6635908600ef3938b32644825a",
+      "tracks": "handmade_2002",
+      "local_path": "instances/04e47e6635908600ef3938b32644825a.cnf",
+      "times": [
+        7.305800000000009e-05
+      ],
+      "median": 7.305800000000009e-05,
+      "min": 7.305800000000009e-05,
+      "max": 7.305800000000009e-05
+    },
+    "067dc6945c4aec1c2bc1fdc2e5819124": {
+      "hash": "067dc6945c4aec1c2bc1fdc2e5819124",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "067dc6945c4aec1c2bc1fdc2e5819124",
+      "tracks": "handmade_2002",
+      "local_path": "instances/067dc6945c4aec1c2bc1fdc2e5819124.cnf",
+      "times": [
+        0.008105839
+      ],
+      "median": 0.008105839,
+      "min": 0.008105839,
+      "max": 0.008105839
+    },
+    "21ca756baf6af7f15098455977b88d6d": {
+      "hash": "21ca756baf6af7f15098455977b88d6d",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "21ca756baf6af7f15098455977b88d6d",
+      "tracks": "handmade_2002",
+      "local_path": "instances/21ca756baf6af7f15098455977b88d6d.cnf",
+      "times": [
+        0.00010242299999999992
+      ],
+      "median": 0.00010242299999999992,
+      "min": 0.00010242299999999992,
+      "max": 0.00010242299999999992
+    },
+    "38de0de52a209b6d0beb50986fd8b506": {
+      "hash": "38de0de52a209b6d0beb50986fd8b506",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "38de0de52a209b6d0beb50986fd8b506",
+      "tracks": "handmade_2002",
+      "local_path": "instances/38de0de52a209b6d0beb50986fd8b506.cnf",
+      "times": [
+        0.00017284600000000037
+      ],
+      "median": 0.00017284600000000037,
+      "min": 0.00017284600000000037,
+      "max": 0.00017284600000000037
+    },
+    "4f968e0bb4a9609933e006ebc53a27ef": {
+      "hash": "4f968e0bb4a9609933e006ebc53a27ef",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "4f968e0bb4a9609933e006ebc53a27ef",
+      "tracks": "handmade_2002",
+      "local_path": "instances/4f968e0bb4a9609933e006ebc53a27ef.cnf",
+      "times": [
+        6.692600000000003e-05
+      ],
+      "median": 6.692600000000003e-05,
+      "min": 6.692600000000003e-05,
+      "max": 6.692600000000003e-05
+    },
+    "5e7c7f5b8ff247cb8b8de0645e327b4d": {
+      "hash": "5e7c7f5b8ff247cb8b8de0645e327b4d",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "5e7c7f5b8ff247cb8b8de0645e327b4d",
+      "tracks": "handmade_2002",
+      "local_path": "instances/5e7c7f5b8ff247cb8b8de0645e327b4d.cnf",
+      "times": [
+        7.294699999999986e-05
+      ],
+      "median": 7.294699999999986e-05,
+      "min": 7.294699999999986e-05,
+      "max": 7.294699999999986e-05
+    },
+    "87262846343313aa8de488c4bd7b6683": {
+      "hash": "87262846343313aa8de488c4bd7b6683",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "87262846343313aa8de488c4bd7b6683",
+      "tracks": "handmade_2002",
+      "local_path": "instances/87262846343313aa8de488c4bd7b6683.cnf",
+      "times": [
+        0.00021228000000000002
+      ],
+      "median": 0.00021228000000000002,
+      "min": 0.00021228000000000002,
+      "max": 0.00021228000000000002
+    },
+    "e7ee9430abd1307b7fb47b378cfa834a": {
+      "hash": "e7ee9430abd1307b7fb47b378cfa834a",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "e7ee9430abd1307b7fb47b378cfa834a",
+      "tracks": "handmade_2002",
+      "local_path": "instances/e7ee9430abd1307b7fb47b378cfa834a.cnf",
+      "times": [
+        7.611300000000005e-05
+      ],
+      "median": 7.611300000000005e-05,
+      "min": 7.611300000000005e-05,
+      "max": 7.611300000000005e-05
+    },
+    "f92890120255523d223c4d234688d0f2": {
+      "hash": "f92890120255523d223c4d234688d0f2",
+      "variables": "40",
+      "clauses": "176",
+      "gbd_variables": "40",
+      "gbd_clauses": "176",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "f92890120255523d223c4d234688d0f2",
+      "tracks": "handmade_2002",
+      "local_path": "instances/f92890120255523d223c4d234688d0f2.cnf",
+      "times": [
+        0.0001729260000000001
+      ],
+      "median": 0.0001729260000000001,
+      "min": 0.0001729260000000001,
+      "max": 0.0001729260000000001
+    },
+    "becda1f50323450f71052c12e2670a15": {
+      "hash": "becda1f50323450f71052c12e2670a15",
+      "variables": "40",
+      "clauses": "608",
+      "gbd_variables": "40",
+      "gbd_clauses": "608",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "becda1f50323450f71052c12e2670a15",
+      "tracks": "random_2002",
+      "local_path": "instances/becda1f50323450f71052c12e2670a15.cnf",
+      "times": [
+        0.012589675
+      ],
+      "median": 0.012589675,
+      "min": 0.012589675,
+      "max": 0.012589675
+    },
+    "ca0f34aa2c6e5be0567116afbb8b4045": {
+      "hash": "ca0f34aa2c6e5be0567116afbb8b4045",
+      "variables": "40",
+      "clauses": "624",
+      "gbd_variables": "40",
+      "gbd_clauses": "624",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "ca0f34aa2c6e5be0567116afbb8b4045",
+      "tracks": "random_2002",
+      "local_path": "instances/ca0f34aa2c6e5be0567116afbb8b4045.cnf",
+      "times": [
+        0.024422513
+      ],
+      "median": 0.024422513,
+      "min": 0.024422513,
+      "max": 0.024422513
+    },
+    "eafc85eddef1de023ea636f25b1ef914": {
+      "hash": "eafc85eddef1de023ea636f25b1ef914",
+      "variables": "41",
+      "clauses": "224",
+      "gbd_variables": "41",
+      "gbd_clauses": "224",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "eafc85eddef1de023ea636f25b1ef914",
+      "tracks": "anni_2022,crafted_2011,crafted_2012,handmade_2003,portfolio_2012",
+      "local_path": "instances/eafc85eddef1de023ea636f25b1ef914.cnf",
+      "times": [
+        0.00814861
+      ],
+      "median": 0.00814861,
+      "min": 0.00814861,
+      "max": 0.00814861
+    },
+    "b1eb31469f5bdb6e4b70f762240ad6a0": {
+      "hash": "b1eb31469f5bdb6e4b70f762240ad6a0",
+      "variables": "41",
+      "clauses": "272",
+      "gbd_variables": "41",
+      "gbd_clauses": "272",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "b1eb31469f5bdb6e4b70f762240ad6a0",
+      "tracks": "anni_2022,crafted_2011,crafted_2012,handmade_2003",
+      "local_path": "instances/b1eb31469f5bdb6e4b70f762240ad6a0.cnf",
+      "times": [
+        0.008025578
+      ],
+      "median": 0.008025578,
+      "min": 0.008025578,
+      "max": 0.008025578
+    },
+    "8e4e5a8d8b1a86288d58b0779c70c871": {
+      "hash": "8e4e5a8d8b1a86288d58b0779c70c871",
+      "variables": "41",
+      "clauses": "304",
+      "gbd_variables": "41",
+      "gbd_clauses": "304",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "8e4e5a8d8b1a86288d58b0779c70c871",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/8e4e5a8d8b1a86288d58b0779c70c871.cnf",
+      "times": [
+        0.008229883
+      ],
+      "median": 0.008229883,
+      "min": 0.008229883,
+      "max": 0.008229883
+    },
+    "874bdedb23926bd0df8ef574e981fd2f": {
+      "hash": "874bdedb23926bd0df8ef574e981fd2f",
+      "variables": "42",
+      "clauses": "144",
+      "gbd_variables": "42",
+      "gbd_clauses": "144",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "874bdedb23926bd0df8ef574e981fd2f",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/874bdedb23926bd0df8ef574e981fd2f.cnf",
+      "times": [
+        0.008052409
+      ],
+      "median": 0.008052409,
+      "min": 0.008052409,
+      "max": 0.008052409
+    },
+    "edcf12c975995809243baad78e8d2978": {
+      "hash": "edcf12c975995809243baad78e8d2978",
+      "variables": "42",
+      "clauses": "336",
+      "gbd_variables": "42",
+      "gbd_clauses": "336",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "edcf12c975995809243baad78e8d2978",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/edcf12c975995809243baad78e8d2978.cnf",
+      "times": [
+        0.008024806
+      ],
+      "median": 0.008024806,
+      "min": 0.008024806,
+      "max": 0.008024806
+    },
+    "4b36348f21d1d290bfee9c9fd6214552": {
+      "hash": "4b36348f21d1d290bfee9c9fd6214552",
+      "variables": "42",
+      "clauses": "342",
+      "gbd_variables": "42",
+      "gbd_clauses": "342",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "4b36348f21d1d290bfee9c9fd6214552",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/4b36348f21d1d290bfee9c9fd6214552.cnf",
+      "times": [
+        0.008066666
+      ],
+      "median": 0.008066666,
+      "min": 0.008066666,
+      "max": 0.008066666
+    },
+    "34c64c89371c38e2ad39442e7be6f9f2": {
+      "hash": "34c64c89371c38e2ad39442e7be6f9f2",
+      "variables": "43",
+      "clauses": "316",
+      "gbd_variables": "43",
+      "gbd_clauses": "316",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "34c64c89371c38e2ad39442e7be6f9f2",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/34c64c89371c38e2ad39442e7be6f9f2.cnf",
+      "times": [
+        0.008122601
+      ],
+      "median": 0.008122601,
+      "min": 0.008122601,
+      "max": 0.008122601
+    },
+    "16e5939e61e823ea250858edd0fb8d44": {
+      "hash": "16e5939e61e823ea250858edd0fb8d44",
+      "variables": "43",
+      "clauses": "340",
+      "gbd_variables": "43",
+      "gbd_clauses": "340",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "16e5939e61e823ea250858edd0fb8d44",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/16e5939e61e823ea250858edd0fb8d44.cnf",
+      "times": [
+        0.008109506
+      ],
+      "median": 0.008109506,
+      "min": 0.008109506,
+      "max": 0.008109506
+    },
+    "94833a9e9b5feca8f4cd409141d3e2d0": {
+      "hash": "94833a9e9b5feca8f4cd409141d3e2d0",
+      "variables": "44",
+      "clauses": "276",
+      "gbd_variables": "44",
+      "gbd_clauses": "276",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "94833a9e9b5feca8f4cd409141d3e2d0",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/94833a9e9b5feca8f4cd409141d3e2d0.cnf",
+      "times": [
+        0.008103615
+      ],
+      "median": 0.008103615,
+      "min": 0.008103615,
+      "max": 0.008103615
+    },
+    "b58f64784154e9231e1006915b310f30": {
+      "hash": "b58f64784154e9231e1006915b310f30",
+      "variables": "44",
+      "clauses": "398",
+      "gbd_variables": "44",
+      "gbd_clauses": "398",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "b58f64784154e9231e1006915b310f30",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/b58f64784154e9231e1006915b310f30.cnf",
+      "times": [
+        0.008024717
+      ],
+      "median": 0.008024717,
+      "min": 0.008024717,
+      "max": 0.008024717
+    },
+    "9a8546564631081cdfd3ead12990c266": {
+      "hash": "9a8546564631081cdfd3ead12990c266",
+      "variables": "44",
+      "clauses": "416",
+      "gbd_variables": "44",
+      "gbd_clauses": "416",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "9a8546564631081cdfd3ead12990c266",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/9a8546564631081cdfd3ead12990c266.cnf",
+      "times": [
+        0.008051707
+      ],
+      "median": 0.008051707,
+      "min": 0.008051707,
+      "max": 0.008051707
+    },
+    "3ce73c94ea228d9f82d9ce0a35e44678": {
+      "hash": "3ce73c94ea228d9f82d9ce0a35e44678",
+      "variables": "45",
+      "clauses": "288",
+      "gbd_variables": "45",
+      "gbd_clauses": "288",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "3ce73c94ea228d9f82d9ce0a35e44678",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/3ce73c94ea228d9f82d9ce0a35e44678.cnf",
+      "times": [
+        0.008166073
+      ],
+      "median": 0.008166073,
+      "min": 0.008166073,
+      "max": 0.008166073
+    },
+    "37aad570c1cd0eeff448e04d3d2ba9b4": {
+      "hash": "37aad570c1cd0eeff448e04d3d2ba9b4",
+      "variables": "45",
+      "clauses": "352",
+      "gbd_variables": "45",
+      "gbd_clauses": "352",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "37aad570c1cd0eeff448e04d3d2ba9b4",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/37aad570c1cd0eeff448e04d3d2ba9b4.cnf",
+      "times": [
+        0.008781073
+      ],
+      "median": 0.008781073,
+      "min": 0.008781073,
+      "max": 0.008781073
+    },
+    "0297c2a35f116ffd5382aea5b421e6df": {
+      "hash": "0297c2a35f116ffd5382aea5b421e6df",
+      "variables": "45",
+      "clauses": "376",
+      "gbd_variables": "45",
+      "gbd_clauses": "376",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unsat",
+      "filename": "0297c2a35f116ffd5382aea5b421e6df",
+      "tracks": "anni_2022,handmade_2003,handmade_2004,main_2023",
+      "local_path": "instances/0297c2a35f116ffd5382aea5b421e6df.cnf",
+      "times": [
+        0.008100920000000001
+      ],
+      "median": 0.008100920000000001,
+      "min": 0.008100920000000001,
+      "max": 0.008100920000000001
+    },
+    "464bf1752e0e4e54f36383e8f1895fe4": {
+      "hash": "464bf1752e0e4e54f36383e8f1895fe4",
+      "variables": "45",
+      "clauses": "376",
+      "gbd_variables": "45",
+      "gbd_clauses": "376",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "464bf1752e0e4e54f36383e8f1895fe4",
+      "tracks": "handmade_2002",
+      "local_path": "instances/464bf1752e0e4e54f36383e8f1895fe4.cnf",
+      "times": [
+        0.00818046
+      ],
+      "median": 0.00818046,
+      "min": 0.00818046,
+      "max": 0.00818046
+    },
+    "515169f54b051534b750159ffff19cbc": {
+      "hash": "515169f54b051534b750159ffff19cbc",
+      "variables": "45",
+      "clauses": "446",
+      "gbd_variables": "45",
+      "gbd_clauses": "446",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "515169f54b051534b750159ffff19cbc",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/515169f54b051534b750159ffff19cbc.cnf",
+      "times": [
+        0.008065003000000001
+      ],
+      "median": 0.008065003000000001,
+      "min": 0.008065003000000001,
+      "max": 0.008065003000000001
+    },
+    "076d4d6f83306ee69c35e3c99e30d8f8": {
+      "hash": "076d4d6f83306ee69c35e3c99e30d8f8",
+      "variables": "46",
+      "clauses": "122",
+      "gbd_variables": "46",
+      "gbd_clauses": "122",
+      "family": "xor-chain",
+      "author": "zhang-lintao",
+      "result": "unsat",
+      "filename": "076d4d6f83306ee69c35e3c99e30d8f8",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/076d4d6f83306ee69c35e3c99e30d8f8.cnf",
+      "times": [
+        0.00802669
+      ],
+      "median": 0.00802669,
+      "min": 0.00802669,
+      "max": 0.00802669
+    },
+    "f10abbb7c1ae0e1a9ba7d575d9630d9a": {
+      "hash": "f10abbb7c1ae0e1a9ba7d575d9630d9a",
+      "variables": "46",
+      "clauses": "122",
+      "gbd_variables": "46",
+      "gbd_clauses": "122",
+      "family": "xor-chain",
+      "author": "zhang-lintao",
+      "result": "unsat",
+      "filename": "f10abbb7c1ae0e1a9ba7d575d9630d9a",
+      "tracks": "handmade_2002",
+      "local_path": "instances/f10abbb7c1ae0e1a9ba7d575d9630d9a.cnf",
+      "times": [
+        0.008054483
+      ],
+      "median": 0.008054483,
+      "min": 0.008054483,
+      "max": 0.008054483
+    },
+    "940a69d9f16d6c8d7a535662386e9b5d": {
+      "hash": "940a69d9f16d6c8d7a535662386e9b5d",
+      "variables": "46",
+      "clauses": "470",
+      "gbd_variables": "46",
+      "gbd_clauses": "470",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "940a69d9f16d6c8d7a535662386e9b5d",
+      "tracks": "anni_2022,crafted_2012",
+      "local_path": "instances/940a69d9f16d6c8d7a535662386e9b5d.cnf",
+      "times": [
+        0.008049273000000001
+      ],
+      "median": 0.008049273000000001,
+      "min": 0.008049273000000001,
+      "max": 0.008049273000000001
+    },
+    "740e92f74d485a285242d8c4a437b084": {
+      "hash": "740e92f74d485a285242d8c4a437b084",
+      "variables": "47",
+      "clauses": "200",
+      "gbd_variables": "47",
+      "gbd_clauses": "200",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "740e92f74d485a285242d8c4a437b084",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/740e92f74d485a285242d8c4a437b084.cnf",
+      "times": [
+        0.00811141
+      ],
+      "median": 0.00811141,
+      "min": 0.00811141,
+      "max": 0.00811141
+    },
+    "e49c408c713af6dde16f707e38419a3c": {
+      "hash": "e49c408c713af6dde16f707e38419a3c",
+      "variables": "48",
+      "clauses": "81",
+      "gbd_variables": "48",
+      "gbd_clauses": "81",
+      "family": "theorem-proving",
+      "author": "vangelder",
+      "result": "unsat",
+      "filename": "e49c408c713af6dde16f707e38419a3c",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/e49c408c713af6dde16f707e38419a3c.cnf",
+      "times": [
+        0.008226096
+      ],
+      "median": 0.008226096,
+      "min": 0.008226096,
+      "max": 0.008226096
+    },
+    "0ef68fc7aa6f2bc7fb74ada9d865da06": {
+      "hash": "0ef68fc7aa6f2bc7fb74ada9d865da06",
+      "variables": "48",
+      "clauses": "153",
+      "gbd_variables": "48",
+      "gbd_clauses": "153",
+      "family": "planning",
+      "author": "maris",
+      "result": "sat",
+      "filename": "0ef68fc7aa6f2bc7fb74ada9d865da06",
+      "tracks": "anni_2022,industrial_2005",
+      "local_path": "instances/0ef68fc7aa6f2bc7fb74ada9d865da06.cnf",
+      "times": [
+        0.008081584
+      ],
+      "median": 0.008081584,
+      "min": 0.008081584,
+      "max": 0.008081584
+    },
+    "7e19f295d35c30ac4d5386ffec1fcf28": {
+      "hash": "7e19f295d35c30ac4d5386ffec1fcf28",
+      "variables": "48",
+      "clauses": "153",
+      "gbd_variables": "48",
+      "gbd_clauses": "153",
+      "family": "planning",
+      "author": "maris",
+      "result": "sat",
+      "filename": "7e19f295d35c30ac4d5386ffec1fcf28",
+      "tracks": "industrial_2005",
+      "local_path": "instances/7e19f295d35c30ac4d5386ffec1fcf28.cnf",
+      "times": [
+        7.919000000000003e-05
+      ],
+      "median": 7.919000000000003e-05,
+      "min": 7.919000000000003e-05,
+      "max": 7.919000000000003e-05
+    },
+    "7e9a4f42129a42748ce607fb97d086bf": {
+      "hash": "7e9a4f42129a42748ce607fb97d086bf",
+      "variables": "49",
+      "clauses": "168",
+      "gbd_variables": "49",
+      "gbd_clauses": "168",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "7e9a4f42129a42748ce607fb97d086bf",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/7e9a4f42129a42748ce607fb97d086bf.cnf",
+      "times": [
+        0.008053551
+      ],
+      "median": 0.008053551,
+      "min": 0.008053551,
+      "max": 0.008053551
+    },
+    "4adc1e755caaabac57763acbabbc628d": {
+      "hash": "4adc1e755caaabac57763acbabbc628d",
+      "variables": "49",
+      "clauses": "480",
+      "gbd_variables": "49",
+      "gbd_clauses": "480",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "4adc1e755caaabac57763acbabbc628d",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/4adc1e755caaabac57763acbabbc628d.cnf",
+      "times": [
+        0.008250423
+      ],
+      "median": 0.008250423,
+      "min": 0.008250423,
+      "max": 0.008250423
+    },
+    "b13e24a50fa51d70052af82f22abd940": {
+      "hash": "b13e24a50fa51d70052af82f22abd940",
+      "variables": "49",
+      "clauses": "572",
+      "gbd_variables": "49",
+      "gbd_clauses": "572",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "b13e24a50fa51d70052af82f22abd940",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/b13e24a50fa51d70052af82f22abd940.cnf",
+      "times": [
+        0.008073258
+      ],
+      "median": 0.008073258,
+      "min": 0.008073258,
+      "max": 0.008073258
+    },
+    "d5234444b8633216f6a3b40c88e2e6bc": {
+      "hash": "d5234444b8633216f6a3b40c88e2e6bc",
+      "variables": "49",
+      "clauses": "572",
+      "gbd_variables": "49",
+      "gbd_clauses": "572",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unknown",
+      "filename": "d5234444b8633216f6a3b40c88e2e6bc",
+      "tracks": "handmade_2003,handmade_2004",
+      "local_path": "instances/d5234444b8633216f6a3b40c88e2e6bc.cnf",
+      "times": [
+        0.008109878000000001
+      ],
+      "median": 0.008109878000000001,
+      "min": 0.008109878000000001,
+      "max": 0.008109878000000001
+    },
+    "18f54820956791d3028868b56a09c6cd": {
+      "hash": "18f54820956791d3028868b56a09c6cd",
+      "variables": "50",
+      "clauses": "159",
+      "gbd_variables": "50",
+      "gbd_clauses": "159",
+      "family": "bounded-model-checking",
+      "author": "marques-silva",
+      "result": "unsat",
+      "filename": "18f54820956791d3028868b56a09c6cd",
+      "tracks": "anni_2022,mus_2011",
+      "local_path": "instances/18f54820956791d3028868b56a09c6cd.cnf",
+      "times": [
+        6.343899999999999e-05
+      ],
+      "median": 6.343899999999999e-05,
+      "min": 6.343899999999999e-05,
+      "max": 6.343899999999999e-05
+    },
+    "c928c185c3a3f5e729667363b7c471d5": {
+      "hash": "c928c185c3a3f5e729667363b7c471d5",
+      "variables": "50",
+      "clauses": "760",
+      "gbd_variables": "50",
+      "gbd_clauses": "760",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "c928c185c3a3f5e729667363b7c471d5",
+      "tracks": "random_2002",
+      "local_path": "instances/c928c185c3a3f5e729667363b7c471d5.cnf",
+      "times": [
+        0.0037135210000000004
+      ],
+      "median": 0.0037135210000000004,
+      "min": 0.0037135210000000004,
+      "max": 0.0037135210000000004
+    },
+    "f47a366ce89ef01e4f1ff6031b49a9c8": {
+      "hash": "f47a366ce89ef01e4f1ff6031b49a9c8",
+      "variables": "50",
+      "clauses": "780",
+      "gbd_variables": "50",
+      "gbd_clauses": "780",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "f47a366ce89ef01e4f1ff6031b49a9c8",
+      "tracks": "random_2002",
+      "local_path": "instances/f47a366ce89ef01e4f1ff6031b49a9c8.cnf",
+      "times": [
+        0.022432913
+      ],
+      "median": 0.022432913,
+      "min": 0.022432913,
+      "max": 0.022432913
+    },
+    "cf4c9fdf0c55163b64cd7ddd69927cd1": {
+      "hash": "cf4c9fdf0c55163b64cd7ddd69927cd1",
+      "variables": "50",
+      "clauses": "799",
+      "gbd_variables": "50",
+      "gbd_clauses": "799",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "cf4c9fdf0c55163b64cd7ddd69927cd1",
+      "tracks": "random_2002",
+      "local_path": "instances/cf4c9fdf0c55163b64cd7ddd69927cd1.cnf",
+      "times": [
+        0.023375589999999998
+      ],
+      "median": 0.023375589999999998,
+      "min": 0.023375589999999998,
+      "max": 0.023375589999999998
+    },
+    "6f0fb8bfab60da956aa2d50dd07d3914": {
+      "hash": "6f0fb8bfab60da956aa2d50dd07d3914",
+      "variables": "50",
+      "clauses": "800",
+      "gbd_variables": "50",
+      "gbd_clauses": "800",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "6f0fb8bfab60da956aa2d50dd07d3914",
+      "tracks": "random_2002",
+      "local_path": "instances/6f0fb8bfab60da956aa2d50dd07d3914.cnf",
+      "times": [
+        0.206299185
+      ],
+      "median": 0.206299185,
+      "min": 0.206299185,
+      "max": 0.206299185
+    },
+    "89c293c02fe6dcb7a3ef561f5024cee1": {
+      "hash": "89c293c02fe6dcb7a3ef561f5024cee1",
+      "variables": "50",
+      "clauses": "800",
+      "gbd_variables": "50",
+      "gbd_clauses": "800",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "89c293c02fe6dcb7a3ef561f5024cee1",
+      "tracks": "random_2002",
+      "local_path": "instances/89c293c02fe6dcb7a3ef561f5024cee1.cnf",
+      "times": [
+        0.053528465
+      ],
+      "median": 0.053528465,
+      "min": 0.053528465,
+      "max": 0.053528465
+    },
+    "8f59d9f509e94d3e8deb5b6a4ac1ae6c": {
+      "hash": "8f59d9f509e94d3e8deb5b6a4ac1ae6c",
+      "variables": "50",
+      "clauses": "800",
+      "gbd_variables": "50",
+      "gbd_clauses": "800",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "8f59d9f509e94d3e8deb5b6a4ac1ae6c",
+      "tracks": "random_2002",
+      "local_path": "instances/8f59d9f509e94d3e8deb5b6a4ac1ae6c.cnf",
+      "times": [
+        0.0023198840000000004
+      ],
+      "median": 0.0023198840000000004,
+      "min": 0.0023198840000000004,
+      "max": 0.0023198840000000004
+    },
+    "94e9ff8a105b62ad500ca840902b2707": {
+      "hash": "94e9ff8a105b62ad500ca840902b2707",
+      "variables": "50",
+      "clauses": "800",
+      "gbd_variables": "50",
+      "gbd_clauses": "800",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "94e9ff8a105b62ad500ca840902b2707",
+      "tracks": "random_2002",
+      "local_path": "instances/94e9ff8a105b62ad500ca840902b2707.cnf",
+      "times": [
+        0.004547033000000001
+      ],
+      "median": 0.004547033000000001,
+      "min": 0.004547033000000001,
+      "max": 0.004547033000000001
+    },
+    "cfa182011a45198a1dc163b6d0a94c66": {
+      "hash": "cfa182011a45198a1dc163b6d0a94c66",
+      "variables": "50",
+      "clauses": "800",
+      "gbd_variables": "50",
+      "gbd_clauses": "800",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "cfa182011a45198a1dc163b6d0a94c66",
+      "tracks": "random_2002",
+      "local_path": "instances/cfa182011a45198a1dc163b6d0a94c66.cnf",
+      "times": [
+        0.11305477700000001
+      ],
+      "median": 0.11305477700000001,
+      "min": 0.11305477700000001,
+      "max": 0.11305477700000001
+    },
+    "0c1576fd11fe64ac886d836c26b69145": {
+      "hash": "0c1576fd11fe64ac886d836c26b69145",
+      "variables": "50",
+      "clauses": "819",
+      "gbd_variables": "50",
+      "gbd_clauses": "819",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "0c1576fd11fe64ac886d836c26b69145",
+      "tracks": "random_2002",
+      "local_path": "instances/0c1576fd11fe64ac886d836c26b69145.cnf",
+      "times": [
+        0.163388872
+      ],
+      "median": 0.163388872,
+      "min": 0.163388872,
+      "max": 0.163388872
+    },
+    "023e522c9160d4d1584c5ce1a6ce48d1": {
+      "hash": "023e522c9160d4d1584c5ce1a6ce48d1",
+      "variables": "50",
+      "clauses": "820",
+      "gbd_variables": "50",
+      "gbd_clauses": "820",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "023e522c9160d4d1584c5ce1a6ce48d1",
+      "tracks": "random_2002",
+      "local_path": "instances/023e522c9160d4d1584c5ce1a6ce48d1.cnf",
+      "times": [
+        0.113622542
+      ],
+      "median": 0.113622542,
+      "min": 0.113622542,
+      "max": 0.113622542
+    },
+    "04aa3db794a4a1129b037aac393e0bb5": {
+      "hash": "04aa3db794a4a1129b037aac393e0bb5",
+      "variables": "50",
+      "clauses": "820",
+      "gbd_variables": "50",
+      "gbd_clauses": "820",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "04aa3db794a4a1129b037aac393e0bb5",
+      "tracks": "random_2002",
+      "local_path": "instances/04aa3db794a4a1129b037aac393e0bb5.cnf",
+      "times": [
+        0.131994937
+      ],
+      "median": 0.131994937,
+      "min": 0.131994937,
+      "max": 0.131994937
+    },
+    "b75cc11ca7a62f2133094158b3f5ea49": {
+      "hash": "b75cc11ca7a62f2133094158b3f5ea49",
+      "variables": "50",
+      "clauses": "820",
+      "gbd_variables": "50",
+      "gbd_clauses": "820",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "b75cc11ca7a62f2133094158b3f5ea49",
+      "tracks": "random_2002",
+      "local_path": "instances/b75cc11ca7a62f2133094158b3f5ea49.cnf",
+      "times": [
+        0.132804575
+      ],
+      "median": 0.132804575,
+      "min": 0.132804575,
+      "max": 0.132804575
+    },
+    "c46140759a4fe80428e3483a1161a8d7": {
+      "hash": "c46140759a4fe80428e3483a1161a8d7",
+      "variables": "50",
+      "clauses": "820",
+      "gbd_variables": "50",
+      "gbd_clauses": "820",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "c46140759a4fe80428e3483a1161a8d7",
+      "tracks": "random_2002",
+      "local_path": "instances/c46140759a4fe80428e3483a1161a8d7.cnf",
+      "times": [
+        0.124860638
+      ],
+      "median": 0.124860638,
+      "min": 0.124860638,
+      "max": 0.124860638
+    },
+    "fbabbc02b7d74ebff45b8b9d25f51aff": {
+      "hash": "fbabbc02b7d74ebff45b8b9d25f51aff",
+      "variables": "50",
+      "clauses": "820",
+      "gbd_variables": "50",
+      "gbd_clauses": "820",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "fbabbc02b7d74ebff45b8b9d25f51aff",
+      "tracks": "random_2002",
+      "local_path": "instances/fbabbc02b7d74ebff45b8b9d25f51aff.cnf",
+      "times": [
+        0.207728738
+      ],
+      "median": 0.207728738,
+      "min": 0.207728738,
+      "max": 0.207728738
+    },
+    "3ed954a7de5112bb18b5c57d73e280c2": {
+      "hash": "3ed954a7de5112bb18b5c57d73e280c2",
+      "variables": "53",
+      "clauses": "336",
+      "gbd_variables": "53",
+      "gbd_clauses": "336",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "3ed954a7de5112bb18b5c57d73e280c2",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/3ed954a7de5112bb18b5c57d73e280c2.cnf",
+      "times": [
+        0.008054823
+      ],
+      "median": 0.008054823,
+      "min": 0.008054823,
+      "max": 0.008054823
+    },
+    "033d611722714d5206cc0184479e92e2": {
+      "hash": "033d611722714d5206cc0184479e92e2",
+      "variables": "53",
+      "clauses": "432",
+      "gbd_variables": "53",
+      "gbd_clauses": "432",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "033d611722714d5206cc0184479e92e2",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/033d611722714d5206cc0184479e92e2.cnf",
+      "times": [
+        0.008111591000000001
+      ],
+      "median": 0.008111591000000001,
+      "min": 0.008111591000000001,
+      "max": 0.008111591000000001
+    },
+    "0928111a3d5d5ce05dffb83cb5982eba": {
+      "hash": "0928111a3d5d5ce05dffb83cb5982eba",
+      "variables": "54",
+      "clauses": "58",
+      "gbd_variables": "54",
+      "gbd_clauses": "58",
+      "family": "cover",
+      "author": "gacek",
+      "result": "unsat",
+      "filename": "0928111a3d5d5ce05dffb83cb5982eba",
+      "tracks": "anni_2022,main_2020",
+      "local_path": "instances/0928111a3d5d5ce05dffb83cb5982eba.cnf",
+      "times": [
+        9.383700000000004e-05
+      ],
+      "median": 9.383700000000004e-05,
+      "min": 9.383700000000004e-05,
+      "max": 9.383700000000004e-05
+    },
+    "affc020c04747decff98d4cc547f5931": {
+      "hash": "affc020c04747decff98d4cc547f5931",
+      "variables": "54",
+      "clauses": "170",
+      "gbd_variables": "54",
+      "gbd_clauses": "170",
+      "family": "battleship",
+      "author": "skvortsov",
+      "result": "sat",
+      "filename": "affc020c04747decff98d4cc547f5931",
+      "tracks": "crafted_2011,crafted_2012,portfolio_2012",
+      "local_path": "instances/affc020c04747decff98d4cc547f5931.cnf",
+      "times": [
+        0.000653091
+      ],
+      "median": 0.000653091,
+      "min": 0.000653091,
+      "max": 0.000653091
+    },
+    "04c045b6ea95a35e248f3c5fa17e4c56": {
+      "hash": "04c045b6ea95a35e248f3c5fa17e4c56",
+      "variables": "54",
+      "clauses": "688",
+      "gbd_variables": "54",
+      "gbd_clauses": "688",
+      "family": "tseitin-formulas",
+      "author": "unknown",
+      "result": "unknown",
+      "filename": "04c045b6ea95a35e248f3c5fa17e4c56",
+      "tracks": "handmade_2003,handmade_2004",
+      "local_path": "instances/04c045b6ea95a35e248f3c5fa17e4c56.cnf",
+      "times": [
+        0.008223391
+      ],
+      "median": 0.008223391,
+      "min": 0.008223391,
+      "max": 0.008223391
+    },
+    "833c0c0cd07db3a7423dc73f0d2378d2": {
+      "hash": "833c0c0cd07db3a7423dc73f0d2378d2",
+      "variables": "54",
+      "clauses": "688",
+      "gbd_variables": "54",
+      "gbd_clauses": "688",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "833c0c0cd07db3a7423dc73f0d2378d2",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/833c0c0cd07db3a7423dc73f0d2378d2.cnf",
+      "times": [
+        0.008074350000000001
+      ],
+      "median": 0.008074350000000001,
+      "min": 0.008074350000000001,
+      "max": 0.008074350000000001
+    },
+    "a03161dfe27323ee20614f27d8a803db": {
+      "hash": "a03161dfe27323ee20614f27d8a803db",
+      "variables": "57",
+      "clauses": "124",
+      "gbd_variables": "57",
+      "gbd_clauses": "124",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "a03161dfe27323ee20614f27d8a803db",
+      "tracks": "anni_2022,crafted_2007,crafted_2012",
+      "local_path": "instances/a03161dfe27323ee20614f27d8a803db.cnf",
+      "times": [
+        0.404866067
+      ],
+      "median": 0.404866067,
+      "min": 0.404866067,
+      "max": 0.404866067
+    },
+    "85b16bb91702e4fc03bce7dd02bc9c48": {
+      "hash": "85b16bb91702e4fc03bce7dd02bc9c48",
+      "variables": "58",
+      "clauses": "476",
+      "gbd_variables": "58",
+      "gbd_clauses": "476",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "85b16bb91702e4fc03bce7dd02bc9c48",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/85b16bb91702e4fc03bce7dd02bc9c48.cnf",
+      "times": [
+        0.008058701
+      ],
+      "median": 0.008058701,
+      "min": 0.008058701,
+      "max": 0.008058701
+    },
+    "41e1fb78bb132e71edcf26ea2e9a068e": {
+      "hash": "41e1fb78bb132e71edcf26ea2e9a068e",
+      "variables": "60",
+      "clauses": "160",
+      "gbd_variables": "60",
+      "gbd_clauses": "160",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unsat",
+      "filename": "41e1fb78bb132e71edcf26ea2e9a068e",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/41e1fb78bb132e71edcf26ea2e9a068e.cnf",
+      "times": [
+        0.00802676
+      ],
+      "median": 0.00802676,
+      "min": 0.00802676,
+      "max": 0.00802676
+    },
+    "04b4dfec9afb6529764a94d1cea16abb": {
+      "hash": "04b4dfec9afb6529764a94d1cea16abb",
+      "variables": "60",
+      "clauses": "167",
+      "gbd_variables": "60",
+      "gbd_clauses": "167",
+      "family": "unknown",
+      "author": "biere",
+      "result": "unsat",
+      "filename": "04b4dfec9afb6529764a94d1cea16abb",
+      "tracks": "industrial_2002",
+      "local_path": "instances/04b4dfec9afb6529764a94d1cea16abb.cnf",
+      "times": [
+        0.00026743399999999977
+      ],
+      "median": 0.00026743399999999977,
+      "min": 0.00026743399999999977,
+      "max": 0.00026743399999999977
+    },
+    "c132cafd8ed646965f6786c423623840": {
+      "hash": "c132cafd8ed646965f6786c423623840",
+      "variables": "60",
+      "clauses": "936",
+      "gbd_variables": "60",
+      "gbd_clauses": "936",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "c132cafd8ed646965f6786c423623840",
+      "tracks": "anni_2022,crafted_2011,random_2002",
+      "local_path": "instances/c132cafd8ed646965f6786c423623840.cnf",
+      "times": [
+        2.110108992
+      ],
+      "median": 2.110108992,
+      "min": 2.110108992,
+      "max": 2.110108992
+    },
+    "34f04c5f664fbe9cc85b3cfb3a47a7ba": {
+      "hash": "34f04c5f664fbe9cc85b3cfb3a47a7ba",
+      "variables": "60",
+      "clauses": "960",
+      "gbd_variables": "60",
+      "gbd_clauses": "960",
+      "family": "random",
+      "author": "pehoushek",
+      "result": "sat",
+      "filename": "34f04c5f664fbe9cc85b3cfb3a47a7ba",
+      "tracks": "random_2002",
+      "local_path": "instances/34f04c5f664fbe9cc85b3cfb3a47a7ba.cnf",
+      "times": [
+        0.175638699
+      ],
+      "median": 0.175638699,
+      "min": 0.175638699,
+      "max": 0.175638699
+    },
+    "448d8ea47bcbb93c53f0d47f9a0f1535": {
+      "hash": "448d8ea47bcbb93c53f0d47f9a0f1535",
+      "variables": "61",
+      "clauses": "132",
+      "gbd_variables": "61",
+      "gbd_clauses": "132",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "448d8ea47bcbb93c53f0d47f9a0f1535",
+      "tracks": "anni_2022,crafted_2007",
+      "local_path": "instances/448d8ea47bcbb93c53f0d47f9a0f1535.cnf",
+      "times": [
+        1.8292286819999999
+      ],
+      "median": 1.8292286819999999,
+      "min": 1.8292286819999999,
+      "max": 1.8292286819999999
+    },
+    "a73dfc45bae3b9d48bf8d26b8a3ab761": {
+      "hash": "a73dfc45bae3b9d48bf8d26b8a3ab761",
+      "variables": "61",
+      "clauses": "132",
+      "gbd_variables": "61",
+      "gbd_clauses": "132",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "a73dfc45bae3b9d48bf8d26b8a3ab761",
+      "tracks": "crafted_2009,crafted_2012,portfolio_2012",
+      "local_path": "instances/a73dfc45bae3b9d48bf8d26b8a3ab761.cnf",
+      "times": [
+        1.016166819
+      ],
+      "median": 1.016166819,
+      "min": 1.016166819,
+      "max": 1.016166819
+    },
+    "095e78b37897df838f5137b24aa59ed6": {
+      "hash": "095e78b37897df838f5137b24aa59ed6",
+      "variables": "61",
+      "clauses": "280",
+      "gbd_variables": "61",
+      "gbd_clauses": "280",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "095e78b37897df838f5137b24aa59ed6",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/095e78b37897df838f5137b24aa59ed6.cnf",
+      "times": [
+        0.008056908
+      ],
+      "median": 0.008056908,
+      "min": 0.008056908,
+      "max": 0.008056908
+    },
+    "c6e47b17688a41c70bb3d4f0222cb25c": {
+      "hash": "c6e47b17688a41c70bb3d4f0222cb25c",
+      "variables": "62",
+      "clauses": "396",
+      "gbd_variables": "62",
+      "gbd_clauses": "396",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "c6e47b17688a41c70bb3d4f0222cb25c",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/c6e47b17688a41c70bb3d4f0222cb25c.cnf",
+      "times": [
+        0.008055044
+      ],
+      "median": 0.008055044,
+      "min": 0.008055044,
+      "max": 0.008055044
+    },
+    "2adbad9623c714a6f33c3405b8ab3c77": {
+      "hash": "2adbad9623c714a6f33c3405b8ab3c77",
+      "variables": "64",
+      "clauses": "288",
+      "gbd_variables": "64",
+      "gbd_clauses": "288",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "2adbad9623c714a6f33c3405b8ab3c77",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/2adbad9623c714a6f33c3405b8ab3c77.cnf",
+      "times": [
+        0.008198193
+      ],
+      "median": 0.008198193,
+      "min": 0.008198193,
+      "max": 0.008198193
+    },
+    "c7260e595b52c0b9323e5c8f399ac39f": {
+      "hash": "c7260e595b52c0b9323e5c8f399ac39f",
+      "variables": "64",
+      "clauses": "298",
+      "gbd_variables": "64",
+      "gbd_clauses": "298",
+      "family": "genurq",
+      "author": "ostrowski",
+      "result": "sat",
+      "filename": "c7260e595b52c0b9323e5c8f399ac39f",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/c7260e595b52c0b9323e5c8f399ac39f.cnf",
+      "times": [
+        0.00013869099999999981
+      ],
+      "median": 0.00013869099999999981,
+      "min": 0.00013869099999999981,
+      "max": 0.00013869099999999981
+    },
+    "f1854612bb1e00dc63056e28a428e0e2": {
+      "hash": "f1854612bb1e00dc63056e28a428e0e2",
+      "variables": "64",
+      "clauses": "528",
+      "gbd_variables": "64",
+      "gbd_clauses": "528",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "f1854612bb1e00dc63056e28a428e0e2",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/f1854612bb1e00dc63056e28a428e0e2.cnf",
+      "times": [
+        0.008054773000000001
+      ],
+      "median": 0.008054773000000001,
+      "min": 0.008054773000000001,
+      "max": 0.008054773000000001
+    },
+    "35d3272e49849f3913b61365e411d770": {
+      "hash": "35d3272e49849f3913b61365e411d770",
+      "variables": "65",
+      "clauses": "140",
+      "gbd_variables": "65",
+      "gbd_clauses": "140",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "35d3272e49849f3913b61365e411d770",
+      "tracks": "anni_2022,crafted_2012",
+      "local_path": "instances/35d3272e49849f3913b61365e411d770.cnf",
+      "times": [
+        2.5727565439999998
+      ],
+      "median": 2.5727565439999998,
+      "min": 2.5727565439999998,
+      "max": 2.5727565439999998
+    },
+    "52dc49596ea430cf93797da8b4bfff0b": {
+      "hash": "52dc49596ea430cf93797da8b4bfff0b",
+      "variables": "65",
+      "clauses": "140",
+      "gbd_variables": "65",
+      "gbd_clauses": "140",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "52dc49596ea430cf93797da8b4bfff0b",
+      "tracks": "crafted_2007,crafted_2012,portfolio_2012",
+      "local_path": "instances/52dc49596ea430cf93797da8b4bfff0b.cnf",
+      "times": [
+        4.078379266
+      ],
+      "median": 4.078379266,
+      "min": 4.078379266,
+      "max": 4.078379266
+    },
+    "ec69ec227f79838c6b920584ce60dabe": {
+      "hash": "ec69ec227f79838c6b920584ce60dabe",
+      "variables": "69",
+      "clauses": "148",
+      "gbd_variables": "69",
+      "gbd_clauses": "148",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "ec69ec227f79838c6b920584ce60dabe",
+      "tracks": "anni_2022,crafted_2007,crafted_2012",
+      "local_path": "instances/ec69ec227f79838c6b920584ce60dabe.cnf",
+      "times": [
+        5.3009645800000005
+      ],
+      "median": 5.3009645800000005,
+      "min": 5.3009645800000005,
+      "max": 5.3009645800000005
+    },
+    "34038db20edb478e85b3bc6fce2e5c86": {
+      "hash": "34038db20edb478e85b3bc6fce2e5c86",
+      "variables": "69",
+      "clauses": "752",
+      "gbd_variables": "69",
+      "gbd_clauses": "752",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "34038db20edb478e85b3bc6fce2e5c86",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/34038db20edb478e85b3bc6fce2e5c86.cnf",
+      "times": [
+        0.008107102
+      ],
+      "median": 0.008107102,
+      "min": 0.008107102,
+      "max": 0.008107102
+    },
+    "374a4ad84d28ffe2543dfdb028719de8": {
+      "hash": "374a4ad84d28ffe2543dfdb028719de8",
+      "variables": "70",
+      "clauses": "186",
+      "gbd_variables": "70",
+      "gbd_clauses": "186",
+      "family": "xor-chain",
+      "author": "zhang-lintao",
+      "result": "unsat",
+      "filename": "374a4ad84d28ffe2543dfdb028719de8",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/374a4ad84d28ffe2543dfdb028719de8.cnf",
+      "times": [
+        0.008024637000000001
+      ],
+      "median": 0.008024637000000001,
+      "min": 0.008024637000000001,
+      "max": 0.008024637000000001
+    },
+    "87078e29f06cb461491342524817903c": {
+      "hash": "87078e29f06cb461491342524817903c",
+      "variables": "70",
+      "clauses": "186",
+      "gbd_variables": "70",
+      "gbd_clauses": "186",
+      "family": "xor-chain",
+      "author": "zhang-lintao",
+      "result": "unsat",
+      "filename": "87078e29f06cb461491342524817903c",
+      "tracks": "handmade_2002",
+      "local_path": "instances/87078e29f06cb461491342524817903c.cnf",
+      "times": [
+        0.008057057
+      ],
+      "median": 0.008057057,
+      "min": 0.008057057,
+      "max": 0.008057057
+    },
+    "76951f9f14004331d8c6f80e1c56bfd9": {
+      "hash": "76951f9f14004331d8c6f80e1c56bfd9",
+      "variables": "70",
+      "clauses": "594",
+      "gbd_variables": "70",
+      "gbd_clauses": "594",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "76951f9f14004331d8c6f80e1c56bfd9",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/76951f9f14004331d8c6f80e1c56bfd9.cnf",
+      "times": [
+        0.008059172
+      ],
+      "median": 0.008059172,
+      "min": 0.008059172,
+      "max": 0.008059172
+    },
+    "9f33463b10b32b5318ffdf30508ea0d0": {
+      "hash": "9f33463b10b32b5318ffdf30508ea0d0",
+      "variables": "70",
+      "clauses": "594",
+      "gbd_variables": "70",
+      "gbd_clauses": "594",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unknown",
+      "filename": "9f33463b10b32b5318ffdf30508ea0d0",
+      "tracks": "handmade_2003,handmade_2004",
+      "local_path": "instances/9f33463b10b32b5318ffdf30508ea0d0.cnf",
+      "times": [
+        0.008112382
+      ],
+      "median": 0.008112382,
+      "min": 0.008112382,
+      "max": 0.008112382
+    },
+    "f46f3e7593e5bd3d74673a55af691812": {
+      "hash": "f46f3e7593e5bd3d74673a55af691812",
+      "variables": "72",
+      "clauses": "168",
+      "gbd_variables": "72",
+      "gbd_clauses": "168",
+      "family": "coloring",
+      "author": "vangelder",
+      "result": "unsat",
+      "filename": "f46f3e7593e5bd3d74673a55af691812",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/f46f3e7593e5bd3d74673a55af691812.cnf",
+      "times": [
+        0.0011640650000000002
+      ],
+      "median": 0.0011640650000000002,
+      "min": 0.0011640650000000002,
+      "max": 0.0011640650000000002
+    },
+    "8561abec7ab02c2dbe055425b8007849": {
+      "hash": "8561abec7ab02c2dbe055425b8007849",
+      "variables": "72",
+      "clauses": "532",
+      "gbd_variables": "72",
+      "gbd_clauses": "532",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "8561abec7ab02c2dbe055425b8007849",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/8561abec7ab02c2dbe055425b8007849.cnf",
+      "times": [
+        0.008121208
+      ],
+      "median": 0.008121208,
+      "min": 0.008121208,
+      "max": 0.008121208
+    },
+    "e22aa248ad2740d9e7626ee2253a81c6": {
+      "hash": "e22aa248ad2740d9e7626ee2253a81c6",
+      "variables": "72",
+      "clauses": "532",
+      "gbd_variables": "72",
+      "gbd_clauses": "532",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unknown",
+      "filename": "e22aa248ad2740d9e7626ee2253a81c6",
+      "tracks": "handmade_2003,handmade_2004",
+      "local_path": "instances/e22aa248ad2740d9e7626ee2253a81c6.cnf",
+      "times": [
+        0.008165251
+      ],
+      "median": 0.008165251,
+      "min": 0.008165251,
+      "max": 0.008165251
+    },
+    "1fdc28d676358b7e66bdf072dbbdba0b": {
+      "hash": "1fdc28d676358b7e66bdf072dbbdba0b",
+      "variables": "73",
+      "clauses": "156",
+      "gbd_variables": "73",
+      "gbd_clauses": "156",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "1fdc28d676358b7e66bdf072dbbdba0b",
+      "tracks": "anni_2022,crafted_2009,crafted_2012",
+      "local_path": "instances/1fdc28d676358b7e66bdf072dbbdba0b.cnf",
+      "times": [
+        18.134605185999998
+      ],
+      "median": 18.134605185999998,
+      "min": 18.134605185999998,
+      "max": 18.134605185999998
+    },
+    "b9b48cd71e1aa810905c272c9eb8e175": {
+      "hash": "b9b48cd71e1aa810905c272c9eb8e175",
+      "variables": "73",
+      "clauses": "156",
+      "gbd_variables": "73",
+      "gbd_clauses": "156",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "b9b48cd71e1aa810905c272c9eb8e175",
+      "tracks": "crafted_2007",
+      "local_path": "instances/b9b48cd71e1aa810905c272c9eb8e175.cnf",
+      "times": [
+        24.378019718
+      ],
+      "median": 24.378019718,
+      "min": 24.378019718,
+      "max": 24.378019718
+    },
+    "aa39c6d885d283a085d033ab7b89f8c8": {
+      "hash": "aa39c6d885d283a085d033ab7b89f8c8",
+      "variables": "74",
+      "clauses": "694",
+      "gbd_variables": "74",
+      "gbd_clauses": "694",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "aa39c6d885d283a085d033ab7b89f8c8",
+      "tracks": "anni_2022,crafted_2012,main_2024",
+      "local_path": "instances/aa39c6d885d283a085d033ab7b89f8c8.cnf",
+      "times": [
+        0.008067207
+      ],
+      "median": 0.008067207,
+      "min": 0.008067207,
+      "max": 0.008067207
+    },
+    "46ba1a068afea0abc4ce80670841ef18": {
+      "hash": "46ba1a068afea0abc4ce80670841ef18",
+      "variables": "75",
+      "clauses": "618",
+      "gbd_variables": "75",
+      "gbd_clauses": "618",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "46ba1a068afea0abc4ce80670841ef18",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/46ba1a068afea0abc4ce80670841ef18.cnf",
+      "times": [
+        0.008050966
+      ],
+      "median": 0.008050966,
+      "min": 0.008050966,
+      "max": 0.008050966
+    },
+    "e025c23875a6e7239a074436b0ad89ce": {
+      "hash": "e025c23875a6e7239a074436b0ad89ce",
+      "variables": "75",
+      "clauses": "624",
+      "gbd_variables": "75",
+      "gbd_clauses": "624",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "e025c23875a6e7239a074436b0ad89ce",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/e025c23875a6e7239a074436b0ad89ce.cnf",
+      "times": [
+        0.008060865
+      ],
+      "median": 0.008060865,
+      "min": 0.008060865,
+      "max": 0.008060865
+    },
+    "8665394d0c9d190007f0b61af3efdd70": {
+      "hash": "8665394d0c9d190007f0b61af3efdd70",
+      "variables": "75",
+      "clauses": "658",
+      "gbd_variables": "75",
+      "gbd_clauses": "658",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "8665394d0c9d190007f0b61af3efdd70",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/8665394d0c9d190007f0b61af3efdd70.cnf",
+      "times": [
+        0.008121038
+      ],
+      "median": 0.008121038,
+      "min": 0.008121038,
+      "max": 0.008121038
+    },
+    "3292846129f7c1d50375e3e6cf8c7d4a": {
+      "hash": "3292846129f7c1d50375e3e6cf8c7d4a",
+      "variables": "75",
+      "clauses": "660",
+      "gbd_variables": "75",
+      "gbd_clauses": "660",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "3292846129f7c1d50375e3e6cf8c7d4a",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/3292846129f7c1d50375e3e6cf8c7d4a.cnf",
+      "times": [
+        0.008080782
+      ],
+      "median": 0.008080782,
+      "min": 0.008080782,
+      "max": 0.008080782
+    },
+    "e5021fd61de00c58fbc0a2a373f0b49c": {
+      "hash": "e5021fd61de00c58fbc0a2a373f0b49c",
+      "variables": "76",
+      "clauses": "598",
+      "gbd_variables": "76",
+      "gbd_clauses": "598",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "e5021fd61de00c58fbc0a2a373f0b49c",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/e5021fd61de00c58fbc0a2a373f0b49c.cnf",
+      "times": [
+        0.008151897
+      ],
+      "median": 0.008151897,
+      "min": 0.008151897,
+      "max": 0.008151897
+    },
+    "f044b1cc1fd3f6407b3537cca495f7c1": {
+      "hash": "f044b1cc1fd3f6407b3537cca495f7c1",
+      "variables": "76",
+      "clauses": "598",
+      "gbd_variables": "76",
+      "gbd_clauses": "598",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "f044b1cc1fd3f6407b3537cca495f7c1",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/f044b1cc1fd3f6407b3537cca495f7c1.cnf",
+      "times": [
+        0.008056076
+      ],
+      "median": 0.008056076,
+      "min": 0.008056076,
+      "max": 0.008056076
+    },
+    "f433abde96a6225bdc91ba04c35045e9": {
+      "hash": "f433abde96a6225bdc91ba04c35045e9",
+      "variables": "76",
+      "clauses": "598",
+      "gbd_variables": "76",
+      "gbd_clauses": "598",
+      "family": "tseitin-formulas",
+      "author": "chu-min-li",
+      "result": "unknown",
+      "filename": "f433abde96a6225bdc91ba04c35045e9",
+      "tracks": "handmade_2003,handmade_2004",
+      "local_path": "instances/f433abde96a6225bdc91ba04c35045e9.cnf",
+      "times": [
+        0.008059041
+      ],
+      "median": 0.008059041,
+      "min": 0.008059041,
+      "max": 0.008059041
+    },
+    "f19283a8278915555d37420aa0715cb6": {
+      "hash": "f19283a8278915555d37420aa0715cb6",
+      "variables": "76",
+      "clauses": "652",
+      "gbd_variables": "76",
+      "gbd_clauses": "652",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "f19283a8278915555d37420aa0715cb6",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/f19283a8278915555d37420aa0715cb6.cnf",
+      "times": [
+        0.008223442000000001
+      ],
+      "median": 0.008223442000000001,
+      "min": 0.008223442000000001,
+      "max": 0.008223442000000001
+    },
+    "1a021f3c7bcb621aee1559634d052c0e": {
+      "hash": "1a021f3c7bcb621aee1559634d052c0e",
+      "variables": "77",
+      "clauses": "164",
+      "gbd_variables": "77",
+      "gbd_clauses": "164",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "1a021f3c7bcb621aee1559634d052c0e",
+      "tracks": "anni_2022,crafted_2007,crafted_2012",
+      "local_path": "instances/1a021f3c7bcb621aee1559634d052c0e.cnf",
+      "times": [
+        23.164258888
+      ],
+      "median": 23.164258888,
+      "min": 23.164258888,
+      "max": 23.164258888
+    },
+    "69ecd87c1e05c017df607bec0b461af7": {
+      "hash": "69ecd87c1e05c017df607bec0b461af7",
+      "variables": "77",
+      "clauses": "164",
+      "gbd_variables": "77",
+      "gbd_clauses": "164",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "69ecd87c1e05c017df607bec0b461af7",
+      "tracks": "crafted_2012,portfolio_2012",
+      "local_path": "instances/69ecd87c1e05c017df607bec0b461af7.cnf",
+      "times": [
+        35.104672314
+      ],
+      "median": 35.104672314,
+      "min": 35.104672314,
+      "max": 35.104672314
+    },
+    "e70da682181a8944aa95a662477abda4": {
+      "hash": "e70da682181a8944aa95a662477abda4",
+      "variables": "79",
+      "clauses": "688",
+      "gbd_variables": "79",
+      "gbd_clauses": "688",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "e70da682181a8944aa95a662477abda4",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/e70da682181a8944aa95a662477abda4.cnf",
+      "times": [
+        0.008104366
+      ],
+      "median": 0.008104366,
+      "min": 0.008104366,
+      "max": 0.008104366
+    },
+    "8ac86d57bc54e2da562403d6faf5865c": {
+      "hash": "8ac86d57bc54e2da562403d6faf5865c",
+      "variables": "79",
+      "clauses": "704",
+      "gbd_variables": "79",
+      "gbd_clauses": "704",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "8ac86d57bc54e2da562403d6faf5865c",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/8ac86d57bc54e2da562403d6faf5865c.cnf",
+      "times": [
+        0.008186963
+      ],
+      "median": 0.008186963,
+      "min": 0.008186963,
+      "max": 0.008186963
+    },
+    "182c5a778acfc4512d833b76dce2b621": {
+      "hash": "182c5a778acfc4512d833b76dce2b621",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "182c5a778acfc4512d833b76dce2b621",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/182c5a778acfc4512d833b76dce2b621.cnf",
+      "times": [
+        0.00056741
+      ],
+      "median": 0.00056741,
+      "min": 0.00056741,
+      "max": 0.00056741
+    },
+    "68c91819fcdcc04672964c7161211535": {
+      "hash": "68c91819fcdcc04672964c7161211535",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "68c91819fcdcc04672964c7161211535",
+      "tracks": "handmade_2002",
+      "local_path": "instances/68c91819fcdcc04672964c7161211535.cnf",
+      "times": [
+        0.00072638
+      ],
+      "median": 0.00072638,
+      "min": 0.00072638,
+      "max": 0.00072638
+    },
+    "7aaed0360512db84882bcf9cd0cf4981": {
+      "hash": "7aaed0360512db84882bcf9cd0cf4981",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "7aaed0360512db84882bcf9cd0cf4981",
+      "tracks": "handmade_2002",
+      "local_path": "instances/7aaed0360512db84882bcf9cd0cf4981.cnf",
+      "times": [
+        0.0002893259999999999
+      ],
+      "median": 0.0002893259999999999,
+      "min": 0.0002893259999999999,
+      "max": 0.0002893259999999999
+    },
+    "7cafc548083f6016bc973fff380f7ae5": {
+      "hash": "7cafc548083f6016bc973fff380f7ae5",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "7cafc548083f6016bc973fff380f7ae5",
+      "tracks": "handmade_2002",
+      "local_path": "instances/7cafc548083f6016bc973fff380f7ae5.cnf",
+      "times": [
+        0.000277984
+      ],
+      "median": 0.000277984,
+      "min": 0.000277984,
+      "max": 0.000277984
+    },
+    "98312f96195f66fea07e5a253ae6e648": {
+      "hash": "98312f96195f66fea07e5a253ae6e648",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "98312f96195f66fea07e5a253ae6e648",
+      "tracks": "handmade_2002",
+      "local_path": "instances/98312f96195f66fea07e5a253ae6e648.cnf",
+      "times": [
+        0.0005380839999999999
+      ],
+      "median": 0.0005380839999999999,
+      "min": 0.0005380839999999999,
+      "max": 0.0005380839999999999
+    },
+    "9c37d38895b75c2165b8995436fbbf47": {
+      "hash": "9c37d38895b75c2165b8995436fbbf47",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "9c37d38895b75c2165b8995436fbbf47",
+      "tracks": "handmade_2002",
+      "local_path": "instances/9c37d38895b75c2165b8995436fbbf47.cnf",
+      "times": [
+        0.00022215899999999998
+      ],
+      "median": 0.00022215899999999998,
+      "min": 0.00022215899999999998,
+      "max": 0.00022215899999999998
+    },
+    "da531a3d9a69a9aa7b1a080769bfdfef": {
+      "hash": "da531a3d9a69a9aa7b1a080769bfdfef",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "da531a3d9a69a9aa7b1a080769bfdfef",
+      "tracks": "handmade_2002",
+      "local_path": "instances/da531a3d9a69a9aa7b1a080769bfdfef.cnf",
+      "times": [
+        0.008250452
+      ],
+      "median": 0.008250452,
+      "min": 0.008250452,
+      "max": 0.008250452
+    },
+    "e4b375f145e9a8b6f6fb634c16f5a1c2": {
+      "hash": "e4b375f145e9a8b6f6fb634c16f5a1c2",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "e4b375f145e9a8b6f6fb634c16f5a1c2",
+      "tracks": "handmade_2002",
+      "local_path": "instances/e4b375f145e9a8b6f6fb634c16f5a1c2.cnf",
+      "times": [
+        0.00021475499999999985
+      ],
+      "median": 0.00021475499999999985,
+      "min": 0.00021475499999999985,
+      "max": 0.00021475499999999985
+    },
+    "e518a2546859130e69e0c006b6fccc4c": {
+      "hash": "e518a2546859130e69e0c006b6fccc4c",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "e518a2546859130e69e0c006b6fccc4c",
+      "tracks": "handmade_2002",
+      "local_path": "instances/e518a2546859130e69e0c006b6fccc4c.cnf",
+      "times": [
+        0.00021874299999999998
+      ],
+      "median": 0.00021874299999999998,
+      "min": 0.00021874299999999998,
+      "max": 0.00021874299999999998
+    },
+    "ea81801c24a316592671476e1d4f1a6e": {
+      "hash": "ea81801c24a316592671476e1d4f1a6e",
+      "variables": "80",
+      "clauses": "346",
+      "gbd_variables": "80",
+      "gbd_clauses": "346",
+      "family": "coloring",
+      "author": "pehoushek",
+      "result": "unsat",
+      "filename": "ea81801c24a316592671476e1d4f1a6e",
+      "tracks": "handmade_2002",
+      "local_path": "instances/ea81801c24a316592671476e1d4f1a6e.cnf",
+      "times": [
+        0.0005371320000000001
+      ],
+      "median": 0.0005371320000000001,
+      "min": 0.0005371320000000001,
+      "max": 0.0005371320000000001
+    },
+    "daa64046112eb50107587b859f856a7d": {
+      "hash": "daa64046112eb50107587b859f856a7d",
+      "variables": "80",
+      "clauses": "370",
+      "gbd_variables": "80",
+      "gbd_clauses": "370",
+      "family": "pigeon-hole",
+      "author": "sabharwal",
+      "result": "unsat",
+      "filename": "daa64046112eb50107587b859f856a7d",
+      "tracks": "anni_2022,crafted_2005,crafted_2011,crafted_2012,portfolio_2012",
+      "local_path": "instances/daa64046112eb50107587b859f856a7d.cnf",
+      "times": [
+        0.00833408
+      ],
+      "median": 0.00833408,
+      "min": 0.00833408,
+      "max": 0.00833408
+    },
+    "079b400eede86df1f1ffd6a3c303278b": {
+      "hash": "079b400eede86df1f1ffd6a3c303278b",
+      "variables": "80",
+      "clauses": "512",
+      "gbd_variables": "80",
+      "gbd_clauses": "512",
+      "family": "tseitin-formulas",
+      "author": "bevan",
+      "result": "unsat",
+      "filename": "079b400eede86df1f1ffd6a3c303278b",
+      "tracks": "anni_2022,handmade_2003",
+      "local_path": "instances/079b400eede86df1f1ffd6a3c303278b.cnf",
+      "times": [
+        0.008208383
+      ],
+      "median": 0.008208383,
+      "min": 0.008208383,
+      "max": 0.008208383
+    },
+    "44ab80d376f78495483e45bb8088c3ae": {
+      "hash": "44ab80d376f78495483e45bb8088c3ae",
+      "variables": "80",
+      "clauses": "650",
+      "gbd_variables": "80",
+      "gbd_clauses": "650",
+      "family": "pigeon-hole",
+      "author": "sabharwal",
+      "result": "unsat",
+      "filename": "44ab80d376f78495483e45bb8088c3ae",
+      "tracks": "anni_2022,crafted_2005",
+      "local_path": "instances/44ab80d376f78495483e45bb8088c3ae.cnf",
+      "times": [
+        0.008394083
+      ],
+      "median": 0.008394083,
+      "min": 0.008394083,
+      "max": 0.008394083
+    },
+    "602cb5256a5c05e90aec931c7f3fc0ab": {
+      "hash": "602cb5256a5c05e90aec931c7f3fc0ab",
+      "variables": "81",
+      "clauses": "172",
+      "gbd_variables": "81",
+      "gbd_clauses": "172",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "602cb5256a5c05e90aec931c7f3fc0ab",
+      "tracks": "anni_2022,crafted_2007,crafted_2012",
+      "local_path": "instances/602cb5256a5c05e90aec931c7f3fc0ab.cnf",
+      "times": [
+        60.0
+      ],
+      "median": 60.0,
+      "min": 60.0,
+      "max": 60.0
+    },
+    "7b3d0382156f1923019d9e1879de193f": {
+      "hash": "7b3d0382156f1923019d9e1879de193f",
+      "variables": "83",
+      "clauses": "804",
+      "gbd_variables": "83",
+      "gbd_clauses": "804",
+      "family": "tseitin-formulas",
+      "author": "simon",
+      "result": "unsat",
+      "filename": "7b3d0382156f1923019d9e1879de193f",
+      "tracks": "anni_2022,handmade_2002",
+      "local_path": "instances/7b3d0382156f1923019d9e1879de193f.cnf",
+      "times": [
+        0.008125968
+      ],
+      "median": 0.008125968,
+      "min": 0.008125968,
+      "max": 0.008125968
+    },
+    "57d991a3a137fe0d2838d57e631a0d13": {
+      "hash": "57d991a3a137fe0d2838d57e631a0d13",
+      "variables": "84",
+      "clauses": "301",
+      "gbd_variables": "84",
+      "gbd_clauses": "301",
+      "family": "battleship",
+      "author": "skvortsov",
+      "result": "unsat",
+      "filename": "57d991a3a137fe0d2838d57e631a0d13",
+      "tracks": "anni_2022,crafted_2011,crafted_2012,portfolio_2012",
+      "local_path": "instances/57d991a3a137fe0d2838d57e631a0d13.cnf",
+      "times": [
+        1.623251401
+      ],
+      "median": 1.623251401,
+      "min": 1.623251401,
+      "max": 1.623251401
+    },
+    "05f3a48298721d68cded8618b432e7c3": {
+      "hash": "05f3a48298721d68cded8618b432e7c3",
+      "variables": "85",
+      "clauses": "180",
+      "gbd_variables": "85",
+      "gbd_clauses": "180",
+      "family": "sgen",
+      "author": "spence",
+      "result": "unsat",
+      "filename": "05f3a48298721d68cded8618b432e7c3",
+      "tracks": "anni_2022,crafted_2007",
+      "local_path": "instances/05f3a48298721d68cded8618b432e7c3.cnf",
+      "times": [
+        60.0
+      ],
+      "median": 60.0,
+      "min": 60.0,
+      "max": 60.0
+    }
+  }
+}

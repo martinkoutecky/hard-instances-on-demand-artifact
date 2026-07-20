@@ -1,0 +1,2977 @@
+{
+  "completed_at": "2026-07-17T13:27:39.024054+00:00",
+  "created_at": "2026-07-17T13:25:02.384960+00:00",
+  "last_checkpoint_at": "2026-07-17T13:27:39.020893+00:00",
+  "machine": {
+    "cpoptimizer_path": "<conda-env>/bin/cpoptimizer",
+    "cpoptimizer_sha256": "9c48263696fa8dad16885aa284c4c7fda7e2f303b2983b31f005288e156fc18f",
+    "cpu_affinity": [
+      1
+    ],
+    "cpu_model": "AMD Ryzen 5 8600G w/ Radeon 760M Graphics",
+    "hostname": "8f9fd2be337b",
+    "load_average_at_start": [
+      3.23876953125,
+      2.7021484375,
+      2.27197265625
+    ],
+    "platform": "Linux-6.1.0-45-amd64-x86_64-with-glibc2.36",
+    "python": "3.12.12 | packaged by conda-forge | (main, Jan 26 2026, 23:51:32) [GCC 14.3.0]",
+    "python_executable": "<conda-env>/bin/python3"
+  },
+  "protocol": {
+    "instance_ids": [
+      "ta001",
+      "ta002",
+      "ta003",
+      "ta004",
+      "ta005",
+      "ta006",
+      "ta007",
+      "ta008",
+      "ta009",
+      "ta010"
+    ],
+    "problem": "non-permutation flow shop F_m||C_max",
+    "solver_model_source": "<legacy-repo>/comparisons/vrf_cpopt_10x5/run_cpopt.py",
+    "solver_seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source": {
+      "generation_seeds": [
+        873654221,
+        379008056,
+        1866992158,
+        216771124,
+        495070989,
+        402959317,
+        1369363414,
+        2021925980,
+        573109518,
+        88325120
+      ],
+      "generator": "Taillard 1993 Park-Miller RNG and floating-point unif mapping",
+      "url": "https://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/flowshop2.txt"
+    },
+    "suite": "taillard",
+    "time_limit_s": 60.0,
+    "timing": "RUSAGE_CHILDREN user+system CPU delta",
+    "workers": 1
+  },
+  "runs": [
+    {
+      "cpu_time_s": 1.250073,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 104642,
+        "NumberOfChoicePoints": 51629,
+        "NumberOfFails": 66722,
+        "NumberOfSolutions": 19,
+        "PeakMemoryUsage": 1424273,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.25
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 1.25,
+      "status": "Optimal",
+      "wall_time_s": 1.2539098341949284
+    },
+    {
+      "cpu_time_s": 0.9093519999999997,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1358
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 64410,
+        "NumberOfChoicePoints": 28304,
+        "NumberOfFails": 50043,
+        "NumberOfSolutions": 35,
+        "PeakMemoryUsage": 1460505,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.9
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.9,
+      "status": "Optimal",
+      "wall_time_s": 0.9115590397268534
+    },
+    {
+      "cpu_time_s": 1.411458,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 123957,
+        "NumberOfChoicePoints": 62484,
+        "NumberOfFails": 79790,
+        "NumberOfSolutions": 54,
+        "PeakMemoryUsage": 1467121,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.41
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 1.41,
+      "status": "Optimal",
+      "wall_time_s": 1.4139216342009604
+    },
+    {
+      "cpu_time_s": 1.3542670000000006,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1291
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 143757,
+        "NumberOfChoicePoints": 78876,
+        "NumberOfFails": 74236,
+        "NumberOfSolutions": 57,
+        "PeakMemoryUsage": 1431585,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.35
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 1.35,
+      "status": "Optimal",
+      "wall_time_s": 1.3571746107190847
+    },
+    {
+      "cpu_time_s": 4.733788999999999,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 343295,
+        "NumberOfChoicePoints": 176253,
+        "NumberOfFails": 196599,
+        "NumberOfSolutions": 44,
+        "PeakMemoryUsage": 1562401,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 4.73
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 4.73,
+      "status": "Optimal",
+      "wall_time_s": 4.738103303592652
+    },
+    {
+      "cpu_time_s": 1.0183780000000002,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1193
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 73171,
+        "NumberOfChoicePoints": 35155,
+        "NumberOfFails": 51028,
+        "NumberOfSolutions": 28,
+        "PeakMemoryUsage": 1424129,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.01
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 1.01,
+      "status": "Optimal",
+      "wall_time_s": 1.0215760418213904
+    },
+    {
+      "cpu_time_s": 0.7825150000000001,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 70989,
+        "NumberOfChoicePoints": 33276,
+        "NumberOfFails": 49162,
+        "NumberOfSolutions": 35,
+        "PeakMemoryUsage": 1421265,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.78
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 0.78,
+      "status": "Optimal",
+      "wall_time_s": 0.7847337517887354
+    },
+    {
+      "cpu_time_s": 1.5576720000000002,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 118045,
+        "NumberOfChoicePoints": 59039,
+        "NumberOfFails": 74851,
+        "NumberOfSolutions": 61,
+        "PeakMemoryUsage": 1443577,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.55
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 1.55,
+      "status": "Optimal",
+      "wall_time_s": 1.5601914329454303
+    },
+    {
+      "cpu_time_s": 1.009684,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 78122,
+        "NumberOfChoicePoints": 36033,
+        "NumberOfFails": 57001,
+        "NumberOfSolutions": 35,
+        "PeakMemoryUsage": 1425689,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.01
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 1.01,
+      "status": "Optimal",
+      "wall_time_s": 1.0119417761452496
+    },
+    {
+      "cpu_time_s": 1.2469940000000008,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 91213,
+        "NumberOfChoicePoints": 41108,
+        "NumberOfFails": 66710,
+        "NumberOfSolutions": 34,
+        "PeakMemoryUsage": 1431433,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.24
+      },
+      "solver_seed": 1,
+      "solver_solve_time_s": 1.24,
+      "status": "Optimal",
+      "wall_time_s": 1.2493598172441125
+    },
+    {
+      "cpu_time_s": 0.7358250000000002,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 57021,
+        "NumberOfChoicePoints": 25625,
+        "NumberOfFails": 42814,
+        "NumberOfSolutions": 25,
+        "PeakMemoryUsage": 1418625,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.73
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.73,
+      "status": "Optimal",
+      "wall_time_s": 0.7379706841893494
+    },
+    {
+      "cpu_time_s": 0.7877280000000013,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1358
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 53466,
+        "NumberOfChoicePoints": 22394,
+        "NumberOfFails": 44439,
+        "NumberOfSolutions": 35,
+        "PeakMemoryUsage": 1447641,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.79
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 0.79,
+      "status": "Optimal",
+      "wall_time_s": 0.7899044021032751
+    },
+    {
+      "cpu_time_s": 1.6312009999999972,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 123788,
+        "NumberOfChoicePoints": 62257,
+        "NumberOfFails": 79964,
+        "NumberOfSolutions": 53,
+        "PeakMemoryUsage": 1440841,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.63
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 1.63,
+      "status": "Optimal",
+      "wall_time_s": 1.634575691074133
+    },
+    {
+      "cpu_time_s": 1.6437789999999985,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1292
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 126004,
+        "NumberOfChoicePoints": 62083,
+        "NumberOfFails": 81864,
+        "NumberOfSolutions": 67,
+        "PeakMemoryUsage": 1431329,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.64
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 1.64,
+      "status": "Optimal",
+      "wall_time_s": 1.646276235114783
+    },
+    {
+      "cpu_time_s": 3.4168090000000007,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 219930,
+        "NumberOfChoicePoints": 108957,
+        "NumberOfFails": 136763,
+        "NumberOfSolutions": 41,
+        "PeakMemoryUsage": 1544929,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 3.41
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 3.41,
+      "status": "Optimal",
+      "wall_time_s": 3.419974524062127
+    },
+    {
+      "cpu_time_s": 1.2072780000000023,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1193
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 93730,
+        "NumberOfChoicePoints": 46307,
+        "NumberOfFails": 62156,
+        "NumberOfSolutions": 45,
+        "PeakMemoryUsage": 1401721,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.2
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 1.2,
+      "status": "Optimal",
+      "wall_time_s": 1.2095760442316532
+    },
+    {
+      "cpu_time_s": 1.1642699999999984,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 90881,
+        "NumberOfChoicePoints": 42902,
+        "NumberOfFails": 65709,
+        "NumberOfSolutions": 44,
+        "PeakMemoryUsage": 1423249,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.16
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 1.16,
+      "status": "Optimal",
+      "wall_time_s": 1.1666415962390602
+    },
+    {
+      "cpu_time_s": 1.3817460000000032,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 118808,
+        "NumberOfChoicePoints": 58951,
+        "NumberOfFails": 73378,
+        "NumberOfSolutions": 45,
+        "PeakMemoryUsage": 1469153,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.37
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 1.37,
+      "status": "Optimal",
+      "wall_time_s": 1.3844220470637083
+    },
+    {
+      "cpu_time_s": 1.0829869999999993,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 75726,
+        "NumberOfChoicePoints": 34865,
+        "NumberOfFails": 57172,
+        "NumberOfSolutions": 46,
+        "PeakMemoryUsage": 1483729,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.08
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 1.08,
+      "status": "Optimal",
+      "wall_time_s": 1.0864093988202512
+    },
+    {
+      "cpu_time_s": 1.5898379999999968,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 129235,
+        "NumberOfChoicePoints": 64054,
+        "NumberOfFails": 84253,
+        "NumberOfSolutions": 51,
+        "PeakMemoryUsage": 1465385,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.58
+      },
+      "solver_seed": 2,
+      "solver_solve_time_s": 1.58,
+      "status": "Optimal",
+      "wall_time_s": 1.592399199027568
+    },
+    {
+      "cpu_time_s": 1.3345839999999995,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 100054,
+        "NumberOfChoicePoints": 50874,
+        "NumberOfFails": 63244,
+        "NumberOfSolutions": 28,
+        "PeakMemoryUsage": 1432025,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.33
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 1.33,
+      "status": "Optimal",
+      "wall_time_s": 1.3369330507703125
+    },
+    {
+      "cpu_time_s": 0.8062429999999985,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1358
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 71674,
+        "NumberOfChoicePoints": 35453,
+        "NumberOfFails": 48113,
+        "NumberOfSolutions": 32,
+        "PeakMemoryUsage": 1423065,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.8
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.8,
+      "status": "Optimal",
+      "wall_time_s": 0.808299062307924
+    },
+    {
+      "cpu_time_s": 1.461689000000007,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 111275,
+        "NumberOfChoicePoints": 53646,
+        "NumberOfFails": 75580,
+        "NumberOfSolutions": 50,
+        "PeakMemoryUsage": 1461649,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.46
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 1.46,
+      "status": "Optimal",
+      "wall_time_s": 1.4641168643720448
+    },
+    {
+      "cpu_time_s": 1.7002869999999959,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1292
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 122631,
+        "NumberOfChoicePoints": 61857,
+        "NumberOfFails": 78041,
+        "NumberOfSolutions": 59,
+        "PeakMemoryUsage": 1499897,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.69
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 1.69,
+      "status": "Optimal",
+      "wall_time_s": 1.7029426079243422
+    },
+    {
+      "cpu_time_s": 4.512186,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 322215,
+        "NumberOfChoicePoints": 168817,
+        "NumberOfFails": 177078,
+        "NumberOfSolutions": 42,
+        "PeakMemoryUsage": 1495737,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 4.51
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 4.51,
+      "status": "Optimal",
+      "wall_time_s": 4.515953150112182
+    },
+    {
+      "cpu_time_s": 1.1656669999999991,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1193
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 96057,
+        "NumberOfChoicePoints": 48607,
+        "NumberOfFails": 61711,
+        "NumberOfSolutions": 40,
+        "PeakMemoryUsage": 1433969,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.16
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 1.16,
+      "status": "Optimal",
+      "wall_time_s": 1.1678341790102422
+    },
+    {
+      "cpu_time_s": 0.9383899999999983,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 77820,
+        "NumberOfChoicePoints": 36672,
+        "NumberOfFails": 54493,
+        "NumberOfSolutions": 33,
+        "PeakMemoryUsage": 1416985,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.94
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.94,
+      "status": "Optimal",
+      "wall_time_s": 0.9405624778009951
+    },
+    {
+      "cpu_time_s": 1.6458800000000053,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 136900,
+        "NumberOfChoicePoints": 73087,
+        "NumberOfFails": 79393,
+        "NumberOfSolutions": 56,
+        "PeakMemoryUsage": 1445257,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.64
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 1.64,
+      "status": "Optimal",
+      "wall_time_s": 1.6484215459786355
+    },
+    {
+      "cpu_time_s": 0.8422889999999938,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 58462,
+        "NumberOfChoicePoints": 24457,
+        "NumberOfFails": 48828,
+        "NumberOfSolutions": 30,
+        "PeakMemoryUsage": 1419377,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.84
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 0.84,
+      "status": "Optimal",
+      "wall_time_s": 0.8444565711542964
+    },
+    {
+      "cpu_time_s": 1.0362790000000075,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 87830,
+        "NumberOfChoicePoints": 42058,
+        "NumberOfFails": 59188,
+        "NumberOfSolutions": 36,
+        "PeakMemoryUsage": 1418497,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.04
+      },
+      "solver_seed": 3,
+      "solver_solve_time_s": 1.04,
+      "status": "Optimal",
+      "wall_time_s": 1.0392533419653773
+    },
+    {
+      "cpu_time_s": 1.408186999999998,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 82077,
+        "NumberOfChoicePoints": 37965,
+        "NumberOfFails": 59733,
+        "NumberOfSolutions": 23,
+        "PeakMemoryUsage": 1444753,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.41
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 1.41,
+      "status": "Optimal",
+      "wall_time_s": 1.410645202267915
+    },
+    {
+      "cpu_time_s": 0.9225119999999976,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1355
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 72470,
+        "NumberOfChoicePoints": 34635,
+        "NumberOfFails": 51783,
+        "NumberOfSolutions": 37,
+        "PeakMemoryUsage": 1425465,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.91
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.91,
+      "status": "Optimal",
+      "wall_time_s": 0.9248169241473079
+    },
+    {
+      "cpu_time_s": 2.4899000000000058,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 202887,
+        "NumberOfChoicePoints": 102133,
+        "NumberOfFails": 126076,
+        "NumberOfSolutions": 65,
+        "PeakMemoryUsage": 1528193,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 2.49
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 2.49,
+      "status": "Optimal",
+      "wall_time_s": 2.4927643961273134
+    },
+    {
+      "cpu_time_s": 1.7303549999999959,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1292
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 124280,
+        "NumberOfChoicePoints": 61740,
+        "NumberOfFails": 80291,
+        "NumberOfSolutions": 52,
+        "PeakMemoryUsage": 1464697,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.72
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 1.72,
+      "status": "Optimal",
+      "wall_time_s": 1.7337956591509283
+    },
+    {
+      "cpu_time_s": 5.056974000000004,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 344823,
+        "NumberOfChoicePoints": 178127,
+        "NumberOfFails": 195350,
+        "NumberOfSolutions": 42,
+        "PeakMemoryUsage": 1505537,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 5.05
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 5.05,
+      "status": "Optimal",
+      "wall_time_s": 5.060959053225815
+    },
+    {
+      "cpu_time_s": 1.1746549999999942,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1193
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 94929,
+        "NumberOfChoicePoints": 46996,
+        "NumberOfFails": 64896,
+        "NumberOfSolutions": 50,
+        "PeakMemoryUsage": 1430297,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.16
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 1.16,
+      "status": "Optimal",
+      "wall_time_s": 1.1769908890128136
+    },
+    {
+      "cpu_time_s": 0.9491170000000082,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 84158,
+        "NumberOfChoicePoints": 40935,
+        "NumberOfFails": 56566,
+        "NumberOfSolutions": 36,
+        "PeakMemoryUsage": 1426185,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.94
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 0.94,
+      "status": "Optimal",
+      "wall_time_s": 0.9513200279325247
+    },
+    {
+      "cpu_time_s": 2.0008049999999926,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 152617,
+        "NumberOfChoicePoints": 79372,
+        "NumberOfFails": 91988,
+        "NumberOfSolutions": 59,
+        "PeakMemoryUsage": 1485561,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.99
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 1.99,
+      "status": "Optimal",
+      "wall_time_s": 2.0034227361902595
+    },
+    {
+      "cpu_time_s": 1.3922159999999977,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 105375,
+        "NumberOfChoicePoints": 54456,
+        "NumberOfFails": 67832,
+        "NumberOfSolutions": 54,
+        "PeakMemoryUsage": 1430217,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.41
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 1.41,
+      "status": "Optimal",
+      "wall_time_s": 1.4205351532436907
+    },
+    {
+      "cpu_time_s": 1.953592999999998,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 156264,
+        "NumberOfChoicePoints": 79919,
+        "NumberOfFails": 96309,
+        "NumberOfSolutions": 51,
+        "PeakMemoryUsage": 1470457,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.94
+      },
+      "solver_seed": 4,
+      "solver_solve_time_s": 1.94,
+      "status": "Optimal",
+      "wall_time_s": 1.9565952103585005
+    },
+    {
+      "cpu_time_s": 1.472362000000004,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 111032,
+        "NumberOfChoicePoints": 55702,
+        "NumberOfFails": 69712,
+        "NumberOfSolutions": 21,
+        "PeakMemoryUsage": 1436393,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.47
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 1.47,
+      "status": "Optimal",
+      "wall_time_s": 1.475354249123484
+    },
+    {
+      "cpu_time_s": 0.7215070000000026,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1358
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 59680,
+        "NumberOfChoicePoints": 26546,
+        "NumberOfFails": 44854,
+        "NumberOfSolutions": 32,
+        "PeakMemoryUsage": 1440433,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.72
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.72,
+      "status": "Optimal",
+      "wall_time_s": 0.7239426076412201
+    },
+    {
+      "cpu_time_s": 1.2214979999999969,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 99653,
+        "NumberOfChoicePoints": 49394,
+        "NumberOfFails": 64176,
+        "NumberOfSolutions": 47,
+        "PeakMemoryUsage": 1435297,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.21
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 1.21,
+      "status": "Optimal",
+      "wall_time_s": 1.2238399027846754
+    },
+    {
+      "cpu_time_s": 2.4588839999999976,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1292
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 163982,
+        "NumberOfChoicePoints": 80864,
+        "NumberOfFails": 106064,
+        "NumberOfSolutions": 73,
+        "PeakMemoryUsage": 1524617,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 2.46
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 2.46,
+      "status": "Optimal",
+      "wall_time_s": 2.461661763023585
+    },
+    {
+      "cpu_time_s": 2.5952879999999965,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 215679,
+        "NumberOfChoicePoints": 111329,
+        "NumberOfFails": 125083,
+        "NumberOfSolutions": 40,
+        "PeakMemoryUsage": 1486065,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 2.6
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 2.6,
+      "status": "Optimal",
+      "wall_time_s": 2.598273194860667
+    },
+    {
+      "cpu_time_s": 1.3967130000000054,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1193
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 98718,
+        "NumberOfChoicePoints": 48754,
+        "NumberOfFails": 66779,
+        "NumberOfSolutions": 44,
+        "PeakMemoryUsage": 1466513,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.4
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 1.4,
+      "status": "Optimal",
+      "wall_time_s": 1.3991243173368275
+    },
+    {
+      "cpu_time_s": 0.8705810000000014,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 68380,
+        "NumberOfChoicePoints": 30787,
+        "NumberOfFails": 51643,
+        "NumberOfSolutions": 24,
+        "PeakMemoryUsage": 1420385,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.87
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.87,
+      "status": "Optimal",
+      "wall_time_s": 0.8733892058953643
+    },
+    {
+      "cpu_time_s": 1.8894009999999923,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 141085,
+        "NumberOfChoicePoints": 71388,
+        "NumberOfFails": 88126,
+        "NumberOfSolutions": 53,
+        "PeakMemoryUsage": 1449033,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.88
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 1.88,
+      "status": "Optimal",
+      "wall_time_s": 1.8919398272410035
+    },
+    {
+      "cpu_time_s": 0.6032410000000112,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 50708,
+        "NumberOfChoicePoints": 21535,
+        "NumberOfFails": 41166,
+        "NumberOfSolutions": 38,
+        "PeakMemoryUsage": 1415025,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.6
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 0.6,
+      "status": "Optimal",
+      "wall_time_s": 0.6052484167739749
+    },
+    {
+      "cpu_time_s": 1.1751670000000018,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 73481,
+        "NumberOfChoicePoints": 34184,
+        "NumberOfFails": 52610,
+        "NumberOfSolutions": 38,
+        "PeakMemoryUsage": 1428441,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.17
+      },
+      "solver_seed": 5,
+      "solver_solve_time_s": 1.17,
+      "status": "Optimal",
+      "wall_time_s": 1.1774721583351493
+    },
+    {
+      "cpu_time_s": 0.3251249999999999,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 45446,
+        "NumberOfChoicePoints": 26368,
+        "NumberOfFails": 19843,
+        "NumberOfSolutions": 28,
+        "PeakMemoryUsage": 1415753,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.32
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.32,
+      "status": "Optimal",
+      "wall_time_s": 0.3271264089271426
+    },
+    {
+      "cpu_time_s": 0.6777449999999874,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1355
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 56270,
+        "NumberOfChoicePoints": 26029,
+        "NumberOfFails": 41529,
+        "NumberOfSolutions": 37,
+        "PeakMemoryUsage": 1418169,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.67
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.67,
+      "status": "Optimal",
+      "wall_time_s": 0.6798706529662013
+    },
+    {
+      "cpu_time_s": 1.343623000000008,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 123143,
+        "NumberOfChoicePoints": 61439,
+        "NumberOfFails": 79496,
+        "NumberOfSolutions": 56,
+        "PeakMemoryUsage": 1465513,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.34
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 1.34,
+      "status": "Optimal",
+      "wall_time_s": 1.3461005152203143
+    },
+    {
+      "cpu_time_s": 1.7524079999999884,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1292
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 120331,
+        "NumberOfChoicePoints": 61162,
+        "NumberOfFails": 74404,
+        "NumberOfSolutions": 49,
+        "PeakMemoryUsage": 1506473,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.75
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 1.75,
+      "status": "Optimal",
+      "wall_time_s": 1.7554393922910094
+    },
+    {
+      "cpu_time_s": 3.376691000000008,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 225254,
+        "NumberOfChoicePoints": 112600,
+        "NumberOfFails": 138601,
+        "NumberOfSolutions": 36,
+        "PeakMemoryUsage": 1469241,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 3.38
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 3.38,
+      "status": "Optimal",
+      "wall_time_s": 3.388593173120171
+    },
+    {
+      "cpu_time_s": 1.9396680000000117,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1192
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 158036,
+        "NumberOfChoicePoints": 83652,
+        "NumberOfFails": 93332,
+        "NumberOfSolutions": 62,
+        "PeakMemoryUsage": 1452865,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.93
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 1.93,
+      "status": "Optimal",
+      "wall_time_s": 1.9424333409406245
+    },
+    {
+      "cpu_time_s": 1.310855999999987,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 107191,
+        "NumberOfChoicePoints": 52141,
+        "NumberOfFails": 73132,
+        "NumberOfSolutions": 49,
+        "PeakMemoryUsage": 1423161,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.31
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 1.31,
+      "status": "Optimal",
+      "wall_time_s": 1.3136719153262675
+    },
+    {
+      "cpu_time_s": 1.3187750000000023,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 119289,
+        "NumberOfChoicePoints": 61809,
+        "NumberOfFails": 70853,
+        "NumberOfSolutions": 57,
+        "PeakMemoryUsage": 1431033,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.31
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 1.31,
+      "status": "Optimal",
+      "wall_time_s": 1.3212036676704884
+    },
+    {
+      "cpu_time_s": 1.3568990000000127,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 109574,
+        "NumberOfChoicePoints": 54689,
+        "NumberOfFails": 71905,
+        "NumberOfSolutions": 62,
+        "PeakMemoryUsage": 1439953,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.35
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 1.35,
+      "status": "Optimal",
+      "wall_time_s": 1.3594533540308475
+    },
+    {
+      "cpu_time_s": 0.6811079999999805,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 55714,
+        "NumberOfChoicePoints": 26738,
+        "NumberOfFails": 36617,
+        "NumberOfSolutions": 24,
+        "PeakMemoryUsage": 1410793,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.68
+      },
+      "solver_seed": 6,
+      "solver_solve_time_s": 0.68,
+      "status": "Optimal",
+      "wall_time_s": 0.6833667936734855
+    },
+    {
+      "cpu_time_s": 0.9132630000000006,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 65949,
+        "NumberOfChoicePoints": 30848,
+        "NumberOfFails": 47061,
+        "NumberOfSolutions": 17,
+        "PeakMemoryUsage": 1423857,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.9
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.9,
+      "status": "Optimal",
+      "wall_time_s": 0.9155014418065548
+    },
+    {
+      "cpu_time_s": 0.7413510000000088,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1355
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 59700,
+        "NumberOfChoicePoints": 27078,
+        "NumberOfFails": 45190,
+        "NumberOfSolutions": 28,
+        "PeakMemoryUsage": 1412673,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.74
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 0.74,
+      "status": "Optimal",
+      "wall_time_s": 0.7435492151416838
+    },
+    {
+      "cpu_time_s": 2.1808690000000013,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 182098,
+        "NumberOfChoicePoints": 91547,
+        "NumberOfFails": 112905,
+        "NumberOfSolutions": 58,
+        "PeakMemoryUsage": 1483393,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 2.18
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 2.18,
+      "status": "Optimal",
+      "wall_time_s": 2.18385898694396
+    },
+    {
+      "cpu_time_s": 1.3166000000000082,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1287
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 107744,
+        "NumberOfChoicePoints": 55976,
+        "NumberOfFails": 63026,
+        "NumberOfSolutions": 58,
+        "PeakMemoryUsage": 1428777,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.32
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 1.32,
+      "status": "Optimal",
+      "wall_time_s": 1.3189796986989677
+    },
+    {
+      "cpu_time_s": 8.449483999999998,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 592527,
+        "NumberOfChoicePoints": 314292,
+        "NumberOfFails": 312721,
+        "NumberOfSolutions": 26,
+        "PeakMemoryUsage": 1629961,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 8.45
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 8.45,
+      "status": "Optimal",
+      "wall_time_s": 8.454833616968244
+    },
+    {
+      "cpu_time_s": 1.0235040000000026,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1193
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 80826,
+        "NumberOfChoicePoints": 39138,
+        "NumberOfFails": 56068,
+        "NumberOfSolutions": 35,
+        "PeakMemoryUsage": 1457417,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.02
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 1.02,
+      "status": "Optimal",
+      "wall_time_s": 1.0260474071837962
+    },
+    {
+      "cpu_time_s": 1.319981999999996,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 108744,
+        "NumberOfChoicePoints": 56233,
+        "NumberOfFails": 70258,
+        "NumberOfSolutions": 42,
+        "PeakMemoryUsage": 1468185,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.31
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 1.31,
+      "status": "Optimal",
+      "wall_time_s": 1.3224318367429078
+    },
+    {
+      "cpu_time_s": 1.8082199999999915,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 142413,
+        "NumberOfChoicePoints": 71452,
+        "NumberOfFails": 88709,
+        "NumberOfSolutions": 54,
+        "PeakMemoryUsage": 1440681,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.8
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 1.8,
+      "status": "Optimal",
+      "wall_time_s": 1.8108515162020922
+    },
+    {
+      "cpu_time_s": 1.0524390000000068,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 78926,
+        "NumberOfChoicePoints": 35581,
+        "NumberOfFails": 59467,
+        "NumberOfSolutions": 44,
+        "PeakMemoryUsage": 1419905,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.05
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 1.05,
+      "status": "Optimal",
+      "wall_time_s": 1.0546612250618637
+    },
+    {
+      "cpu_time_s": 1.3170919999999882,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 102434,
+        "NumberOfChoicePoints": 48481,
+        "NumberOfFails": 70616,
+        "NumberOfSolutions": 41,
+        "PeakMemoryUsage": 1457785,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.32
+      },
+      "solver_seed": 7,
+      "solver_solve_time_s": 1.32,
+      "status": "Optimal",
+      "wall_time_s": 1.3193857120350003
+    },
+    {
+      "cpu_time_s": 1.3126840000000044,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 105026,
+        "NumberOfChoicePoints": 53456,
+        "NumberOfFails": 65426,
+        "NumberOfSolutions": 25,
+        "PeakMemoryUsage": 1426496,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.31
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 1.31,
+      "status": "Optimal",
+      "wall_time_s": 1.3149540056474507
+    },
+    {
+      "cpu_time_s": 0.8441859999999934,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1355
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 73853,
+        "NumberOfChoicePoints": 36540,
+        "NumberOfFails": 49383,
+        "NumberOfSolutions": 32,
+        "PeakMemoryUsage": 1415465,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.84
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.84,
+      "status": "Optimal",
+      "wall_time_s": 0.8464312022551894
+    },
+    {
+      "cpu_time_s": 1.6086770000000143,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 105235,
+        "NumberOfChoicePoints": 48207,
+        "NumberOfFails": 76685,
+        "NumberOfSolutions": 37,
+        "PeakMemoryUsage": 1462249,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.61
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 1.61,
+      "status": "Optimal",
+      "wall_time_s": 1.6112151970155537
+    },
+    {
+      "cpu_time_s": 0.8109219999999908,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1292
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 65753,
+        "NumberOfChoicePoints": 32230,
+        "NumberOfFails": 42580,
+        "NumberOfSolutions": 48,
+        "PeakMemoryUsage": 1413273,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.81
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.81,
+      "status": "Optimal",
+      "wall_time_s": 0.8130467780865729
+    },
+    {
+      "cpu_time_s": 3.1155689999999936,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 222334,
+        "NumberOfChoicePoints": 116381,
+        "NumberOfFails": 129887,
+        "NumberOfSolutions": 37,
+        "PeakMemoryUsage": 1502457,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 3.11
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 3.11,
+      "status": "Optimal",
+      "wall_time_s": 3.1187397348694503
+    },
+    {
+      "cpu_time_s": 1.3702910000000088,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1193
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 108372,
+        "NumberOfChoicePoints": 55240,
+        "NumberOfFails": 68418,
+        "NumberOfSolutions": 41,
+        "PeakMemoryUsage": 1434737,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.36
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 1.36,
+      "status": "Optimal",
+      "wall_time_s": 1.3726184321567416
+    },
+    {
+      "cpu_time_s": 0.9346740000000011,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 78374,
+        "NumberOfChoicePoints": 38959,
+        "NumberOfFails": 52653,
+        "NumberOfSolutions": 38,
+        "PeakMemoryUsage": 1428217,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.93
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.93,
+      "status": "Optimal",
+      "wall_time_s": 0.9367605270817876
+    },
+    {
+      "cpu_time_s": 0.9766189999999995,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 83634,
+        "NumberOfChoicePoints": 42426,
+        "NumberOfFails": 54008,
+        "NumberOfSolutions": 54,
+        "PeakMemoryUsage": 1428297,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.97
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.97,
+      "status": "Optimal",
+      "wall_time_s": 0.97907988820225
+    },
+    {
+      "cpu_time_s": 0.8874770000000041,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 62875,
+        "NumberOfChoicePoints": 27586,
+        "NumberOfFails": 49670,
+        "NumberOfSolutions": 39,
+        "PeakMemoryUsage": 1413889,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.88
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 0.88,
+      "status": "Optimal",
+      "wall_time_s": 0.8898353460244834
+    },
+    {
+      "cpu_time_s": 1.8198939999999908,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 157051,
+        "NumberOfChoicePoints": 82919,
+        "NumberOfFails": 92873,
+        "NumberOfSolutions": 49,
+        "PeakMemoryUsage": 1469873,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.81
+      },
+      "solver_seed": 8,
+      "solver_solve_time_s": 1.81,
+      "status": "Optimal",
+      "wall_time_s": 1.82258933596313
+    },
+    {
+      "cpu_time_s": 2.129108000000002,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 147392,
+        "NumberOfChoicePoints": 76181,
+        "NumberOfFails": 85989,
+        "NumberOfSolutions": 20,
+        "PeakMemoryUsage": 1455225,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 2.13
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 2.13,
+      "status": "Optimal",
+      "wall_time_s": 2.131965413223952
+    },
+    {
+      "cpu_time_s": 0.7932250000000067,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1358
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 69737,
+        "NumberOfChoicePoints": 33038,
+        "NumberOfFails": 49225,
+        "NumberOfSolutions": 35,
+        "PeakMemoryUsage": 1443233,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.79
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.79,
+      "status": "Optimal",
+      "wall_time_s": 0.795377979055047
+    },
+    {
+      "cpu_time_s": 1.2041279999999972,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 105632,
+        "NumberOfChoicePoints": 52146,
+        "NumberOfFails": 67653,
+        "NumberOfSolutions": 48,
+        "PeakMemoryUsage": 1434009,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.2
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 1.2,
+      "status": "Optimal",
+      "wall_time_s": 1.2063526501879096
+    },
+    {
+      "cpu_time_s": 1.7995339999999942,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1292
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 124781,
+        "NumberOfChoicePoints": 60680,
+        "NumberOfFails": 81853,
+        "NumberOfSolutions": 57,
+        "PeakMemoryUsage": 1496281,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.8
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 1.8,
+      "status": "Optimal",
+      "wall_time_s": 1.8020653161220253
+    },
+    {
+      "cpu_time_s": 2.8304899999999975,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 222274,
+        "NumberOfChoicePoints": 113617,
+        "NumberOfFails": 132906,
+        "NumberOfSolutions": 50,
+        "PeakMemoryUsage": 1468569,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 2.83
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 2.83,
+      "status": "Optimal",
+      "wall_time_s": 2.8358851419761777
+    },
+    {
+      "cpu_time_s": 0.9095550000000117,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1193
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 76114,
+        "NumberOfChoicePoints": 37863,
+        "NumberOfFails": 49567,
+        "NumberOfSolutions": 33,
+        "PeakMemoryUsage": 1423545,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.9
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.9,
+      "status": "Optimal",
+      "wall_time_s": 0.9120204811915755
+    },
+    {
+      "cpu_time_s": 0.9711279999999931,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 93155,
+        "NumberOfChoicePoints": 48256,
+        "NumberOfFails": 57738,
+        "NumberOfSolutions": 40,
+        "PeakMemoryUsage": 1426441,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.97
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.97,
+      "status": "Optimal",
+      "wall_time_s": 0.9734607972204685
+    },
+    {
+      "cpu_time_s": 2.298293000000001,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 174567,
+        "NumberOfChoicePoints": 88677,
+        "NumberOfFails": 105699,
+        "NumberOfSolutions": 67,
+        "PeakMemoryUsage": 1494273,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 2.29
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 2.29,
+      "status": "Optimal",
+      "wall_time_s": 2.3011672347784042
+    },
+    {
+      "cpu_time_s": 1.2293030000000158,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 121121,
+        "NumberOfChoicePoints": 61762,
+        "NumberOfFails": 74683,
+        "NumberOfSolutions": 55,
+        "PeakMemoryUsage": 1426129,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.22
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 1.22,
+      "status": "Optimal",
+      "wall_time_s": 1.2316060606390238
+    },
+    {
+      "cpu_time_s": 0.9301729999999964,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 73209,
+        "NumberOfChoicePoints": 33539,
+        "NumberOfFails": 52921,
+        "NumberOfSolutions": 35,
+        "PeakMemoryUsage": 1414281,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.93
+      },
+      "solver_seed": 9,
+      "solver_solve_time_s": 0.93,
+      "status": "Optimal",
+      "wall_time_s": 0.9326363122090697
+    },
+    {
+      "cpu_time_s": 1.3365949999999884,
+      "instance_id": "ta001",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1278
+      ],
+      "objective_values": [
+        1278
+      ],
+      "solver_info": {
+        "NumberOfBranches": 103236,
+        "NumberOfChoicePoints": 51966,
+        "NumberOfFails": 64788,
+        "NumberOfSolutions": 16,
+        "PeakMemoryUsage": 1433849,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.33
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 1.33,
+      "status": "Optimal",
+      "wall_time_s": 1.3389075519517064
+    },
+    {
+      "cpu_time_s": 1.1725800000000106,
+      "instance_id": "ta002",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1358
+      ],
+      "objective_values": [
+        1358
+      ],
+      "solver_info": {
+        "NumberOfBranches": 82110,
+        "NumberOfChoicePoints": 36618,
+        "NumberOfFails": 62739,
+        "NumberOfSolutions": 43,
+        "PeakMemoryUsage": 1459553,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.17
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 1.17,
+      "status": "Optimal",
+      "wall_time_s": 1.1748269880190492
+    },
+    {
+      "cpu_time_s": 1.3910989999999686,
+      "instance_id": "ta003",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1073
+      ],
+      "objective_values": [
+        1073
+      ],
+      "solver_info": {
+        "NumberOfBranches": 106741,
+        "NumberOfChoicePoints": 52038,
+        "NumberOfFails": 72127,
+        "NumberOfSolutions": 40,
+        "PeakMemoryUsage": 1436113,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.38
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 1.38,
+      "status": "Optimal",
+      "wall_time_s": 1.3938001631759107
+    },
+    {
+      "cpu_time_s": 1.4170830000000194,
+      "instance_id": "ta004",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1292
+      ],
+      "objective_values": [
+        1292
+      ],
+      "solver_info": {
+        "NumberOfBranches": 105458,
+        "NumberOfChoicePoints": 52169,
+        "NumberOfFails": 66723,
+        "NumberOfSolutions": 47,
+        "PeakMemoryUsage": 1459425,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.41
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 1.41,
+      "status": "Optimal",
+      "wall_time_s": 1.4205389809794724
+    },
+    {
+      "cpu_time_s": 2.328673999999978,
+      "instance_id": "ta005",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1231
+      ],
+      "objective_values": [
+        1231
+      ],
+      "solver_info": {
+        "NumberOfBranches": 171317,
+        "NumberOfChoicePoints": 86372,
+        "NumberOfFails": 104505,
+        "NumberOfSolutions": 36,
+        "PeakMemoryUsage": 1451361,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 2.32
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 2.32,
+      "status": "Optimal",
+      "wall_time_s": 2.3313613161444664
+    },
+    {
+      "cpu_time_s": 1.2031620000000203,
+      "instance_id": "ta006",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1193
+      ],
+      "objective_values": [
+        1193
+      ],
+      "solver_info": {
+        "NumberOfBranches": 98180,
+        "NumberOfChoicePoints": 50355,
+        "NumberOfFails": 63882,
+        "NumberOfSolutions": 52,
+        "PeakMemoryUsage": 1465953,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.2
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 1.2,
+      "status": "Optimal",
+      "wall_time_s": 1.2054538219235837
+    },
+    {
+      "cpu_time_s": 1.0617929999999944,
+      "instance_id": "ta007",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1234
+      ],
+      "objective_values": [
+        1234
+      ],
+      "solver_info": {
+        "NumberOfBranches": 83569,
+        "NumberOfChoicePoints": 38315,
+        "NumberOfFails": 62287,
+        "NumberOfSolutions": 41,
+        "PeakMemoryUsage": 1417961,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.06
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 1.06,
+      "status": "Optimal",
+      "wall_time_s": 1.0640284437686205
+    },
+    {
+      "cpu_time_s": 1.9211579999999913,
+      "instance_id": "ta008",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1199
+      ],
+      "objective_values": [
+        1199
+      ],
+      "solver_info": {
+        "NumberOfBranches": 144643,
+        "NumberOfChoicePoints": 71112,
+        "NumberOfFails": 92560,
+        "NumberOfSolutions": 59,
+        "PeakMemoryUsage": 1440945,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.91
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 1.91,
+      "status": "Optimal",
+      "wall_time_s": 1.9238486918620765
+    },
+    {
+      "cpu_time_s": 0.8222670000000107,
+      "instance_id": "ta009",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1210
+      ],
+      "objective_values": [
+        1210
+      ],
+      "solver_info": {
+        "NumberOfBranches": 68128,
+        "NumberOfChoicePoints": 31589,
+        "NumberOfFails": 50377,
+        "NumberOfSolutions": 44,
+        "PeakMemoryUsage": 1415633,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 0.81
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 0.81,
+      "status": "Optimal",
+      "wall_time_s": 0.8243936528451741
+    },
+    {
+      "cpu_time_s": 1.6364199999999869,
+      "instance_id": "ta010",
+      "n_jobs": 20,
+      "n_machines": 5,
+      "objective_bounds": [
+        1103
+      ],
+      "objective_values": [
+        1103
+      ],
+      "solver_info": {
+        "NumberOfBranches": 124300,
+        "NumberOfChoicePoints": 58751,
+        "NumberOfFails": 85044,
+        "NumberOfSolutions": 53,
+        "PeakMemoryUsage": 1465249,
+        "SearchStatus": "SearchCompleted",
+        "SearchStopCause": "SearchHasNotBeenStopped",
+        "SolveTime": 1.63
+      },
+      "solver_seed": 10,
+      "solver_solve_time_s": 1.63,
+      "status": "Optimal",
+      "wall_time_s": 1.6388411312364042
+    }
+  ],
+  "schema_version": 1,
+  "summary": {
+    "instances": {
+      "ta001": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          1.250073,
+          0.7358250000000002,
+          1.3345839999999995,
+          1.408186999999998,
+          1.472362000000004,
+          0.3251249999999999,
+          0.9132630000000006,
+          1.3126840000000044,
+          2.129108000000002,
+          1.3365949999999884
+        ],
+        "max_optimal_cpu_s": 2.129108000000002,
+        "median_optimal_cpu_s": 1.323634000000002,
+        "min_optimal_cpu_s": 0.3251249999999999,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "ta002": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.9093519999999997,
+          0.7877280000000013,
+          0.8062429999999985,
+          0.9225119999999976,
+          0.7215070000000026,
+          0.6777449999999874,
+          0.7413510000000088,
+          0.8441859999999934,
+          0.7932250000000067,
+          1.1725800000000106
+        ],
+        "max_optimal_cpu_s": 1.1725800000000106,
+        "median_optimal_cpu_s": 0.7997340000000026,
+        "min_optimal_cpu_s": 0.6777449999999874,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "ta003": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          1.411458,
+          1.6312009999999972,
+          1.461689000000007,
+          2.4899000000000058,
+          1.2214979999999969,
+          1.343623000000008,
+          2.1808690000000013,
+          1.6086770000000143,
+          1.2041279999999972,
+          1.3910989999999686
+        ],
+        "max_optimal_cpu_s": 2.4899000000000058,
+        "median_optimal_cpu_s": 1.4365735000000035,
+        "min_optimal_cpu_s": 1.2041279999999972,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "ta004": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          1.3542670000000006,
+          1.6437789999999985,
+          1.7002869999999959,
+          1.7303549999999959,
+          2.4588839999999976,
+          1.7524079999999884,
+          1.3166000000000082,
+          0.8109219999999908,
+          1.7995339999999942,
+          1.4170830000000194
+        ],
+        "max_optimal_cpu_s": 2.4588839999999976,
+        "median_optimal_cpu_s": 1.6720329999999972,
+        "min_optimal_cpu_s": 0.8109219999999908,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "ta005": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          4.733788999999999,
+          3.4168090000000007,
+          4.512186,
+          5.056974000000004,
+          2.5952879999999965,
+          3.376691000000008,
+          8.449483999999998,
+          3.1155689999999936,
+          2.8304899999999975,
+          2.328673999999978
+        ],
+        "max_optimal_cpu_s": 8.449483999999998,
+        "median_optimal_cpu_s": 3.3967500000000044,
+        "min_optimal_cpu_s": 2.328673999999978,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "ta006": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          1.0183780000000002,
+          1.2072780000000023,
+          1.1656669999999991,
+          1.1746549999999942,
+          1.3967130000000054,
+          1.9396680000000117,
+          1.0235040000000026,
+          1.3702910000000088,
+          0.9095550000000117,
+          1.2031620000000203
+        ],
+        "max_optimal_cpu_s": 1.9396680000000117,
+        "median_optimal_cpu_s": 1.1889085000000073,
+        "min_optimal_cpu_s": 0.9095550000000117,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "ta007": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          0.7825150000000001,
+          1.1642699999999984,
+          0.9383899999999983,
+          0.9491170000000082,
+          0.8705810000000014,
+          1.310855999999987,
+          1.319981999999996,
+          0.9346740000000011,
+          0.9711279999999931,
+          1.0617929999999944
+        ],
+        "max_optimal_cpu_s": 1.319981999999996,
+        "median_optimal_cpu_s": 0.9601225000000007,
+        "min_optimal_cpu_s": 0.7825150000000001,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "ta008": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          1.5576720000000002,
+          1.3817460000000032,
+          1.6458800000000053,
+          2.0008049999999926,
+          1.8894009999999923,
+          1.3187750000000023,
+          1.8082199999999915,
+          0.9766189999999995,
+          2.298293000000001,
+          1.9211579999999913
+        ],
+        "max_optimal_cpu_s": 2.298293000000001,
+        "median_optimal_cpu_s": 1.7270499999999984,
+        "min_optimal_cpu_s": 0.9766189999999995,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "ta009": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          1.009684,
+          1.0829869999999993,
+          0.8422889999999938,
+          1.3922159999999977,
+          0.6032410000000112,
+          1.3568990000000127,
+          1.0524390000000068,
+          0.8874770000000041,
+          1.2293030000000158,
+          0.8222670000000107
+        ],
+        "max_optimal_cpu_s": 1.3922159999999977,
+        "median_optimal_cpu_s": 1.0310615000000034,
+        "min_optimal_cpu_s": 0.6032410000000112,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      },
+      "ta010": {
+        "all_optimal": true,
+        "cpu_times_s": [
+          1.2469940000000008,
+          1.5898379999999968,
+          1.0362790000000075,
+          1.953592999999998,
+          1.1751670000000018,
+          0.6811079999999805,
+          1.3170919999999882,
+          1.8198939999999908,
+          0.9301729999999964,
+          1.6364199999999869
+        ],
+        "max_optimal_cpu_s": 1.953592999999998,
+        "median_optimal_cpu_s": 1.2820429999999945,
+        "min_optimal_cpu_s": 0.6811079999999805,
+        "statuses": [
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal",
+          "Optimal"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+    "task[1]": {
+        "gen": {
+            "comment": false,
+            "solver": "concorde",
+            "max_time": 200,
+            "N": 20,
+            "encoding": "perm_int",
+            "code": "gt1_ham_pint_pow2_s",
+            "budget": 15000,
+            "iters": 2,
+            "seed": 20260601,
+            "opt": {
+                "DiscreteDoerrOnePlusOne": {
+                    "Solver": "DiscreteDoerrOnePlusOne"
+                },
+                "ChainDE": {
+                    "Solver": "ChainDE"
+                },
+                "MemeticDE": {
+                    "Solver": "MemeticDE"
+                },
+                "QNDE": {
+                    "Solver": "QNDE"
+                },
+                "ChainNaiveTBPSAPowell": {
+                    "Solver": "ChainNaiveTBPSAPowell"
+                },
+                "ChainDSPowell": {
+                    "Solver": "ChainDSPowell"
+                },
+                "Cobyla": {
+                    "Solver": "Cobyla"
+                },
+                "RCobyla": {
+                    "Solver": "RCobyla"
+                },
+                "NelderMead": {
+                    "Solver": "NelderMead"
+                },
+                "Powell": {
+                    "Solver": "Powell"
+                },
+                "RPowell": {
+                    "Solver": "RPowell"
+                },
+                "MicroSQP": {
+                    "Solver": "MicroSQP"
+                },
+                "SQP": {
+                    "Solver": "SQP"
+                },
+                "RSQP": {
+                    "Solver": "RSQP"
+                },
+                "TinySQP": {
+                    "Solver": "TinySQP"
+                },
+                "Carola15": {
+                    "Solver": "Carola15"
+                },
+                "FCarola6": {
+                    "Solver": "FCarola6"
+                },
+                "PCarola6": {
+                    "Solver": "PCarola6"
+                },
+                "pCarola6": {
+                    "Solver": "pCarola6"
+                },
+                "ChainCMAPowell": {
+                    "Solver": "ChainCMAPowell"
+                },
+                "ChainCMASQP": {
+                    "Solver": "ChainCMASQP"
+                },
+                "ChainMetaModelDSSQP": {
+                    "Solver": "ChainMetaModelDSSQP"
+                },
+                "ChainMetaModelPowell": {
+                    "Solver": "ChainMetaModelPowell"
+                },
+                "ChainMetaModelSQP": {
+                    "Solver": "ChainMetaModelSQP"
+                },
+                "MetaModelDSproba": {
+                    "Solver": "MetaModelDSproba"
+                },
+                "MetaModelFmin2": {
+                    "Solver": "MetaModelFmin2"
+                },
+                "BAR4": {
+                    "Solver": "BAR4"
+                }
+            },
+            "F_unflat": "neg_pow2",
+            "batch": 1,
+            "worker": 2,
+            "debug": 0,
+            "salt": 0,
+            "chunk": 5000,
+            "k": 21,
+            "F": "geomean3_median",
+            "seed_per_call": true,
+            "seed_n_reps": 3
+        }
+    }
+}

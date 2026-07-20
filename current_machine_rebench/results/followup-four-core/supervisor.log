@@ -1,0 +1,6 @@
+2026-07-19T10:28:51+00:00 FOLLOWUP START repository=. output=current_machine_rebench/results/followup-four-core
+2026-07-19T12:26:27+00:00 SCREEN/HEADLINE PHASE DONE
+wrote current_machine_rebench/results/followup-four-core/tsp-random-candidates.json
+wrote current_machine_rebench/results/followup-four-core/tsp-random-final.json
+wrote current_machine_rebench/results/followup-four-core/tsp-20009.json
+2026-07-19T12:31:20+00:00 FOLLOWUP COMPLETE

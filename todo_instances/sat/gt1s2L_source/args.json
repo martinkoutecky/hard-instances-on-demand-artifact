@@ -1,0 +1,1 @@
+["--task", "SAT", "--code", "gt1s2L_sat", "--k", "10", "--reps", "5", "--min", "0.0", "--cells-per-opt", "5", "--top-cells", "0", "--sample", "0", "--tag", "gt1s2L_sat", "--extra-args", "{}", "--run-dir", "<home>/individual_software_project/.rebench_bg/SAT_gt1s2L_sat"]

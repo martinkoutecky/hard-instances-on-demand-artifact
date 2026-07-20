@@ -1,0 +1,50 @@
+{
+  "cap_seconds": 30.0,
+  "breakid_runtime_included": false,
+  "instances": [
+    {
+      "hash": "3aef3d8d02941ba7ddb18adc128259ae",
+      "variables": "156",
+      "clauses": "937",
+      "gbd_variables": "156",
+      "gbd_clauses": "937",
+      "family": "pigeon-hole",
+      "author": "reeves",
+      "result": "unsat",
+      "filename": "3aef3d8d02941ba7ddb18adc128259ae",
+      "tracks": "anni_2022,main_2021",
+      "local_path": "instances/3aef3d8d02941ba7ddb18adc128259ae.cnf",
+      "times": [
+        11.775708941
+      ],
+      "median": 11.775708941,
+      "min": 11.775708941,
+      "max": 11.775708941,
+      "breakid_preprocess_wall_seconds_excluded": 0.016500716097652912,
+      "symmetry_broken_clauses": 1696,
+      "solvers": {
+        "minisat22": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "breakid+cadical195": {
+          "time": 12.037328435,
+          "status": false
+        },
+        "cryptominisat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "kissat": {
+          "time": 30.0,
+          "status": "timeout"
+        },
+        "march": {
+          "time": 30.0,
+          "status": "error: [Errno 2] No such file or directory: '<legacy-repo>/SAT_BENCHMARK/tools/march_cu'"
+        }
+      },
+      "portfolio_min": 12.037328435
+    }
+  ]
+}

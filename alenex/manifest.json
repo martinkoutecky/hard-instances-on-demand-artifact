@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "artifact_base": {
+    "ref": "origin/thesis-champions",
+    "commit": "01cf62e"
+  },
+  "audited_sources": {
+    "thesis": "26aa51a",
+    "paper": "b0c488e",
+    "experiments": "c0d119c"
+  },
+  "domains": {
+    "sat": {
+      "config_groups": [
+        {"glob": "SAT/config_gt1_sat_*.json", "count": 6},
+        {"glob": "SAT/config_gt1s2_sat_*.json", "count": 6}
+      ],
+      "champion_glob": "champions/sat/*.cnf",
+      "champion_count": 18,
+      "headline": [
+        "champions/sat/champ_MultiScaleCMA_kcnf_gt1s2L.cnf",
+        "champions/sat/champ_TripleCMA_mpfx_gt1s2L.cnf"
+      ],
+      "runners": [
+        "SAT/exp.py",
+        "SAT/ng_class.py",
+        "SAT/solution_portfolio.py"
+      ]
+    },
+    "tsp": {
+      "config_groups": [
+        {"glob": "TSP/config_gt1_tsp_*.json", "count": 6},
+        {"glob": "TSP/config_gt1s2_tsp_*.json", "count": 3},
+        {"glob": "TSP/config_gt1s2rs_tsp_*.json", "count": 1},
+        {"glob": "TSP/exp_optimizer_compare.json", "count": 1}
+      ],
+      "champion_glob": "champions/tsp/*.tsp",
+      "champion_count": 12,
+      "headline": [
+        "champions/tsp/champ_Shiwa_dm_log_p_it2.tsp",
+        "champions/tsp/champ_CMA_dm_neg_p_it4.tsp",
+        "champions/tsp/champ_DiagonalCMA_U10000.tsp"
+      ],
+      "runners": [
+        "TSP/exp.py",
+        "TSP/ng_class.py",
+        "TSP/solution_concorde.py"
+      ]
+    },
+    "ham": {
+      "config_groups": [
+        {"glob": "Ham/config_gt1_ham_*.json", "count": 18},
+        {"glob": "Ham/config_gt1s2_ham_*.json", "count": 9}
+      ],
+      "champion_glob": "champions/ham/*.hcp",
+      "champion_count": 26,
+      "headline": [
+        "champions/ham/champ_DiscreteBSO_pthr.hcp",
+        "champions/ham/champ_NGOptRW_triv.hcp",
+        "champions/ham/champ_TwoPointsDE_pthr.hcp"
+      ],
+      "runners": [
+        "Ham/exp.py",
+        "Ham/ng_class.py",
+        "Ham/solution_concorde.py"
+      ]
+    },
+    "npfs": {
+      "legacy_directory": "JSSP",
+      "problem": "non-permutation flow shop F_m||C_max",
+      "config_groups": [
+        {"glob": "JSSP/config_gt1_jssp_mat_*.json", "count": 6},
+        {"glob": "JSSP/config_gt1_jssp_cpopt_*.json", "count": 6},
+        {"glob": "JSSP/config_gt1s2_jssp_cpopt_*.json", "count": 3},
+        {"glob": "JSSP/exp_8x4_dia2pde.json", "count": 1},
+        {"glob": "JSSP/exp_bench_10x5.json", "count": 1}
+      ],
+      "champion_glob": "champions/jssp/*.txt",
+      "champion_count": 12,
+      "headline": [
+        "champions/jssp/champ_ChainCMAwithR_6x4.txt",
+        "champions/jssp/champ_DiagonalCMA_8x4.txt",
+        "champions/jssp/champ_DE_10x5.txt"
+      ],
+      "runners": [
+        "JSSP/exp.py",
+        "JSSP/ng_class.py",
+        "JSSP/solution.py",
+        "JSSP/solution_cpopt.py"
+      ]
+    }
+  },
+  "required_files": [
+    "champions/verification_thesis.json",
+    "SAT/breakid",
+    "SAT/libbreakid.so",
+    "SAT/libbreakid.so.3.1",
+    "comparisons/vrf_cpopt_10x5/run_cpopt.py",
+    "comparisons/vrf_cpopt_10x5/instances.json",
+    "comparisons/npfs/run_external_npfs.py",
+    "comparisons/npfs/demirkol-fcmax.txt",
+    "comparisons/npfs/taillard20x5-official-npfs.json",
+    "comparisons/npfs/taillard-generator-10x5-cpopt.json",
+    "comparisons/sat_comp/SAT-COMP-REPORT.md",
+    "comparisons/sat_comp/manifest.csv",
+    "comparisons/sat_comp/fetch_instances.py",
+    "comparisons/sat_comp/benchmark_portfolio.py",
+    "comparisons/sat_comp/results/champions-portfolio.json",
+    "comparisons/external_benchmarks/README.md",
+    "comparisons/external_benchmarks/manifest.json",
+    "comparisons/external_benchmarks/prepare_instances.py",
+    "todo_instances/manifest.json",
+    "current_machine_rebench/monitor_cpu_frequency.py",
+    "current_machine_rebench/run_all.sh",
+    "current_machine_rebench/run_domain_suite_supervised.sh",
+    "current_machine_rebench/run_sat_screen_supervised.sh",
+    "current_machine_rebench/run_supervised.sh",
+    "current_machine_rebench/run_rebench.py",
+    "current_machine_rebench/sat_randomsearch.py"
+  ],
+  "known_missing_ids": [
+    "sat_kcnf_100k_randomsearch_control",
+    "sat_mprefix_100k_randomsearch_control"
+  ]
+}
