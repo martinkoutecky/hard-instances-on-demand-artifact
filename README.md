@@ -1,7 +1,7 @@
 # Hard Instances on Demand -- ALENEX 2027 artifact
 
 **Paper:** *Hard Instances on Demand*
-**Authors:** Pasha TODO-SURNAME, Martin Koutecký, Jamie TODO-SURNAME
+**Authors:** Pavlo Tsitsei, Martin Koutecký, Jamie Fravel
 Accepted at the 2027 SIAM Symposium on Algorithm Engineering and Experiments
 (ALENEX 2027).
 
