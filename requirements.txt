@@ -7,11 +7,16 @@
 #   python3 -m venv .venv && . .venv/bin/activate
 #   pip install -r requirements.txt
 #
-# Not installable from PyPI, and needed only for the subsets noted:
+# Not in this file, and needed only for the subsets noted:
 #   * Concorde            -- TSP and Hamiltonian-cycle suites
-#   * IBM CP Optimizer    -- the CP Optimizer arm of the flow-shop (NPFS) suite;
-#                            free under an IBM academic license.  Point
-#                            CPOPT_EXECFILE at the `cpoptimizer` binary.
+#   * IBM CP Optimizer    -- the CP Optimizer arm of the flow-shop (NPFS) suite.
+#                            Free option, no IBM account needed:
+#                                pip install cplex==22.1.2.1
+#                            installs the Community Edition `cpoptimizer` onto
+#                            PATH, byte-identical to a binary we measured with.
+#                            It is kept out of this file because installing it
+#                            accepts IBM's license terms.  See the README
+#                            section "IBM CP Optimizer" for details.
 # Everything else (SAT, CP-SAT flow shop, all table regeneration) runs with the
 # packages below alone.  Prebuilt Linux x86-64 binaries for the SAT transfer
 # portfolio (breakid, kissat, march_cu) are committed under dpll4_portfolio/bin/.
@@ -19,5 +24,6 @@
 nevergrad
 numpy
 ortools
+docplex==2.32.264   # CP Optimizer modeling layer; version as recorded
 python-sat==1.9.dev2
 pycryptosat==5.14.4

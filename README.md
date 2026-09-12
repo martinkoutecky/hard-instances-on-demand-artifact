@@ -30,6 +30,7 @@ aggregation code that produced the published numbers
 
 ```sh
 pip install -r requirements.txt
+pip install cplex==22.1.2.1   # optional: free CP Optimizer, flow-shop suite only
 ./runme.sh --smoke  # + one small solve per suite: validates the toolchain
 ./runme.sh --full   # + the complete remeasurement campaign (many hours)
 ```
@@ -99,8 +100,9 @@ remeasurement; the saved cell winners are under `champions/`.
 
 1. Environment: Python 3.12 with `nevergrad`, `python-sat` (1.9.dev2, provides
    `minisat22` and `cadical195`), `pycryptosat` (5.14.4), `ortools` (CP-SAT),
-   `numpy`. External binaries: Concorde (TSP/HAM), IBM CP Optimizer (point
-   `CPOPT_EXECFILE` at your `cpoptimizer` binary; NPFS rows need it).
+   `numpy`. External binaries: Concorde (TSP/HAM) and IBM CP Optimizer
+   (NPFS only; free via `pip install cplex==22.1.2.1`, see "IBM CP Optimizer"
+   below).
    Linux x86-64 binaries for the SAT transfer portfolio are included under
    `dpll4_portfolio/bin/` (`breakid`, `kissat`, `march_cu`) and `SAT/`
    (`breakid`, `libbreakid.so`).
@@ -123,6 +125,53 @@ remeasurement; the saved cell winners are under `champions/`.
    `python3 SAT/exp.py --file SAT/config_gt1s2_sat_kcnf_log.json` from the
    packet root. Budgets are large; searching is not required to verify the
    paper's tables.
+
+## IBM CP Optimizer
+
+Only the flow-shop (NPFS) suite needs CP Optimizer. SAT, TSP, Hamiltonian
+cycle, the CP-SAT flow-shop arm, and the default `./runme.sh` pass do not;
+`./runme.sh --smoke` skips its flow-shop case when CP Optimizer is absent.
+
+**Free install, no IBM account needed:**
+
+```sh
+pip install docplex==2.32.264 cplex==22.1.2.1
+sha256sum "$(command -v cpoptimizer)"
+# 9c48263696fa8dad16885aa284c4c7fda7e2f303b2983b31f005288e156fc18f
+```
+
+The `cplex` wheel is IBM's CPLEX Optimization Studio Community Edition and puts
+a `cpoptimizer` executable on `PATH`. Installing it means accepting IBM's
+Community Edition license, which is why it is not in `requirements.txt`. The
+code looks for the solver in `CPOPT_EXECFILE` first, then on `PATH`; set
+`CPOPT_EXECFILE` to use a full (e.g. academic) installation instead. The
+Community Edition binary above is byte-identical to one we measured with (see
+the table below).
+
+**Is the Community Edition enough?** We expect so, for every flow-shop number
+in the paper. It refuses models whose search space exceeds 2^1000. All 237
+Community Edition solves recorded in this artifact, on instances up to 20x5
+(the largest the paper measures), reached proven optimality. The one refusal
+is Demirkol 20x15 (`comparisons/npfs/demirkol-pilot-300s.json`, status
+`LicenseLimit`), which the paper cites for its size only and does not measure.
+The 6x4 cases and the official VRF 10x5 instances were measured only with the
+full Studio binary, so the Community Edition has not been run on those exact
+instances.
+
+**Which binary produced which numbers:**
+
+| CP Optimizer binary | sha256 | Measurements |
+|---|---|---|
+| Full CPLEX Optimization Studio (academic license), installed as `CPLEX_Studio222` | `8d300e995b34ff69359442aa41dd80db2e43dd86a8a8631c9d6b94e1135afcc8` | NPFS 6x4, 8x4, 10x5 champions and controls, both arms (`current_machine_rebench/results/paper_instances.json`); official VRF 10x5 comparison (`measurements/vrf-npfs/`) |
+| Community Edition, `pip install cplex==22.1.2.1` | `9c48263696fa8dad16885aa284c4c7fda7e2f303b2983b31f005288e156fc18f` | Official Taillard 20x5 comparison; Taillard-generator 10x5 diagnostic; 8x4 and 10x5 champion cross-checks; Demirkol pilot (all in `comparisons/npfs/`) |
+| Not recorded | -- | "Typical random" NPFS medians (`measurements/typical-random/`, first `cpoptimizer` on `PATH`); fresh 8x4 uniform control (`followup-four-core/npfs8-control.json`, script defaults to the Studio path) |
+
+**Expect the free binary to run slightly slower than the Studio one.** On the
+same machine, instances, and solver seeds 1-7, the Community Edition took 7.41 s
+vs 7.23 s on the 8x4 champion (+2.5%) and 255.5 s vs 238.6 s on the 10x5
+champion (+7.1%); compare `comparisons/npfs/champion{8,10}-npfs.json` with
+`paper_instances.json`. The paper's flow-shop claims are ratios of one to two
+orders of magnitude, so a difference of this size does not affect them.
 
 ## Anonymization notes (retained from the double-blind review packet)
 

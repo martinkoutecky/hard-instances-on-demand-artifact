@@ -38,6 +38,7 @@ for module, needed_for in [
     ("pysat", "SAT measurement (python-sat)"),
     ("pycryptosat", "SAT measurement (cryptominisat branch)"),
     ("ortools", "flow-shop CP-SAT arm"),
+    ("docplex", "flow-shop CP Optimizer arm (modeling layer)"),
 ]:
     found = importlib.util.find_spec(module) is not None
     print(f"  {'OK     ' if found else 'MISSING'} {module:<14} {needed_for}")
@@ -48,10 +49,12 @@ for binary, needed_for in [
     path = shutil.which(binary)
     print(f"  {'OK     ' if path else 'MISSING'} {binary:<14} {needed_for}"
           + (f"  [{path}]" if path else ""))
+# Same discovery order as the solver code: CPOPT_EXECFILE, then PATH.
 cpopt = os.environ.get("CPOPT_EXECFILE")
-ok = bool(cpopt) and os.path.isfile(cpopt) and not cpopt.startswith("<")
-print(f"  {'OK     ' if ok else 'MISSING'} CPOPT_EXECFILE flow-shop CP Optimizer arm"
-      + (f"  [{cpopt}]" if cpopt else "  (unset)"))
+if not (cpopt and os.path.isfile(cpopt) and os.access(cpopt, os.X_OK)):
+    cpopt = shutil.which("cpoptimizer")
+print(f"  {'OK     ' if cpopt else 'MISSING'} cpoptimizer    flow-shop CP Optimizer arm"
+      + (f"  [{cpopt}]" if cpopt else "  (see README: IBM CP Optimizer)"))
 print("\nMissing entries only limit which suites can be re-measured;"
       "\nsteps 2-4 below need none of them.")
 PY
@@ -77,8 +80,18 @@ if [[ "${MODE}" == "default" ]]; then
 fi
 
 hr "Step 5  smoke solve (one small case per suite)"
+SUITES=(--suite sat)
+# The flow-shop suite needs CP Optimizer for every case (it cross-evaluates
+# each instance on both solvers), so run it only when the solver is present.
+if python3 -c 'import docplex' 2>/dev/null \
+   && { [[ -x "${CPOPT_EXECFILE:-}" ]] || command -v cpoptimizer >/dev/null; }; then
+  SUITES+=(--suite npfs)
+else
+  echo "CP Optimizer not found: skipping the flow-shop (npfs) smoke case."
+  echo "See the README section 'IBM CP Optimizer' for the free install."
+fi
 python3 -u current_machine_rebench/run_rebench.py \
-  --smoke --output "${OUT}/smoke.json" --suite sat --suite npfs
+  --smoke --output "${OUT}/smoke.json" "${SUITES[@]}"
 echo "Smoke results in ${OUT}/smoke.json."
 echo "NOTE: smoke runs are dependency validation only and are deliberately NOT"
 echo "comparable to the paper's numbers (see the 'Do not use' list in"
