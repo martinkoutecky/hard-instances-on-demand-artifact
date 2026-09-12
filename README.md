@@ -1,15 +1,43 @@
-# Anonymous artifact: evolving hard instances with black-box optimization
+# Hard Instances on Demand -- ALENEX 2027 artifact
 
-Accompanying code and data for an ALENEX 2027 submission. The paper presents a
-problem-agnostic protocol that evolves hard instances for a given solver by
-black-box optimization (Nevergrad), validated on SAT (three-solver portfolio),
-TSP (Concorde), Hamiltonian cycle (Concorde reduction), and non-permutation
-flow shop / F_m||C_max (CP-SAT and CP Optimizer).
+**Paper:** *Hard Instances on Demand*
+**Authors:** Pasha TODO-SURNAME, Martin Koutecký, Jamie TODO-SURNAME
+Accepted at the 2027 SIAM Symposium on Algorithm Engineering and Experiments
+(ALENEX 2027).
 
-This packet is anonymized for double-blind review. If the paper is accepted,
-the same contents will be published non-anonymously in a public repository
-(with the third-party archive cache restored); nothing here is
-review-only-conditional.
+Code and data for a problem-agnostic protocol that evolves hard instances for a
+given solver by black-box optimization (Nevergrad), validated on SAT
+(three-solver portfolio), TSP (Concorde), Hamiltonian cycle (Concorde
+reduction), and non-permutation flow shop / F_m||C_max (CP-SAT and CP
+Optimizer).
+
+Licensed under the Apache License 2.0 (`LICENSE`). Third-party solver binaries
+redistributed under `dpll4_portfolio/bin/` and `SAT/` keep their own licenses.
+
+## Quick start
+
+```sh
+./runme.sh          # ~1 minute, runs no solver, needs no dependencies
+```
+
+That pass (1) reports which optional dependencies are present, (2) validates
+the shipped inventory, (3) re-verifies all 194 referenced instance files
+against the sha256 recorded when they were measured, and (4) **recomputes the
+paper's aggregate tables from the committed measurement files**, using the same
+aggregation code that produced the published numbers
+(`current_machine_rebench.run_rebench.summarize`). Output lands in
+`runme_out/`.
+
+```sh
+pip install -r requirements.txt
+./runme.sh --smoke  # + one small solve per suite: validates the toolchain
+./runme.sh --full   # + the complete remeasurement campaign (many hours)
+```
+
+Re-running the searches themselves is *not* required to check the paper's
+tables; see "Re-running the remeasurement" below for what each tier costs.
+`current_machine_rebench/CURRENT-MACHINE-PAPER-NUMBERS.md` maps every result
+file to every number in the paper -- read it first.
 
 ## Layout
 
@@ -52,15 +80,16 @@ All measurements below were taken on one machine: AMD Ryzen 5 8600G
 | Official Taillard 20x5 NPFS comparison | `comparisons/npfs/taillard20x5-official-npfs.json` |
 | Official VRF 10x5 NPFS comparison | `measurements/vrf-npfs/vrf10x5-official-npfs.json` |
 
+| CPU frequency/temperature conditions | `current_machine_rebench/results/cpu-frequency.csv` and the per-campaign `cpu-frequency.csv` under `followup-four-core/` and `ham-random-four-core/` |
+| "Typical random" medians (SAT kcnf, NPFS 8x4 and 10x5) | `measurements/typical-random/` (receipts, script, frequency log) |
+| Four-solver paradigm-diverse SAT champions (1.36 s portfolio min, 130x typical) | instances/configs/objective in `dpll4_portfolio/`; reference-machine per-branch remeasurement and typical control in `measurements/dpll4-remeasure/` |
+| Official VRF 10x5 under NPFS (hardest median 3.8 s, champion 62x) | `measurements/vrf-npfs/` (instances + model in `comparisons/vrf_cpopt_10x5/`) |
+
 Note on the external NPFS medians: the paper quotes Taillard/VRF medians
 over solver seeds 1-7 (ta005 4.512 s, VFR10_5_2 3.808 s) to match the
 champion's evaluation-seed protocol. The JSONs contain all ten per-seed
 values; the 10-seed medians (3.397 s / 3.813 s) differ for ta005 because
 its per-seed times vary.
-| CPU frequency/temperature conditions | `current_machine_rebench/results/cpu-frequency.csv` and the per-campaign `cpu-frequency.csv` under `followup-four-core/` and `ham-random-four-core/` |
-| "Typical random" medians (SAT kcnf, NPFS 8x4 and 10x5) | `measurements/typical-random/` (receipts, script, frequency log) |
-| Four-solver paradigm-diverse SAT champions (1.36 s portfolio min, 130x typical) | instances/configs/objective in `dpll4_portfolio/`; reference-machine per-branch remeasurement and typical control in `measurements/dpll4-remeasure/` |
-| Official VRF 10x5 under NPFS (hardest median 3.8 s, champion 62x) | `measurements/vrf-npfs/` (instances + model in `comparisons/vrf_cpopt_10x5/`) |
 
 Historical Stage-1 screening numbers in the appendix are results of the
 original screening campaign (see `ALENEX_MANIFEST.md`), not of this
@@ -95,7 +124,12 @@ remeasurement; the saved cell winners are under `champions/`.
    packet root. Budgets are large; searching is not required to verify the
    paper's tables.
 
-## Anonymization notes
+## Anonymization notes (retained from the double-blind review packet)
+
+These transformations were applied for double-blind submission and are
+left in place so that the published artifact stays byte-comparable with
+the reviewed one. They affect provenance records only; no script depends
+on them.
 
 - Path placeholders. Historical absolute paths in result JSONs, logs, and
   scripts were rewritten: paths inside the experiment repository are now

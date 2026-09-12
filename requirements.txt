@@ -1,0 +1,23 @@
+# Python dependencies for the ALENEX 2027 artifact "Hard Instances on Demand".
+#
+# Versions below are the ones used for every measurement reported in the paper
+# (AMD Ryzen 5 8600G, Python 3.12, Linux x86-64).  Pinning is deliberate: the
+# SAT branch labels in the paper depend on which backends python-sat exposes.
+#
+#   python3 -m venv .venv && . .venv/bin/activate
+#   pip install -r requirements.txt
+#
+# Not installable from PyPI, and needed only for the subsets noted:
+#   * Concorde            -- TSP and Hamiltonian-cycle suites
+#   * IBM CP Optimizer    -- the CP Optimizer arm of the flow-shop (NPFS) suite;
+#                            free under an IBM academic license.  Point
+#                            CPOPT_EXECFILE at the `cpoptimizer` binary.
+# Everything else (SAT, CP-SAT flow shop, all table regeneration) runs with the
+# packages below alone.  Prebuilt Linux x86-64 binaries for the SAT transfer
+# portfolio (breakid, kissat, march_cu) are committed under dpll4_portfolio/bin/.
+
+nevergrad
+numpy
+ortools
+python-sat==1.9.dev2
+pycryptosat==5.14.4
