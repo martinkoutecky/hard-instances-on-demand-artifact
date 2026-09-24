@@ -11,6 +11,14 @@ printed row onto its table in the paper.
 
 Usage:
     python3 report_tables.py [--json OUT.json] [--report PATH ...]
+    python3 report_tables.py --report RERUN/paper_instances.json --compare
+    python3 report_tables.py --report RERUN/tsp-full-r3.json --compare \
+        --baseline current_machine_rebench/results/followup-four-core/tsp-full-r3.json
+
+With ``--compare`` the script additionally prints every headline aggregate of
+the given report next to the same aggregate recomputed from the committed
+measurement file it re-measures (``--baseline``, default paper_instances.json),
+with the ratio rerun/paper.
 """
 
 from __future__ import annotations
@@ -18,6 +26,7 @@ from __future__ import annotations
 import argparse
 import importlib.util
 import json
+import re
 import sys
 import types
 from pathlib import Path
@@ -98,6 +107,59 @@ def _print_block(title: str, node: object, indent: int = 0) -> None:
         print(f"{pad}{title}: {_fmt(node)}")
 
 
+# Headline aggregates compared by --compare.  Per-branch SAT medians are left
+# out (they feed the virtual-best rows), as are counts, censoring bookkeeping,
+# and the per-case rows of the external benchmarks (their per-family medians
+# are kept).
+HEADLINE_KEYS = (
+    "virtual_best_median_s",
+    "median_s",
+    "median_of_case_medians_s",
+    "geomean_s",
+)
+
+
+def _headline_rows(node: object, path: tuple[str, ...] = ()) -> dict:
+    rows = {}
+    if isinstance(node, dict):
+        for key, value in node.items():
+            if key in ("branches", "cases"):
+                continue
+            if key in HEADLINE_KEYS and isinstance(value, (int, float)):
+                # Fresh random-search controls are named by rank and by the
+                # evaluation index that produced them; a rerun re-ranks the
+                # seeded candidates by measured time, so align by rank only.
+                name = re.sub(r"_eval\d+", "", "/".join(path + (key,)))
+                rows[name] = float(value)
+            else:
+                rows.update(_headline_rows(value, path + (str(key),)))
+    return rows
+
+
+def _print_comparison(paper: dict, rerun: dict) -> None:
+    paper_rows = _headline_rows(paper)
+    rerun_rows = _headline_rows(rerun)
+    print("=" * 78)
+    print("Rerun vs. paper (committed measurements), headline aggregates in seconds")
+    print("=" * 78)
+    width = max(len(key) for key in paper_rows.keys() | rerun_rows.keys())
+    print(f"{'aggregate':<{width}}  {'paper':>10}  {'rerun':>10}  {'rerun/paper':>11}")
+    for key in sorted(paper_rows.keys() | rerun_rows.keys()):
+        old = paper_rows.get(key)
+        new = rerun_rows.get(key)
+        ratio = f"{new / old:11.2f}" if old and new is not None else f"{'-':>11}"
+        old_s = f"{old:10.3f}" if old is not None else f"{'missing':>10}"
+        new_s = f"{new:10.3f}" if new is not None else f"{'missing':>10}"
+        print(f"{key:<{width}}  {old_s}  {new_s}  {ratio}")
+    print(
+        "\nAbsolute times depend on the machine; the paper's claims are about"
+        "\nratios between instances, so compare the rerun/paper column across"
+        "\nrows rather than to 1.  The SAT fresh_rs_* controls are the top-20 of"
+        "\na seeded random search ranked by measured solve time, so a rerun may"
+        "\nselect different instances at each rank."
+    )
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -110,7 +172,21 @@ def main() -> int:
     parser.add_argument(
         "--json", type=Path, help="also write the recomputed summary to this file"
     )
+    parser.add_argument(
+        "--compare",
+        action="store_true",
+        help="compare the (single) --report against the committed measurements",
+    )
+    parser.add_argument(
+        "--baseline",
+        type=Path,
+        default=DEFAULT_REPORTS[0],
+        help="committed report that --compare compares against "
+        "(default: paper_instances.json)",
+    )
     args = parser.parse_args()
+    if args.compare and len(args.report) != 1:
+        parser.error("--compare needs exactly one --report")
 
     stubbed = _install_import_stubs()
     if stubbed:
@@ -138,6 +214,11 @@ def main() -> int:
         for suite, node in summary.items():
             print(f"\n--- {suite} " + "-" * (72 - len(suite)))
             _print_block("", node)
+        print()
+
+    if args.compare:
+        baseline = json.loads(args.baseline.read_text(encoding="utf-8"))
+        _print_comparison(rebench.summarize(baseline), next(iter(summaries.values())))
         print()
 
     if args.json:

@@ -31,9 +31,16 @@ aggregation code that produced the published numbers
 ```sh
 pip install -r requirements.txt
 pip install cplex==22.1.2.1   # optional: free CP Optimizer, flow-shop suite only
-./runme.sh --smoke  # + one small solve per suite: validates the toolchain
-./runme.sh --full   # + the complete remeasurement campaign (many hours)
+./runme.sh --smoke --cpu 2    # + one small solve per suite: validates the toolchain
+./runme.sh --full  --cpu 2    # + the complete remeasurement (~1 day, one core)
 ```
+
+`--cpu N` pins every solver run to logical CPU `N` with `taskset` (default 1;
+choose an idle core). The measurement code refuses to run without a
+single-CPU affinity, so do not call `current_machine_rebench/run_rebench.py`
+directly without `taskset -c N`. `--full` ends by printing the paper's tables
+recomputed from the new measurements next to the committed (paper) values,
+with the ratio rerun/paper per row; see "Re-running the remeasurement" below.
 
 Re-running the searches themselves is *not* required to check the paper's
 tables; see "Re-running the remeasurement" below for what each tier costs.
@@ -106,11 +113,54 @@ remeasurement; the saved cell winners are under `champions/`.
    Linux x86-64 binaries for the SAT transfer portfolio are included under
    `dpll4_portfolio/bin/` (`breakid`, `kissat`, `march_cu`) and `SAT/`
    (`breakid`, `libbreakid.so`).
-2. Serial campaign (SAT/TSP/HAM/NPFS + external families):
-   `current_machine_rebench/run_all.sh` (checkpointed; see
-   `current_machine_rebench/README.md` for the protocol, solver pinning, and
-   virtual-best scoring). Follow-up four-core campaigns:
-   `run_followup_four_core.sh`, `run_ham_random_four_core.sh`.
+2. Serial campaign (SAT/TSP/HAM/NPFS + external families), one core:
+
+   ```sh
+   ./runme.sh --full --cpu 2 [--out DIR]     # default DIR: runme_out/rerun
+   ```
+
+   This runs `current_machine_rebench/run_all.sh 2 DIR` (protocol, solver
+   pinning and virtual-best scoring: `current_machine_rebench/README.md`) and
+   then `./runme.sh --tables DIR`, which writes `DIR/tables.txt` and
+   `DIR/tables.json`: every headline aggregate of `DIR/paper_instances.json`
+   next to the same aggregate of the committed
+   `current_machine_rebench/results/paper_instances.json`, i.e. the paper's
+   numbers. Absolute times depend on the machine; the paper's claims are
+   ratios between instances. Our run of this campaign took about 17 hours
+   (Ryzen 5 8600G, with the TSP/HAM suites on two further cores); serially on
+   one core, expect about a day. The campaign is checkpointed: re-running the
+   same command resumes it.
+
+   **Always give `run_all.sh` an output directory.** Called without one, it
+   writes into the committed `current_machine_rebench/results/`, overwriting
+   the shipped SAT random-search controls and external-instance files, and then
+   stops with `checkpoint protocol mismatch` because the fresh controls no
+   longer match the committed `paper_instances.json`. `runme.sh` never does
+   this; if it happened to you, restore the shipped files with
+   `git checkout -- current_machine_rebench/results`.
+
+   The paper's TSP/HAM generated-champion rows and the TSP/HAM/NPFS-8x4
+   RandomSearch controls come from two short four-core follow-up campaigns
+   (see the table above). They pin to CPUs 1-4 and 11, so need a machine with
+   at least 12 logical CPUs, and took about 2 h and 45 min:
+
+   ```sh
+   current_machine_rebench/run_followup_four_core.sh "$PWD/runme_out/followup"
+   current_machine_rebench/run_ham_random_four_core.sh "$PWD/runme_out/ham-random"
+   python3 report_tables.py --compare \
+     --report runme_out/followup/tsp-full-r3.json \
+     --baseline current_machine_rebench/results/followup-four-core/tsp-full-r3.json
+   python3 report_tables.py --compare \
+     --report runme_out/followup/ham-full-r3.json \
+     --baseline current_machine_rebench/results/followup-four-core/ham-full-r3.json
+   ```
+
+   The RandomSearch-control files (`tsp-random-final.json`,
+   `npfs8-control.json`, `ham-random-*.json`) record their result in the
+   `conservative_best_clean*` and `selection_winner`/`screen_winner` fields;
+   compare them with the committed files of the same name. As with
+   `run_all.sh`, always pass the output directory: the default is the
+   committed results.
 3. External TSP/HAM corpora: the third-party archives (TSPLIB `ALL_tsp.tar.gz`,
    FHCP `FHCPCS.7z`, Hard-TSPLIB at commit `74b142a`) are NOT redistributed
    here. `comparisons/external_benchmarks/prepare_instances.py` re-downloads
