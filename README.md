@@ -107,7 +107,9 @@ remeasurement; the saved cell winners are under `champions/`.
 
 1. Environment: Python 3.12 with `nevergrad`, `python-sat` (1.9.dev2, provides
    `minisat22` and `cadical195`), `pycryptosat` (5.14.4), `ortools` (CP-SAT),
-   `numpy`. External binaries: Concorde (TSP/HAM) and IBM CP Optimizer
+   `numpy`. TSP/HAM need the Concorde Python binding `pyconcorde` (the code
+   imports `concorde._concorde`; a `concorde` executable on PATH is not used;
+   pinned install command in `requirements.txt`). External binary: IBM CP Optimizer
    (NPFS only; free via `pip install cplex==22.1.2.1`, see "IBM CP Optimizer"
    below).
    Linux x86-64 binaries for the SAT transfer portfolio are included under

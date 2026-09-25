@@ -120,13 +120,13 @@ for module, needed_for in [
 ]:
     found = importlib.util.find_spec(module) is not None
     print(f"  {'OK     ' if found else 'MISSING'} {module:<14} {needed_for}")
-for binary, needed_for in [
-    ("concorde", "TSP / Hamiltonian-cycle suites"),
-    ("linkern", "TSP heuristic (optional)"),
-]:
-    path = shutil.which(binary)
-    print(f"  {'OK     ' if path else 'MISSING'} {binary:<14} {needed_for}"
-          + (f"  [{path}]" if path else ""))
+# TSP/HAM use Concorde through its Python binding, not a `concorde` executable.
+try:
+    from concorde._concorde import _CCtsp_solve_dat, _CCutil_gettsplib  # noqa: F401
+    concorde_ok = True
+except ImportError:
+    concorde_ok = False
+print(f"  {'OK     ' if concorde_ok else 'MISSING'} pyconcorde     TSP / Hamiltonian-cycle suites")
 # Same discovery order as the solver code: CPOPT_EXECFILE, then PATH.
 cpopt = os.environ.get("CPOPT_EXECFILE")
 if not (cpopt and os.path.isfile(cpopt) and os.access(cpopt, os.X_OK)):
@@ -142,8 +142,10 @@ if [[ "${MODE}" == "full" ]]; then
 import importlib.util, os, shutil, sys
 missing = [m for m in ("numpy", "nevergrad", "pysat", "pycryptosat", "ortools", "docplex")
            if importlib.util.find_spec(m) is None]
-if shutil.which("concorde") is None:
-    missing.append("concorde")
+try:
+    from concorde._concorde import _CCtsp_solve_dat, _CCutil_gettsplib  # noqa: F401
+except ImportError:
+    missing.append("pyconcorde")
 cpopt = os.environ.get("CPOPT_EXECFILE")
 if not (cpopt and os.path.isfile(cpopt) and os.access(cpopt, os.X_OK)) \
         and shutil.which("cpoptimizer") is None:
@@ -175,6 +177,11 @@ fi
 
 hr "Step 5  smoke solve on CPU ${CPU} (one small case per suite)"
 SUITES=(--suite sat)
+if python3 -c 'from concorde._concorde import _CCtsp_solve_dat' 2>/dev/null; then
+  SUITES+=(--suite tsp --suite ham)
+else
+  echo "pyconcorde not found: skipping the TSP/HAM smoke cases."
+fi
 # The flow-shop suite needs CP Optimizer for every case (it cross-evaluates
 # each instance on both solvers), so run it only when the solver is present.
 if python3 -c 'import docplex' 2>/dev/null \
@@ -208,7 +215,14 @@ echo "Output:  ${RERUN}"
 echo "Started: $(date)"
 echo "This is a serial campaign of roughly a day on one core.  If it is"
 echo "interrupted, re-run the same command to resume where it stopped."
-current_machine_rebench/run_all.sh "${CPU}" "${RERUN}"
+if ! current_machine_rebench/run_all.sh "${CPU}" "${RERUN}"; then
+  echo >&2
+  echo "The campaign stopped.  Re-running the same command resumes it.  If the" >&2
+  echo "error is 'checkpoint protocol mismatch' or 'project revision changed'," >&2
+  echo "${RERUN} holds a campaign with other settings or from another checkout" >&2
+  echo "(e.g. a shortened test run): use a new --out DIR, or delete that one." >&2
+  exit 1
+fi
 
 hr "Step 7  paper tables from this rerun, next to the paper's numbers"
 rerun_tables

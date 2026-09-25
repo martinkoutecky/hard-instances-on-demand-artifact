@@ -8,7 +8,14 @@
 #   pip install -r requirements.txt
 #
 # Not in this file, and needed only for the subsets noted:
-#   * Concorde            -- TSP and Hamiltonian-cycle suites
+#   * pyconcorde          -- TSP and Hamiltonian-cycle suites (the code imports
+#                            concorde._concorde; a `concorde` executable is not
+#                            used).  Measured with pyconcorde 0.1.0 at
+#                                pip install "pyconcorde @ git+https://github.com/jvkersch/pyconcorde.git@a573c1b73244f0dc7cf88ddd18ccfa4c65919974"
+#                            Its build compiles Concorde from source; on recent
+#                            toolchains Concorde's configure may need an explicit
+#                            --host (see the pyconcorde README for building
+#                            against a separately built Concorde).
 #   * IBM CP Optimizer    -- the CP Optimizer arm of the flow-shop (NPFS) suite.
 #                            Free option, no IBM account needed:
 #                                pip install cplex==22.1.2.1
