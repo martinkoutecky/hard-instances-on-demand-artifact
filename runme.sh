@@ -5,8 +5,9 @@
 #   ./runme.sh --smoke  [--cpu N]    + one small solve per suite        (minutes)
 #   ./runme.sh --full   [--cpu N] [--out DIR]
 #                                    + the complete remeasurement       (~1 day)
-#   ./runme.sh --tables DIR          tables of a finished --full rerun in DIR,
-#                                    side by side with the paper's numbers
+#   ./runme.sh --tables DIR          the paper's Tables 3.1-3.5 for a finished
+#                                    --full rerun in DIR, each cell as
+#                                    "rerun (paper)"
 #
 # Every solver run is pinned to the single logical CPU N (default 1) with
 # taskset; pick an idle core.  --full writes to DIR (default runme_out/rerun)
@@ -59,11 +60,13 @@ PY
     exit 1
   fi
   python3 report_tables.py --report "${report}" --compare \
-    --json "${RERUN}/tables.json" | tee "${RERUN}/tables.txt"
+    --json "${RERUN}/tables.json" > "${RERUN}/tables.txt"
+  # The follow-up campaigns are looked for next to DIR (README step 2).
+  python3 paper_tables.py --rerun "${RERUN}" | tee "${RERUN}/paper_tables.txt"
   echo
-  echo "Wrote ${RERUN}/tables.txt and ${RERUN}/tables.json"
-  echo "Map each row to its table in the paper with:"
-  echo "  current_machine_rebench/CURRENT-MACHINE-PAPER-NUMBERS.md"
+  echo "Wrote ${RERUN}/paper_tables.txt (the paper's Tables 3.1-3.5, each cell"
+  echo "as 'rerun (paper)') and ${RERUN}/tables.txt (every aggregate of the"
+  echo "rerun with the ratio rerun/paper; JSON in ${RERUN}/tables.json)."
 }
 
 if [[ "${MODE}" == "tables" ]]; then
@@ -162,11 +165,11 @@ hr "Step 3/4  instance integrity"
 python3 verify_hashes.py
 
 hr "Step 4/4  paper tables, recomputed from committed measurements"
-python3 report_tables.py --json "${OUT}/tables.json" | tee "${OUT}/tables.txt"
+python3 report_tables.py --json "${OUT}/tables.json" > "${OUT}/tables.txt"
+python3 paper_tables.py | tee "${OUT}/paper_tables.txt"
 echo
-echo "Wrote ${OUT}/tables.txt and ${OUT}/tables.json"
-echo "Map each row to its table in the paper with:"
-echo "  current_machine_rebench/CURRENT-MACHINE-PAPER-NUMBERS.md"
+echo "Wrote ${OUT}/paper_tables.txt (Tables 3.1-3.5 of the paper) and"
+echo "${OUT}/tables.txt (every aggregate; JSON in ${OUT}/tables.json)."
 
 if [[ "${MODE}" == "default" ]]; then
   echo

@@ -6,8 +6,8 @@ repository and applies the *same* aggregation code that produced the numbers in
 the paper (``current_machine_rebench.run_rebench.summarize``), so the printed
 medians are derived, not transcribed.
 
-Use ``current_machine_rebench/CURRENT-MACHINE-PAPER-NUMBERS.md`` to map each
-printed row onto its table in the paper.
+Rows are keyed by result file, not by paper table; ``paper_tables.py`` prints
+the same aggregates laid out as Tables 3.1-3.5.
 
 Usage:
     python3 report_tables.py [--json OUT.json] [--report PATH ...]

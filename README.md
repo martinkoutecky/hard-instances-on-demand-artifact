@@ -23,10 +23,11 @@ redistributed under `dpll4_portfolio/bin/` and `SAT/` keep their own licenses.
 That pass (1) reports which optional dependencies are present, (2) validates
 the shipped inventory, (3) re-verifies all 194 referenced instance files
 against the sha256 recorded when they were measured, and (4) **recomputes the
-paper's aggregate tables from the committed measurement files**, using the same
+paper's Tables 3.1-3.5 from the committed measurement files**, using the same
 aggregation code that produced the published numbers
-(`current_machine_rebench.run_rebench.summarize`). Output lands in
-`runme_out/`.
+(`current_machine_rebench.run_rebench.summarize`). The tables are printed in
+the paper's layout by `paper_tables.py` (`runme_out/paper_tables.txt`); every
+underlying aggregate, keyed by result file, is in `runme_out/tables.txt`.
 
 ```sh
 pip install -r requirements.txt
@@ -38,9 +39,9 @@ pip install cplex==22.1.2.1   # optional: free CP Optimizer, flow-shop suite onl
 `--cpu N` pins every solver run to logical CPU `N` with `taskset` (default 1;
 choose an idle core). The measurement code refuses to run without a
 single-CPU affinity, so do not call `current_machine_rebench/run_rebench.py`
-directly without `taskset -c N`. `--full` ends by printing the paper's tables
-recomputed from the new measurements next to the committed (paper) values,
-with the ratio rerun/paper per row; see "Re-running the remeasurement" below.
+directly without `taskset -c N`. `--full` ends by printing Tables 3.1-3.5
+recomputed from the new measurements, each cell as `rerun (paper)`; see
+"Re-running the remeasurement" below.
 
 Re-running the searches themselves is *not* required to check the paper's
 tables; see "Re-running the remeasurement" below for what each tier costs.
@@ -123,11 +124,16 @@ remeasurement; the saved cell winners are under `champions/`.
 
    This runs `current_machine_rebench/run_all.sh 2 DIR` (protocol, solver
    pinning and virtual-best scoring: `current_machine_rebench/README.md`) and
-   then `./runme.sh --tables DIR`, which writes `DIR/tables.txt` and
-   `DIR/tables.json`: every headline aggregate of `DIR/paper_instances.json`
-   next to the same aggregate of the committed
-   `current_machine_rebench/results/paper_instances.json`, i.e. the paper's
-   numbers. Absolute times depend on the machine; the paper's claims are
+   then `./runme.sh --tables DIR`, which writes
+
+   - `DIR/paper_tables.txt`: Tables 3.1-3.5 of the paper, row for row, each
+     cell as `rerun (paper)` (`python3 paper_tables.py --rerun DIR`);
+   - `DIR/tables.txt` and `DIR/tables.json`: every headline aggregate of
+     `DIR/paper_instances.json` next to the same aggregate of the committed
+     `current_machine_rebench/results/paper_instances.json`, with the ratio
+     rerun/paper.
+
+   Absolute times depend on the machine; the paper's claims are
    ratios between instances. Our run of this campaign took about 17 hours
    (Ryzen 5 8600G, with the TSP/HAM suites on two further cores); serially on
    one core, expect about a day. The campaign is checkpointed: re-running the
@@ -157,12 +163,16 @@ remeasurement; the saved cell winners are under `champions/`.
      --baseline current_machine_rebench/results/followup-four-core/ham-full-r3.json
    ```
 
-   The RandomSearch-control files (`tsp-random-final.json`,
-   `npfs8-control.json`, `ham-random-*.json`) record their result in the
-   `conservative_best_clean*` and `selection_winner`/`screen_winner` fields;
-   compare them with the committed files of the same name. As with
-   `run_all.sh`, always pass the output directory: the default is the
-   committed results.
+   `paper_tables.py` picks these up from `followup/` and `ham-random/` next
+   to (or inside) the serial-campaign directory, so with the paths above,
+   re-run `./runme.sh --tables runme_out/rerun` once they finish. Without
+   them, Tables 3.3-3.4 fall back to the serial campaign's TSP/HAM rows
+   (marked `*`) and the four-core-only cells print `n/a`; other locations can
+   be given with `--followup DIR` and `--ham-random DIR`. The
+   RandomSearch-control files (`tsp-random-final.json`, `npfs8-control.json`,
+   `ham-random-*.json`) record their result in the `conservative_best_clean*`
+   and `selection_winner`/`screen_winner` fields. As with `run_all.sh`,
+   always pass the output directory: the default is the committed results.
 3. External TSP/HAM corpora: the third-party archives (TSPLIB `ALL_tsp.tar.gz`,
    FHCP `FHCPCS.7z`, Hard-TSPLIB at commit `74b142a`) are NOT redistributed
    here. `comparisons/external_benchmarks/prepare_instances.py` re-downloads
